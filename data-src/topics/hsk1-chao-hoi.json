@@ -1,0 +1,906 @@
+{
+  "id": "hsk1-chao-hoi",
+  "level": 1,
+  "title": "Chào hỏi, đại từ",
+  "order": 1,
+  "words": [
+    {
+      "id": "ni3",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "pinyinNum": "ni3",
+      "hanViet": "nể",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "bạn, anh, chị (ngôi thứ hai)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*你*是老师吗？",
+          "py": "*Nǐ* shì lǎoshī ma?",
+          "vi": "Bạn là giáo viên à?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "wo3",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "pinyinNum": "wo3",
+      "hanViet": "ngã",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "tôi, mình"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*我*是学生。",
+          "py": "*Wǒ* shì xuésheng.",
+          "vi": "Tôi là học sinh."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ta1",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "pinyinNum": "ta1",
+      "hanViet": "tha",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "anh ấy, ông ấy (nam)"
+      ],
+      "usage": "他 chỉ nam, 她 chỉ nữ; hai chữ đọc giống nhau.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*他*是我朋友。",
+          "py": "*Tā* shì wǒ péngyou.",
+          "vi": "Anh ấy là bạn tôi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ta1-2"
+      ],
+      "check": false
+    },
+    {
+      "id": "ta1-2",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "pinyinNum": "ta1",
+      "hanViet": null,
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "cô ấy, chị ấy, bà ấy (nữ)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*她*是我妈妈。",
+          "py": "*Tā* shì wǒ māma.",
+          "vi": "Bà ấy là mẹ tôi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ta1"
+      ],
+      "check": true
+    },
+    {
+      "id": "wo3men",
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "pinyinNum": "wo3 men",
+      "hanViet": "ngã món",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "chúng tôi, chúng ta"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*我们*是同学。",
+          "py": "*Wǒmen* shì tóngxué.",
+          "vi": "Chúng tôi là bạn cùng lớp."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhe4",
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "pinyinNum": "zhe4",
+      "hanViet": null,
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "này, đây"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*这*是我的书。",
+          "py": "*Zhè* shì wǒ de shū.",
+          "vi": "Đây là sách của tôi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "na4"
+      ],
+      "check": true
+    },
+    {
+      "id": "na4",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "pinyinNum": "na4",
+      "hanViet": "na",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "kia, đó"
+      ],
+      "usage": "那 nà (kia) khác 哪 nǎ (nào) ở thanh điệu và bộ 口.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*那*是什么？",
+          "py": "*Nà* shì shénme?",
+          "vi": "Kia là cái gì?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "na3",
+        "zhe4"
+      ],
+      "check": false
+    },
+    {
+      "id": "na3",
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "pinyinNum": "na3",
+      "hanViet": "ná",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nào"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你想去*哪*个商店？",
+          "py": "Nǐ xiǎng qù *nǎ* ge shāngdiàn?",
+          "vi": "Bạn muốn đi cửa hàng nào?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "na4"
+      ],
+      "check": true
+    },
+    {
+      "id": "shei2",
+      "hanzi": "谁",
+      "pinyin": "shéi",
+      "pinyinNum": "shei2",
+      "hanViet": null,
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ai"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她是*谁*？",
+          "py": "Tā shì *shéi*?",
+          "vi": "Cô ấy là ai?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "shen2me",
+      "hanzi": "什么",
+      "pinyin": "shénme",
+      "pinyinNum": "shen2 me",
+      "hanViet": "thập mô",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "gì, cái gì"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你想吃*什么*？",
+          "py": "Nǐ xiǎng chī *shénme*?",
+          "vi": "Bạn muốn ăn gì?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zen3me",
+      "hanzi": "怎么",
+      "pinyin": "zěnme",
+      "pinyinNum": "zen3 me",
+      "hanViet": "chẩn mô",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "thế nào, làm sao (hỏi cách làm)"
+      ],
+      "usage": "怎么 + động từ hỏi cách làm: 怎么去？ (đi bằng cách nào?).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个字*怎么*读？",
+          "py": "Zhège zì *zěnme* dú?",
+          "vi": "Chữ này đọc thế nào?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zen3meyang4"
+      ],
+      "check": false
+    },
+    {
+      "id": "zen3meyang4",
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "pinyinNum": "zen3 me yang4",
+      "hanViet": "chẩn mô dạng",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "thế nào, ra sao (hỏi ý kiến, tình trạng)"
+      ],
+      "usage": "Thường đứng cuối câu để hỏi ý kiến hoặc tình trạng.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天天气*怎么样*？",
+          "py": "Jīntiān tiānqì *zěnmeyàng*?",
+          "vi": "Hôm nay thời tiết thế nào?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zen3me"
+      ],
+      "check": false
+    },
+    {
+      "id": "ji3",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "pinyinNum": "ji3",
+      "hanViet": "kỉ",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "mấy"
+      ],
+      "usage": "几 hỏi số nhỏ (thường dưới 10) và cần lượng từ: 几个; số lớn thì dùng 多少.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你家有*几*个人？",
+          "py": "Nǐ jiā yǒu *jǐ* ge rén?",
+          "vi": "Nhà bạn có mấy người?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "duo1shao"
+      ],
+      "check": false
+    },
+    {
+      "id": "duo1shao",
+      "hanzi": "多少",
+      "pinyin": "duōshao",
+      "pinyinNum": "duo1 shao",
+      "hanViet": "đa thiểu",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "bao nhiêu"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个杯子*多少*钱？",
+          "py": "Zhège bēizi *duōshao* qián?",
+          "vi": "Cái cốc này bao nhiêu tiền?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ji3"
+      ],
+      "check": false
+    },
+    {
+      "id": "xie4xie",
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "pinyinNum": "xie4 xie",
+      "hanViet": "tạ tạ",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "cảm ơn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*谢谢*你！",
+          "py": "*Xièxie* nǐ!",
+          "vi": "Cảm ơn bạn!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bu2ke4qi",
+      "hanzi": "不客气",
+      "pinyin": "búkèqi",
+      "pinyinNum": "bu2 ke4 qi",
+      "hanViet": "bất khách khí",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": null,
+      "meaning": [
+        "không có gì (đáp lời cảm ơn)"
+      ],
+      "usage": "Đáp lại 谢谢; đáp lại 对不起 thì dùng 没关系.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "A：谢谢你。B：*不客气*。",
+          "py": "A: Xièxie nǐ. B: *Bú kèqi*.",
+          "vi": "A: Cảm ơn bạn. B: Không có gì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mei2guan1xi"
+      ],
+      "check": true
+    },
+    {
+      "id": "zai4jian4",
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "pinyinNum": "zai4 jian4",
+      "hanViet": "tái kiến",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "tạm biệt"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "老师，*再见*！",
+          "py": "Lǎoshī, *zàijiàn*!",
+          "vi": "Em chào thầy ạ!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "dui4buqi3",
+      "hanzi": "对不起",
+      "pinyin": "duìbuqǐ",
+      "pinyinNum": "dui4 bu qi3",
+      "hanViet": "đối bất khởi",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "xin lỗi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*对不起*，我不认识他。",
+          "py": "*Duìbuqǐ*, wǒ bú rènshi tā.",
+          "vi": "Xin lỗi, tôi không quen anh ấy."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mei2guan1xi"
+      ],
+      "check": false
+    },
+    {
+      "id": "mei2guan1xi",
+      "hanzi": "没关系",
+      "pinyin": "méiguānxi",
+      "pinyinNum": "mei2 guan1 xi",
+      "hanViet": "một quan hệ",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "không sao, không có gì"
+      ],
+      "usage": "Đáp lại 对不起.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "A：对不起。B：*没关系*。",
+          "py": "A: Duìbuqǐ. B: *Méi guānxi*.",
+          "vi": "A: Xin lỗi. B: Không sao."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bu2ke4qi"
+      ],
+      "check": true
+    },
+    {
+      "id": "wei4",
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "pinyinNum": "wei4",
+      "hanViet": "ỏi",
+      "pos": [
+        "interj"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "a lô (nghe điện thoại)"
+      ],
+      "usage": "Khi nghe điện thoại nhiều người đọc wéi.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*喂*，你在家吗？",
+          "py": "*Wèi*, nǐ zài jiā ma?",
+          "vi": "A lô, bạn có ở nhà không?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "qing3",
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "pinyinNum": "qing3",
+      "hanViet": "thỉnh",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "mời",
+        "xin (lịch sự)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*请*坐。",
+          "py": "*Qǐng* zuò.",
+          "vi": "Mời ngồi."
+        },
+        {
+          "zh": "*请*你喝茶。",
+          "py": "*Qǐng* nǐ hē chá.",
+          "vi": "Mời bạn uống trà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jiao4",
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "pinyinNum": "jiao4",
+      "hanViet": "khiếu",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "gọi",
+        "tên là"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*叫*什么名字？",
+          "py": "Nǐ *jiào* shénme míngzi?",
+          "vi": "Bạn tên là gì?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ming2zi",
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "pinyinNum": "ming2 zi",
+      "hanViet": "danh tự",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "tên"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你的*名字*怎么写？",
+          "py": "Nǐ de *míngzi* zěnme xiě?",
+          "vi": "Tên bạn viết thế nào?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shi4",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "pinyinNum": "shi4",
+      "hanViet": "thị",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "là"
+      ],
+      "usage": "Phủ định là 不是, không dùng 没是.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他*是*医生。",
+          "py": "Tā *shì* yīshēng.",
+          "vi": "Anh ấy là bác sĩ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ren4shi",
+      "hanzi": "认识",
+      "pinyin": "rènshi",
+      "pinyinNum": "ren4 shi",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "quen biết",
+        "nhận ra"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*认识*你很高兴。",
+          "py": "*Rènshi* nǐ hěn gāoxìng.",
+          "vi": "Rất vui được làm quen với bạn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "gao1xing4",
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "pinyinNum": "gao1 xing4",
+      "hanViet": "cao hưng",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "vui, vui mừng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天我很*高兴*。",
+          "py": "Jīntiān wǒ hěn *gāoxìng*.",
+          "vi": "Hôm nay tôi rất vui."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-chao-hoi-fill-01",
+      "type": "fill",
+      "sentence": "这个字{0}读？",
+      "options": [
+        "怎么",
+        "怎么样",
+        "什么",
+        "谁"
+      ],
+      "answer": "怎么",
+      "targets": [
+        "zen3me"
+      ],
+      "explanation": "怎么 + động từ hỏi cách làm; 怎么样 hỏi ý kiến, tình trạng."
+    },
+    {
+      "id": "hsk1-chao-hoi-fill-02",
+      "type": "fill",
+      "sentence": "这个苹果{0}钱？",
+      "options": [
+        "多少",
+        "几",
+        "什么",
+        "怎么"
+      ],
+      "answer": "多少",
+      "targets": [
+        "duo1shao"
+      ],
+      "explanation": "Hỏi giá dùng 多少钱."
+    },
+    {
+      "id": "hsk1-chao-hoi-fill-03",
+      "type": "fill",
+      "sentence": "A：对不起。B：{0}。",
+      "options": [
+        "没关系",
+        "不客气",
+        "谢谢",
+        "再见"
+      ],
+      "answer": "没关系",
+      "targets": [
+        "mei2guan1xi"
+      ],
+      "explanation": "Đáp 对不起 bằng 没关系; đáp 谢谢 bằng 不客气."
+    },
+    {
+      "id": "hsk1-chao-hoi-fill-04",
+      "type": "fill",
+      "sentence": "她是{0}？她是我妈妈。",
+      "options": [
+        "谁",
+        "什么",
+        "哪",
+        "几"
+      ],
+      "answer": "谁",
+      "targets": [
+        "shei2"
+      ],
+      "explanation": "Hỏi người dùng 谁."
+    },
+    {
+      "id": "hsk1-chao-hoi-order-01",
+      "type": "order",
+      "chunks": [
+        "你",
+        "叫",
+        "什么",
+        "名字"
+      ],
+      "answers": [
+        [
+          "你",
+          "叫",
+          "什么",
+          "名字"
+        ]
+      ],
+      "targets": [
+        "jiao4",
+        "shen2me",
+        "ming2zi"
+      ],
+      "vi": "Bạn tên là gì?"
+    },
+    {
+      "id": "hsk1-chao-hoi-order-02",
+      "type": "order",
+      "chunks": [
+        "认识",
+        "你",
+        "很",
+        "高兴"
+      ],
+      "answers": [
+        [
+          "认识",
+          "你",
+          "很",
+          "高兴"
+        ]
+      ],
+      "targets": [
+        "ren4shi",
+        "gao1xing4"
+      ],
+      "vi": "Rất vui được làm quen với bạn."
+    },
+    {
+      "id": "hsk1-chao-hoi-order-03",
+      "type": "order",
+      "chunks": [
+        "这个",
+        "字",
+        "怎么",
+        "读"
+      ],
+      "answers": [
+        [
+          "这个",
+          "字",
+          "怎么",
+          "读"
+        ]
+      ],
+      "targets": [
+        "zen3me"
+      ],
+      "vi": "Chữ này đọc thế nào?"
+    }
+  ]
+}

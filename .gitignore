@@ -1,0 +1,4 @@
+web/data/
+node_modules/
+*.xlsx
+*.csv

@@ -1,0 +1,7 @@
+{
+  "levels": [
+    { "level": 1, "title": "HSK 1", "topics": ["hsk1-chao-hoi"] },
+    { "level": 2, "title": "HSK 2", "topics": [] },
+    { "level": 3, "title": "HSK 3", "topics": [] }
+  ]
+}

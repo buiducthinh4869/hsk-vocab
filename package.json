@@ -1,0 +1,10 @@
+{
+  "name": "hsk-vocab",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node --test tests/*.test.js",
+    "deploy:gas": "node scripts/deploy-gas.js"
+  }
+}
