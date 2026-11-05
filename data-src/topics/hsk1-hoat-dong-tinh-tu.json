@@ -1,0 +1,770 @@
+{
+  "id": "hsk1-hoat-dong-tinh-tu",
+  "level": 1,
+  "title": "Hoạt động, tính chất",
+  "order": 6,
+  "words": [
+    {
+      "id": "kan4",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "pinyinNum": "kan4",
+      "hanViet": "khán",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhìn, xem",
+        "đọc (sách)"
+      ],
+      "usage": "看 là hành động nhìn, xem; 看见 là nhìn thấy (đã có kết quả).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我喜欢*看*书。",
+          "vi": "Tôi thích đọc sách.",
+          "py": "Wǒ xǐhuan *kàn* shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "kan4jian4",
+        "du2"
+      ],
+      "check": true
+    },
+    {
+      "id": "kan4jian4",
+      "hanzi": "看见",
+      "pinyin": "kànjiàn",
+      "pinyinNum": "kan4 jian4",
+      "hanViet": "khán kiến",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhìn thấy, trông thấy"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*看见*我的猫了吗？",
+          "vi": "Bạn có thấy con mèo của tôi không?",
+          "py": "Nǐ *kànjiàn* wǒ de māo le ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "kan4"
+      ],
+      "check": true
+    },
+    {
+      "id": "ting1",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "pinyinNum": "ting1",
+      "hanViet": "thính",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nghe"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我在*听*老师说话。",
+          "vi": "Tôi đang nghe thầy nói.",
+          "py": "Wǒ zài *tīng* lǎoshī shuōhuà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shuo1hua4",
+      "hanzi": "说话",
+      "pinyin": "shuōhuà",
+      "pinyinNum": "shuo1 hua4",
+      "hanViet": "thuyết thoại",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "nói, nói chuyện"
+      ],
+      "usage": "说话 không mang tân ngữ phía sau.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他不喜欢*说话*。",
+          "vi": "Anh ấy không thích nói chuyện.",
+          "py": "Tā bù xǐhuan *shuōhuà*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shui4jiao4",
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "pinyinNum": "shui4 jiao4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "ngủ, đi ngủ"
+      ],
+      "usage": "Không đặt tân ngữ sau 睡觉.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我十一点*睡觉*。",
+          "vi": "Tôi đi ngủ lúc 11 giờ.",
+          "py": "Wǒ shí yī diǎn *shuìjiào*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "da3dian4hua4",
+      "hanzi": "打电话",
+      "pinyin": "dǎdiànhuà",
+      "pinyinNum": "da3 dian4 hua4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "gọi điện thoại"
+      ],
+      "usage": "Gọi cho ai: 给 + người + 打电话 (给 là từ HSK 2).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "妈妈在*打电话*。",
+          "vi": "Mẹ đang gọi điện thoại.",
+          "py": "Māma zài *dǎdiànhuà*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zuo4-2",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "pinyinNum": "zuo4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "làm",
+        "nấu (món ăn)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你在*做*什么？",
+          "vi": "Bạn đang làm gì?",
+          "py": "Nǐ zài *zuò* shénme?"
+        },
+        {
+          "zh": "妈妈会*做*中国菜。",
+          "vi": "Mẹ biết nấu món Trung Quốc.",
+          "py": "Māma huì *zuò* Zhōngguó cài."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "you3",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "pinyinNum": "you3",
+      "hanViet": "hữu",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "có"
+      ],
+      "usage": "Phủ định là 没有, không nói 不有.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*有*一个中国朋友。",
+          "vi": "Tôi có một người bạn Trung Quốc.",
+          "py": "Wǒ *yǒu* yí ge Zhōngguó péngyou."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ai4",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "pinyinNum": "ai4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "yêu, thương"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*爱*我妈妈。",
+          "vi": "Tôi yêu mẹ tôi.",
+          "py": "Wǒ *ài* wǒ māma."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xi3huan"
+      ],
+      "check": true
+    },
+    {
+      "id": "xi3huan",
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "pinyinNum": "xi3 huan",
+      "hanViet": "hỉ hoan",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "thích"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*喜欢*北京。",
+          "vi": "Tôi thích Bắc Kinh.",
+          "py": "Wǒ *xǐhuan* Běijīng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ai4"
+      ],
+      "check": false
+    },
+    {
+      "id": "xiang3",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "pinyinNum": "xiang3",
+      "hanViet": "tưởng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "muốn",
+        "nhớ",
+        "nghĩ"
+      ],
+      "usage": "想 + động từ = muốn làm gì; 想 + người = nhớ ai.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*想*去中国。",
+          "vi": "Tôi muốn đi Trung Quốc.",
+          "py": "Wǒ *xiǎng* qù Zhōngguó."
+        },
+        {
+          "zh": "我很*想*我妈妈。",
+          "vi": "Tôi rất nhớ mẹ.",
+          "py": "Wǒ hěn *xiǎng* wǒ māma."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "hui4",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "pinyinNum": "hui4",
+      "hanViet": "hội",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "biết (làm gì, do học mà có)",
+        "sẽ (có thể xảy ra)"
+      ],
+      "usage": "会 là biết làm nhờ học; 能 là có khả năng hoặc điều kiện cho phép.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*会*做中国菜吗？",
+          "vi": "Bạn có biết nấu món Trung Quốc không?",
+          "py": "Nǐ *huì* zuò Zhōngguó cài ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "neng2"
+      ],
+      "check": false
+    },
+    {
+      "id": "neng2",
+      "hanzi": "能",
+      "pinyin": "néng",
+      "pinyinNum": "neng2",
+      "hanViet": "năng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "có thể (có khả năng, được phép)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "明天你*能*来吗？",
+          "vi": "Ngày mai bạn đến được không?",
+          "py": "Míngtiān nǐ *néng* lái ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hui4"
+      ],
+      "check": false
+    },
+    {
+      "id": "da4",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "pinyinNum": "da4",
+      "hanViet": "đại",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "to, lớn",
+        "(tuổi) lớn"
+      ],
+      "usage": "Hỏi tuổi: 多大了？",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你女儿多*大*了？",
+          "vi": "Con gái bạn bao nhiêu tuổi rồi?",
+          "py": "Nǐ nǚ'ér duō *dà* le?"
+        },
+        {
+          "zh": "这个苹果很*大*。",
+          "vi": "Quả táo này rất to.",
+          "py": "Zhège píngguǒ hěn *dà*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xiao3",
+        "tai4"
+      ],
+      "check": false
+    },
+    {
+      "id": "xiao3",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "pinyinNum": "xiao3",
+      "hanViet": "tiểu",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhỏ, bé"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我家很*小*。",
+          "vi": "Nhà tôi rất nhỏ.",
+          "py": "Wǒ jiā hěn *xiǎo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "da4",
+        "shao3"
+      ],
+      "check": false
+    },
+    {
+      "id": "duo1",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "pinyinNum": "duo1",
+      "hanViet": "đa",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhiều"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "商店里人很*多*。",
+          "vi": "Trong cửa hàng rất đông người.",
+          "py": "Shāngdiàn lǐ rén hěn *duō*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shao3"
+      ],
+      "check": false
+    },
+    {
+      "id": "shao3",
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "pinyinNum": "shao3",
+      "hanViet": "thiểu",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "ít"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个学校学生很*少*。",
+          "vi": "Trường này rất ít học sinh.",
+          "py": "Zhège xuéxiào xuésheng hěn *shǎo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "duo1",
+        "xiao3"
+      ],
+      "check": false
+    },
+    {
+      "id": "hao3",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "pinyinNum": "hao3",
+      "hanViet": "háo",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "tốt, hay, ngon",
+        "khỏe"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这本书很*好*。",
+          "vi": "Quyển sách này rất hay.",
+          "py": "Zhè běn shū hěn *hǎo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "piao4liang",
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "pinyinNum": "piao4 liang",
+      "hanViet": null,
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "đẹp, xinh"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "北京很*漂亮*。",
+          "vi": "Bắc Kinh rất đẹp.",
+          "py": "Běijīng hěn *piàoliang*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "你{0}我的猫了吗？",
+      "options": [
+        "看见",
+        "听",
+        "说话",
+        "睡觉"
+      ],
+      "answer": "看见",
+      "targets": [
+        "kan4jian4"
+      ],
+      "explanation": "看见 = nhìn thấy.",
+      "id": "hsk1-hoat-dong-tinh-tu-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "我在{0}老师说话。",
+      "options": [
+        "听",
+        "看见",
+        "睡觉",
+        "打电话"
+      ],
+      "answer": "听",
+      "targets": [
+        "ting1"
+      ],
+      "explanation": "听 + người + 说话 = nghe ai nói.",
+      "id": "hsk1-hoat-dong-tinh-tu-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "我十一点{0}。",
+      "options": [
+        "睡觉",
+        "看见",
+        "漂亮",
+        "有"
+      ],
+      "answer": "睡觉",
+      "targets": [
+        "shui4jiao4"
+      ],
+      "explanation": "睡觉 = đi ngủ.",
+      "id": "hsk1-hoat-dong-tinh-tu-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "你在{0}什么？",
+      "options": [
+        "做",
+        "有",
+        "爱",
+        "漂亮"
+      ],
+      "answer": "做",
+      "targets": [
+        "zuo4-2"
+      ],
+      "explanation": "在做什么 = đang làm gì.",
+      "id": "hsk1-hoat-dong-tinh-tu-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "北京很{0}，我很喜欢。",
+      "options": [
+        "漂亮",
+        "睡觉",
+        "说话",
+        "看见"
+      ],
+      "answer": "漂亮",
+      "targets": [
+        "piao4liang"
+      ],
+      "explanation": "Sau 很 là tính từ.",
+      "id": "hsk1-hoat-dong-tinh-tu-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "我{0}一个中国朋友。",
+      "options": [
+        "有",
+        "在",
+        "去",
+        "来"
+      ],
+      "answer": "有",
+      "targets": [
+        "you3"
+      ],
+      "explanation": "有 + người/vật = có.",
+      "id": "hsk1-hoat-dong-tinh-tu-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "喜欢",
+        "看",
+        "电影",
+        "吗"
+      ],
+      "answers": [
+        [
+          "你",
+          "喜欢",
+          "看",
+          "电影",
+          "吗"
+        ]
+      ],
+      "targets": [
+        "xi3huan",
+        "kan4"
+      ],
+      "vi": "Bạn có thích xem phim không?",
+      "id": "hsk1-hoat-dong-tinh-tu-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "妈妈",
+        "会",
+        "做",
+        "中国",
+        "菜"
+      ],
+      "answers": [
+        [
+          "我",
+          "妈妈",
+          "会",
+          "做",
+          "中国",
+          "菜"
+        ]
+      ],
+      "targets": [
+        "hui4",
+        "zuo4-2"
+      ],
+      "vi": "Mẹ tôi biết nấu món Trung Quốc.",
+      "id": "hsk1-hoat-dong-tinh-tu-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "明天",
+        "你",
+        "能",
+        "来",
+        "我家",
+        "吗"
+      ],
+      "answers": [
+        [
+          "明天",
+          "你",
+          "能",
+          "来",
+          "我家",
+          "吗"
+        ],
+        [
+          "你",
+          "明天",
+          "能",
+          "来",
+          "我家",
+          "吗"
+        ]
+      ],
+      "targets": [
+        "neng2"
+      ],
+      "vi": "Ngày mai bạn đến nhà tôi được không?",
+      "id": "hsk1-hoat-dong-tinh-tu-order-03"
+    }
+  ]
+}

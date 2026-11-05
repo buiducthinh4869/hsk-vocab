@@ -1,0 +1,54 @@
+# id: hsk1-hoat-dong-tinh-tu
+# level: 1
+# title: Hoạt động, tính chất
+# order: 6
+@看 | nhìn, xem; đọc (sách) | hv: khán | u: 看 là hành động nhìn, xem; 看见 là nhìn thấy (đã có kết quả). | c: 看见 读
+- 我喜欢*看*书。 = Tôi thích đọc sách.
+@看见 | nhìn thấy, trông thấy | hv: khán kiến | c: 看
+- 你*看见*我的猫了吗？ = Bạn có thấy con mèo của tôi không?
+@听 | nghe
+- 我在*听*老师说话。 = Tôi đang nghe thầy nói.
+@说话 | nói, nói chuyện | u: 说话 không mang tân ngữ phía sau.
+- 他不喜欢*说话*。 = Anh ấy không thích nói chuyện.
+@睡觉 | ngủ, đi ngủ | u: Không đặt tân ngữ sau 睡觉.
+- 我十一点*睡觉*。 = Tôi đi ngủ lúc 11 giờ.
+@打电话 | gọi điện thoại | u: Gọi cho ai: 给 + người + 打电话 (给 là từ HSK 2).
+- 妈妈在*打电话*。 = Mẹ đang gọi điện thoại.
+@做 | làm; nấu (món ăn)
+- 你在*做*什么？ = Bạn đang làm gì?
+- 妈妈会*做*中国菜。 = Mẹ biết nấu món Trung Quốc.
+@有 | có | u: Phủ định là 没有, không nói 不有.
+- 我*有*一个中国朋友。 = Tôi có một người bạn Trung Quốc.
+@爱 | yêu, thương | c: 喜欢
+- 我*爱*我妈妈。 = Tôi yêu mẹ tôi.
+@喜欢 | thích | c: 爱
+- 我*喜欢*北京。 = Tôi thích Bắc Kinh.
+@想 | muốn; nhớ; nghĩ | u: 想 + động từ = muốn làm gì; 想 + người = nhớ ai.
+- 我*想*去中国。 = Tôi muốn đi Trung Quốc.
+- 我很*想*我妈妈。 = Tôi rất nhớ mẹ.
+@会 | biết (làm gì, do học mà có); sẽ (có thể xảy ra) | u: 会 là biết làm nhờ học; 能 là có khả năng hoặc điều kiện cho phép. | c: 能
+- 你*会*做中国菜吗？ = Bạn có biết nấu món Trung Quốc không?
+@能 | có thể (có khả năng, được phép) | c: 会
+- 明天你*能*来吗？ = Ngày mai bạn đến được không?
+@大 | to, lớn; (tuổi) lớn | u: Hỏi tuổi: 多大了？ | c: 小 太
+- 你女儿多*大*了？ = Con gái bạn bao nhiêu tuổi rồi?
+- 这个苹果很*大*。 = Quả táo này rất to.
+@小 | nhỏ, bé | c: 大 少
+- 我家很*小*。 = Nhà tôi rất nhỏ.
+@多 | nhiều | c: 少
+- 商店里人很*多*。 = Trong cửa hàng rất đông người.
+@少 | ít | c: 多 小
+- 这个学校学生很*少*。 = Trường này rất ít học sinh.
+@好 | tốt, hay, ngon; khỏe
+- 这本书很*好*。 = Quyển sách này rất hay.
+@漂亮 | đẹp, xinh
+- 北京很*漂亮*。 = Bắc Kinh rất đẹp.
+F 你{0}我的猫了吗？ | 看见* 听 说话 睡觉 | e: 看见 = nhìn thấy.
+F 我在{0}老师说话。 | 听* 看见 睡觉 打电话 | e: 听 + người + 说话 = nghe ai nói.
+F 我十一点{0}。 | 睡觉* 看见 漂亮 有 | e: 睡觉 = đi ngủ.
+F 你在{0}什么？ | 做* 有 爱 漂亮 | e: 在做什么 = đang làm gì.
+F 北京很{0}，我很喜欢。 | 漂亮* 睡觉 说话 看见 | e: Sau 很 là tính từ.
+F 我{0}一个中国朋友。 | 有* 在 去 来 | e: 有 + người/vật = có.
+O 你 喜欢 看 电影 吗 | vi: Bạn có thích xem phim không? | t: 喜欢 看
+O 我 妈妈 会 做 中国 菜 | vi: Mẹ tôi biết nấu món Trung Quốc. | t: 会 做
+O 明天 你 能 来 我家 吗 | vi: Ngày mai bạn đến nhà tôi được không? | t: 能 | alt: 你 明天 能 来 我家 吗

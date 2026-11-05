@@ -75,7 +75,9 @@ for (const f of fs.readdirSync(topicsDir)) {
   const t = path.join(topicsDir, f) === file ? topic : JSON.parse(fs.readFileSync(path.join(topicsDir, f), 'utf8'));
   for (const w of t.words) if (w.id && !byHanzi.has(w.hanzi)) byHanzi.set(w.hanzi, w.id);
 }
-const toId = (x) => (/[\u4e00-\u9fff]/.test(x) ? byHanzi.get(x) || errors.push(`unknown word ${x}`) && x : x);
+// a confusable may point to a topic not written yet: keep the hanzi, build fails until it is resolved
+const pending = [];
+const toId = (x) => (/[\u4e00-\u9fff]/.test(x) ? byHanzi.get(x) || (pending.push(x), x) : x);
 for (const w of topic.words) w.confusables = (w.confusables || []).map(toId);
 for (const e of topic.exercises || []) e.targets = e.targets.map(toId);
 
@@ -91,6 +93,7 @@ for (const w of topic.words) for (const e of w.examples) {
   if (r.notes.length) pyNotes.push(`${e.zh} -> ${r.py} [${r.notes.join('; ')}]`);
 }
 fs.writeFileSync(file, JSON.stringify(topic, null, 2) + '\n');
+if (pending.length) console.log(`Chưa có từ: ${[...new Set(pending)].join(' ')} (chạy lại sau khi soạn chủ đề chứa từ đó)`);
 if (hvNotes.length) console.log('Cần xem (âm / Hán Việt):\n  ' + hvNotes.join('\n  '));
 if (pyNotes.length) console.log('Pinyin câu mẫu cần xem:\n  ' + pyNotes.join('\n  '));
 console.log(`filled ${topic.words.length} words in ${path.basename(file)}`);
