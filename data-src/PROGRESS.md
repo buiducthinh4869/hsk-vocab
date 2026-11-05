@@ -15,7 +15,7 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 1 | hsk1-hoat-dong-tinh-tu | Hoạt động, tính chất | 19 | 6 fill, 3 order | xong | 看 看见 听 说话 睡觉 打电话 做 有 爱 喜欢 想 会 能 大 小 多 少 好 漂亮 |
 | 1 | hsk1-hu-tu | Hư từ | 10 | 5 fill, 3 order | xong | 不 没 很 太 都 和 的 了 吗 呢 |
 | 1 | **Cộng** | | **150 / 150** | | | |
-| 2 | hsk2-gia-dinh-suc-khoe | Gia đình, sức khỏe | 21 |  | chưa làm | 哥哥 姐姐 弟弟 妹妹 丈夫 妻子 孩子 男人 女人 大家 您 它 姓 生日 身体 眼睛 生病 药 休息 累 笑 |
+| 2 | hsk2-gia-dinh-suc-khoe | Gia đình, sức khỏe | 21 | 6 fill, 3 order | xong | 哥哥 姐姐 弟弟 妹妹 丈夫 妻子 孩子 男人 女人 大家 您 它 姓 生日 身体 眼睛 生病 药 休息 累 笑 |
 | 2 | hsk2-an-uong-mua-sam | Ăn uống, mua sắm, màu sắc | 25 |  | chưa làm | 鸡蛋 牛奶 咖啡 西瓜 鱼 羊肉 好吃 服务员 卖 便宜 贵 元 百 千 公斤 件 张 票 手表 手机 报纸 颜色 白 黑 红 |
 | 2 | hsk2-thoi-gian-thoi-tiet | Thời gian, thời tiết | 20 |  | chưa làm | 早上 晚上 去年 时间 小时 号 第一 两 每 次 晴 阴 雪 开始 完 上班 起床 事情 新 准备 |
 | 2 | hsk2-noi-chon-di-lai | Nơi chốn, đi lại | 22 |  | chưa làm | 路 门 房间 教室 机场 公司 旁边 左边 右边 外 近 远 离 从 到 进 出 走 船 公共汽车 自行车 旅游 |
@@ -103,6 +103,13 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 1 | hsk1-hu-tu | 很 | hěn | — |
 | 1 | hsk1-hu-tu | 吗 | ma | mửa |
 | 1 | hsk1-hu-tu | 呢 | ne | nài |
+| 2 | hsk2-gia-dinh-suc-khoe | 妻子 | qīzi | thê tí |
+| 2 | hsk2-gia-dinh-suc-khoe | 女人 | nǚrén | nữa nhân |
+| 2 | hsk2-gia-dinh-suc-khoe | 您 | nín | — |
+| 2 | hsk2-gia-dinh-suc-khoe | 它 | tā | — |
+| 2 | hsk2-gia-dinh-suc-khoe | 眼睛 | yǎnjing | — |
+| 2 | hsk2-gia-dinh-suc-khoe | 累 | lèi | luỵ |
+| 2 | hsk2-gia-dinh-suc-khoe | 笑 | xiào | — |
 
 ## Âm Hán Việt cần xem
 
@@ -124,6 +131,8 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 好 | háo | hảo |
 | 吗 | mửa | ma |
 | 呢 | nài | ni |
+| 姐 | thư | tỉ |
+| 女 | nữa | nữ |
 
 ## Lỗi giao diện ghi nhận
 

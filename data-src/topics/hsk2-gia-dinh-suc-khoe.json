@@ -1,0 +1,846 @@
+{
+  "id": "hsk2-gia-dinh-suc-khoe",
+  "level": 2,
+  "title": "Gia đình, sức khỏe",
+  "order": 1,
+  "words": [
+    {
+      "id": "ge1ge",
+      "hanzi": "哥哥",
+      "pinyin": "gēge",
+      "pinyinNum": "ge1 ge",
+      "hanViet": "ca ca",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "anh trai"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "我有两个*哥哥*。",
+          "vi": "Tôi có hai anh trai.",
+          "py": "Wǒ yǒu liǎng ge *gēge*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jie3jie",
+        "di4di"
+      ],
+      "check": false
+    },
+    {
+      "id": "jie3jie",
+      "hanzi": "姐姐",
+      "pinyin": "jiějie",
+      "pinyinNum": "jie3 jie",
+      "hanViet": "thư thư",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "chị gái"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我*姐姐*在公司上班。",
+          "vi": "Chị gái tôi đi làm ở công ty.",
+          "py": "Wǒ *jiějie* zài gōngsī shàngbān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mei4mei",
+        "ge1ge"
+      ],
+      "check": false
+    },
+    {
+      "id": "di4di",
+      "hanzi": "弟弟",
+      "pinyin": "dìdi",
+      "pinyinNum": "di4 di",
+      "hanViet": "đệ đệ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "em trai"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "我*弟弟*喜欢打篮球。",
+          "vi": "Em trai tôi thích chơi bóng rổ.",
+          "py": "Wǒ *dìdi* xǐhuan dǎlánqiú."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ge1ge",
+        "mei4mei"
+      ],
+      "check": false
+    },
+    {
+      "id": "mei4mei",
+      "hanzi": "妹妹",
+      "pinyin": "mèimei",
+      "pinyinNum": "mei4 mei",
+      "hanViet": "muội muội",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "em gái"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我*妹妹*正在睡觉。",
+          "vi": "Em gái tôi đang ngủ.",
+          "py": "Wǒ *mèimei* zhèngzài shuìjiào."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jie3jie",
+        "di4di"
+      ],
+      "check": false
+    },
+    {
+      "id": "zhang4fu",
+      "hanzi": "丈夫",
+      "pinyin": "zhàngfu",
+      "pinyinNum": "zhang4 fu",
+      "hanViet": "trượng phu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "chồng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "她*丈夫*是老师。",
+          "vi": "Chồng cô ấy là giáo viên.",
+          "py": "Tā *zhàngfu* shì lǎoshī."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qi1zi"
+      ],
+      "check": false
+    },
+    {
+      "id": "qi1zi",
+      "hanzi": "妻子",
+      "pinyin": "qīzi",
+      "pinyinNum": "qi1 zi",
+      "hanViet": "thê tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "vợ"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我*妻子*很喜欢喝咖啡。",
+          "vi": "Vợ tôi rất thích uống cà phê.",
+          "py": "Wǒ *qīzi* hěn xǐhuan hē kāfēi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhang4fu"
+      ],
+      "check": true
+    },
+    {
+      "id": "hai2zi",
+      "hanzi": "孩子",
+      "pinyin": "háizi",
+      "pinyinNum": "hai2 zi",
+      "hanViet": "hài tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "trẻ con, đứa trẻ",
+        "con (cái)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你有几个*孩子*？",
+          "vi": "Bạn có mấy đứa con?",
+          "py": "Nǐ yǒu jǐ ge *háizi*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "er2zi"
+      ],
+      "check": false
+    },
+    {
+      "id": "nan2ren2",
+      "hanzi": "男人",
+      "pinyin": "nánrén",
+      "pinyinNum": "nan2 ren2",
+      "hanViet": "nam nhân",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "đàn ông"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "那个*男人*是谁？",
+          "vi": "Người đàn ông kia là ai?",
+          "py": "Nàge *nánrén* shì shéi?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nü3ren2"
+      ],
+      "check": false
+    },
+    {
+      "id": "nü3ren2",
+      "hanzi": "女人",
+      "pinyin": "nǚrén",
+      "pinyinNum": "nü3 ren2",
+      "hanViet": "nữa nhân",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "phụ nữ, đàn bà"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "那个*女人*在打电话。",
+          "vi": "Người phụ nữ kia đang gọi điện thoại.",
+          "py": "Nàge *nǚrén* zài dǎdiànhuà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nan2ren2"
+      ],
+      "check": true
+    },
+    {
+      "id": "da4jia1",
+      "hanzi": "大家",
+      "pinyin": "dàjiā",
+      "pinyinNum": "da4 jia1",
+      "hanViet": "đại gia",
+      "pos": [
+        "pron",
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "mọi người"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*大家*一起唱歌吧！",
+          "vi": "Mọi người cùng hát nào!",
+          "py": "*Dàjiā* yìqǐ chànggē ba!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "nin2",
+      "hanzi": "您",
+      "pinyin": "nín",
+      "pinyinNum": "nin2",
+      "hanViet": null,
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ông, bà, ngài (cách gọi lịch sự của 你)"
+      ],
+      "usage": "Dùng với người lớn tuổi, khách, người cần tôn trọng.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*您*贵姓？",
+          "vi": "Ông họ gì ạ?",
+          "py": "*Nín* guì xìng?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ni3"
+      ],
+      "check": true
+    },
+    {
+      "id": "ta1-3",
+      "hanzi": "它",
+      "pinyin": "tā",
+      "pinyinNum": "ta1",
+      "hanViet": null,
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "nó (chỉ đồ vật, con vật)"
+      ],
+      "usage": "它 dùng cho đồ vật, con vật; chỉ người thì dùng 他 hoặc 她.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这是我的猫，*它*三岁了。",
+          "vi": "Đây là con mèo của tôi, nó ba tuổi rồi.",
+          "py": "Zhè shì wǒ de māo, *tā* sān suì le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ta1",
+        "ta1-2"
+      ],
+      "check": true
+    },
+    {
+      "id": "xing4",
+      "hanzi": "姓",
+      "pinyin": "xìng",
+      "pinyinNum": "xing4",
+      "hanViet": "tính",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "họ (tên họ)",
+        "mang họ"
+      ],
+      "usage": "Hỏi lịch sự: 您贵姓？ Trả lời: 我姓... (không nói 我贵姓).",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我*姓*张。",
+          "vi": "Tôi họ Trương.",
+          "py": "Wǒ *xìng* Zhāng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jiao4"
+      ],
+      "check": false
+    },
+    {
+      "id": "sheng1ri4",
+      "hanzi": "生日",
+      "pinyin": "shēngrì",
+      "pinyinNum": "sheng1 ri4",
+      "hanViet": "sinh nhật",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "sinh nhật"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "今天是我妈妈的*生日*。",
+          "vi": "Hôm nay là sinh nhật mẹ tôi.",
+          "py": "Jīntiān shì wǒ māma de *shēngrì*."
+        },
+        {
+          "zh": "*生日*快乐！",
+          "vi": "Chúc mừng sinh nhật!",
+          "py": "*Shēngrì* kuàilè!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shen1ti3",
+      "hanzi": "身体",
+      "pinyin": "shēntǐ",
+      "pinyinNum": "shen1 ti3",
+      "hanViet": "thân thể",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "cơ thể",
+        "sức khỏe"
+      ],
+      "usage": "",
+      "measureWords": [
+        "具",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你*身体*怎么样？",
+          "vi": "Sức khỏe bạn thế nào?",
+          "py": "Nǐ *shēntǐ* zěnmeyàng?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yan3jing",
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjing",
+      "pinyinNum": "yan3 jing",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "mắt"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只",
+        "双"
+      ],
+      "examples": [
+        {
+          "zh": "她的*眼睛*很大。",
+          "vi": "Mắt cô ấy rất to.",
+          "py": "Tā de *yǎnjing* hěn dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "sheng1bing4",
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "pinyinNum": "sheng1 bing4",
+      "hanViet": "sinh bệnh",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "bị ốm, bị bệnh"
+      ],
+      "usage": "生病 không mang tân ngữ phía sau.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*生病*了，今天不去上班。",
+          "vi": "Tôi bị ốm rồi, hôm nay không đi làm.",
+          "py": "Wǒ *shēngbìng* le, jīntiān bú qù shàngbān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yao4",
+      "hanzi": "药",
+      "pinyin": "yào",
+      "pinyinNum": "yao4",
+      "hanViet": "dược",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "thuốc"
+      ],
+      "usage": "Uống thuốc là 吃药, không nói 喝药.",
+      "measureWords": [
+        "种",
+        "服",
+        "味"
+      ],
+      "examples": [
+        {
+          "zh": "你吃*药*了吗？",
+          "vi": "Bạn uống thuốc chưa?",
+          "py": "Nǐ chī *yào* le ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xiu1xi",
+      "hanzi": "休息",
+      "pinyin": "xiūxi",
+      "pinyinNum": "xiu1 xi",
+      "hanViet": "hưu tức",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "nghỉ, nghỉ ngơi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你累了，去*休息*吧。",
+          "vi": "Bạn mệt rồi, đi nghỉ đi.",
+          "py": "Nǐ lèi le, qù *xiūxi* ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "lei4",
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "pinyinNum": "lei4",
+      "hanViet": "luỵ",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "mệt"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天工作很忙，我很*累*。",
+          "vi": "Hôm nay công việc bận, tôi rất mệt.",
+          "py": "Jīntiān gōngzuò hěn máng, wǒ hěn *lèi*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xiao4",
+      "hanzi": "笑",
+      "pinyin": "xiào",
+      "pinyinNum": "xiao4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "cười"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*笑*什么？",
+          "vi": "Bạn cười gì thế?",
+          "py": "Nǐ *xiào* shénme?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "你有几个{0}？",
+      "options": [
+        "孩子",
+        "药",
+        "身体",
+        "生日"
+      ],
+      "answer": "孩子",
+      "targets": [
+        "hai2zi"
+      ],
+      "explanation": "孩子 = con, đứa trẻ.",
+      "id": "hsk2-gia-dinh-suc-khoe-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "您{0}姓？",
+      "options": [
+        "贵",
+        "好",
+        "大",
+        "多"
+      ],
+      "answer": "贵",
+      "targets": [
+        "nin2"
+      ],
+      "explanation": "您贵姓？ là câu hỏi họ lịch sự.",
+      "id": "hsk2-gia-dinh-suc-khoe-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "你生病了，要吃{0}。",
+      "options": [
+        "药",
+        "茶",
+        "水",
+        "咖啡"
+      ],
+      "answer": "药",
+      "targets": [
+        "yao4"
+      ],
+      "explanation": "Uống thuốc: 吃药; đồ uống thì dùng 喝.",
+      "id": "hsk2-gia-dinh-suc-khoe-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "他是我{0}，我是他妻子。",
+      "options": [
+        "丈夫",
+        "哥哥",
+        "弟弟",
+        "孩子"
+      ],
+      "answer": "丈夫",
+      "targets": [
+        "zhang4fu"
+      ],
+      "explanation": "Vợ và chồng: 妻子, 丈夫.",
+      "id": "hsk2-gia-dinh-suc-khoe-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "我很{0}，想休息。",
+      "options": [
+        "累",
+        "笑",
+        "生病",
+        "姓"
+      ],
+      "answer": "累",
+      "targets": [
+        "lei4"
+      ],
+      "explanation": "Mệt thì muốn nghỉ.",
+      "id": "hsk2-gia-dinh-suc-khoe-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "这是我的狗，{0}两岁了。",
+      "options": [
+        "它",
+        "他",
+        "她",
+        "您"
+      ],
+      "answer": "它",
+      "targets": [
+        "ta1-3"
+      ],
+      "explanation": "Con vật dùng 它.",
+      "id": "hsk2-gia-dinh-suc-khoe-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "妻子",
+        "生病",
+        "了"
+      ],
+      "answers": [
+        [
+          "我",
+          "妻子",
+          "生病",
+          "了"
+        ]
+      ],
+      "targets": [
+        "qi1zi",
+        "sheng1bing4"
+      ],
+      "vi": "Vợ tôi bị ốm rồi.",
+      "id": "hsk2-gia-dinh-suc-khoe-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我们",
+        "晚上",
+        "在",
+        "家",
+        "休息"
+      ],
+      "answers": [
+        [
+          "我们",
+          "晚上",
+          "在",
+          "家",
+          "休息"
+        ],
+        [
+          "晚上",
+          "我们",
+          "在",
+          "家",
+          "休息"
+        ]
+      ],
+      "targets": [
+        "xiu1xi"
+      ],
+      "vi": "Buổi tối chúng tôi nghỉ ở nhà.",
+      "id": "hsk2-gia-dinh-suc-khoe-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "姐姐",
+        "比",
+        "我",
+        "大",
+        "两",
+        "岁"
+      ],
+      "answers": [
+        [
+          "我",
+          "姐姐",
+          "比",
+          "我",
+          "大",
+          "两",
+          "岁"
+        ]
+      ],
+      "targets": [
+        "jie3jie"
+      ],
+      "vi": "Chị gái tôi lớn hơn tôi hai tuổi.",
+      "id": "hsk2-gia-dinh-suc-khoe-order-03"
+    }
+  ]
+}

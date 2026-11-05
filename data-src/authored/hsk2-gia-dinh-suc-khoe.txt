@@ -1,0 +1,57 @@
+# id: hsk2-gia-dinh-suc-khoe
+# level: 2
+# title: Gia đình, sức khỏe
+# order: 1
+@哥哥 | anh trai | c: 姐姐 弟弟
+- 我有两个*哥哥*。 = Tôi có hai anh trai.
+@姐姐 | chị gái | c: 妹妹 哥哥
+- 我*姐姐*在公司上班。 = Chị gái tôi đi làm ở công ty.
+@弟弟 | em trai | c: 哥哥 妹妹
+- 我*弟弟*喜欢打篮球。 = Em trai tôi thích chơi bóng rổ.
+@妹妹 | em gái | c: 姐姐 弟弟
+- 我*妹妹*正在睡觉。 = Em gái tôi đang ngủ.
+@丈夫 | chồng | c: 妻子
+- 她*丈夫*是老师。 = Chồng cô ấy là giáo viên.
+@妻子 qīzi | vợ | c: 丈夫
+- 我*妻子*很喜欢喝咖啡。 = Vợ tôi rất thích uống cà phê.
+@孩子 | trẻ con, đứa trẻ; con (cái) | c: 儿子
+- 你有几个*孩子*？ = Bạn có mấy đứa con?
+@男人 | đàn ông | c: 女人
+- 那个*男人*是谁？ = Người đàn ông kia là ai?
+@女人 nǚrén | phụ nữ, đàn bà | c: 男人
+- 那个*女人*在打电话。 = Người phụ nữ kia đang gọi điện thoại.
+@大家 | mọi người
+- *大家*一起唱歌吧！ = Mọi người cùng hát nào!
+@您 | ông, bà, ngài (cách gọi lịch sự của 你) | u: Dùng với người lớn tuổi, khách, người cần tôn trọng. | c: 你
+- *您*贵姓？ = Ông họ gì ạ?
+@它 | nó (chỉ đồ vật, con vật) | u: 它 dùng cho đồ vật, con vật; chỉ người thì dùng 他 hoặc 她. | c: 他 她
+- 这是我的猫，*它*三岁了。 = Đây là con mèo của tôi, nó ba tuổi rồi.
+@姓 | họ (tên họ); mang họ | u: Hỏi lịch sự: 您贵姓？ Trả lời: 我姓... (không nói 我贵姓). | c: 叫
+- 我*姓*张。 = Tôi họ Trương.
+  py: Wǒ *xìng* Zhāng.
+@生日 | sinh nhật
+- 今天是我妈妈的*生日*。 = Hôm nay là sinh nhật mẹ tôi.
+- *生日*快乐！ = Chúc mừng sinh nhật!
+@身体 | cơ thể; sức khỏe
+- 你*身体*怎么样？ = Sức khỏe bạn thế nào?
+@眼睛 | mắt
+- 她的*眼睛*很大。 = Mắt cô ấy rất to.
+@生病 | bị ốm, bị bệnh | u: 生病 không mang tân ngữ phía sau.
+- 我*生病*了，今天不去上班。 = Tôi bị ốm rồi, hôm nay không đi làm.
+@药 | thuốc | u: Uống thuốc là 吃药, không nói 喝药.
+- 你吃*药*了吗？ = Bạn uống thuốc chưa?
+@休息 | nghỉ, nghỉ ngơi
+- 你累了，去*休息*吧。 = Bạn mệt rồi, đi nghỉ đi.
+@累 lèi | mệt
+- 今天工作很忙，我很*累*。 = Hôm nay công việc bận, tôi rất mệt.
+@笑 | cười
+- 你*笑*什么？ = Bạn cười gì thế?
+F 你有几个{0}？ | 孩子* 药 身体 生日 | e: 孩子 = con, đứa trẻ.
+F 您{0}姓？ | 贵* 好 大 多 | t: 您 | e: 您贵姓？ là câu hỏi họ lịch sự.
+F 你生病了，要吃{0}。 | 药* 茶 水 咖啡 | e: Uống thuốc: 吃药; đồ uống thì dùng 喝.
+F 他是我{0}，我是他妻子。 | 丈夫* 哥哥 弟弟 孩子 | e: Vợ và chồng: 妻子, 丈夫.
+F 我很{0}，想休息。 | 累* 笑 生病 姓 | e: Mệt thì muốn nghỉ.
+F 这是我的狗，{0}两岁了。 | 它* 他 她 您 | e: Con vật dùng 它.
+O 我 妻子 生病 了 | vi: Vợ tôi bị ốm rồi. | t: 妻子 生病
+O 我们 晚上 在 家 休息 | vi: Buổi tối chúng tôi nghỉ ở nhà. | t: 休息 | alt: 晚上 我们 在 家 休息
+O 我 姐姐 比 我 大 两 岁 | vi: Chị gái tôi lớn hơn tôi hai tuổi. | t: 姐姐
