@@ -1,0 +1,457 @@
+{
+  "id": "hsk1-hu-tu",
+  "level": 1,
+  "title": "Hư từ",
+  "order": 7,
+  "words": [
+    {
+      "id": "bu4",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "pinyinNum": "bu4",
+      "hanViet": "bất",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "không (phủ định)"
+      ],
+      "usage": "不 phủ định hiện tại, tương lai, thói quen; việc đã qua và 有 thì phủ định bằng 没. Đọc bú trước thanh 4.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*不*喝茶。",
+          "vi": "Tôi không uống trà.",
+          "py": "Wǒ *bù* hē chá."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mei2"
+      ],
+      "check": false
+    },
+    {
+      "id": "mei2",
+      "hanzi": "没",
+      "pinyin": "méi",
+      "pinyinNum": "mei2",
+      "hanViet": "một",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "không, chưa (phủ định việc đã xảy ra",
+        "phủ định 有)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我昨天*没*去学校。",
+          "vi": "Hôm qua tôi không đi học.",
+          "py": "Wǒ zuótiān *méi* qù xuéxiào."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bu4"
+      ],
+      "check": true
+    },
+    {
+      "id": "hen3",
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "pinyinNum": "hen3",
+      "hanViet": null,
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "rất"
+      ],
+      "usage": "Tính từ làm vị ngữ thường có 很 đi trước, nhiều khi không mang nghĩa \"rất\" rõ: 我很好.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个饭馆*很*大。",
+          "vi": "Quán ăn này rất lớn.",
+          "py": "Zhège fànguǎn *hěn* dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tai4"
+      ],
+      "check": true
+    },
+    {
+      "id": "tai4",
+      "hanzi": "太",
+      "pinyin": "tài",
+      "pinyinNum": "tai4",
+      "hanViet": "thái",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "quá"
+      ],
+      "usage": "Thường dùng 太...了: 太好了！",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天*太*热了！",
+          "vi": "Hôm nay nóng quá!",
+          "py": "Jīntiān *tài* rè le!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hen3",
+        "da4"
+      ],
+      "check": false
+    },
+    {
+      "id": "dou1",
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "pinyinNum": "dou1",
+      "hanViet": "đô",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "đều"
+      ],
+      "usage": "都 đứng sau chủ ngữ, trước động từ: 我们都是学生.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们*都*是中国人。",
+          "vi": "Chúng tôi đều là người Trung Quốc.",
+          "py": "Wǒmen *dōu* shì Zhōngguó rén."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "he2",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "pinyinNum": "he2",
+      "hanViet": "hoà",
+      "pos": [
+        "conj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "và, với"
+      ],
+      "usage": "和 nối danh từ, đại từ; không dùng để nối hai câu.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*和*妈妈去商店。",
+          "vi": "Tôi và mẹ đi cửa hàng.",
+          "py": "Wǒ *hé* māma qù shāngdiàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "de",
+      "hanzi": "的",
+      "pinyin": "de",
+      "pinyinNum": "de",
+      "hanViet": "đích",
+      "pos": [
+        "part"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "của",
+        "(trợ từ nối định ngữ với danh từ)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "那是谁*的*杯子？",
+          "vi": "Kia là cốc của ai?",
+          "py": "Nà shì shéi *de* bēizi?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "le",
+      "hanzi": "了",
+      "pinyin": "le",
+      "pinyinNum": "le",
+      "hanViet": "liễu",
+      "pos": [
+        "part"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "rồi, đã (trợ từ)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他回家*了*。",
+          "vi": "Anh ấy về nhà rồi.",
+          "py": "Tā huí jiā *le*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ma",
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "pinyinNum": "ma",
+      "hanViet": "mửa",
+      "pos": [
+        "part"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "không? à? (trợ từ hỏi)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你是医生*吗*？",
+          "vi": "Bạn là bác sĩ à?",
+          "py": "Nǐ shì yīshēng *ma*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ne"
+      ],
+      "check": true
+    },
+    {
+      "id": "ne",
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "pinyinNum": "ne",
+      "hanViet": "nài",
+      "pos": [
+        "part"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "còn ... thì sao? (hỏi lại)"
+      ],
+      "usage": "我很好，你呢？ = Tôi khỏe, còn bạn?",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我是学生，你*呢*？",
+          "vi": "Tôi là học sinh, còn bạn?",
+          "py": "Wǒ shì xuésheng, nǐ *ne*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ma"
+      ],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我昨天{0}去学校。",
+      "options": [
+        "没",
+        "不",
+        "很",
+        "都"
+      ],
+      "answer": "没",
+      "targets": [
+        "mei2"
+      ],
+      "explanation": "Việc đã xảy ra phủ định bằng 没.",
+      "id": "hsk1-hu-tu-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "今天{0}热了！",
+      "options": [
+        "太",
+        "很",
+        "都",
+        "和"
+      ],
+      "answer": "太",
+      "targets": [
+        "tai4"
+      ],
+      "explanation": "太...了 = quá.",
+      "id": "hsk1-hu-tu-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "我是学生，你{0}？",
+      "options": [
+        "呢",
+        "吗",
+        "的",
+        "了"
+      ],
+      "answer": "呢",
+      "targets": [
+        "ne"
+      ],
+      "explanation": "你呢？ = còn bạn?",
+      "id": "hsk1-hu-tu-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "这是谁{0}书？",
+      "options": [
+        "的",
+        "了",
+        "吗",
+        "呢"
+      ],
+      "answer": "的",
+      "targets": [
+        "de"
+      ],
+      "explanation": "谁的 = của ai.",
+      "id": "hsk1-hu-tu-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "我们{0}是老师。",
+      "options": [
+        "都",
+        "和",
+        "很",
+        "太"
+      ],
+      "answer": "都",
+      "targets": [
+        "dou1"
+      ],
+      "explanation": "都 = đều, đứng trước động từ.",
+      "id": "hsk1-hu-tu-fill-05"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我们",
+        "都",
+        "不",
+        "喜欢",
+        "狗"
+      ],
+      "answers": [
+        [
+          "我们",
+          "都",
+          "不",
+          "喜欢",
+          "狗"
+        ]
+      ],
+      "targets": [
+        "dou1",
+        "bu4"
+      ],
+      "vi": "Chúng tôi đều không thích chó.",
+      "id": "hsk1-hu-tu-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "他",
+        "是",
+        "谁",
+        "的",
+        "朋友"
+      ],
+      "answers": [
+        [
+          "他",
+          "是",
+          "谁",
+          "的",
+          "朋友"
+        ]
+      ],
+      "targets": [
+        "de"
+      ],
+      "vi": "Anh ấy là bạn của ai?",
+      "id": "hsk1-hu-tu-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "今天",
+        "太",
+        "冷",
+        "了"
+      ],
+      "answers": [
+        [
+          "今天",
+          "太",
+          "冷",
+          "了"
+        ]
+      ],
+      "targets": [
+        "tai4",
+        "le"
+      ],
+      "vi": "Hôm nay lạnh quá.",
+      "id": "hsk1-hu-tu-order-03"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+# id: hsk1-hu-tu
+# level: 1
+# title: Hư từ
+# order: 7
+@不 | không (phủ định) | u: 不 phủ định hiện tại, tương lai, thói quen; việc đã qua và 有 thì phủ định bằng 没. Đọc bú trước thanh 4. | c: 没
+- 我*不*喝茶。 = Tôi không uống trà.
+@没 | không, chưa (phủ định việc đã xảy ra; phủ định 有) | hv: một | c: 不
+- 我昨天*没*去学校。 = Hôm qua tôi không đi học.
+@很 | rất | u: Tính từ làm vị ngữ thường có 很 đi trước, nhiều khi không mang nghĩa "rất" rõ: 我很好. | c: 太
+- 这个饭馆*很*大。 = Quán ăn này rất lớn.
+@太 | quá | u: Thường dùng 太...了: 太好了！ | c: 很 大
+- 今天*太*热了！ = Hôm nay nóng quá!
+@都 | đều | u: 都 đứng sau chủ ngữ, trước động từ: 我们都是学生.
+- 我们*都*是中国人。 = Chúng tôi đều là người Trung Quốc.
+@和 | và, với | u: 和 nối danh từ, đại từ; không dùng để nối hai câu.
+- 我*和*妈妈去商店。 = Tôi và mẹ đi cửa hàng.
+@的 | của; (trợ từ nối định ngữ với danh từ)
+- 那是谁*的*杯子？ = Kia là cốc của ai?
+@了 | rồi, đã (trợ từ)
+- 他回家*了*。 = Anh ấy về nhà rồi.
+@吗 | không? à? (trợ từ hỏi) | c: 呢
+- 你是医生*吗*？ = Bạn là bác sĩ à?
+@呢 | còn ... thì sao? (hỏi lại) | u: 我很好，你呢？ = Tôi khỏe, còn bạn? | c: 吗
+- 我是学生，你*呢*？ = Tôi là học sinh, còn bạn?
+F 我昨天{0}去学校。 | 没* 不 很 都 | e: Việc đã xảy ra phủ định bằng 没.
+F 今天{0}热了！ | 太* 很 都 和 | e: 太...了 = quá.
+F 我是学生，你{0}？ | 呢* 吗 的 了 | e: 你呢？ = còn bạn?
+F 这是谁{0}书？ | 的* 了 吗 呢 | e: 谁的 = của ai.
+F 我们{0}是老师。 | 都* 和 很 太 | e: 都 = đều, đứng trước động từ.
+O 我们 都 不 喜欢 狗 | vi: Chúng tôi đều không thích chó. | t: 都 不
+O 他 是 谁 的 朋友 | vi: Anh ấy là bạn của ai? | t: 的
+O 今天 太 冷 了 | vi: Hôm nay lạnh quá. | t: 太 了

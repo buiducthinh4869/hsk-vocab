@@ -12,8 +12,8 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 1 | hsk1-gia-dinh-truong-hoc | Gia đình, trường học | 22 | 5 fill, 3 order | xong | 爸爸 妈妈 儿子 女儿 人 先生 小姐 朋友 同学 老师 学生 医生 工作 学校 学习 汉语 字 书 读 写 猫 狗 |
 | 1 | hsk1-an-uong-mua-sam | Ăn uống, mua sắm | 20 | 5 fill, 3 order | xong | 吃 喝 菜 茶 水 米饭 水果 苹果 杯子 饭馆 钱 买 东西 衣服 商店 桌子 椅子 电脑 电视 电影 |
 | 1 | hsk1-noi-chon-di-lai | Nơi chốn, đi lại, thời tiết | 23 | 6 fill, 3 order | xong | 家 中国 北京 医院 火车站 上 下 前面 后面 里 在 去 来 回 住 飞机 出租车 坐 开 天气 冷 热 下雨 |
-| 1 | hsk1-hoat-dong-tinh-tu | Hoạt động, tính chất | 19 |  | chưa làm | 看 看见 听 说话 睡觉 打电话 做 有 爱 喜欢 想 会 能 大 小 多 少 好 漂亮 |
-| 1 | hsk1-hu-tu | Hư từ | 10 |  | chưa làm | 不 没 很 太 都 和 的 了 吗 呢 |
+| 1 | hsk1-hoat-dong-tinh-tu | Hoạt động, tính chất | 19 | 6 fill, 3 order | xong | 看 看见 听 说话 睡觉 打电话 做 有 爱 喜欢 想 会 能 大 小 多 少 好 漂亮 |
+| 1 | hsk1-hu-tu | Hư từ | 10 | 5 fill, 3 order | xong | 不 没 很 太 都 和 的 了 吗 呢 |
 | 1 | **Cộng** | | **150 / 150** | | | |
 | 2 | hsk2-gia-dinh-suc-khoe | Gia đình, sức khỏe | 21 |  | chưa làm | 哥哥 姐姐 弟弟 妹妹 丈夫 妻子 孩子 男人 女人 大家 您 它 姓 生日 身体 眼睛 生病 药 休息 累 笑 |
 | 2 | hsk2-an-uong-mua-sam | Ăn uống, mua sắm, màu sắc | 25 |  | chưa làm | 鸡蛋 牛奶 咖啡 西瓜 鱼 羊肉 好吃 服务员 卖 便宜 贵 元 百 千 公斤 件 张 票 手表 手机 报纸 颜色 白 黑 红 |
@@ -91,6 +91,18 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 1 | hsk1-noi-chon-di-lai | 坐 | zuò | — |
 | 1 | hsk1-noi-chon-di-lai | 冷 | lěng | lạnh |
 | 1 | hsk1-noi-chon-di-lai | 下雨 | xiàyǔ | — |
+| 1 | hsk1-hoat-dong-tinh-tu | 看 | kàn | khán |
+| 1 | hsk1-hoat-dong-tinh-tu | 看见 | kànjiàn | khán kiến |
+| 1 | hsk1-hoat-dong-tinh-tu | 睡觉 | shuìjiào | — |
+| 1 | hsk1-hoat-dong-tinh-tu | 打电话 | dǎdiànhuà | — |
+| 1 | hsk1-hoat-dong-tinh-tu | 做 | zuò | — |
+| 1 | hsk1-hoat-dong-tinh-tu | 爱 | ài | — |
+| 1 | hsk1-hoat-dong-tinh-tu | 好 | hǎo | háo |
+| 1 | hsk1-hoat-dong-tinh-tu | 漂亮 | piàoliang | — |
+| 1 | hsk1-hu-tu | 没 | méi | một |
+| 1 | hsk1-hu-tu | 很 | hěn | — |
+| 1 | hsk1-hu-tu | 吗 | ma | mửa |
+| 1 | hsk1-hu-tu | 呢 | ne | nài |
 
 ## Âm Hán Việt cần xem
 
@@ -109,6 +121,9 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 子 | tí | tử |
 | 里 | lịa | lý |
 | 冷 | lạnh | lãnh |
+| 好 | háo | hảo |
+| 吗 | mửa | ma |
+| 呢 | nài | ni |
 
 ## Lỗi giao diện ghi nhận
 
