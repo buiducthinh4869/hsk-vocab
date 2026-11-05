@@ -4,6 +4,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { parse } from '../web/modules/pinyin.js';
+import { loadLexicon } from './lib/lexicon.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => JSON.parse(fs.readFileSync(path.join(root, p), 'utf8'));
@@ -59,6 +60,23 @@ for (const lv of levels) for (const t of lv.topics) {
   for (const w of t.words) for (const c of w.confusables || []) if (!allWords.has(c)) err(`${t.id}/${w.id}`, `confusable "${c}" not found`);
   for (const e of t.exercises || []) for (const x of e.targets) if (!allWords.has(x)) err(`${t.id}/${e.id}`, `target "${x}" not found`);
 }
+// sentences: words above the topic level / outside the HSK list, repeated sentences
+const lex = loadLexicon(root);
+const warnings = [];
+const seen = new Map();
+for (const lv of levels) for (const t of lv.topics) {
+  const check = (where, text) => { const bad = lex.offLevel(text, t.level); if (bad.length) warnings.push(`${t.id}/${where}: câu vượt cấp: ${text.replace(/\*/g, '')} → ${bad.join(', ')}`); };
+  const once = (where, text) => {
+    const k = text.replace(/[*\s]/g, '');
+    if (seen.has(k) && !seen.get(k).startsWith(t.id + "/")) warnings.push(`${t.id}/${where}: câu trùng với ${seen.get(k)}: ${k}`); else if (!seen.has(k)) seen.set(k, `${t.id}/${where}`);
+  };
+  for (const w of t.words) for (const e of w.examples) { check(w.id, e.zh); once(w.id, e.zh); }
+  for (const e of t.exercises || []) {
+    if (e.type === 'fill') { const full = e.sentence.replace('{0}', e.answer); check(e.id, full); once(e.id, full); e.options.forEach((o) => check(e.id, o)); }
+    else { check(e.id, e.chunks.join('')); once(e.id, e.answers[0].join('')); }
+  }
+}
+if (warnings.length) console.warn(`Cảnh báo (${warnings.length}):\n- ` + warnings.join('\n- '));
 if (errors.length) { console.error(`Build failed (${errors.length}):\n- ` + errors.join('\n- ')); process.exit(1); }
 
 const outDir = path.join(root, 'web/data');

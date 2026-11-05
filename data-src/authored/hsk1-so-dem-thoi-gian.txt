@@ -1,0 +1,75 @@
+# id: hsk1-so-dem-thoi-gian
+# level: 1
+# title: Số đếm, thời gian
+# order: 2
+@一 | một | u: Đọc yí trước thanh 4 (一个 yí ge), yì trước thanh 1, 2, 3 (一些 yìxiē); đếm số, ngày tháng thì đọc yī.
+- 我有*一*个女儿。 = Tôi có một con gái.
+@二 | hai (khi đếm, số thứ tự) | u: Đếm số và ngày tháng dùng 二 (二月); trước lượng từ dùng 两 (HSK 2): 两个人.
+- 今天是*二*月十日。 = Hôm nay là ngày 10 tháng 2.
+@三 | ba
+- 我们家有*三*个人。 = Nhà chúng tôi có ba người.
+@四 | bốn
+- 我*四*岁的时候住在北京。 = Lúc bốn tuổi tôi sống ở Bắc Kinh.
+@五 | năm (số 5)
+- 现在是下午*五*点。 = Bây giờ là 5 giờ chiều.
+@六 | sáu
+- 这本书*六*块钱。 = Quyển sách này 6 đồng.
+@七 | bảy
+- 我女儿*七*岁了。 = Con gái tôi 7 tuổi rồi.
+@八 | tám
+- 他*八*点去学校。 = Anh ấy đi học lúc 8 giờ.
+@九 | chín
+- *九*月一日我去中国。 = Ngày 1 tháng 9 tôi đi Trung Quốc.
+@十 | mười
+- 我们学校有*十*个老师。 = Trường chúng tôi có mười giáo viên.
+@零 | số không | u: Năm đọc từng chữ số: 二零二零年 (năm 2020).
+- 二*零*二零年我在北京工作。 = Năm 2020 tôi làm việc ở Bắc Kinh.
+@个 | cái, con, người (lượng từ chung) | u: Lượng từ thông dụng nhất, trong câu đọc nhẹ ge: 一个人, 三个苹果. | c: 本
+- 我想买一*个*杯子。 = Tôi muốn mua một cái cốc.
+@本 | quyển, cuốn (lượng từ cho sách, vở) | c: 个
+- 我买了三*本*书。 = Tôi đã mua ba quyển sách.
+@块 | đồng (tiền, khẩu ngữ); miếng, cục | u: Nói giá: 五块钱 = 5 đồng.
+- 这个苹果五*块*钱。 = Quả táo này 5 đồng.
+@些 | một số, vài (số lượng không xác định) | u: Thường đi với 一, 这, 那: 一些, 这些, 那些; không dùng với số đếm khác.
+- 这*些*书是我的。 = Những quyển sách này là của tôi.
+- 我想买一*些*水果。 = Tôi muốn mua ít hoa quả.
+@岁 | tuổi | u: Hỏi tuổi trẻ nhỏ: 你几岁了？
+- 你女儿几*岁*了？ = Con gái bạn mấy tuổi rồi?
+@点 | giờ (lúc mấy giờ) | u: 点 chỉ thời điểm (三点 = 3 giờ); 分钟 chỉ khoảng thời gian (三分钟 = 3 phút). | c: 分钟
+- 我下午三*点*回家。 = 3 giờ chiều tôi về nhà.
+@分钟 | phút (khoảng thời gian) | c: 点 | pos: n
+- 他看了十*分钟*电视。 = Anh ấy xem tivi 10 phút.
+@现在 | bây giờ, hiện nay
+- 我*现在*在医院。 = Bây giờ tôi đang ở bệnh viện.
+@今天 | hôm nay | c: 明天 昨天
+- *今天*星期几？ = Hôm nay thứ mấy?
+@明天 | ngày mai | c: 昨天 今天
+- *明天*我去北京。 = Ngày mai tôi đi Bắc Kinh.
+@昨天 | hôm qua | c: 明天 今天
+- *昨天*下雨了。 = Hôm qua trời mưa.
+@年 | năm | c: 月
+- 我在中国住了三*年*。 = Tôi đã sống ở Trung Quốc ba năm.
+@月 | tháng | c: 年
+- 一年有十二个*月*。 = Một năm có mười hai tháng.
+@日 | ngày (khi viết ngày tháng) | u: Văn viết dùng 日; khẩu ngữ thường dùng 号 (HSK 2): 十月一号.
+- 今天是十月一*日*。 = Hôm nay là ngày 1 tháng 10.
+@星期 | tuần; thứ (星期一 = thứ Hai) | u: 星期一 là thứ Hai, 星期六 là thứ Bảy: số sau 星期 nhỏ hơn số thứ tiếng Việt 1 đơn vị. Chủ nhật là 星期日.
+- *星期*六我不工作。 = Thứ Bảy tôi không làm việc.
+@上午 | buổi sáng | c: 下午 中午
+- 我*上午*在学校学习。 = Buổi sáng tôi học ở trường.
+@中午 | buổi trưa | c: 上午 下午
+- *中午*你想吃什么？ = Buổi trưa bạn muốn ăn gì?
+@下午 | buổi chiều | c: 上午 中午
+- *下午*我想去商店。 = Buổi chiều tôi muốn đi cửa hàng.
+@时候 | lúc, khi | u: ...的时候 = khi ...; 什么时候 = khi nào.
+- 你什么*时候*去中国？ = Khi nào bạn đi Trung Quốc?
+F 我买了三{0}书。 | 本* 个 块 岁 | e: Lượng từ của sách là 本.
+F 你女儿几{0}了？ | 岁* 年 点 月 | e: Hỏi tuổi: 几岁.
+F 现在下午三{0}。 | 点* 分钟 年 日 | e: Thời điểm dùng 点; 分钟 là khoảng thời gian.
+F 我看了二十{0}电视。 | 分钟* 点 时候 星期 | e: Khoảng thời gian dùng 分钟.
+F 今天星期一，{0}星期二。 | 明天* 昨天 现在 上午 | e: Thứ Hai rồi đến thứ Ba: ngày mai.
+F 你什么{0}回家？ | 时候* 现在 点 年 | e: 什么时候 = khi nào.
+O 我 明天 去 北京 | vi: Ngày mai tôi đi Bắc Kinh. | t: 明天 | alt: 明天 我 去 北京
+O 今天 是 十月 一日 | vi: Hôm nay là ngày 1 tháng 10. | t: 今天 日
+O 我 在 中国 住了 三年 | vi: Tôi đã sống ở Trung Quốc ba năm. | t: 年
+O 你 女儿 几 岁 了 | vi: Con gái bạn mấy tuổi rồi? | t: 岁

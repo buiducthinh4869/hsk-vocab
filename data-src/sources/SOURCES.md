@@ -18,6 +18,9 @@ Ngày truy cập chung: 04/11/2026.
 - `pinyin`, `pos` (HSK 1): theo PDF 2009 khi từ có trong PDF; còn lại theo bản làm việc và đặt `check: true`.
 - `hanViet`: Unihan `kVietnamese` của chữ giản thể, nếu không có thì của chữ phồn thể (`kTraditionalVariant`). Chữ có nhiều âm: chọn âm thông dụng trong từ, `check: true`. Chữ không có âm: `hanViet: null`, `check: true`.
 - `common`: số lần xuất hiện (WCount) trong SUBTLEX-CH, chia 3 phần bằng nhau trong phạm vi 595 mục HSK 1–3: ≥ 11029 → 3, ≥ 2385 → 2, còn lại 1 (ngưỡng ghi trong `hsk-official.json` → `meta.derived`). Không có trong SUBTLEX: `null`, `check: true`.
+- `pinyin` (HSK 2–3): theo bản làm việc, bỏ dạng viết hoa (họ, tên riêng) khi có dạng viết thường; từ còn nhiều âm thì chọn âm dạy ở cấp đó, `check: true`.
+- Pinyin câu mẫu: sinh tự động từ pinyin từng từ trong bảng (`scripts/lib/lexicon.js`); biến điệu 一, 不 ghi như HSK 1 (bú rènshi, yí ge). Câu có chữ nhiều âm theo ngữ cảnh ghi bằng tay.
+- Câu mẫu, bài tập: build tách từ theo bảng HSK và cảnh báo từ ở cấp cao hơn chủ đề hoặc ngoài bảng.
 - `textbooks`: `null` cho đến khi có ảnh trang 生词.
 - Nghĩa tiếng Việt, cách dùng, câu mẫu, bài tập: tự soạn, đối chiếu nghĩa với CC-CEDICT.
 

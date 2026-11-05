@@ -1,0 +1,1095 @@
+{
+  "id": "hsk1-so-dem-thoi-gian",
+  "level": 1,
+  "title": "Số đếm, thời gian",
+  "order": 2,
+  "words": [
+    {
+      "id": "yi1",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "pinyinNum": "yi1",
+      "hanViet": "nhất",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "một"
+      ],
+      "usage": "Đọc yí trước thanh 4 (一个 yí ge), yì trước thanh 1, 2, 3 (一些 yìxiē); đếm số, ngày tháng thì đọc yī.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我有*一*个女儿。",
+          "vi": "Tôi có một con gái.",
+          "py": "Wǒ yǒu *yí* ge nǚ'ér."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "er4",
+      "hanzi": "二",
+      "pinyin": "èr",
+      "pinyinNum": "er4",
+      "hanViet": "nhì",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "hai (khi đếm, số thứ tự)"
+      ],
+      "usage": "Đếm số và ngày tháng dùng 二 (二月); trước lượng từ dùng 两 (HSK 2): 两个人.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天是*二*月十日。",
+          "vi": "Hôm nay là ngày 10 tháng 2.",
+          "py": "Jīntiān shì *èr* yuè shí rì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "san1",
+      "hanzi": "三",
+      "pinyin": "sān",
+      "pinyinNum": "san1",
+      "hanViet": "tam",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ba"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们家有*三*个人。",
+          "vi": "Nhà chúng tôi có ba người.",
+          "py": "Wǒmen jiā yǒu *sān* ge rén."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "si4",
+      "hanzi": "四",
+      "pinyin": "sì",
+      "pinyinNum": "si4",
+      "hanViet": "tứ",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "bốn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*四*岁的时候住在北京。",
+          "vi": "Lúc bốn tuổi tôi sống ở Bắc Kinh.",
+          "py": "Wǒ *sì* suì de shíhou zhù zài Běijīng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "wu3",
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "pinyinNum": "wu3",
+      "hanViet": "ngũ",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "năm (số 5)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "现在是下午*五*点。",
+          "vi": "Bây giờ là 5 giờ chiều.",
+          "py": "Xiànzài shì xiàwǔ *wǔ* diǎn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "liu4",
+      "hanzi": "六",
+      "pinyin": "liù",
+      "pinyinNum": "liu4",
+      "hanViet": "lục",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "sáu"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这本书*六*块钱。",
+          "vi": "Quyển sách này 6 đồng.",
+          "py": "Zhè běn shū *liù* kuài qián."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "qi1",
+      "hanzi": "七",
+      "pinyin": "qī",
+      "pinyinNum": "qi1",
+      "hanViet": "thất",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "bảy"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我女儿*七*岁了。",
+          "vi": "Con gái tôi 7 tuổi rồi.",
+          "py": "Wǒ nǚ'ér *qī* suì le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ba1",
+      "hanzi": "八",
+      "pinyin": "bā",
+      "pinyinNum": "ba1",
+      "hanViet": "bát",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "tám"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他*八*点去学校。",
+          "vi": "Anh ấy đi học lúc 8 giờ.",
+          "py": "Tā *bā* diǎn qù xuéxiào."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jiu3",
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "pinyinNum": "jiu3",
+      "hanViet": "cửu",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "chín"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*九*月一日我去中国。",
+          "vi": "Ngày 1 tháng 9 tôi đi Trung Quốc.",
+          "py": "*Jiǔ* yuè yī rì wǒ qù Zhōngguó."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shi2",
+      "hanzi": "十",
+      "pinyin": "shí",
+      "pinyinNum": "shi2",
+      "hanViet": "thập",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "mười"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们学校有*十*个老师。",
+          "vi": "Trường chúng tôi có mười giáo viên.",
+          "py": "Wǒmen xuéxiào yǒu *shí* ge lǎoshī."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ling2",
+      "hanzi": "零",
+      "pinyin": "líng",
+      "pinyinNum": "ling2",
+      "hanViet": "lênh",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "số không"
+      ],
+      "usage": "Năm đọc từng chữ số: 二零二零年 (năm 2020).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "二*零*二零年我在北京工作。",
+          "vi": "Năm 2020 tôi làm việc ở Bắc Kinh.",
+          "py": "Èr *líng* èr líng nián wǒ zài Běijīng gōngzuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ge4",
+      "hanzi": "个",
+      "pinyin": "gè",
+      "pinyinNum": "ge4",
+      "hanViet": "cá",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "cái, con, người (lượng từ chung)"
+      ],
+      "usage": "Lượng từ thông dụng nhất, trong câu đọc nhẹ ge: 一个人, 三个苹果.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我想买一*个*杯子。",
+          "vi": "Tôi muốn mua một cái cốc.",
+          "py": "Wǒ xiǎng mǎi yí *ge* bēizi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ben3"
+      ],
+      "check": false
+    },
+    {
+      "id": "ben3",
+      "hanzi": "本",
+      "pinyin": "běn",
+      "pinyinNum": "ben3",
+      "hanViet": "bản",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "quyển, cuốn (lượng từ cho sách, vở)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我买了三*本*书。",
+          "vi": "Tôi đã mua ba quyển sách.",
+          "py": "Wǒ mǎi le sān *běn* shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ge4"
+      ],
+      "check": false
+    },
+    {
+      "id": "kuai4",
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "pinyinNum": "kuai4",
+      "hanViet": "khối",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "đồng (tiền, khẩu ngữ)",
+        "miếng, cục"
+      ],
+      "usage": "Nói giá: 五块钱 = 5 đồng.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个苹果五*块*钱。",
+          "vi": "Quả táo này 5 đồng.",
+          "py": "Zhège píngguǒ wǔ *kuài* qián."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xie1",
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "pinyinNum": "xie1",
+      "hanViet": "ta",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 1,
+      "hsk3": 4,
+      "common": 3,
+      "meaning": [
+        "một số, vài (số lượng không xác định)"
+      ],
+      "usage": "Thường đi với 一, 这, 那: 一些, 这些, 那些; không dùng với số đếm khác.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这*些*书是我的。",
+          "vi": "Những quyển sách này là của tôi.",
+          "py": "Zhè *xiē* shū shì wǒ de."
+        },
+        {
+          "zh": "我想买一*些*水果。",
+          "vi": "Tôi muốn mua ít hoa quả.",
+          "py": "Wǒ xiǎng mǎi yì *xiē* shuǐguǒ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "sui4",
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "pinyinNum": "sui4",
+      "hanViet": null,
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "tuổi"
+      ],
+      "usage": "Hỏi tuổi trẻ nhỏ: 你几岁了？",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你女儿几*岁*了？",
+          "vi": "Con gái bạn mấy tuổi rồi?",
+          "py": "Nǐ nǚ'ér jǐ *suì* le?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "dian3",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "pinyinNum": "dian3",
+      "hanViet": "điểm",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "giờ (lúc mấy giờ)"
+      ],
+      "usage": "点 chỉ thời điểm (三点 = 3 giờ); 分钟 chỉ khoảng thời gian (三分钟 = 3 phút).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我下午三*点*回家。",
+          "vi": "3 giờ chiều tôi về nhà.",
+          "py": "Wǒ xiàwǔ sān *diǎn* huí jiā."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "fen1zhong1"
+      ],
+      "check": false
+    },
+    {
+      "id": "fen1zhong1",
+      "hanzi": "分钟",
+      "pinyin": "fēnzhōng",
+      "pinyinNum": "fen1 zhong1",
+      "hanViet": "phân chung",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "phút (khoảng thời gian)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他看了十*分钟*电视。",
+          "vi": "Anh ấy xem tivi 10 phút.",
+          "py": "Tā kàn le shí *fēnzhōng* diànshì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dian3"
+      ],
+      "check": true
+    },
+    {
+      "id": "xian4zai4",
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "pinyinNum": "xian4 zai4",
+      "hanViet": "hiện tại",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "bây giờ, hiện nay"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*现在*在医院。",
+          "vi": "Bây giờ tôi đang ở bệnh viện.",
+          "py": "Wǒ *xiànzài* zài yīyuàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jin1tian1",
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "pinyinNum": "jin1 tian1",
+      "hanViet": "kim thiên",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "hôm nay"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*今天*星期几？",
+          "vi": "Hôm nay thứ mấy?",
+          "py": "*Jīntiān* xīngqī jǐ?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ming2tian1",
+        "zuo2tian1"
+      ],
+      "check": false
+    },
+    {
+      "id": "ming2tian1",
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "pinyinNum": "ming2 tian1",
+      "hanViet": "minh thiên",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "ngày mai"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*明天*我去北京。",
+          "vi": "Ngày mai tôi đi Bắc Kinh.",
+          "py": "*Míngtiān* wǒ qù Běijīng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zuo2tian1",
+        "jin1tian1"
+      ],
+      "check": false
+    },
+    {
+      "id": "zuo2tian1",
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "pinyinNum": "zuo2 tian1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "hôm qua"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*昨天*下雨了。",
+          "vi": "Hôm qua trời mưa.",
+          "py": "*Zuótiān* xiàyǔ le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ming2tian1",
+        "jin1tian1"
+      ],
+      "check": true
+    },
+    {
+      "id": "nian2",
+      "hanzi": "年",
+      "pinyin": "nián",
+      "pinyinNum": "nian2",
+      "hanViet": "nên",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "năm"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我在中国住了三*年*。",
+          "vi": "Tôi đã sống ở Trung Quốc ba năm.",
+          "py": "Wǒ zài Zhōngguó zhù le sān *nián*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yue4"
+      ],
+      "check": true
+    },
+    {
+      "id": "yue4",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "pinyinNum": "yue4",
+      "hanViet": "nguyệt",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "tháng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "轮"
+      ],
+      "examples": [
+        {
+          "zh": "一年有十二个*月*。",
+          "vi": "Một năm có mười hai tháng.",
+          "py": "Yì nián yǒu shí èr ge *yuè*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nian2"
+      ],
+      "check": false
+    },
+    {
+      "id": "ri4",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "pinyinNum": "ri4",
+      "hanViet": "nhật",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "ngày (khi viết ngày tháng)"
+      ],
+      "usage": "Văn viết dùng 日; khẩu ngữ thường dùng 号 (HSK 2): 十月一号.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天是十月一*日*。",
+          "vi": "Hôm nay là ngày 1 tháng 10.",
+          "py": "Jīntiān shì shí yuè yī *rì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xing1qi1",
+      "hanzi": "星期",
+      "pinyin": "xīngqī",
+      "pinyinNum": "xing1 qi1",
+      "hanViet": "tinh kì",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "tuần",
+        "thứ (星期一 = thứ Hai)"
+      ],
+      "usage": "星期一 là thứ Hai, 星期六 là thứ Bảy: số sau 星期 nhỏ hơn số thứ tiếng Việt 1 đơn vị. Chủ nhật là 星期日.",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*星期*六我不工作。",
+          "vi": "Thứ Bảy tôi không làm việc.",
+          "py": "*Xīngqī* liù wǒ bù gōngzuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shang4wu3",
+      "hanzi": "上午",
+      "pinyin": "shàngwǔ",
+      "pinyinNum": "shang4 wu3",
+      "hanViet": "thượng ngọ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "buổi sáng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我*上午*在学校学习。",
+          "vi": "Buổi sáng tôi học ở trường.",
+          "py": "Wǒ *shàngwǔ* zài xuéxiào xuéxí."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xia4wu3",
+        "zhong1wu3"
+      ],
+      "check": false
+    },
+    {
+      "id": "zhong1wu3",
+      "hanzi": "中午",
+      "pinyin": "zhōngwǔ",
+      "pinyinNum": "zhong1 wu3",
+      "hanViet": "trung ngọ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "buổi trưa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*中午*你想吃什么？",
+          "vi": "Buổi trưa bạn muốn ăn gì?",
+          "py": "*Zhōngwǔ* nǐ xiǎng chī shénme?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shang4wu3",
+        "xia4wu3"
+      ],
+      "check": false
+    },
+    {
+      "id": "xia4wu3",
+      "hanzi": "下午",
+      "pinyin": "xiàwǔ",
+      "pinyinNum": "xia4 wu3",
+      "hanViet": "hạ ngọ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "buổi chiều"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*下午*我想去商店。",
+          "vi": "Buổi chiều tôi muốn đi cửa hàng.",
+          "py": "*Xiàwǔ* wǒ xiǎng qù shāngdiàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shang4wu3",
+        "zhong1wu3"
+      ],
+      "check": false
+    },
+    {
+      "id": "shi2hou",
+      "hanzi": "时候",
+      "pinyin": "shíhou",
+      "pinyinNum": "shi2 hou",
+      "hanViet": "thì hầu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "lúc, khi"
+      ],
+      "usage": "...的时候 = khi ...; 什么时候 = khi nào.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你什么*时候*去中国？",
+          "vi": "Khi nào bạn đi Trung Quốc?",
+          "py": "Nǐ shénme *shíhou* qù Zhōngguó?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我买了三{0}书。",
+      "options": [
+        "本",
+        "个",
+        "块",
+        "岁"
+      ],
+      "answer": "本",
+      "targets": [
+        "ben3"
+      ],
+      "explanation": "Lượng từ của sách là 本.",
+      "id": "hsk1-so-dem-thoi-gian-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "你女儿几{0}了？",
+      "options": [
+        "岁",
+        "年",
+        "点",
+        "月"
+      ],
+      "answer": "岁",
+      "targets": [
+        "sui4"
+      ],
+      "explanation": "Hỏi tuổi: 几岁.",
+      "id": "hsk1-so-dem-thoi-gian-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "现在下午三{0}。",
+      "options": [
+        "点",
+        "分钟",
+        "年",
+        "日"
+      ],
+      "answer": "点",
+      "targets": [
+        "dian3"
+      ],
+      "explanation": "Thời điểm dùng 点; 分钟 là khoảng thời gian.",
+      "id": "hsk1-so-dem-thoi-gian-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我看了二十{0}电视。",
+      "options": [
+        "分钟",
+        "点",
+        "时候",
+        "星期"
+      ],
+      "answer": "分钟",
+      "targets": [
+        "fen1zhong1"
+      ],
+      "explanation": "Khoảng thời gian dùng 分钟.",
+      "id": "hsk1-so-dem-thoi-gian-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "今天星期一，{0}星期二。",
+      "options": [
+        "明天",
+        "昨天",
+        "现在",
+        "上午"
+      ],
+      "answer": "明天",
+      "targets": [
+        "ming2tian1"
+      ],
+      "explanation": "Thứ Hai rồi đến thứ Ba: ngày mai.",
+      "id": "hsk1-so-dem-thoi-gian-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "你什么{0}回家？",
+      "options": [
+        "时候",
+        "现在",
+        "点",
+        "年"
+      ],
+      "answer": "时候",
+      "targets": [
+        "shi2hou"
+      ],
+      "explanation": "什么时候 = khi nào.",
+      "id": "hsk1-so-dem-thoi-gian-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "明天",
+        "去",
+        "北京"
+      ],
+      "answers": [
+        [
+          "我",
+          "明天",
+          "去",
+          "北京"
+        ],
+        [
+          "明天",
+          "我",
+          "去",
+          "北京"
+        ]
+      ],
+      "targets": [
+        "ming2tian1"
+      ],
+      "vi": "Ngày mai tôi đi Bắc Kinh.",
+      "id": "hsk1-so-dem-thoi-gian-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "今天",
+        "是",
+        "十月",
+        "一日"
+      ],
+      "answers": [
+        [
+          "今天",
+          "是",
+          "十月",
+          "一日"
+        ]
+      ],
+      "targets": [
+        "jin1tian1",
+        "ri4"
+      ],
+      "vi": "Hôm nay là ngày 1 tháng 10.",
+      "id": "hsk1-so-dem-thoi-gian-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "在",
+        "中国",
+        "住了",
+        "三年"
+      ],
+      "answers": [
+        [
+          "我",
+          "在",
+          "中国",
+          "住了",
+          "三年"
+        ]
+      ],
+      "targets": [
+        "nian2"
+      ],
+      "vi": "Tôi đã sống ở Trung Quốc ba năm.",
+      "id": "hsk1-so-dem-thoi-gian-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "女儿",
+        "几",
+        "岁",
+        "了"
+      ],
+      "answers": [
+        [
+          "你",
+          "女儿",
+          "几",
+          "岁",
+          "了"
+        ]
+      ],
+      "targets": [
+        "sui4"
+      ],
+      "vi": "Con gái bạn mấy tuổi rồi?",
+      "id": "hsk1-so-dem-thoi-gian-order-04"
+    }
+  ]
+}
