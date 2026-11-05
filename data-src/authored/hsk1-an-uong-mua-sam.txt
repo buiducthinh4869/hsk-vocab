@@ -1,0 +1,52 @@
+# id: hsk1-an-uong-mua-sam
+# level: 1
+# title: Ăn uống, mua sắm
+# order: 4
+@吃 | ăn | c: 喝
+- 你*吃*米饭吗？ = Bạn có ăn cơm không?
+@喝 | uống | c: 吃
+- 你想*喝*茶吗？ = Bạn có muốn uống trà không?
+@菜 | món ăn, thức ăn; rau
+- 这个*菜*叫什么名字？ = Món này tên là gì?
+@茶 | trà, chè
+- 中国人很喜欢喝*茶*。 = Người Trung Quốc rất thích uống trà.
+@水 | nước | c: 水果
+- 桌子上有*水*。 = Trên bàn có nước.
+@米饭 | cơm (gạo nấu chín)
+- 我中午吃*米饭*。 = Buổi trưa tôi ăn cơm.
+@水果 | hoa quả, trái cây | c: 水 苹果
+- 你喜欢吃什么*水果*？ = Bạn thích ăn hoa quả gì?
+@苹果 | quả táo | c: 水果
+- 我买了三个*苹果*。 = Tôi đã mua ba quả táo.
+@杯子 | cái cốc, cái ly
+- 桌子上有一个*杯子*。 = Trên bàn có một cái cốc.
+@饭馆 | quán ăn, nhà hàng
+- 我在*饭馆*工作。 = Tôi làm việc ở nhà hàng.
+@钱 | tiền
+- 我没有*钱*了。 = Tôi hết tiền rồi.
+@买 | mua
+- 你想*买*什么？ = Bạn muốn mua gì?
+@东西 | đồ, đồ vật | hv: đông tây | u: 东西 (dōngxi, xi đọc nhẹ) là đồ vật; 东 và 西 đứng riêng là hướng đông, tây.
+- 我去商店买*东西*。 = Tôi đi cửa hàng mua đồ.
+@衣服 | quần áo
+- 她的*衣服*很漂亮。 = Quần áo của cô ấy rất đẹp.
+@商店 | cửa hàng
+- *商店*里有很多水果。 = Trong cửa hàng có nhiều hoa quả.
+@桌子 | cái bàn | c: 椅子
+- 书在*桌子*上。 = Sách ở trên bàn.
+@椅子 | cái ghế | c: 桌子
+- 这个*椅子*很小。 = Cái ghế này rất nhỏ.
+@电脑 | máy tính | c: 电视
+- 他在*电脑*上看电影。 = Anh ấy xem phim trên máy tính.
+@电视 | ti vi, truyền hình | c: 电影 电脑
+- 我爸爸喜欢看*电视*。 = Bố tôi thích xem ti vi.
+@电影 | phim, điện ảnh | c: 电视
+- 我们明天去看*电影*。 = Ngày mai chúng tôi đi xem phim.
+F 我中午想{0}米饭。 | 吃* 喝 读 写 | e: Ăn cơm: 吃米饭; 喝 dùng cho đồ uống.
+F 我们去看{0}。 | 电影* 米饭 桌子 椅子 | e: 看电影 = xem phim.
+F 这本书三块{0}。 | 钱* 东西 菜 水 | e: Nói giá: 三块钱.
+F 我去{0}买东西。 | 商店* 学校 医院 饭馆 | e: Mua đồ ở cửa hàng.
+F 我喜欢喝{0}。 | 茶* 米饭 苹果 菜 | e: 喝 đi với đồ uống: 喝茶, 喝水.
+O 你 想 喝 什么 | vi: Bạn muốn uống gì? | t: 喝
+O 我 去 商店 买 衣服 | vi: Tôi đi cửa hàng mua quần áo. | t: 商店 买 衣服
+O 桌子 上 有 一个 电脑 | vi: Trên bàn có một cái máy tính. | t: 桌子 电脑

@@ -1,0 +1,789 @@
+{
+  "id": "hsk1-an-uong-mua-sam",
+  "level": 1,
+  "title": "Ăn uống, mua sắm",
+  "order": 4,
+  "words": [
+    {
+      "id": "chi1",
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "pinyinNum": "chi1",
+      "hanViet": "khật",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ăn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*吃*米饭吗？",
+          "vi": "Bạn có ăn cơm không?",
+          "py": "Nǐ *chī* mǐfàn ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "he1"
+      ],
+      "check": true
+    },
+    {
+      "id": "he1",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "pinyinNum": "he1",
+      "hanViet": "hát",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "uống"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你想*喝*茶吗？",
+          "vi": "Bạn có muốn uống trà không?",
+          "py": "Nǐ xiǎng *hē* chá ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "chi1"
+      ],
+      "check": false
+    },
+    {
+      "id": "cai4",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "pinyinNum": "cai4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "món ăn, thức ăn",
+        "rau"
+      ],
+      "usage": "",
+      "measureWords": [
+        "盘",
+        "道"
+      ],
+      "examples": [
+        {
+          "zh": "这个*菜*叫什么名字？",
+          "vi": "Món này tên là gì?",
+          "py": "Zhège *cài* jiào shénme míngzi?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "cha2",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "pinyinNum": "cha2",
+      "hanViet": "trà",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "trà, chè"
+      ],
+      "usage": "",
+      "measureWords": [
+        "杯",
+        "壶"
+      ],
+      "examples": [
+        {
+          "zh": "中国人很喜欢喝*茶*。",
+          "vi": "Người Trung Quốc rất thích uống trà.",
+          "py": "Zhōngguó rén hěn xǐhuan hē *chá*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shui3",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "pinyinNum": "shui3",
+      "hanViet": "thuỷ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "nước"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "桌子上有*水*。",
+          "vi": "Trên bàn có nước.",
+          "py": "Zhuōzi shàng yǒu *shuǐ*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shui3guo3"
+      ],
+      "check": false
+    },
+    {
+      "id": "mi3fan4",
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "pinyinNum": "mi3 fan4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "cơm (gạo nấu chín)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我中午吃*米饭*。",
+          "vi": "Buổi trưa tôi ăn cơm.",
+          "py": "Wǒ zhōngwǔ chī *mǐfàn*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "shui3guo3",
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "pinyinNum": "shui3 guo3",
+      "hanViet": "thuỷ quả",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "hoa quả, trái cây"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你喜欢吃什么*水果*？",
+          "vi": "Bạn thích ăn hoa quả gì?",
+          "py": "Nǐ xǐhuan chī shénme *shuǐguǒ*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shui3",
+        "ping2guo3"
+      ],
+      "check": false
+    },
+    {
+      "id": "ping2guo3",
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "pinyinNum": "ping2 guo3",
+      "hanViet": "tần quả",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "quả táo"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "颗"
+      ],
+      "examples": [
+        {
+          "zh": "我买了三个*苹果*。",
+          "vi": "Tôi đã mua ba quả táo.",
+          "py": "Wǒ mǎi le sān ge *píngguǒ*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shui3guo3"
+      ],
+      "check": false
+    },
+    {
+      "id": "bei1zi",
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "pinyinNum": "bei1 zi",
+      "hanViet": "bôi tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "cái cốc, cái ly"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "桌子上有一个*杯子*。",
+          "vi": "Trên bàn có một cái cốc.",
+          "py": "Zhuōzi shàng yǒu yí ge *bēizi*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "fan4guan3",
+      "hanzi": "饭馆",
+      "pinyin": "fànguǎn",
+      "pinyinNum": "fan4 guan3",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "quán ăn, nhà hàng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "家"
+      ],
+      "examples": [
+        {
+          "zh": "我在*饭馆*工作。",
+          "vi": "Tôi làm việc ở nhà hàng.",
+          "py": "Wǒ zài *fànguǎn* gōngzuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "qian2",
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "pinyinNum": "qian2",
+      "hanViet": "tiền",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "tiền"
+      ],
+      "usage": "",
+      "measureWords": [
+        "笔"
+      ],
+      "examples": [
+        {
+          "zh": "我没有*钱*了。",
+          "vi": "Tôi hết tiền rồi.",
+          "py": "Wǒ méi yǒu *qián* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "mai3",
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "pinyinNum": "mai3",
+      "hanViet": "mãi",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "mua"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你想*买*什么？",
+          "vi": "Bạn muốn mua gì?",
+          "py": "Nǐ xiǎng *mǎi* shénme?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "dong1xi",
+      "hanzi": "东西",
+      "pinyin": "dōngxi",
+      "pinyinNum": "dong1 xi",
+      "hanViet": "đông tây",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "đồ, đồ vật"
+      ],
+      "usage": "东西 (dōngxi, xi đọc nhẹ) là đồ vật; 东 và 西 đứng riêng là hướng đông, tây.",
+      "measureWords": [
+        "个",
+        "件"
+      ],
+      "examples": [
+        {
+          "zh": "我去商店买*东西*。",
+          "vi": "Tôi đi cửa hàng mua đồ.",
+          "py": "Wǒ qù shāngdiàn mǎi *dōngxi*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "yi1fu",
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "pinyinNum": "yi1 fu",
+      "hanViet": "y phục",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "quần áo"
+      ],
+      "usage": "",
+      "measureWords": [
+        "件",
+        "套"
+      ],
+      "examples": [
+        {
+          "zh": "她的*衣服*很漂亮。",
+          "vi": "Quần áo của cô ấy rất đẹp.",
+          "py": "Tā de *yīfu* hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shang1dian4",
+      "hanzi": "商店",
+      "pinyin": "shāngdiàn",
+      "pinyinNum": "shang1 dian4",
+      "hanViet": "thương điếm",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "cửa hàng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "家",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*商店*里有很多水果。",
+          "vi": "Trong cửa hàng có nhiều hoa quả.",
+          "py": "*Shāngdiàn* lǐ yǒu hěn duō shuǐguǒ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhuo1zi",
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "pinyinNum": "zhuo1 zi",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "cái bàn"
+      ],
+      "usage": "",
+      "measureWords": [
+        "张",
+        "套"
+      ],
+      "examples": [
+        {
+          "zh": "书在*桌子*上。",
+          "vi": "Sách ở trên bàn.",
+          "py": "Shū zài *zhuōzi* shàng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi3zi"
+      ],
+      "check": true
+    },
+    {
+      "id": "yi3zi",
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "pinyinNum": "yi3 zi",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "cái ghế"
+      ],
+      "usage": "",
+      "measureWords": [
+        "把",
+        "套"
+      ],
+      "examples": [
+        {
+          "zh": "这个*椅子*很小。",
+          "vi": "Cái ghế này rất nhỏ.",
+          "py": "Zhège *yǐzi* hěn xiǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhuo1zi"
+      ],
+      "check": true
+    },
+    {
+      "id": "dian4nao3",
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "pinyinNum": "dian4 nao3",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "máy tính"
+      ],
+      "usage": "",
+      "measureWords": [
+        "台"
+      ],
+      "examples": [
+        {
+          "zh": "他在*电脑*上看电影。",
+          "vi": "Anh ấy xem phim trên máy tính.",
+          "py": "Tā zài *diànnǎo* shàng kàn diànyǐng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dian4shi4"
+      ],
+      "check": true
+    },
+    {
+      "id": "dian4shi4",
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "pinyinNum": "dian4 shi4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "ti vi, truyền hình"
+      ],
+      "usage": "",
+      "measureWords": [
+        "台",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我爸爸喜欢看*电视*。",
+          "vi": "Bố tôi thích xem ti vi.",
+          "py": "Wǒ bàba xǐhuan kàn *diànshì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dian4ying3",
+        "dian4nao3"
+      ],
+      "check": true
+    },
+    {
+      "id": "dian4ying3",
+      "hanzi": "电影",
+      "pinyin": "diànyǐng",
+      "pinyinNum": "dian4 ying3",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "phim, điện ảnh"
+      ],
+      "usage": "",
+      "measureWords": [
+        "部",
+        "片",
+        "幕",
+        "场"
+      ],
+      "examples": [
+        {
+          "zh": "我们明天去看*电影*。",
+          "vi": "Ngày mai chúng tôi đi xem phim.",
+          "py": "Wǒmen míngtiān qù kàn *diànyǐng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dian4shi4"
+      ],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我中午想{0}米饭。",
+      "options": [
+        "吃",
+        "喝",
+        "读",
+        "写"
+      ],
+      "answer": "吃",
+      "targets": [
+        "chi1"
+      ],
+      "explanation": "Ăn cơm: 吃米饭; 喝 dùng cho đồ uống.",
+      "id": "hsk1-an-uong-mua-sam-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "我们去看{0}。",
+      "options": [
+        "电影",
+        "米饭",
+        "桌子",
+        "椅子"
+      ],
+      "answer": "电影",
+      "targets": [
+        "dian4ying3"
+      ],
+      "explanation": "看电影 = xem phim.",
+      "id": "hsk1-an-uong-mua-sam-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "这本书三块{0}。",
+      "options": [
+        "钱",
+        "东西",
+        "菜",
+        "水"
+      ],
+      "answer": "钱",
+      "targets": [
+        "qian2"
+      ],
+      "explanation": "Nói giá: 三块钱.",
+      "id": "hsk1-an-uong-mua-sam-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我去{0}买东西。",
+      "options": [
+        "商店",
+        "学校",
+        "医院",
+        "饭馆"
+      ],
+      "answer": "商店",
+      "targets": [
+        "shang1dian4"
+      ],
+      "explanation": "Mua đồ ở cửa hàng.",
+      "id": "hsk1-an-uong-mua-sam-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "我喜欢喝{0}。",
+      "options": [
+        "茶",
+        "米饭",
+        "苹果",
+        "菜"
+      ],
+      "answer": "茶",
+      "targets": [
+        "cha2"
+      ],
+      "explanation": "喝 đi với đồ uống: 喝茶, 喝水.",
+      "id": "hsk1-an-uong-mua-sam-fill-05"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "想",
+        "喝",
+        "什么"
+      ],
+      "answers": [
+        [
+          "你",
+          "想",
+          "喝",
+          "什么"
+        ]
+      ],
+      "targets": [
+        "he1"
+      ],
+      "vi": "Bạn muốn uống gì?",
+      "id": "hsk1-an-uong-mua-sam-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "去",
+        "商店",
+        "买",
+        "衣服"
+      ],
+      "answers": [
+        [
+          "我",
+          "去",
+          "商店",
+          "买",
+          "衣服"
+        ]
+      ],
+      "targets": [
+        "shang1dian4",
+        "mai3",
+        "yi1fu"
+      ],
+      "vi": "Tôi đi cửa hàng mua quần áo.",
+      "id": "hsk1-an-uong-mua-sam-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "桌子",
+        "上",
+        "有",
+        "一个",
+        "电脑"
+      ],
+      "answers": [
+        [
+          "桌子",
+          "上",
+          "有",
+          "一个",
+          "电脑"
+        ]
+      ],
+      "targets": [
+        "zhuo1zi",
+        "dian4nao3"
+      ],
+      "vi": "Trên bàn có một cái máy tính.",
+      "id": "hsk1-an-uong-mua-sam-order-03"
+    }
+  ]
+}
