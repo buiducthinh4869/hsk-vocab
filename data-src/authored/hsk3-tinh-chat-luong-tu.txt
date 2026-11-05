@@ -1,0 +1,78 @@
+# id: hsk3-tinh-chat-luong-tu
+# level: 3
+# title: Tính chất, màu sắc, lượng từ
+# order: 9
+@黄 huáng | vàng (màu) | c: 红
+- 香蕉是*黄*的。 = Chuối màu vàng.
+@蓝 lán | xanh lam, xanh da trời | c: 绿
+- 这条*蓝*裙子很漂亮。 = Chiếc váy xanh này rất đẹp.
+@绿 | xanh lá cây | c: 蓝
+- 春天来了，树都*绿*了。 = Mùa xuân đến, cây đều xanh.
+@短 | ngắn | c: 长 矮
+- 这条裤子太*短*了。 = Cái quần này ngắn quá.
+@低 | thấp | u: Người thấp thường dùng 矮; vật ở vị trí thấp, mức độ thấp dùng 低. | c: 矮
+- 这张桌子太*低*了。 = Cái bàn này thấp quá.
+@久 | lâu
+- 你在中国住了多*久*？ = Bạn sống ở Trung Quốc bao lâu rồi?
+@旧 | cũ | c: 老 新
+- 这个手机很*旧*了，我想换一个新的。 = Cái điện thoại này cũ rồi, tôi muốn đổi cái mới.
+@老 | già; cũ, lâu năm | u: 老 dùng cho người, quan hệ lâu năm (老朋友); đồ vật cũ thường dùng 旧. | c: 旧
+- 他是我的*老*朋友。 = Anh ấy là bạn cũ của tôi.
+- 爷爷*老*了。 = Ông đã già rồi.
+@安静 | yên tĩnh, yên lặng
+- 图书馆里很*安静*。 = Trong thư viện rất yên tĩnh.
+@简单 | đơn giản | c: 容易
+- 这个题很*简单*。 = Câu này rất đơn giản.
+@容易 | dễ; dễ (bị) | u: 容易 + động từ = dễ làm gì; cũng có nghĩa dễ bị: 冬天容易感冒. | c: 简单 难
+- 这个字不*容易*写。 = Chữ này không dễ viết.
+@难 nán | khó | c: 容易 难过
+- 汉语*难*吗？ = Tiếng Trung có khó không?
+@方便 | tiện, thuận tiện
+- 你明天*方便*吗？ = Mai bạn có tiện không?
+@重要 | quan trọng | c: 主要
+- 健康最*重要*。 = Sức khỏe là quan trọng nhất.
+@主要 | chủ yếu, chính | c: 重要
+- 我来北京*主要*是学习汉语。 = Tôi đến Bắc Kinh chủ yếu để học tiếng Trung.
+@特别 | đặc biệt
+- 今天*特别*冷。 = Hôm nay đặc biệt lạnh.
+@相同 | giống nhau, như nhau | u: 相同 trang trọng hơn 一样, thường đứng trước danh từ hoặc làm vị ngữ. | c: 一样
+- 我们的爱好*相同*。 = Sở thích của chúng tôi giống nhau.
+@一样 | giống, như nhau | u: A 和 B 一样 + tính từ: 我和他一样高 = tôi cao bằng anh ấy. | c: 相同
+- 我和我哥哥*一样*高。 = Tôi cao bằng anh trai.
+@一般 | thông thường, thường; bình thường | c: 一样
+- 我*一般*晚上十一点睡觉。 = Tôi thường đi ngủ lúc 11 giờ tối.
+- 这个饭馆的菜很*一般*。 = Món ở quán này bình thường thôi.
+@段 | đoạn, quãng (thời gian, đường)
+- 这*段*时间我很忙。 = Thời gian này tôi rất bận.
+@条 | con, chiếc, cái (lượng từ cho vật dài: cá, quần, đường, sông)
+- 我买了两*条*鱼。 = Tôi mua hai con cá.
+@位 | vị, người (lượng từ lịch sự cho người) | c: 个
+- 这*位*是我们的新老师。 = Vị này là thầy giáo mới của chúng tôi.
+@口 | miệng; khẩu (lượng từ đếm người trong nhà) | u: Đếm người trong gia đình: 我家有四口人.
+- 我家有四*口*人。 = Nhà tôi có bốn người.
+@种 zhǒng | loại, kiểu | u: Còn đọc zhòng nghĩa là trồng (种树).
+- 这*种*水果叫什么？ = Loại quả này tên là gì?
+@角 jiǎo | hào (1/10 đồng); góc | u: Nói tiền: 三块五角; khẩu ngữ thường nói 三块五毛.
+- 这个苹果三块五*角*。 = Quả táo này 3 đồng 5 hào.
+@米 mǐ | mét; gạo | c: 米饭
+- 我家离学校五百*米*。 = Nhà tôi cách trường 500 mét.
+@分 fēn | phút; điểm (số); chia | pos: mw n v | u: 八点十分 = 8 giờ 10 phút (thời điểm); khoảng thời gian dùng 分钟. | c: 分钟
+- 现在是八点十*分*。 = Bây giờ là 8 giờ 10 phút.
+- 我的数学成绩是九十*分*。 = Điểm toán của tôi là 90.
+@万 wàn | vạn, mười nghìn | u: 一万 = 10.000; 一百万 = 1.000.000. | c: 千
+- 这个城市有一百*万*人。 = Thành phố này có một triệu người.
+@差 chà | kém; thiếu | u: Nói giờ kém: 差五分八点 = 8 giờ kém 5.
+- 现在*差*五分八点。 = Bây giờ là 8 giờ kém 5.
+- 他的成绩很*差*。 = Thành tích của anh ấy rất kém.
+F 我家有五{0}人。 | 口* 位 种 条 | e: Đếm người trong nhà dùng 口.
+F 我买了一{0}裤子。 | 条* 双 位 口 | e: Quần dùng lượng từ 条.
+F 这{0}老师很热情。 | 位* 口 条 段 | e: Lượng từ lịch sự cho người: 位.
+F 你在北京住了多{0}了？ | 久* 老 旧 低 | e: 多久 = bao lâu.
+F 我们的手机{0}，都是黑的。 | 一样* 简单 容易 方便 | e: 一样 = giống nhau.
+F 汉语不太{0}，你要多练习。 | 容易* 安静 绿 旧 | e: 不容易 = không dễ.
+F 这个手机太{0}了，我想买一个新的。 | 旧* 短 低 安静 | e: Đồ cũ dùng 旧.
+O 学校 离 我 家 五百 米 | vi: Trường cách nhà tôi 500 mét. | t: 米 | alt: 我 家 离 学校 五百 米
+O 图书馆 里 非常 安静 | vi: Trong thư viện vô cùng yên tĩnh. | t: 安静
+O 我 和 他 一样 高 | vi: Tôi cao bằng anh ấy. | t: 一样 | alt: 他 和 我 一样 高
+O 健康 比 钱 更 重要 | vi: Sức khỏe quan trọng hơn tiền. | t: 重要
+O 这 段 时间 我 特别 忙 | vi: Thời gian này tôi đặc biệt bận. | t: 段 特别 | alt: 我 这 段 时间 特别 忙

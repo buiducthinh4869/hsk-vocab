@@ -8,7 +8,7 @@
 - 我很*害怕*一个人在家。 = Tôi rất sợ ở nhà một mình.
 @生气 | tức giận, giận | c: 难过
 - 你为什么*生气*？ = Sao bạn giận?
-@难过 nánguò | buồn, buồn bã | c: 生气
+@难过 nánguò | buồn, buồn bã | c: 生气 难
 - 听到这个新闻，我很*难过*。 = Nghe tin này tôi rất buồn.
 @着急 zháojí | sốt ruột, cuống | c: 担心
 - 别*着急*，我们还有时间。 = Đừng sốt ruột, chúng ta vẫn còn thời gian.

@@ -38,7 +38,7 @@
 - 我的*脚*很大，买鞋很难。 = Chân tôi rất to, mua giày rất khó.
 @腿 | chân (từ hông xuống) | c: 脚
 - 爬山以后，我的*腿*很累。 = Leo núi xong, chân tôi rất mỏi.
-@矮 | thấp (người, vật) | u: Người thấp dùng 矮; giọng, nhiệt độ, mức thấp dùng 低. | c: 高
+@矮 | thấp (người, vật) | u: Người thấp dùng 矮; giọng, nhiệt độ, mức thấp dùng 低. | c: 低 高
 - 我比我哥哥*矮*。 = Tôi thấp hơn anh trai.
 @胖 pàng | béo, mập | c: 瘦
 - 他最近*胖*了。 = Dạo này anh ấy béo lên.

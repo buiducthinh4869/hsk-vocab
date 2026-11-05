@@ -1,0 +1,1172 @@
+{
+  "id": "hsk3-tinh-chat-luong-tu",
+  "level": 3,
+  "title": "Tính chất, màu sắc, lượng từ",
+  "order": 9,
+  "words": [
+    {
+      "id": "huang2",
+      "hanzi": "黄",
+      "pinyin": "huáng",
+      "pinyinNum": "huang2",
+      "hanViet": "hoàng",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "vàng (màu)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "香蕉是*黄*的。",
+          "vi": "Chuối màu vàng.",
+          "py": "Xiāngjiāo shì *huáng* de."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hong2"
+      ],
+      "check": false
+    },
+    {
+      "id": "lan2",
+      "hanzi": "蓝",
+      "pinyin": "lán",
+      "pinyinNum": "lan2",
+      "hanViet": "lam",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "xanh lam, xanh da trời"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这条*蓝*裙子很漂亮。",
+          "vi": "Chiếc váy xanh này rất đẹp.",
+          "py": "Zhè tiáo *lán* qúnzi hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "lü4"
+      ],
+      "check": false
+    },
+    {
+      "id": "lü4",
+      "hanzi": "绿",
+      "pinyin": "lǜ",
+      "pinyinNum": "lü4",
+      "hanViet": "lục",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "xanh lá cây"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "春天来了，树都*绿*了。",
+          "vi": "Mùa xuân đến, cây đều xanh.",
+          "py": "Chūntiān lái le, shù dōu *lǜ* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "lan2"
+      ],
+      "check": false
+    },
+    {
+      "id": "duan3",
+      "hanzi": "短",
+      "pinyin": "duǎn",
+      "pinyinNum": "duan3",
+      "hanViet": "đoản",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "ngắn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这条裤子太*短*了。",
+          "vi": "Cái quần này ngắn quá.",
+          "py": "Zhè tiáo kùzi tài *duǎn* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "chang2",
+        "ai3"
+      ],
+      "check": false
+    },
+    {
+      "id": "di1",
+      "hanzi": "低",
+      "pinyin": "dī",
+      "pinyinNum": "di1",
+      "hanViet": "đây",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "thấp"
+      ],
+      "usage": "Người thấp thường dùng 矮; vật ở vị trí thấp, mức độ thấp dùng 低.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这张桌子太*低*了。",
+          "vi": "Cái bàn này thấp quá.",
+          "py": "Zhè zhāng zhuōzi tài *dī* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ai3"
+      ],
+      "check": true
+    },
+    {
+      "id": "jiu3-2",
+      "hanzi": "久",
+      "pinyin": "jiǔ",
+      "pinyinNum": "jiu3",
+      "hanViet": "cửu",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "lâu"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你在中国住了多*久*？",
+          "vi": "Bạn sống ở Trung Quốc bao lâu rồi?",
+          "py": "Nǐ zài Zhōngguó zhù le duō *jiǔ*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jiu4-2",
+      "hanzi": "旧",
+      "pinyin": "jiù",
+      "pinyinNum": "jiu4",
+      "hanViet": null,
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "cũ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个手机很*旧*了，我想换一个新的。",
+          "vi": "Cái điện thoại này cũ rồi, tôi muốn đổi cái mới.",
+          "py": "Zhège shǒujī hěn *jiù* le, wǒ xiǎng huàn yí ge xīn de."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "lao3",
+        "xin1"
+      ],
+      "check": true
+    },
+    {
+      "id": "lao3",
+      "hanzi": "老",
+      "pinyin": "lǎo",
+      "pinyinNum": "lao3",
+      "hanViet": "lão",
+      "pos": [
+        "adj",
+        "adv"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "già",
+        "cũ, lâu năm"
+      ],
+      "usage": "老 dùng cho người, quan hệ lâu năm (老朋友); đồ vật cũ thường dùng 旧.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他是我的*老*朋友。",
+          "vi": "Anh ấy là bạn cũ của tôi.",
+          "py": "Tā shì wǒ de *lǎo* péngyou."
+        },
+        {
+          "zh": "爷爷*老*了。",
+          "vi": "Ông đã già rồi.",
+          "py": "Yéye *lǎo* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jiu4-2"
+      ],
+      "check": false
+    },
+    {
+      "id": "an1jing4",
+      "hanzi": "安静",
+      "pinyin": "ānjìng",
+      "pinyinNum": "an1 jing4",
+      "hanViet": null,
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "yên tĩnh, yên lặng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "图书馆里很*安静*。",
+          "vi": "Trong thư viện rất yên tĩnh.",
+          "py": "Túshūguǎn lǐ hěn *ānjìng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "jian3dan1",
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "pinyinNum": "jian3 dan1",
+      "hanViet": "giản đơn",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "đơn giản"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个题很*简单*。",
+          "vi": "Câu này rất đơn giản.",
+          "py": "Zhège tí hěn *jiǎndān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "rong2yi4"
+      ],
+      "check": false
+    },
+    {
+      "id": "rong2yi4",
+      "hanzi": "容易",
+      "pinyin": "róngyì",
+      "pinyinNum": "rong2 yi4",
+      "hanViet": "dung dịch",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "dễ",
+        "dễ (bị)"
+      ],
+      "usage": "容易 + động từ = dễ làm gì; cũng có nghĩa dễ bị: 冬天容易感冒.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个字不*容易*写。",
+          "vi": "Chữ này không dễ viết.",
+          "py": "Zhège zì bù *róngyì* xiě."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jian3dan1",
+        "nan2-2"
+      ],
+      "check": true
+    },
+    {
+      "id": "nan2-2",
+      "hanzi": "难",
+      "pinyin": "nán",
+      "pinyinNum": "nan2",
+      "hanViet": "nan",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "khó"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "汉语*难*吗？",
+          "vi": "Tiếng Trung có khó không?",
+          "py": "Hànyǔ *nán* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "rong2yi4",
+        "nan2guo4"
+      ],
+      "check": true
+    },
+    {
+      "id": "fang1bian4",
+      "hanzi": "方便",
+      "pinyin": "fāngbiàn",
+      "pinyinNum": "fang1 bian4",
+      "hanViet": "phương tiện",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tiện, thuận tiện"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你明天*方便*吗？",
+          "vi": "Mai bạn có tiện không?",
+          "py": "Nǐ míngtiān *fāngbiàn* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhong4yao4",
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "pinyinNum": "zhong4 yao4",
+      "hanViet": "trọng yếu",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "quan trọng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "健康最*重要*。",
+          "vi": "Sức khỏe là quan trọng nhất.",
+          "py": "Jiànkāng zuì *zhòngyào*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhu3yao4"
+      ],
+      "check": false
+    },
+    {
+      "id": "zhu3yao4",
+      "hanzi": "主要",
+      "pinyin": "zhǔyào",
+      "pinyinNum": "zhu3 yao4",
+      "hanViet": "chúa yếu",
+      "pos": [
+        "adj",
+        "adv"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "chủ yếu, chính"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我来北京*主要*是学习汉语。",
+          "vi": "Tôi đến Bắc Kinh chủ yếu để học tiếng Trung.",
+          "py": "Wǒ lái Běijīng *zhǔyào* shì xuéxí Hànyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhong4yao4"
+      ],
+      "check": true
+    },
+    {
+      "id": "te4bie2",
+      "hanzi": "特别",
+      "pinyin": "tèbié",
+      "pinyinNum": "te4 bie2",
+      "hanViet": "đặc biết",
+      "pos": [
+        "adv",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đặc biệt"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天*特别*冷。",
+          "vi": "Hôm nay đặc biệt lạnh.",
+          "py": "Jīntiān *tèbié* lěng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xiang1tong2",
+      "hanzi": "相同",
+      "pinyin": "xiāngtóng",
+      "pinyinNum": "xiang1 tong2",
+      "hanViet": "tương đồng",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "giống nhau, như nhau"
+      ],
+      "usage": "相同 trang trọng hơn 一样, thường đứng trước danh từ hoặc làm vị ngữ.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们的爱好*相同*。",
+          "vi": "Sở thích của chúng tôi giống nhau.",
+          "py": "Wǒmen de àihào *xiāngtóng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi1yang4"
+      ],
+      "check": false
+    },
+    {
+      "id": "yi1yang4",
+      "hanzi": "一样",
+      "pinyin": "yīyàng",
+      "pinyinNum": "yi1 yang4",
+      "hanViet": "nhất dạng",
+      "pos": [
+        "part",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "giống, như nhau"
+      ],
+      "usage": "A 和 B 一样 + tính từ: 我和他一样高 = tôi cao bằng anh ấy.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我和我哥哥*一样*高。",
+          "vi": "Tôi cao bằng anh trai.",
+          "py": "Wǒ hé wǒ gēge *yíyàng* gāo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xiang1tong2"
+      ],
+      "check": false
+    },
+    {
+      "id": "yi1ban1",
+      "hanzi": "一般",
+      "pinyin": "yībān",
+      "pinyinNum": "yi1 ban1",
+      "hanViet": "nhất bàn",
+      "pos": [
+        "adj",
+        "part"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "thông thường, thường",
+        "bình thường"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*一般*晚上十一点睡觉。",
+          "vi": "Tôi thường đi ngủ lúc 11 giờ tối.",
+          "py": "Wǒ *yìbān* wǎnshang shí yī diǎn shuìjiào."
+        },
+        {
+          "zh": "这个饭馆的菜很*一般*。",
+          "vi": "Món ở quán này bình thường thôi.",
+          "py": "Zhège fànguǎn de cài hěn *yìbān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi1yang4"
+      ],
+      "check": false
+    },
+    {
+      "id": "duan4",
+      "hanzi": "段",
+      "pinyin": "duàn",
+      "pinyinNum": "duan4",
+      "hanViet": "đoạn",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đoạn, quãng (thời gian, đường)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这*段*时间我很忙。",
+          "vi": "Thời gian này tôi rất bận.",
+          "py": "Zhè *duàn* shíjiān wǒ hěn máng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "tiao2",
+      "hanzi": "条",
+      "pinyin": "tiáo",
+      "pinyinNum": "tiao2",
+      "hanViet": "điều",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "con, chiếc, cái (lượng từ cho vật dài: cá, quần, đường, sông)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我买了两*条*鱼。",
+          "vi": "Tôi mua hai con cá.",
+          "py": "Wǒ mǎi le liǎng *tiáo* yú."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "wei4-3",
+      "hanzi": "位",
+      "pinyin": "wèi",
+      "pinyinNum": "wei4",
+      "hanViet": "vị",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "vị, người (lượng từ lịch sự cho người)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这*位*是我们的新老师。",
+          "vi": "Vị này là thầy giáo mới của chúng tôi.",
+          "py": "Zhè *wèi* shì wǒmen de xīn lǎoshī."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ge4"
+      ],
+      "check": false
+    },
+    {
+      "id": "kou3",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "pinyinNum": "kou3",
+      "hanViet": "khẩu",
+      "pos": [
+        "mw",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "miệng",
+        "khẩu (lượng từ đếm người trong nhà)"
+      ],
+      "usage": "Đếm người trong gia đình: 我家有四口人.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我家有四*口*人。",
+          "vi": "Nhà tôi có bốn người.",
+          "py": "Wǒ jiā yǒu sì *kǒu* rén."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhong3",
+      "hanzi": "种",
+      "pinyin": "zhǒng",
+      "pinyinNum": "zhong3",
+      "hanViet": "chõng",
+      "pos": [
+        "mw",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "loại, kiểu"
+      ],
+      "usage": "Còn đọc zhòng nghĩa là trồng (种树).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这*种*水果叫什么？",
+          "vi": "Loại quả này tên là gì?",
+          "py": "Zhè *zhǒng* shuǐguǒ jiào shénme?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "jiao3-2",
+      "hanzi": "角",
+      "pinyin": "jiǎo",
+      "pinyinNum": "jiao3",
+      "hanViet": "góc",
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "hào (1/10 đồng)",
+        "góc"
+      ],
+      "usage": "Nói tiền: 三块五角; khẩu ngữ thường nói 三块五毛.",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "这个苹果三块五*角*。",
+          "vi": "Quả táo này 3 đồng 5 hào.",
+          "py": "Zhège píngguǒ sān kuài wǔ *jiǎo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "mi3",
+      "hanzi": "米",
+      "pinyin": "mǐ",
+      "pinyinNum": "mi3",
+      "hanViet": null,
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "mét",
+        "gạo"
+      ],
+      "usage": "",
+      "measureWords": [
+        "粒"
+      ],
+      "examples": [
+        {
+          "zh": "我家离学校五百*米*。",
+          "vi": "Nhà tôi cách trường 500 mét.",
+          "py": "Wǒ jiā lí xuéxiào wǔ bǎi *mǐ*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mi3fan4"
+      ],
+      "check": true
+    },
+    {
+      "id": "fen1",
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "pinyinNum": "fen1",
+      "hanViet": "phân",
+      "pos": [
+        "mw",
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "phút",
+        "điểm (số)",
+        "chia"
+      ],
+      "usage": "八点十分 = 8 giờ 10 phút (thời điểm); khoảng thời gian dùng 分钟.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "现在是八点十*分*。",
+          "vi": "Bây giờ là 8 giờ 10 phút.",
+          "py": "Xiànzài shì bā diǎn shí *fēn*."
+        },
+        {
+          "zh": "我的数学成绩是九十*分*。",
+          "vi": "Điểm toán của tôi là 90.",
+          "py": "Wǒ de shùxué chéngjì shì jiǔ shí *fēn*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "fen1zhong1"
+      ],
+      "check": true
+    },
+    {
+      "id": "wan4",
+      "hanzi": "万",
+      "pinyin": "wàn",
+      "pinyinNum": "wan4",
+      "hanViet": "vạn",
+      "pos": [
+        "num",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "vạn, mười nghìn"
+      ],
+      "usage": "一万 = 10.000; 一百万 = 1.000.000.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个城市有一百*万*人。",
+          "vi": "Thành phố này có một triệu người.",
+          "py": "Zhège chéngshì yǒu yì bǎi *wàn* rén."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qian1"
+      ],
+      "check": true
+    },
+    {
+      "id": "cha4",
+      "hanzi": "差",
+      "pinyin": "chà",
+      "pinyinNum": "cha4",
+      "hanViet": "sai",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "kém",
+        "thiếu"
+      ],
+      "usage": "Nói giờ kém: 差五分八点 = 8 giờ kém 5.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "现在*差*五分八点。",
+          "vi": "Bây giờ là 8 giờ kém 5.",
+          "py": "Xiànzài *chà* wǔ fēn bā diǎn."
+        },
+        {
+          "zh": "他的成绩很*差*。",
+          "vi": "Thành tích của anh ấy rất kém.",
+          "py": "Tā de chéngjì hěn *chà*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我家有五{0}人。",
+      "options": [
+        "口",
+        "位",
+        "种",
+        "条"
+      ],
+      "answer": "口",
+      "targets": [
+        "kou3"
+      ],
+      "explanation": "Đếm người trong nhà dùng 口.",
+      "id": "hsk3-tinh-chat-luong-tu-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "我买了一{0}裤子。",
+      "options": [
+        "条",
+        "双",
+        "位",
+        "口"
+      ],
+      "answer": "条",
+      "targets": [
+        "tiao2"
+      ],
+      "explanation": "Quần dùng lượng từ 条.",
+      "id": "hsk3-tinh-chat-luong-tu-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "这{0}老师很热情。",
+      "options": [
+        "位",
+        "口",
+        "条",
+        "段"
+      ],
+      "answer": "位",
+      "targets": [
+        "wei4-3"
+      ],
+      "explanation": "Lượng từ lịch sự cho người: 位.",
+      "id": "hsk3-tinh-chat-luong-tu-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "你在北京住了多{0}了？",
+      "options": [
+        "久",
+        "老",
+        "旧",
+        "低"
+      ],
+      "answer": "久",
+      "targets": [
+        "jiu3-2"
+      ],
+      "explanation": "多久 = bao lâu.",
+      "id": "hsk3-tinh-chat-luong-tu-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "我们的手机{0}，都是黑的。",
+      "options": [
+        "一样",
+        "简单",
+        "容易",
+        "方便"
+      ],
+      "answer": "一样",
+      "targets": [
+        "yi1yang4"
+      ],
+      "explanation": "一样 = giống nhau.",
+      "id": "hsk3-tinh-chat-luong-tu-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "汉语不太{0}，你要多练习。",
+      "options": [
+        "容易",
+        "安静",
+        "绿",
+        "旧"
+      ],
+      "answer": "容易",
+      "targets": [
+        "rong2yi4"
+      ],
+      "explanation": "不容易 = không dễ.",
+      "id": "hsk3-tinh-chat-luong-tu-fill-06"
+    },
+    {
+      "type": "fill",
+      "sentence": "这个手机太{0}了，我想买一个新的。",
+      "options": [
+        "旧",
+        "短",
+        "低",
+        "安静"
+      ],
+      "answer": "旧",
+      "targets": [
+        "jiu4-2"
+      ],
+      "explanation": "Đồ cũ dùng 旧.",
+      "id": "hsk3-tinh-chat-luong-tu-fill-07"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "学校",
+        "离",
+        "我",
+        "家",
+        "五百",
+        "米"
+      ],
+      "answers": [
+        [
+          "学校",
+          "离",
+          "我",
+          "家",
+          "五百",
+          "米"
+        ],
+        [
+          "我",
+          "家",
+          "离",
+          "学校",
+          "五百",
+          "米"
+        ]
+      ],
+      "targets": [
+        "mi3"
+      ],
+      "vi": "Trường cách nhà tôi 500 mét.",
+      "id": "hsk3-tinh-chat-luong-tu-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "图书馆",
+        "里",
+        "非常",
+        "安静"
+      ],
+      "answers": [
+        [
+          "图书馆",
+          "里",
+          "非常",
+          "安静"
+        ]
+      ],
+      "targets": [
+        "an1jing4"
+      ],
+      "vi": "Trong thư viện vô cùng yên tĩnh.",
+      "id": "hsk3-tinh-chat-luong-tu-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "和",
+        "他",
+        "一样",
+        "高"
+      ],
+      "answers": [
+        [
+          "我",
+          "和",
+          "他",
+          "一样",
+          "高"
+        ],
+        [
+          "他",
+          "和",
+          "我",
+          "一样",
+          "高"
+        ]
+      ],
+      "targets": [
+        "yi1yang4"
+      ],
+      "vi": "Tôi cao bằng anh ấy.",
+      "id": "hsk3-tinh-chat-luong-tu-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "健康",
+        "比",
+        "钱",
+        "更",
+        "重要"
+      ],
+      "answers": [
+        [
+          "健康",
+          "比",
+          "钱",
+          "更",
+          "重要"
+        ]
+      ],
+      "targets": [
+        "zhong4yao4"
+      ],
+      "vi": "Sức khỏe quan trọng hơn tiền.",
+      "id": "hsk3-tinh-chat-luong-tu-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这",
+        "段",
+        "时间",
+        "我",
+        "特别",
+        "忙"
+      ],
+      "answers": [
+        [
+          "这",
+          "段",
+          "时间",
+          "我",
+          "特别",
+          "忙"
+        ],
+        [
+          "我",
+          "这",
+          "段",
+          "时间",
+          "特别",
+          "忙"
+        ]
+      ],
+      "targets": [
+        "duan4",
+        "te4bie2"
+      ],
+      "vi": "Thời gian này tôi đặc biệt bận.",
+      "id": "hsk3-tinh-chat-luong-tu-order-05"
+    }
+  ]
+}
