@@ -141,7 +141,7 @@
     "Làm cả 124 từ HSK 1 còn thiếu (6 chủ đề đã được duyệt trước đó) trước HSK 2, để web đủ 150 / 147 / 298 mục. Không sửa chủ đề hsk1-chao-hoi.",
     "Số mục: HSK 2 = 147 vì 得, 还, 长 mỗi chữ một mục (quy tắc đã ghi trong SOURCES.md); HSK 3 = 298 theo bản làm việc (299 thẻ, 只 hai thẻ). Không tự thêm mục thứ 300 vì chưa xác minh được bằng PDF.",
     "只 (HSK 3): áp dụng cùng quy tắc với 得/还/长: một mục, âm zhǐ (phó từ); âm zhī (lượng từ) ghi ở usage; check: true.",
-    "Câu mẫu chỉ dùng từ có trong bảng ở cấp ≤ cấp chủ đề; build kiểm tra bằng tách từ theo bảng. Ngoại lệ ghi trong scripts/lib/lexicon.js (DERIVED): 你们, 他们, 她们 (cấp 1), 它们 (cấp 2), 这儿, 那儿, 哪儿 (cấp 1). Vì vậy câu mẫu tránh 说 (bảng chỉ có 说话), 天 đứng riêng, 过 (trợ từ), 一下, 一点儿.",
+    "Câu mẫu chỉ dùng từ có trong bảng ở cấp ≤ cấp chủ đề; build kiểm tra bằng tách từ theo bảng. Ngoại lệ ghi trong scripts/lib/lexicon.js (DERIVED): 你们, 他们, 她们 (cấp 1), 它们 (cấp 2), 这儿, 那儿, 哪儿, 这里, 那里, 哪里 (cấp 1). Vì vậy câu mẫu tránh 说 (bảng chỉ có 说话), 天 đứng riêng, 过 (trợ từ), 一下, 一点儿.",
     "Pinyin câu mẫu tự sinh từ pinyin của từng từ trong bảng; biến điệu 一, 不 ghi như HSK 1 (bú rènshi, yí ge); 个 ghi ge. Câu có chữ nhiều âm theo ngữ cảnh thì ghi pinyin bằng tay.",
     "HSK 2–3: pinyin của từ lấy từ bản làm việc (bỏ dạng viết hoa là họ / tên riêng). Chỉ đặt check: true về pinyin khi bản làm việc có nhiều âm và phải chọn một âm.",
     "Chủ đề hsk2-hu-tu có 19 từ (dưới 20) để giữ hư từ riêng; chủ đề HSK 3 phó từ / giới từ tách làm hai (20 và 19 từ).",
@@ -176,6 +176,11 @@
     "篮": "lam",
     "别": "biệt",
     "吧": "ba",
-    "为": "vị"
+    "为": "vị",
+    "校长": "hiệu trưởng",
+    "瘦": "sấu",
+    "胖": "bàn",
+    "敢": "cảm",
+    "哭": "khốc"
   }
 }

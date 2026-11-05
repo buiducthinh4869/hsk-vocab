@@ -249,7 +249,7 @@
       "confusables": [
         "shui3guo3"
       ],
-      "check": false
+      "check": true
     },
     {
       "id": "bei1zi",
@@ -280,7 +280,7 @@
       ],
       "textbooks": null,
       "confusables": [],
-      "check": false
+      "check": true
     },
     {
       "id": "fan4guan3",

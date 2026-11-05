@@ -1,0 +1,996 @@
+{
+  "id": "hsk3-con-nguoi",
+  "level": 3,
+  "title": "Con người, cơ thể",
+  "order": 1,
+  "words": [
+    {
+      "id": "a1yi2",
+      "hanzi": "阿姨",
+      "pinyin": "āyí",
+      "pinyinNum": "a1 yi2",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "cô, dì (gọi phụ nữ lớn tuổi)",
+        "người giúp việc"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*阿姨*，您好！",
+          "vi": "Cháu chào cô ạ!",
+          "py": "*Āyí*, nín hǎo!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shu1shu",
+        "nai3nai"
+      ],
+      "check": true
+    },
+    {
+      "id": "ye2ye",
+      "hanzi": "爷爷",
+      "pinyin": "yéye",
+      "pinyinNum": "ye2 ye",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "ông nội"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我*爷爷*八十岁了，身体还很好。",
+          "vi": "Ông nội tôi 80 tuổi rồi, sức khỏe vẫn rất tốt.",
+          "py": "Wǒ *yéye* bā shí suì le, shēntǐ hái hěn hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nai3nai"
+      ],
+      "check": true
+    },
+    {
+      "id": "nai3nai",
+      "hanzi": "奶奶",
+      "pinyin": "nǎinai",
+      "pinyinNum": "nai3 nai",
+      "hanViet": "nái nái",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "bà nội"
+      ],
+      "usage": "",
+      "measureWords": [
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "*奶奶*每个周末都给我打电话。",
+          "vi": "Cuối tuần nào bà nội cũng gọi điện cho tôi.",
+          "py": "*Nǎinai* měi ge zhōumò dōu gěi wǒ dǎdiànhuà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ye2ye",
+        "a1yi2"
+      ],
+      "check": true
+    },
+    {
+      "id": "shu1shu",
+      "hanzi": "叔叔",
+      "pinyin": "shūshu",
+      "pinyinNum": "shu1 shu",
+      "hanViet": "thúc thúc",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "chú (em trai của bố)",
+        "chú (gọi đàn ông lớn tuổi)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "那位*叔叔*是我爸爸的同事。",
+          "vi": "Chú kia là đồng nghiệp của bố tôi.",
+          "py": "Nà wèi *shūshu* shì wǒ bàba de tóngshì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "a1yi2"
+      ],
+      "check": false
+    },
+    {
+      "id": "lin2ju1",
+      "hanzi": "邻居",
+      "pinyin": "línjū",
+      "pinyinNum": "lin2 ju1",
+      "hanViet": "lân cư",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "hàng xóm"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我的*邻居*是一位医生。",
+          "vi": "Hàng xóm của tôi là một bác sĩ.",
+          "py": "Wǒ de *línjū* shì yí wèi yīshēng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ke4ren2",
+      "hanzi": "客人",
+      "pinyin": "kèrén",
+      "pinyinNum": "ke4 ren2",
+      "hanViet": "khách nhân",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "khách"
+      ],
+      "usage": "",
+      "measureWords": [
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "今天晚上家里有*客人*。",
+          "vi": "Tối nay nhà có khách.",
+          "py": "Jīntiān wǎnshang jiā lǐ yǒu *kèrén*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "tong2shi4",
+      "hanzi": "同事",
+      "pinyin": "tóngshì",
+      "pinyinNum": "tong2 shi4",
+      "hanViet": "đồng sự",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "đồng nghiệp"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "他是我的*同事*，我们在一个公司工作。",
+          "vi": "Anh ấy là đồng nghiệp của tôi, chúng tôi làm cùng một công ty.",
+          "py": "Tā shì wǒ de *tóngshì*, wǒmen zài yí ge gōngsī gōngzuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tong2xue2"
+      ],
+      "check": false
+    },
+    {
+      "id": "jing1li3",
+      "hanzi": "经理",
+      "pinyin": "jīnglǐ",
+      "pinyinNum": "jing1 li3",
+      "hanViet": "kinh lí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "giám đốc, người quản lý"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位",
+        "名"
+      ],
+      "examples": [
+        {
+          "zh": "我们*经理*今天不在办公室。",
+          "vi": "Hôm nay giám đốc chúng tôi không có ở văn phòng.",
+          "py": "Wǒmen *jīnglǐ* jīntiān bú zài bàngōngshì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xiao4zhang3",
+      "hanzi": "校长",
+      "pinyin": "xiàozhǎng",
+      "pinyinNum": "xiao4 zhang3",
+      "hanViet": "hiệu trường",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "hiệu trưởng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位",
+        "名"
+      ],
+      "examples": [
+        {
+          "zh": "*校长*正在开会。",
+          "vi": "Thầy hiệu trưởng đang họp.",
+          "py": "*Xiàozhǎng* zhèngzài kāi huì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "si1ji1",
+      "hanzi": "司机",
+      "pinyin": "sījī",
+      "pinyinNum": "si1 ji1",
+      "hanViet": "ti cơ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tài xế, lái xe"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他是出租车*司机*。",
+          "vi": "Anh ấy là tài xế taxi.",
+          "py": "Tā shì chūzūchē *sījī*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bie2ren",
+      "hanzi": "别人",
+      "pinyin": "biéren",
+      "pinyinNum": "bie2 ren",
+      "hanViet": "biết nhân",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "người khác"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "别听*别人*的，你自己决定吧。",
+          "vi": "Đừng nghe người khác, bạn tự quyết định đi.",
+          "py": "Bié tīng *biéren* de, nǐ zìjǐ juédìng ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zi4ji3"
+      ],
+      "check": true
+    },
+    {
+      "id": "zi4ji3",
+      "hanzi": "自己",
+      "pinyin": "zìjǐ",
+      "pinyinNum": "zi4 ji3",
+      "hanViet": "tự kỉ",
+      "pos": [
+        "pron",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "tự mình, bản thân"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我想*自己*做。",
+          "vi": "Tôi muốn tự làm.",
+          "py": "Wǒ xiǎng *zìjǐ* zuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bie2ren"
+      ],
+      "check": false
+    },
+    {
+      "id": "bi2zi",
+      "hanzi": "鼻子",
+      "pinyin": "bízi",
+      "pinyinNum": "bi2 zi",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "mũi"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "我感冒了，*鼻子*不舒服。",
+          "vi": "Tôi bị cảm, mũi khó chịu.",
+          "py": "Wǒ gǎnmào le, *bízi* bù shūfu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "er3duo",
+      "hanzi": "耳朵",
+      "pinyin": "ěrduo",
+      "pinyinNum": "er3 duo",
+      "hanViet": "nhĩ đoá",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "tai"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只",
+        "个",
+        "对"
+      ],
+      "examples": [
+        {
+          "zh": "他的*耳朵*很大。",
+          "vi": "Tai anh ấy rất to.",
+          "py": "Tā de *ěrduo* hěn dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "lian3",
+      "hanzi": "脸",
+      "pinyin": "liǎn",
+      "pinyinNum": "lian3",
+      "hanViet": null,
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "mặt, khuôn mặt"
+      ],
+      "usage": "",
+      "measureWords": [
+        "张",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "她的*脸*红了。",
+          "vi": "Mặt cô ấy đỏ lên.",
+          "py": "Tā de *liǎn* hóng le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "tou2fa",
+      "hanzi": "头发",
+      "pinyin": "tóufa",
+      "pinyinNum": "tou2 fa",
+      "hanViet": "đầu phát",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "tóc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她的*头发*很长。",
+          "vi": "Tóc cô ấy rất dài.",
+          "py": "Tā de *tóufa* hěn cháng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jiao3",
+      "hanzi": "脚",
+      "pinyin": "jiǎo",
+      "pinyinNum": "jiao3",
+      "hanViet": null,
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "bàn chân"
+      ],
+      "usage": "脚 là bàn chân; 腿 là chân tính từ hông xuống.",
+      "measureWords": [
+        "双",
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "我的*脚*很大，买鞋很难。",
+          "vi": "Chân tôi rất to, mua giày rất khó.",
+          "py": "Wǒ de *jiǎo* hěn dà, mǎi xié hěn nán."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tui3"
+      ],
+      "check": true
+    },
+    {
+      "id": "tui3",
+      "hanzi": "腿",
+      "pinyin": "tuǐ",
+      "pinyinNum": "tui3",
+      "hanViet": "thoái",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "chân (từ hông xuống)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条"
+      ],
+      "examples": [
+        {
+          "zh": "爬山以后，我的*腿*很累。",
+          "vi": "Leo núi xong, chân tôi rất mỏi.",
+          "py": "Páshān yǐhòu, wǒ de *tuǐ* hěn lèi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jiao3"
+      ],
+      "check": false
+    },
+    {
+      "id": "ai3",
+      "hanzi": "矮",
+      "pinyin": "ǎi",
+      "pinyinNum": "ai3",
+      "hanViet": null,
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "thấp (người, vật)"
+      ],
+      "usage": "Người thấp dùng 矮; giọng, nhiệt độ, mức thấp dùng 低.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我比我哥哥*矮*。",
+          "vi": "Tôi thấp hơn anh trai.",
+          "py": "Wǒ bǐ wǒ gēge *ǎi*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gao1"
+      ],
+      "check": true
+    },
+    {
+      "id": "pang4",
+      "hanzi": "胖",
+      "pinyin": "pàng",
+      "pinyinNum": "pang4",
+      "hanViet": "bỡn",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "béo, mập"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他最近*胖*了。",
+          "vi": "Dạo này anh ấy béo lên.",
+          "py": "Tā zuìjìn *pàng* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shou4"
+      ],
+      "check": true
+    },
+    {
+      "id": "shou4",
+      "hanzi": "瘦",
+      "pinyin": "shòu",
+      "pinyinNum": "shou4",
+      "hanViet": "xấu",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "gầy"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你太*瘦*了，要多吃一点。",
+          "vi": "Bạn gầy quá, phải ăn nhiều hơn.",
+          "py": "Nǐ tài *shòu* le, yào duō chī yì diǎn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "pang4"
+      ],
+      "check": true
+    },
+    {
+      "id": "nian2qing1",
+      "hanzi": "年轻",
+      "pinyin": "niánqīng",
+      "pinyinNum": "nian2 qing1",
+      "hanViet": "nên khinh",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "trẻ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们的老师很*年轻*。",
+          "vi": "Thầy giáo chúng tôi rất trẻ.",
+          "py": "Wǒmen de lǎoshī hěn *niánqīng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "cong1ming",
+      "hanzi": "聪明",
+      "pinyin": "cōngming",
+      "pinyinNum": "cong1 ming",
+      "hanViet": "thông minh",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 2,
+      "meaning": [
+        "thông minh"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个孩子非常*聪明*。",
+          "vi": "Đứa trẻ này rất thông minh.",
+          "py": "Zhège háizi fēicháng *cōngming*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ke3ai4",
+      "hanzi": "可爱",
+      "pinyin": "kěài",
+      "pinyinNum": "ke3 ai4",
+      "hanViet": null,
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đáng yêu, dễ thương"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这只熊猫真*可爱*！",
+          "vi": "Con gấu trúc này đáng yêu thật!",
+          "py": "Zhè zhī xióngmāo zhēn *kě'ài*!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "jian4kang1",
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "pinyinNum": "jian4 kang1",
+      "hanViet": "kiện khang",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "khỏe mạnh",
+        "sức khỏe"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "爷爷奶奶身体都很*健康*。",
+          "vi": "Ông bà đều rất khỏe mạnh.",
+          "py": "Yéye nǎinai shēntǐ dōu hěn *jiànkāng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "这个出租车{0}很热情。",
+      "options": [
+        "司机",
+        "经理",
+        "校长",
+        "客人"
+      ],
+      "answer": "司机",
+      "targets": [
+        "si1ji1"
+      ],
+      "explanation": "Người lái taxi: 司机.",
+      "id": "hsk3-con-nguoi-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "他一米六，很{0}。",
+      "options": [
+        "矮",
+        "低",
+        "短",
+        "年轻"
+      ],
+      "answer": "矮",
+      "targets": [
+        "ai3"
+      ],
+      "explanation": "Người thấp dùng 矮, không dùng 低.",
+      "id": "hsk3-con-nguoi-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "他最近吃得很多，{0}了。",
+      "options": [
+        "胖",
+        "瘦",
+        "矮",
+        "聪明"
+      ],
+      "answer": "胖",
+      "targets": [
+        "pang4"
+      ],
+      "explanation": "Ăn nhiều nên béo lên.",
+      "id": "hsk3-con-nguoi-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "你{0}做吧，别让别人帮忙。",
+      "options": [
+        "自己",
+        "别人",
+        "邻居",
+        "同事"
+      ],
+      "answer": "自己",
+      "targets": [
+        "zi4ji3"
+      ],
+      "explanation": "自己 = tự mình.",
+      "id": "hsk3-con-nguoi-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "这双鞋太小了，我的{0}很疼。",
+      "options": [
+        "脚",
+        "腿",
+        "脸",
+        "鼻子"
+      ],
+      "answer": "脚",
+      "targets": [
+        "jiao3"
+      ],
+      "explanation": "Giày chật thì đau bàn chân (脚).",
+      "id": "hsk3-con-nguoi-fill-05"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "奶奶",
+        "身体",
+        "很",
+        "健康"
+      ],
+      "answers": [
+        [
+          "我",
+          "奶奶",
+          "身体",
+          "很",
+          "健康"
+        ]
+      ],
+      "targets": [
+        "nai3nai",
+        "jian4kang1"
+      ],
+      "vi": "Bà nội tôi rất khỏe mạnh.",
+      "id": "hsk3-con-nguoi-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这个",
+        "孩子",
+        "又",
+        "聪明",
+        "又",
+        "可爱"
+      ],
+      "answers": [
+        [
+          "这个",
+          "孩子",
+          "又",
+          "聪明",
+          "又",
+          "可爱"
+        ],
+        [
+          "这个",
+          "孩子",
+          "又",
+          "可爱",
+          "又",
+          "聪明"
+        ]
+      ],
+      "targets": [
+        "cong1ming",
+        "ke3ai4"
+      ],
+      "vi": "Đứa trẻ này vừa thông minh vừa đáng yêu.",
+      "id": "hsk3-con-nguoi-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "想",
+        "自己",
+        "去"
+      ],
+      "answers": [
+        [
+          "我",
+          "想",
+          "自己",
+          "去"
+        ]
+      ],
+      "targets": [
+        "zi4ji3"
+      ],
+      "vi": "Tôi muốn tự đi.",
+      "id": "hsk3-con-nguoi-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "她",
+        "的",
+        "头发",
+        "比",
+        "我",
+        "的",
+        "长"
+      ],
+      "answers": [
+        [
+          "她",
+          "的",
+          "头发",
+          "比",
+          "我",
+          "的",
+          "长"
+        ]
+      ],
+      "targets": [
+        "tou2fa"
+      ],
+      "vi": "Tóc cô ấy dài hơn tóc tôi.",
+      "id": "hsk3-con-nguoi-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "那位",
+        "叔叔",
+        "是",
+        "出租车",
+        "司机"
+      ],
+      "answers": [
+        [
+          "那位",
+          "叔叔",
+          "是",
+          "出租车",
+          "司机"
+        ]
+      ],
+      "targets": [
+        "shu1shu",
+        "si1ji1"
+      ],
+      "vi": "Chú kia là tài xế taxi.",
+      "id": "hsk3-con-nguoi-order-05"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+# id: hsk3-con-nguoi
+# level: 3
+# title: Con người, cơ thể
+# order: 1
+@阿姨 | cô, dì (gọi phụ nữ lớn tuổi); người giúp việc | c: 叔叔 奶奶
+- *阿姨*，您好！ = Cháu chào cô ạ!
+@爷爷 | ông nội | c: 奶奶
+- 我*爷爷*八十岁了，身体还很好。 = Ông nội tôi 80 tuổi rồi, sức khỏe vẫn rất tốt.
+@奶奶 | bà nội | c: 爷爷 阿姨
+- *奶奶*每个周末都给我打电话。 = Cuối tuần nào bà nội cũng gọi điện cho tôi.
+@叔叔 | chú (em trai của bố); chú (gọi đàn ông lớn tuổi) | c: 阿姨
+- 那位*叔叔*是我爸爸的同事。 = Chú kia là đồng nghiệp của bố tôi.
+@邻居 | hàng xóm
+- 我的*邻居*是一位医生。 = Hàng xóm của tôi là một bác sĩ.
+@客人 | khách
+- 今天晚上家里有*客人*。 = Tối nay nhà có khách.
+@同事 | đồng nghiệp | c: 同学
+- 他是我的*同事*，我们在一个公司工作。 = Anh ấy là đồng nghiệp của tôi, chúng tôi làm cùng một công ty.
+@经理 | giám đốc, người quản lý
+- 我们*经理*今天不在办公室。 = Hôm nay giám đốc chúng tôi không có ở văn phòng.
+@校长 | hiệu trưởng | hv: hiệu trường
+- *校长*正在开会。 = Thầy hiệu trưởng đang họp.
+@司机 | tài xế, lái xe
+- 他是出租车*司机*。 = Anh ấy là tài xế taxi.
+@别人 | người khác | c: 自己
+- 别听*别人*的，你自己决定吧。 = Đừng nghe người khác, bạn tự quyết định đi.
+@自己 | tự mình, bản thân | c: 别人
+- 我想*自己*做。 = Tôi muốn tự làm.
+@鼻子 | mũi
+- 我感冒了，*鼻子*不舒服。 = Tôi bị cảm, mũi khó chịu.
+@耳朵 | tai
+- 他的*耳朵*很大。 = Tai anh ấy rất to.
+@脸 | mặt, khuôn mặt
+- 她的*脸*红了。 = Mặt cô ấy đỏ lên.
+@头发 | tóc
+- 她的*头发*很长。 = Tóc cô ấy rất dài.
+@脚 jiǎo | bàn chân | u: 脚 là bàn chân; 腿 là chân tính từ hông xuống. | c: 腿
+- 我的*脚*很大，买鞋很难。 = Chân tôi rất to, mua giày rất khó.
+@腿 | chân (từ hông xuống) | c: 脚
+- 爬山以后，我的*腿*很累。 = Leo núi xong, chân tôi rất mỏi.
+@矮 | thấp (người, vật) | u: Người thấp dùng 矮; giọng, nhiệt độ, mức thấp dùng 低. | c: 高
+- 我比我哥哥*矮*。 = Tôi thấp hơn anh trai.
+@胖 pàng | béo, mập | c: 瘦
+- 他最近*胖*了。 = Dạo này anh ấy béo lên.
+@瘦 | gầy | c: 胖
+- 你太*瘦*了，要多吃一点。 = Bạn gầy quá, phải ăn nhiều hơn.
+@年轻 | trẻ
+- 我们的老师很*年轻*。 = Thầy giáo chúng tôi rất trẻ.
+@聪明 | thông minh
+- 这个孩子非常*聪明*。 = Đứa trẻ này rất thông minh.
+@可爱 | đáng yêu, dễ thương
+- 这只熊猫真*可爱*！ = Con gấu trúc này đáng yêu thật!
+@健康 | khỏe mạnh; sức khỏe
+- 爷爷奶奶身体都很*健康*。 = Ông bà đều rất khỏe mạnh.
+F 这个出租车{0}很热情。 | 司机* 经理 校长 客人 | e: Người lái taxi: 司机.
+F 他一米六，很{0}。 | 矮* 低 短 年轻 | e: Người thấp dùng 矮, không dùng 低.
+F 他最近吃得很多，{0}了。 | 胖* 瘦 矮 聪明 | e: Ăn nhiều nên béo lên.
+F 你{0}做吧，别让别人帮忙。 | 自己* 别人 邻居 同事 | e: 自己 = tự mình.
+F 这双鞋太小了，我的{0}很疼。 | 脚* 腿 脸 鼻子 | e: Giày chật thì đau bàn chân (脚).
+O 我 奶奶 身体 很 健康 | vi: Bà nội tôi rất khỏe mạnh. | t: 奶奶 健康
+O 这个 孩子 又 聪明 又 可爱 | vi: Đứa trẻ này vừa thông minh vừa đáng yêu. | t: 聪明 可爱 | alt: 这个 孩子 又 可爱 又 聪明
+O 我 想 自己 去 | vi: Tôi muốn tự đi. | t: 自己
+O 她 的 头发 比 我 的 长 | vi: Tóc cô ấy dài hơn tóc tôi. | t: 头发
+O 那位 叔叔 是 出租车 司机 | vi: Chú kia là tài xế taxi. | t: 叔叔 司机

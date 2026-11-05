@@ -1,0 +1,987 @@
+{
+  "id": "hsk3-cam-xuc-suc-khoe",
+  "level": 3,
+  "title": "Cảm xúc, sức khỏe",
+  "order": 2,
+  "words": [
+    {
+      "id": "dan1xin1",
+      "hanzi": "担心",
+      "pinyin": "dānxīn",
+      "pinyinNum": "dan1 xin1",
+      "hanViet": "đam tâm",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 3,
+      "meaning": [
+        "lo lắng, lo"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "别*担心*，我很好。",
+          "vi": "Đừng lo, tôi ổn.",
+          "py": "Bié *dānxīn*, wǒ hěn hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "fang4xin1",
+        "zhao2ji2"
+      ],
+      "check": true
+    },
+    {
+      "id": "hai4pa4",
+      "hanzi": "害怕",
+      "pinyin": "hàipà",
+      "pinyinNum": "hai4 pa4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "sợ, sợ hãi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我很*害怕*一个人在家。",
+          "vi": "Tôi rất sợ ở nhà một mình.",
+          "py": "Wǒ hěn *hàipà* yí ge rén zài jiā."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dan1xin1",
+        "gan3"
+      ],
+      "check": true
+    },
+    {
+      "id": "sheng1qi4",
+      "hanzi": "生气",
+      "pinyin": "shēngqì",
+      "pinyinNum": "sheng1 qi4",
+      "hanViet": "sinh khí",
+      "pos": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "tức giận, giận"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你为什么*生气*？",
+          "vi": "Sao bạn giận?",
+          "py": "Nǐ wèishénme *shēngqì*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nan2guo4"
+      ],
+      "check": false
+    },
+    {
+      "id": "nan2guo4",
+      "hanzi": "难过",
+      "pinyin": "nánguò",
+      "pinyinNum": "nan2 guo4",
+      "hanViet": "nan quá",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "buồn, buồn bã"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "听到这个新闻，我很*难过*。",
+          "vi": "Nghe tin này tôi rất buồn.",
+          "py": "Tīng dào zhège xīnwén, wǒ hěn *nánguò*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "sheng1qi4"
+      ],
+      "check": false
+    },
+    {
+      "id": "zhao2ji2",
+      "hanzi": "着急",
+      "pinyin": "zháojí",
+      "pinyinNum": "zhao2 ji2",
+      "hanViet": "trứ cấp",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "sốt ruột, cuống"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "别*着急*，我们还有时间。",
+          "vi": "Đừng sốt ruột, chúng ta vẫn còn thời gian.",
+          "py": "Bié *zháojí*, wǒmen hái yǒu shíjiān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dan1xin1"
+      ],
+      "check": false
+    },
+    {
+      "id": "fang4xin1",
+      "hanzi": "放心",
+      "pinyin": "fàngxīn",
+      "pinyinNum": "fang4 xin1",
+      "hanViet": "phóng tâm",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "yên tâm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "妈妈，您*放心*吧。",
+          "vi": "Mẹ yên tâm đi ạ.",
+          "py": "Māma, nín *fàngxīn* ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dan1xin1",
+        "xiao3xin1"
+      ],
+      "check": false
+    },
+    {
+      "id": "man3yi4",
+      "hanzi": "满意",
+      "pinyin": "mǎnyì",
+      "pinyinNum": "man3 yi4",
+      "hanViet": "mãn ý",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "hài lòng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "经理很*满意*你的工作。",
+          "vi": "Giám đốc rất hài lòng với công việc của bạn.",
+          "py": "Jīnglǐ hěn *mǎnyì* nǐ de gōngzuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "guan1xin1",
+      "hanzi": "关心",
+      "pinyin": "guānxīn",
+      "pinyinNum": "guan1 xin1",
+      "hanViet": "quan tâm",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "quan tâm",
+        "sự quan tâm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "谢谢你的*关心*。",
+          "vi": "Cảm ơn sự quan tâm của bạn.",
+          "py": "Xièxie nǐ de *guānxīn*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dan1xin1"
+      ],
+      "check": false
+    },
+    {
+      "id": "re4qing2",
+      "hanzi": "热情",
+      "pinyin": "rèqíng",
+      "pinyinNum": "re4 qing2",
+      "hanViet": "nhiệt tình",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "nhiệt tình"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这里的人都很*热情*。",
+          "vi": "Người ở đây đều rất nhiệt tình.",
+          "py": "Zhèlǐ de rén dōu hěn *rèqíng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ren4zhen1",
+      "hanzi": "认真",
+      "pinyin": "rènzhēn",
+      "pinyinNum": "ren4 zhen1",
+      "hanViet": "nhận chân",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "chăm chỉ, nghiêm túc, cẩn thận"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他学习非常*认真*。",
+          "vi": "Anh ấy học rất chăm chỉ.",
+          "py": "Tā xuéxí fēicháng *rènzhēn*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nu3li4"
+      ],
+      "check": false
+    },
+    {
+      "id": "nu3li4",
+      "hanzi": "努力",
+      "pinyin": "nǔlì",
+      "pinyinNum": "nu3 li4",
+      "hanViet": null,
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "cố gắng, nỗ lực"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我会*努力*学习汉语。",
+          "vi": "Tôi sẽ cố gắng học tiếng Trung.",
+          "py": "Wǒ huì *nǔlì* xuéxí Hànyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ren4zhen1"
+      ],
+      "check": true
+    },
+    {
+      "id": "qi2guai4",
+      "hanzi": "奇怪",
+      "pinyin": "qíguài",
+      "pinyinNum": "qi2 guai4",
+      "hanViet": null,
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "lạ, kỳ lạ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "真*奇怪*，他今天怎么没来？",
+          "vi": "Lạ thật, sao hôm nay anh ấy không đến?",
+          "py": "Zhēn *qíguài*, tā jīntiān zěnme méi lái?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "shu1fu",
+      "hanzi": "舒服",
+      "pinyin": "shūfu",
+      "pinyinNum": "shu1 fu",
+      "hanViet": "thư phục",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "dễ chịu, thoải mái",
+        "khỏe (người)"
+      ],
+      "usage": "不舒服 hay dùng để nói mệt, khó chịu trong người.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我今天不*舒服*，想在家休息。",
+          "vi": "Hôm nay tôi không khỏe, muốn ở nhà nghỉ.",
+          "py": "Wǒ jīntiān bù *shūfu*, xiǎng zài jiā xiūxi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "teng2",
+      "hanzi": "疼",
+      "pinyin": "téng",
+      "pinyinNum": "teng2",
+      "hanViet": null,
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đau"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我的腿很*疼*。",
+          "vi": "Chân tôi rất đau.",
+          "py": "Wǒ de tuǐ hěn *téng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "e4",
+      "hanzi": "饿",
+      "pinyin": "è",
+      "pinyinNum": "e4",
+      "hanViet": null,
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "đói"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*饿*了，有什么吃的吗？",
+          "vi": "Tôi đói rồi, có gì ăn không?",
+          "py": "Wǒ *è* le, yǒu shénme chī de ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bao3",
+        "ke3"
+      ],
+      "check": true
+    },
+    {
+      "id": "bao3",
+      "hanzi": "饱",
+      "pinyin": "bǎo",
+      "pinyinNum": "bao3",
+      "hanViet": null,
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "no"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我吃*饱*了。",
+          "vi": "Tôi ăn no rồi.",
+          "py": "Wǒ chī *bǎo* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "e4"
+      ],
+      "check": true
+    },
+    {
+      "id": "ke3",
+      "hanzi": "渴",
+      "pinyin": "kě",
+      "pinyinNum": "ke3",
+      "hanViet": "khát",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "khát"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*渴*了，想喝水。",
+          "vi": "Tôi khát rồi, muốn uống nước.",
+          "py": "Wǒ *kě* le, xiǎng hē shuǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "e4",
+        "he1"
+      ],
+      "check": false
+    },
+    {
+      "id": "gan3mao4",
+      "hanzi": "感冒",
+      "pinyin": "gǎnmào",
+      "pinyinNum": "gan3 mao4",
+      "hanViet": "cảm mạo",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "bị cảm",
+        "bệnh cảm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "天气冷了，小心*感冒*。",
+          "vi": "Trời lạnh rồi, cẩn thận kẻo bị cảm.",
+          "py": "Tiānqì lěng le, xiǎoxīn *gǎnmào*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "fa1shao1"
+      ],
+      "check": false
+    },
+    {
+      "id": "fa1shao1",
+      "hanzi": "发烧",
+      "pinyin": "fāshāo",
+      "pinyinNum": "fa1 shao1",
+      "hanViet": "phát thiêu",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "sốt, bị sốt"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我昨天*发烧*了，没去上班。",
+          "vi": "Hôm qua tôi bị sốt, không đi làm.",
+          "py": "Wǒ zuótiān *fāshāo* le, méi qù shàngbān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gan3mao4"
+      ],
+      "check": false
+    },
+    {
+      "id": "ku1",
+      "hanzi": "哭",
+      "pinyin": "kū",
+      "pinyinNum": "ku1",
+      "hanViet": "khóc",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "khóc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "别*哭*了！",
+          "vi": "Đừng khóc nữa!",
+          "py": "Bié *kū* le!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xiao4"
+      ],
+      "check": true
+    },
+    {
+      "id": "xiao3xin1",
+      "hanzi": "小心",
+      "pinyin": "xiǎoxīn",
+      "pinyinNum": "xiao3 xin1",
+      "hanViet": "tiểu tâm",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "cẩn thận"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*小心*，路上有雪。",
+          "vi": "Cẩn thận, trên đường có tuyết.",
+          "py": "*Xiǎoxīn*, lù shàng yǒu xuě."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "fang4xin1"
+      ],
+      "check": false
+    },
+    {
+      "id": "xiang1xin4",
+      "hanzi": "相信",
+      "pinyin": "xiāngxìn",
+      "pinyinNum": "xiang1 xin4",
+      "hanViet": "tương tín",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "tin, tin tưởng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*相信*你。",
+          "vi": "Tôi tin bạn.",
+          "py": "Wǒ *xiāngxìn* nǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yuan4yi4",
+      "hanzi": "愿意",
+      "pinyin": "yuànyì",
+      "pinyinNum": "yuan4 yi4",
+      "hanViet": "nguyện ý",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "bằng lòng, sẵn lòng, muốn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*愿意*和我一起去吗？",
+          "vi": "Bạn có muốn đi cùng tôi không?",
+          "py": "Nǐ *yuànyì* hé wǒ yìqǐ qù ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tong2yi4",
+        "xi1wang4"
+      ],
+      "check": false
+    },
+    {
+      "id": "gan3",
+      "hanzi": "敢",
+      "pinyin": "gǎn",
+      "pinyinNum": "gan3",
+      "hanViet": "cám",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "dám"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我不*敢*游泳。",
+          "vi": "Tôi không dám bơi.",
+          "py": "Wǒ bù *gǎn* yóuyǒng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hai4pa4"
+      ],
+      "check": true
+    },
+    {
+      "id": "tong2yi4",
+      "hanzi": "同意",
+      "pinyin": "tóngyì",
+      "pinyinNum": "tong2 yi4",
+      "hanViet": "đồng ý",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "đồng ý"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "妈妈*同意*我去旅游了。",
+          "vi": "Mẹ đồng ý cho tôi đi du lịch rồi.",
+          "py": "Māma *tóngyì* wǒ qù lǚyóu le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yuan4yi4"
+      ],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我吃{0}了，不想吃了。",
+      "options": [
+        "饱",
+        "饿",
+        "渴",
+        "疼"
+      ],
+      "answer": "饱",
+      "targets": [
+        "bao3"
+      ],
+      "explanation": "吃饱 = ăn no.",
+      "id": "hsk3-cam-xuc-suc-khoe-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "电影快开始了，他很{0}。",
+      "options": [
+        "着急",
+        "放心",
+        "满意",
+        "舒服"
+      ],
+      "answer": "着急",
+      "targets": [
+        "zhao2ji2"
+      ],
+      "explanation": "Sắp muộn thì sốt ruột: 着急.",
+      "id": "hsk3-cam-xuc-suc-khoe-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "你{0}吧，我会照顾好自己。",
+      "options": [
+        "放心",
+        "小心",
+        "担心",
+        "生气"
+      ],
+      "answer": "放心",
+      "targets": [
+        "fang4xin1"
+      ],
+      "explanation": "放心 = yên tâm.",
+      "id": "hsk3-cam-xuc-suc-khoe-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我不{0}一个人爬山。",
+      "options": [
+        "敢",
+        "着急",
+        "舒服",
+        "满意"
+      ],
+      "answer": "敢",
+      "targets": [
+        "gan3"
+      ],
+      "explanation": "不敢 = không dám.",
+      "id": "hsk3-cam-xuc-suc-khoe-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "她看了这个电影，{0}了。",
+      "options": [
+        "哭",
+        "渴",
+        "饱",
+        "敢"
+      ],
+      "answer": "哭",
+      "targets": [
+        "ku1"
+      ],
+      "explanation": "Phim cảm động làm cô ấy khóc.",
+      "id": "hsk3-cam-xuc-suc-khoe-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "他发烧了，身体很不{0}。",
+      "options": [
+        "舒服",
+        "认真",
+        "热情",
+        "奇怪"
+      ],
+      "answer": "舒服",
+      "targets": [
+        "shu1fu"
+      ],
+      "explanation": "不舒服 = khó chịu, không khỏe.",
+      "id": "hsk3-cam-xuc-suc-khoe-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "别",
+        "担心",
+        "我"
+      ],
+      "answers": [
+        [
+          "你",
+          "别",
+          "担心",
+          "我"
+        ]
+      ],
+      "targets": [
+        "dan1xin1"
+      ],
+      "vi": "Bạn đừng lo cho tôi.",
+      "id": "hsk3-cam-xuc-suc-khoe-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "愿意",
+        "跟",
+        "我",
+        "结婚",
+        "吗"
+      ],
+      "answers": [
+        [
+          "你",
+          "愿意",
+          "跟",
+          "我",
+          "结婚",
+          "吗"
+        ]
+      ],
+      "targets": [
+        "yuan4yi4"
+      ],
+      "vi": "Em có đồng ý lấy anh không?",
+      "id": "hsk3-cam-xuc-suc-khoe-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "今天",
+        "身体",
+        "不",
+        "舒服"
+      ],
+      "answers": [
+        [
+          "我",
+          "今天",
+          "身体",
+          "不",
+          "舒服"
+        ],
+        [
+          "今天",
+          "我",
+          "身体",
+          "不",
+          "舒服"
+        ]
+      ],
+      "targets": [
+        "shu1fu"
+      ],
+      "vi": "Hôm nay tôi không khỏe.",
+      "id": "hsk3-cam-xuc-suc-khoe-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "渴",
+        "不",
+        "渴"
+      ],
+      "answers": [
+        [
+          "你",
+          "渴",
+          "不",
+          "渴"
+        ]
+      ],
+      "targets": [
+        "ke3"
+      ],
+      "vi": "Bạn có khát không?",
+      "id": "hsk3-cam-xuc-suc-khoe-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "他",
+        "生气",
+        "地",
+        "走",
+        "了"
+      ],
+      "answers": [
+        [
+          "他",
+          "生气",
+          "地",
+          "走",
+          "了"
+        ]
+      ],
+      "targets": [
+        "sheng1qi4"
+      ],
+      "vi": "Anh ấy tức giận bỏ đi.",
+      "id": "hsk3-cam-xuc-suc-khoe-order-05"
+    }
+  ]
+}

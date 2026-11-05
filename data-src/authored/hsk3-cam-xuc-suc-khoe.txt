@@ -1,0 +1,65 @@
+# id: hsk3-cam-xuc-suc-khoe
+# level: 3
+# title: Cảm xúc, sức khỏe
+# order: 2
+@担心 | lo lắng, lo | hv: đam tâm | c: 放心 着急
+- 别*担心*，我很好。 = Đừng lo, tôi ổn.
+@害怕 | sợ, sợ hãi | c: 担心 敢
+- 我很*害怕*一个人在家。 = Tôi rất sợ ở nhà một mình.
+@生气 | tức giận, giận | c: 难过
+- 你为什么*生气*？ = Sao bạn giận?
+@难过 nánguò | buồn, buồn bã | c: 生气
+- 听到这个新闻，我很*难过*。 = Nghe tin này tôi rất buồn.
+@着急 zháojí | sốt ruột, cuống | c: 担心
+- 别*着急*，我们还有时间。 = Đừng sốt ruột, chúng ta vẫn còn thời gian.
+@放心 | yên tâm | c: 担心 小心
+- 妈妈，您*放心*吧。 = Mẹ yên tâm đi ạ.
+@满意 | hài lòng
+- 经理很*满意*你的工作。 = Giám đốc rất hài lòng với công việc của bạn.
+@关心 | quan tâm; sự quan tâm | c: 担心
+- 谢谢你的*关心*。 = Cảm ơn sự quan tâm của bạn.
+@热情 | nhiệt tình
+- 这里的人都很*热情*。 = Người ở đây đều rất nhiệt tình.
+@认真 | chăm chỉ, nghiêm túc, cẩn thận | c: 努力
+- 他学习非常*认真*。 = Anh ấy học rất chăm chỉ.
+@努力 | cố gắng, nỗ lực | c: 认真
+- 我会*努力*学习汉语。 = Tôi sẽ cố gắng học tiếng Trung.
+@奇怪 | lạ, kỳ lạ
+- 真*奇怪*，他今天怎么没来？ = Lạ thật, sao hôm nay anh ấy không đến?
+@舒服 | dễ chịu, thoải mái; khỏe (người) | u: 不舒服 hay dùng để nói mệt, khó chịu trong người.
+- 我今天不*舒服*，想在家休息。 = Hôm nay tôi không khỏe, muốn ở nhà nghỉ.
+@疼 | đau
+- 我的腿很*疼*。 = Chân tôi rất đau.
+@饿 | đói | c: 饱 渴
+- 我*饿*了，有什么吃的吗？ = Tôi đói rồi, có gì ăn không?
+@饱 | no | c: 饿
+- 我吃*饱*了。 = Tôi ăn no rồi.
+@渴 | khát | c: 饿 喝
+- 我*渴*了，想喝水。 = Tôi khát rồi, muốn uống nước.
+@感冒 | bị cảm; bệnh cảm | c: 发烧
+- 天气冷了，小心*感冒*。 = Trời lạnh rồi, cẩn thận kẻo bị cảm.
+@发烧 | sốt, bị sốt | c: 感冒
+- 我昨天*发烧*了，没去上班。 = Hôm qua tôi bị sốt, không đi làm.
+@哭 | khóc | c: 笑
+- 别*哭*了！ = Đừng khóc nữa!
+@小心 | cẩn thận | c: 放心
+- *小心*，路上有雪。 = Cẩn thận, trên đường có tuyết.
+@相信 | tin, tin tưởng
+- 我*相信*你。 = Tôi tin bạn.
+@愿意 | bằng lòng, sẵn lòng, muốn | c: 同意 希望
+- 你*愿意*和我一起去吗？ = Bạn có muốn đi cùng tôi không?
+@敢 | dám | c: 害怕
+- 我不*敢*游泳。 = Tôi không dám bơi.
+@同意 | đồng ý | c: 愿意
+- 妈妈*同意*我去旅游了。 = Mẹ đồng ý cho tôi đi du lịch rồi.
+F 我吃{0}了，不想吃了。 | 饱* 饿 渴 疼 | e: 吃饱 = ăn no.
+F 电影快开始了，他很{0}。 | 着急* 放心 满意 舒服 | e: Sắp muộn thì sốt ruột: 着急.
+F 你{0}吧，我会照顾好自己。 | 放心* 小心 担心 生气 | e: 放心 = yên tâm.
+F 我不{0}一个人爬山。 | 敢* 着急 舒服 满意 | e: 不敢 = không dám.
+F 她看了这个电影，{0}了。 | 哭* 渴 饱 敢 | e: Phim cảm động làm cô ấy khóc.
+F 他发烧了，身体很不{0}。 | 舒服* 认真 热情 奇怪 | e: 不舒服 = khó chịu, không khỏe.
+O 你 别 担心 我 | vi: Bạn đừng lo cho tôi. | t: 担心
+O 你 愿意 跟 我 结婚 吗 | vi: Em có đồng ý lấy anh không? | t: 愿意
+O 我 今天 身体 不 舒服 | vi: Hôm nay tôi không khỏe. | t: 舒服 | alt: 今天 我 身体 不 舒服
+O 你 渴 不 渴 | vi: Bạn có khát không? | t: 渴
+O 他 生气 地 走 了 | vi: Anh ấy tức giận bỏ đi. | t: 生气

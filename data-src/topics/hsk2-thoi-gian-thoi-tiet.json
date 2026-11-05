@@ -95,7 +95,7 @@
       ],
       "textbooks": null,
       "confusables": [],
-      "check": false
+      "check": true
     },
     {
       "id": "shi2jian1",
@@ -617,7 +617,7 @@
       ],
       "textbooks": null,
       "confusables": [],
-      "check": false
+      "check": true
     }
   ],
   "exercises": [

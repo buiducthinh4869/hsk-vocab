@@ -11,7 +11,12 @@ const official = read('data-src/sources/hsk-official.json').words;
 const index = read('data-src/index.json');
 const done = new Set(index.levels.flatMap((l) => l.topics));
 const problems = [];
-const hvOf = (h) => { const o = official.find((w) => w.hanzi.includes(h)); return o ? o.hv[[...o.hanzi].indexOf(h)].join("/") || "—" : "—"; };
+const hvOf = (h) => {
+  const exact = official.find((w) => w.hanzi === h);
+  if (exact) return exact.hv.map((r) => r.join('/') || '—').join(' ');
+  const o = official.find((w) => w.hanzi.includes(h));
+  return o ? o.hv[[...o.hanzi].indexOf(h)].join('/') || '—' : '—';
+};
 const rows = [];
 const checks = [];
 for (const [level, topics] of Object.entries(plan.levels)) {

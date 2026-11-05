@@ -58,7 +58,7 @@ topic.words = topic.words.map((w) => {
 
   const pos = w.pos || off.offPos || off.posS;
   if (!pos || !pos.length) errors.push(`${w.hanzi}: no part of speech; set "pos" by hand`);
-  if (hvSuggest[w.hanzi]) check = true; // Unihan reading differs from the usual Hán Việt reading
+  if (hvSuggest[w.hanzi] || [...w.hanzi].some((c) => hvSuggest[c])) check = true; // Unihan reading differs from the usual Hán Việt reading
   const mw = w.measureWords || [...new Set(off.forms.flatMap((f) => f.cl))];
   if (off.common == null) check = true;
   return {

@@ -23,8 +23,8 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 2 | hsk2-so-thich-tinh-chat | Sở thích, tính chất | 20 | 5 fill, 3 order | xong | 唱歌 跳舞 跑步 游泳 踢 打篮球 运动 玩 穿 洗 高 长 快 慢 忙 真 快乐 可能 可以 要 |
 | 2 | hsk2-hu-tu | Hư từ | 19 | 7 fill, 3 order | xong | 也 还 就 再 最 非常 别 比 吧 得 着 为 向 一起 但是 所以 因为 已经 正在 |
 | 2 | **Cộng** | | **147 / 147** | | | |
-| 3 | hsk3-con-nguoi | Con người, cơ thể | 25 |  | chưa làm | 阿姨 爷爷 奶奶 叔叔 邻居 客人 同事 经理 校长 司机 别人 自己 鼻子 耳朵 脸 头发 脚 腿 矮 胖 瘦 年轻 聪明 可爱 健康 |
-| 3 | hsk3-cam-xuc-suc-khoe | Cảm xúc, sức khỏe | 25 |  | chưa làm | 担心 害怕 生气 难过 着急 放心 满意 关心 热情 认真 努力 奇怪 舒服 疼 饿 饱 渴 感冒 发烧 哭 小心 相信 愿意 敢 同意 |
+| 3 | hsk3-con-nguoi | Con người, cơ thể | 25 | 5 fill, 5 order | xong | 阿姨 爷爷 奶奶 叔叔 邻居 客人 同事 经理 校长 司机 别人 自己 鼻子 耳朵 脸 头发 脚 腿 矮 胖 瘦 年轻 聪明 可爱 健康 |
+| 3 | hsk3-cam-xuc-suc-khoe | Cảm xúc, sức khỏe | 25 | 6 fill, 5 order | xong | 担心 害怕 生气 难过 着急 放心 满意 关心 热情 认真 努力 奇怪 舒服 疼 饿 饱 渴 感冒 发烧 哭 小心 相信 愿意 敢 同意 |
 | 3 | hsk3-an-uong-quan-ao | Ăn uống, quần áo | 25 |  | chưa làm | 菜单 蛋糕 面包 面条 果汁 啤酒 葡萄 香蕉 糖 甜 新鲜 盘子 碗 筷子 冰箱 厨房 衬衫 裤子 裙子 帽子 鞋 眼镜 伞 换 双 |
 | 3 | hsk3-nha-cua-do-dung | Nhà cửa, đồ dùng | 26 |  | chưa làm | 楼 层 电梯 灯 空调 洗手间 洗澡 刷 打扫 干净 搬 放 拿 带 坏 照相机 照片 电子 行李箱 护照 铅笔 黑板 字典 信 礼物 包 |
 | 3 | hsk3-thanh-pho-di-lai | Thành phố, đi lại | 26 |  | chưa làm | 城市 街道 附近 地方 地铁 地图 公园 花园 超市 银行 宾馆 图书馆 办公室 中间 东 西 南 北方 骑 辆 站 经过 离开 迟到 遇到 接 |
@@ -42,7 +42,7 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 - Làm cả 124 từ HSK 1 còn thiếu (6 chủ đề đã được duyệt trước đó) trước HSK 2, để web đủ 150 / 147 / 298 mục. Không sửa chủ đề hsk1-chao-hoi.
 - Số mục: HSK 2 = 147 vì 得, 还, 长 mỗi chữ một mục (quy tắc đã ghi trong SOURCES.md); HSK 3 = 298 theo bản làm việc (299 thẻ, 只 hai thẻ). Không tự thêm mục thứ 300 vì chưa xác minh được bằng PDF.
 - 只 (HSK 3): áp dụng cùng quy tắc với 得/还/长: một mục, âm zhǐ (phó từ); âm zhī (lượng từ) ghi ở usage; check: true.
-- Câu mẫu chỉ dùng từ có trong bảng ở cấp ≤ cấp chủ đề; build kiểm tra bằng tách từ theo bảng. Ngoại lệ ghi trong scripts/lib/lexicon.js (DERIVED): 你们, 他们, 她们 (cấp 1), 它们 (cấp 2), 这儿, 那儿, 哪儿 (cấp 1). Vì vậy câu mẫu tránh 说 (bảng chỉ có 说话), 天 đứng riêng, 过 (trợ từ), 一下, 一点儿.
+- Câu mẫu chỉ dùng từ có trong bảng ở cấp ≤ cấp chủ đề; build kiểm tra bằng tách từ theo bảng. Ngoại lệ ghi trong scripts/lib/lexicon.js (DERIVED): 你们, 他们, 她们 (cấp 1), 它们 (cấp 2), 这儿, 那儿, 哪儿, 这里, 那里, 哪里 (cấp 1). Vì vậy câu mẫu tránh 说 (bảng chỉ có 说话), 天 đứng riêng, 过 (trợ từ), 一下, 一点儿.
 - Pinyin câu mẫu tự sinh từ pinyin của từng từ trong bảng; biến điệu 一, 不 ghi như HSK 1 (bú rènshi, yí ge); 个 ghi ge. Câu có chữ nhiều âm theo ngữ cảnh thì ghi pinyin bằng tay.
 - HSK 2–3: pinyin của từ lấy từ bản làm việc (bỏ dạng viết hoa là họ / tên riêng). Chỉ đặt check: true về pinyin khi bản làm việc có nhiều âm và phải chọn một âm.
 - Chủ đề hsk2-hu-tu có 19 từ (dưới 20) để giữ hư từ riêng; chủ đề HSK 3 phó từ / giới từ tách làm hai (20 và 19 từ).
@@ -69,13 +69,17 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 1 | hsk1-so-dem-thoi-gian | 昨天 | zuótiān | — |
 | 1 | hsk1-so-dem-thoi-gian | 年 | nián | nên |
 | 1 | hsk1-gia-dinh-truong-hoc | 爸爸 | bàba | — |
+| 1 | hsk1-gia-dinh-truong-hoc | 妈妈 | māma | má má |
 | 1 | hsk1-gia-dinh-truong-hoc | 儿子 | érzi | — |
 | 1 | hsk1-gia-dinh-truong-hoc | 女儿 | nǚ'ér | — |
+| 1 | hsk1-gia-dinh-truong-hoc | 小姐 | xiǎojiě | tiểu thư |
 | 1 | hsk1-gia-dinh-truong-hoc | 学校 | xuéxiào | học hiệu |
 | 1 | hsk1-gia-dinh-truong-hoc | 猫 | māo | mèo |
 | 1 | hsk1-an-uong-mua-sam | 吃 | chī | khật |
 | 1 | hsk1-an-uong-mua-sam | 菜 | cài | — |
 | 1 | hsk1-an-uong-mua-sam | 米饭 | mǐfàn | — |
+| 1 | hsk1-an-uong-mua-sam | 苹果 | píngguǒ | tần quả |
+| 1 | hsk1-an-uong-mua-sam | 杯子 | bēizi | bôi tí |
 | 1 | hsk1-an-uong-mua-sam | 饭馆 | fànguǎn | — |
 | 1 | hsk1-an-uong-mua-sam | 东西 | dōngxi | đông tây |
 | 1 | hsk1-an-uong-mua-sam | 桌子 | zhuōzi | — |
@@ -103,7 +107,9 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 1 | hsk1-hu-tu | 很 | hěn | — |
 | 1 | hsk1-hu-tu | 吗 | ma | mửa |
 | 1 | hsk1-hu-tu | 呢 | ne | nài |
+| 2 | hsk2-gia-dinh-suc-khoe | 姐姐 | jiějie | thư thư |
 | 2 | hsk2-gia-dinh-suc-khoe | 妻子 | qīzi | thê tí |
+| 2 | hsk2-gia-dinh-suc-khoe | 孩子 | háizi | hài tí |
 | 2 | hsk2-gia-dinh-suc-khoe | 女人 | nǚrén | nữa nhân |
 | 2 | hsk2-gia-dinh-suc-khoe | 您 | nín | — |
 | 2 | hsk2-gia-dinh-suc-khoe | 它 | tā | — |
@@ -111,16 +117,19 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 2 | hsk2-gia-dinh-suc-khoe | 累 | lèi | luỵ |
 | 2 | hsk2-gia-dinh-suc-khoe | 笑 | xiào | — |
 | 2 | hsk2-an-uong-mua-sam | 鸡蛋 | jīdàn | — |
+| 2 | hsk2-an-uong-mua-sam | 牛奶 | niúnǎi | ngưu nái |
 | 2 | hsk2-an-uong-mua-sam | 咖啡 | kāfēi | — |
 | 2 | hsk2-an-uong-mua-sam | 羊肉 | yángròu | — |
 | 2 | hsk2-an-uong-mua-sam | 好吃 | hǎochī | háo khật |
 | 2 | hsk2-an-uong-mua-sam | 便宜 | piányi | tiện nghi |
 | 2 | hsk2-an-uong-mua-sam | 百 | bǎi | bách |
+| 2 | hsk2-thoi-gian-thoi-tiet | 去年 | qùnián | khứ nên |
 | 2 | hsk2-thoi-gian-thoi-tiet | 号 | hào | hiệu |
 | 2 | hsk2-thoi-gian-thoi-tiet | 第一 | dìyī | đệ nhất |
 | 2 | hsk2-thoi-gian-thoi-tiet | 每 | měi | mỗi |
 | 2 | hsk2-thoi-gian-thoi-tiet | 晴 | qíng | tạnh |
 | 2 | hsk2-thoi-gian-thoi-tiet | 雪 | xuě | — |
+| 2 | hsk2-thoi-gian-thoi-tiet | 准备 | zhǔnbèi | chốn bị |
 | 2 | hsk2-noi-chon-di-lai | 远 | yuǎn | viễn |
 | 2 | hsk2-noi-chon-di-lai | 离 | lí | le |
 | 2 | hsk2-noi-chon-di-lai | 公共汽车 | gōnggòngqìchē | — |
@@ -131,7 +140,12 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 2 | hsk2-hoc-tap-giao-tiep | 懂 | dǒng | — |
 | 2 | hsk2-hoc-tap-giao-tiep | 告诉 | gàosu | — |
 | 2 | hsk2-hoc-tap-giao-tiep | 帮助 | bāngzhù | — |
+| 2 | hsk2-hoc-tap-giao-tiep | 找 | zhǎo | quơ |
 | 2 | hsk2-hoc-tap-giao-tiep | 给 | gěi | cấp |
+| 2 | hsk2-hoc-tap-giao-tiep | 让 | ràng | nhường |
+| 2 | hsk2-hoc-tap-giao-tiep | 希望 | xīwàng | hơi vọng |
+| 2 | hsk2-hoc-tap-giao-tiep | 错 | cuò | thó |
+| 2 | hsk2-so-thich-tinh-chat | 跳舞 | tiàowǔ | khêu vũ |
 | 2 | hsk2-so-thich-tinh-chat | 跑步 | pǎobù | — |
 | 2 | hsk2-so-thich-tinh-chat | 游泳 | yóuyǒng | — |
 | 2 | hsk2-so-thich-tinh-chat | 踢 | tī | — |
@@ -149,6 +163,29 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 2 | hsk2-hu-tu | 为 | wèi | vay |
 | 2 | hsk2-hu-tu | 但是 | dànshì | — |
 | 2 | hsk2-hu-tu | 所以 | suǒyǐ | — |
+| 2 | hsk2-hu-tu | 因为 | yīnwèi | nhân vay |
+| 3 | hsk3-con-nguoi | 阿姨 | āyí | — |
+| 3 | hsk3-con-nguoi | 爷爷 | yéye | — |
+| 3 | hsk3-con-nguoi | 奶奶 | nǎinai | nái nái |
+| 3 | hsk3-con-nguoi | 校长 | xiàozhǎng | hiệu trường |
+| 3 | hsk3-con-nguoi | 别人 | biéren | biết nhân |
+| 3 | hsk3-con-nguoi | 鼻子 | bízi | — |
+| 3 | hsk3-con-nguoi | 脸 | liǎn | — |
+| 3 | hsk3-con-nguoi | 脚 | jiǎo | — |
+| 3 | hsk3-con-nguoi | 矮 | ǎi | — |
+| 3 | hsk3-con-nguoi | 胖 | pàng | bỡn |
+| 3 | hsk3-con-nguoi | 瘦 | shòu | xấu |
+| 3 | hsk3-con-nguoi | 年轻 | niánqīng | nên khinh |
+| 3 | hsk3-con-nguoi | 可爱 | kěài | — |
+| 3 | hsk3-cam-xuc-suc-khoe | 担心 | dānxīn | đam tâm |
+| 3 | hsk3-cam-xuc-suc-khoe | 害怕 | hàipà | — |
+| 3 | hsk3-cam-xuc-suc-khoe | 努力 | nǔlì | — |
+| 3 | hsk3-cam-xuc-suc-khoe | 奇怪 | qíguài | — |
+| 3 | hsk3-cam-xuc-suc-khoe | 疼 | téng | — |
+| 3 | hsk3-cam-xuc-suc-khoe | 饿 | è | — |
+| 3 | hsk3-cam-xuc-suc-khoe | 饱 | bǎo | — |
+| 3 | hsk3-cam-xuc-suc-khoe | 哭 | kū | khóc |
+| 3 | hsk3-cam-xuc-suc-khoe | 敢 | gǎn | cám |
 
 ## Âm Hán Việt cần xem
 
@@ -185,6 +222,11 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 别 | biết | biệt |
 | 吧 | và | ba |
 | 为 | vay | vị |
+| 校长 | chò/giâu/hiệu trường | hiệu trưởng |
+| 瘦 | xấu | sấu |
+| 胖 | bỡn | bàn |
+| 敢 | cám | cảm |
+| 哭 | khóc | khốc |
 
 ## Lỗi giao diện ghi nhận
 

@@ -68,7 +68,7 @@
       "confusables": [
         "ba4ba"
       ],
-      "check": false
+      "check": true
     },
     {
       "id": "er2zi",
@@ -227,7 +227,7 @@
       "confusables": [
         "xian1sheng"
       ],
-      "check": false
+      "check": true
     },
     {
       "id": "peng2you",

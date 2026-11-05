@@ -69,7 +69,7 @@
         "mei4mei",
         "ge1ge"
       ],
-      "check": false
+      "check": true
     },
     {
       "id": "di4di",
@@ -231,7 +231,7 @@
       "confusables": [
         "er2zi"
       ],
-      "check": false
+      "check": true
     },
     {
       "id": "nan2ren2",

@@ -29,7 +29,10 @@
     {
       "level": 3,
       "title": "HSK 3",
-      "topics": []
+      "topics": [
+        "hsk3-con-nguoi",
+        "hsk3-cam-xuc-suc-khoe"
+      ]
     }
   ]
 }
