@@ -1,0 +1,64 @@
+# id: hsk3-giai-tri-xa-hoi
+# level: 3
+# title: Giải trí, xã hội
+# order: 8
+@爱好 àihào | sở thích; yêu thích | c: 兴趣 好
+- 你有什么*爱好*？ = Bạn có sở thích gì?
+@兴趣 | hứng thú, sự thích thú | c: 爱好
+- 学习汉语，*兴趣*很重要。 = Học tiếng Trung, hứng thú rất quan trọng.
+@音乐 | âm nhạc, nhạc | hv: âm nhạc
+- 我喜欢听*音乐*。 = Tôi thích nghe nhạc.
+@节目 | chương trình, tiết mục
+- 今天晚上有什么电视*节目*？ = Tối nay có chương trình ti vi gì?
+@表演 | biểu diễn; màn biểu diễn
+- 他们的*表演*非常好。 = Màn biểu diễn của họ rất hay.
+@比赛 | trận đấu, cuộc thi; thi đấu
+- 这次*比赛*我们班第一。 = Cuộc thi này lớp chúng tôi đứng nhất.
+@游戏 | trò chơi
+- 我弟弟很喜欢玩*游戏*。 = Em trai tôi rất thích chơi trò chơi.
+@故事 gùshi | câu chuyện
+- 这个*故事*很有意思。 = Câu chuyện này rất thú vị.
+@新闻 | tin tức, thời sự
+- 爸爸晚上看电视*新闻*。 = Buổi tối bố xem thời sự trên ti vi.
+@上网 | lên mạng
+- 你*上网*做什么？ = Bạn lên mạng làm gì?
+@爬山 | leo núi
+- 周末我们去*爬山*吧。 = Cuối tuần chúng ta đi leo núi nhé.
+@锻炼 | rèn luyện (thân thể), tập thể dục | c: 运动
+- 爷爷早上在公园*锻炼*身体。 = Buổi sáng ông nội tập thể dục ở công viên.
+@结婚 | kết hôn, cưới
+- 他们*结婚*三年了。 = Họ cưới nhau được ba năm rồi.
+@见面 | gặp mặt, gặp nhau | u: 见面 không mang tân ngữ: 和他见面, không nói 见面他. | c: 遇到
+- 我们在哪儿*见面*？ = Chúng ta gặp nhau ở đâu?
+@照顾 zhàogu | chăm sóc, trông nom
+- 她在医院*照顾*妈妈。 = Cô ấy chăm sóc mẹ ở bệnh viện.
+@帮忙 | giúp, giúp một tay | u: 帮忙 không mang tân ngữ: 帮我一个忙; giúp ai làm gì thì dùng 帮助. | c: 帮助
+- 谢谢你来*帮忙*。 = Cảm ơn bạn đến giúp.
+@借 | mượn; cho mượn
+- 我可以*借*你的自行车吗？ = Tôi mượn xe đạp của bạn được không?
+@文化 | văn hóa
+- 每个国家都有自己的*文化*。 = Mỗi quốc gia đều có văn hóa riêng.
+@国家 | quốc gia, đất nước
+- 你想去哪个*国家*旅游？ = Bạn muốn đi du lịch nước nào?
+@世界 | thế giới
+- 这是*世界*上最高的楼吗？ = Đây có phải tòa nhà cao nhất thế giới không?
+@环境 | môi trường
+- 这里的*环境*很好。 = Môi trường ở đây rất tốt.
+@有名 | nổi tiếng
+- 北京有很多*有名*的地方。 = Bắc Kinh có nhiều nơi nổi tiếng.
+@声音 | âm thanh, tiếng, giọng
+- 他的*声音*很大。 = Giọng anh ấy rất to.
+@画 | vẽ; bức tranh | pos: v n
+- 她*画*了一只猫。 = Cô ấy vẽ một con mèo.
+- 这张*画*很漂亮。 = Bức tranh này rất đẹp.
+F 我们好久没{0}了。 | 见面* 文化 世界 国家 | e: 好久没见面 = lâu rồi không gặp.
+F 妈妈生病了，我要在家{0}她。 | 照顾* 帮忙 锻炼 表演 | e: 照顾 + người = chăm sóc ai.
+F 我的自行车坏了，能{0}你的吗？ | 借* 画 结婚 锻炼 | e: 借 = mượn.
+F 你喜欢听什么{0}？ | 音乐* 画 游戏 环境 | e: 听音乐 = nghe nhạc.
+F 这个城市很{0}，很多人来这儿旅游。 | 有名* 文化 环境 世界 | e: 有名 = nổi tiếng.
+F 你有什么{0}？我喜欢爬山。 | 爱好* 声音 环境 新闻 | e: Hỏi sở thích: 你有什么爱好？
+O 我 的 爱好 是 听 音乐 | vi: Sở thích của tôi là nghe nhạc. | t: 爱好 音乐 | alt: 听 音乐 是 我 的 爱好
+O 爷爷 每个 星期 都 去 爬山 | vi: Tuần nào ông nội cũng đi leo núi. | t: 爬山 | alt: 每个 星期 爷爷 都 去 爬山
+O 谢谢 你 的 照顾 | vi: Cảm ơn bạn đã chăm sóc. | t: 照顾
+O 这个 节目 很 有 意思 | vi: Chương trình này rất thú vị. | t: 节目
+O 他们 下个月 结婚 | vi: Tháng sau họ cưới. | t: 结婚 | alt: 下个月 他们 结婚

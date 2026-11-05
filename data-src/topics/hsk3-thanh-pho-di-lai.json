@@ -766,7 +766,9 @@
         }
       ],
       "textbooks": null,
-      "confusables": [],
+      "confusables": [
+        "jian4mian4"
+      ],
       "check": false
     },
     {

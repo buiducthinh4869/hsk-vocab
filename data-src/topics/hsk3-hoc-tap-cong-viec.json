@@ -1,0 +1,1027 @@
+{
+  "id": "hsk3-hoc-tap-cong-viec",
+  "level": 3,
+  "title": "Học tập, công việc",
+  "order": 7,
+  "words": [
+    {
+      "id": "ban1-2",
+      "hanzi": "班",
+      "pinyin": "bān",
+      "pinyinNum": "ban1",
+      "hanViet": "ban",
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "lớp",
+        "ca (làm việc)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我们*班*有三十个学生。",
+          "vi": "Lớp chúng tôi có 30 học sinh.",
+          "py": "Wǒmen *bān* yǒu sān shí ge xuésheng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nian2ji2"
+      ],
+      "check": false
+    },
+    {
+      "id": "nian2ji2",
+      "hanzi": "年级",
+      "pinyin": "niánjí",
+      "pinyinNum": "nian2 ji2",
+      "hanViet": "nên cấp",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "khối, năm học (lớp mấy)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我妹妹上三*年级*。",
+          "vi": "Em gái tôi học lớp 3.",
+          "py": "Wǒ mèimei shàng sān *niánjí*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ban1-2"
+      ],
+      "check": true
+    },
+    {
+      "id": "shu4xue2",
+      "hanzi": "数学",
+      "pinyin": "shùxué",
+      "pinyinNum": "shu4 xue2",
+      "hanViet": "số học",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "toán, toán học"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我的*数学*成绩不太好。",
+          "vi": "Điểm toán của tôi không tốt lắm.",
+          "py": "Wǒ de *shùxué* chéngjì bú tài hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "li4shi3",
+      "hanzi": "历史",
+      "pinyin": "lìshǐ",
+      "pinyinNum": "li4 shi3",
+      "hanViet": "lịch sử",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "lịch sử"
+      ],
+      "usage": "",
+      "measureWords": [
+        "门",
+        "段"
+      ],
+      "examples": [
+        {
+          "zh": "中国有很长的*历史*。",
+          "vi": "Trung Quốc có lịch sử rất lâu đời.",
+          "py": "Zhōngguó yǒu hěn cháng de *lìshǐ*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ti3yu4",
+      "hanzi": "体育",
+      "pinyin": "tǐyù",
+      "pinyinNum": "ti3 yu4",
+      "hanViet": "thể dục",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "thể dục, thể thao (môn học)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我最喜欢上*体育*课。",
+          "vi": "Tôi thích nhất giờ thể dục.",
+          "py": "Wǒ zuì xǐhuan shàng *tǐyù* kè."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zuo4ye4",
+      "hanzi": "作业",
+      "pinyin": "zuòyè",
+      "pinyinNum": "zuo4 ye4",
+      "hanViet": "tác nghiệp",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "bài tập (về nhà)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你的*作业*做完了吗？",
+          "vi": "Bạn làm xong bài tập chưa?",
+          "py": "Nǐ de *zuòyè* zuò wán le ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "fu4xi2",
+      "hanzi": "复习",
+      "pinyin": "fùxí",
+      "pinyinNum": "fu4 xi2",
+      "hanViet": "hạ tập",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "ôn tập"
+      ],
+      "usage": "复习 là ôn lại bài đã học; 练习 là luyện tập cho thành thạo.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "考试以前要好好*复习*。",
+          "vi": "Trước kỳ thi phải ôn tập cho kỹ.",
+          "py": "Kǎoshì yǐqián yào hǎo hǎo *fùxí*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "lian4xi2"
+      ],
+      "check": true
+    },
+    {
+      "id": "lian4xi2",
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "pinyinNum": "lian4 xi2",
+      "hanViet": "luyện tập",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "luyện tập",
+        "bài luyện tập"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们一起*练习*写字吧。",
+          "vi": "Chúng ta cùng luyện viết chữ nhé.",
+          "py": "Wǒmen yìqǐ *liànxí* xiě zì ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "fu4xi2"
+      ],
+      "check": false
+    },
+    {
+      "id": "ju4zi",
+      "hanzi": "句子",
+      "pinyin": "jùzi",
+      "pinyinNum": "ju4 zi",
+      "hanViet": "câu tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "câu"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "这个*句子*是什么意思？",
+          "vi": "Câu này nghĩa là gì?",
+          "py": "Zhège *jùzi* shì shénme yìsi?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ci2yu3",
+      "hanzi": "词语",
+      "pinyin": "cíyǔ",
+      "pinyinNum": "ci2 yu3",
+      "hanViet": "từ ngữ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "từ ngữ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这些*词语*你都会写吗？",
+          "vi": "Mấy từ này bạn đều biết viết chứ?",
+          "py": "Zhè xiē *cíyǔ* nǐ dōu huì xiě ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "pu3tong1hua4",
+      "hanzi": "普通话",
+      "pinyin": "pǔtōnghuà",
+      "pinyinNum": "pu3 tong1 hua4",
+      "hanViet": "phổ thông thoại",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tiếng phổ thông (tiếng Trung chuẩn)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他会讲*普通话*。",
+          "vi": "Anh ấy biết nói tiếng phổ thông.",
+          "py": "Tā huì jiǎng *pǔtōnghuà*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "cheng2ji4",
+      "hanzi": "成绩",
+      "pinyin": "chéngjì",
+      "pinyinNum": "cheng2 ji4",
+      "hanViet": "thành tích",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "thành tích, điểm số"
+      ],
+      "usage": "",
+      "measureWords": [
+        "项",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "这次考试你的*成绩*怎么样？",
+          "vi": "Kỳ thi lần này điểm của bạn thế nào?",
+          "py": "Zhè cì kǎoshì nǐ de *chéngjì* zěnmeyàng?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shui3ping2",
+      "hanzi": "水平",
+      "pinyin": "shuǐpíng",
+      "pinyinNum": "shui3 ping2",
+      "hanViet": "thuỷ bình",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "trình độ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你的汉语*水平*提高了很多。",
+          "vi": "Trình độ tiếng Trung của bạn tiến bộ nhiều.",
+          "py": "Nǐ de Hànyǔ *shuǐpíng* tígāo le hěn duō."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jian3cha2",
+      "hanzi": "检查",
+      "pinyin": "jiǎnchá",
+      "pinyinNum": "jian3 cha2",
+      "hanViet": "ghém tra",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "kiểm tra",
+        "khám (bệnh)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "医生给我*检查*了身体。",
+          "vi": "Bác sĩ khám sức khỏe cho tôi.",
+          "py": "Yīshēng gěi wǒ *jiǎnchá* le shēntǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "jiang3",
+      "hanzi": "讲",
+      "pinyin": "jiǎng",
+      "pinyinNum": "jiang3",
+      "hanViet": "giảng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "nói, giảng",
+        "kể"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "老师正在*讲*课。",
+          "vi": "Thầy đang giảng bài.",
+          "py": "Lǎoshī zhèngzài *jiǎng* kè."
+        },
+        {
+          "zh": "奶奶给我*讲*了一个故事。",
+          "vi": "Bà kể cho tôi một câu chuyện.",
+          "py": "Nǎinai gěi wǒ *jiǎng* le yí ge gùshi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shuo1hua4"
+      ],
+      "check": false
+    },
+    {
+      "id": "jiao1",
+      "hanzi": "教",
+      "pinyin": "jiāo",
+      "pinyinNum": "jiao1",
+      "hanViet": "giáo",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "dạy"
+      ],
+      "usage": "Động từ \"dạy\" đọc jiāo; trong 教室 đọc jiào.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她*教*我们汉语。",
+          "vi": "Cô ấy dạy chúng tôi tiếng Trung.",
+          "py": "Tā *jiāo* wǒmen Hànyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xue2xi2"
+      ],
+      "check": true
+    },
+    {
+      "id": "ming2bai",
+      "hanzi": "明白",
+      "pinyin": "míngbai",
+      "pinyinNum": "ming2 bai",
+      "hanViet": "minh bạch",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "hiểu, rõ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*明白*我的意思吗？",
+          "vi": "Bạn hiểu ý tôi không?",
+          "py": "Nǐ *míngbai* wǒ de yìsi ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dong3",
+        "qing1chu"
+      ],
+      "check": false
+    },
+    {
+      "id": "qing1chu",
+      "hanzi": "清楚",
+      "pinyin": "qīngchu",
+      "pinyinNum": "qing1 chu",
+      "hanViet": "thanh sở",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "rõ, rõ ràng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "黑板上的字我看不*清楚*。",
+          "vi": "Chữ trên bảng tôi nhìn không rõ.",
+          "py": "Hēibǎn shàng de zì wǒ kàn bù *qīngchu*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ming2bai"
+      ],
+      "check": false
+    },
+    {
+      "id": "liao3jie3",
+      "hanzi": "了解",
+      "pinyin": "liǎojiě",
+      "pinyinNum": "liao3 jie3",
+      "hanViet": "liễu giải",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "hiểu, tìm hiểu (sâu)"
+      ],
+      "usage": "了解 là hiểu rõ về người, sự việc qua thời gian; 懂, 明白 là hiểu một câu, một ý.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我想多*了解*中国文化。",
+          "vi": "Tôi muốn tìm hiểu thêm văn hóa Trung Quốc.",
+          "py": "Wǒ xiǎng duō *liǎojiě* Zhōngguó wénhuà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ming2bai"
+      ],
+      "check": false
+    },
+    {
+      "id": "ji4de",
+      "hanzi": "记得",
+      "pinyin": "jìde",
+      "pinyinNum": "ji4 de",
+      "hanViet": "kí đắc",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhớ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你还*记得*我吗？",
+          "vi": "Bạn còn nhớ tôi không?",
+          "py": "Nǐ hái *jìde* wǒ ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "wang4ji4"
+      ],
+      "check": false
+    },
+    {
+      "id": "wang4ji4",
+      "hanzi": "忘记",
+      "pinyin": "wàngjì",
+      "pinyinNum": "wang4 ji4",
+      "hanViet": "vong kí",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "quên"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*忘记*带伞了。",
+          "vi": "Tôi quên mang ô rồi.",
+          "py": "Wǒ *wàngjì* dài sǎn le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ji4de"
+      ],
+      "check": false
+    },
+    {
+      "id": "hui4yi4",
+      "hanzi": "会议",
+      "pinyin": "huìyì",
+      "pinyinNum": "hui4 yi4",
+      "hanViet": "hội nghị",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "cuộc họp, hội nghị"
+      ],
+      "usage": "",
+      "measureWords": [
+        "场",
+        "届"
+      ],
+      "examples": [
+        {
+          "zh": "明天上午有一个*会议*。",
+          "vi": "Sáng mai có một cuộc họp.",
+          "py": "Míngtiān shàngwǔ yǒu yí ge *huìyì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ju3xing2",
+      "hanzi": "举行",
+      "pinyin": "jǔxíng",
+      "pinyinNum": "ju3 xing2",
+      "hanViet": "cử hành",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tổ chức (sự kiện)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们学校下个月*举行*比赛。",
+          "vi": "Tháng sau trường chúng tôi tổ chức thi đấu.",
+          "py": "Wǒmen xuéxiào xià ge yuè *jǔxíng* bǐsài."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "can1jia1"
+      ],
+      "check": false
+    },
+    {
+      "id": "can1jia1",
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "pinyinNum": "can1 jia1",
+      "hanViet": "tham gia",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "tham gia"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*参加*明天的比赛吗？",
+          "vi": "Bạn có tham gia trận đấu ngày mai không?",
+          "py": "Nǐ *cānjiā* míngtiān de bǐsài ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ju3xing2"
+      ],
+      "check": false
+    },
+    {
+      "id": "wan2cheng2",
+      "hanzi": "完成",
+      "pinyin": "wánchéng",
+      "pinyinNum": "wan2 cheng2",
+      "hanViet": "hoàn thành",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "hoàn thành"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我已经*完成*了今天的作业。",
+          "vi": "Tôi đã hoàn thành bài tập hôm nay.",
+          "py": "Wǒ yǐjīng *wánchéng* le jīntiān de zuòyè."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jie2shu4"
+      ],
+      "check": false
+    },
+    {
+      "id": "jie2shu4",
+      "hanzi": "结束",
+      "pinyin": "jiéshù",
+      "pinyinNum": "jie2 shu4",
+      "hanViet": "kết thút",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "kết thúc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "会议几点*结束*？",
+          "vi": "Cuộc họp mấy giờ kết thúc?",
+          "py": "Huìyì jǐ diǎn *jiéshù*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "kai1shi3",
+        "wan2cheng2"
+      ],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我妹妹上二{0}。",
+      "options": [
+        "年级",
+        "层",
+        "位",
+        "双"
+      ],
+      "answer": "年级",
+      "targets": [
+        "nian2ji2"
+      ],
+      "explanation": "Học lớp mấy: 上...年级.",
+      "id": "hsk3-hoc-tap-cong-viec-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "明天考试，今天晚上我要{0}。",
+      "options": [
+        "复习",
+        "结束",
+        "举行",
+        "忘记"
+      ],
+      "answer": "复习",
+      "targets": [
+        "fu4xi2"
+      ],
+      "explanation": "Trước kỳ thi thì ôn tập.",
+      "id": "hsk3-hoc-tap-cong-viec-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "你还{0}他的名字吗？",
+      "options": [
+        "记得",
+        "忘记",
+        "了解",
+        "举行"
+      ],
+      "answer": "记得",
+      "targets": [
+        "ji4de"
+      ],
+      "explanation": "还记得 = còn nhớ.",
+      "id": "hsk3-hoc-tap-cong-viec-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "电影九点{0}，我们十点就能回家。",
+      "options": [
+        "结束",
+        "举行",
+        "参加",
+        "完成"
+      ],
+      "answer": "结束",
+      "targets": [
+        "jie2shu4"
+      ],
+      "explanation": "Phim kết thúc: 结束.",
+      "id": "hsk3-hoc-tap-cong-viec-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "她{0}我们数学。",
+      "options": [
+        "教",
+        "参加",
+        "记得",
+        "完成"
+      ],
+      "answer": "教",
+      "targets": [
+        "jiao1"
+      ],
+      "explanation": "教 + người + môn = dạy ai môn gì.",
+      "id": "hsk3-hoc-tap-cong-viec-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "黑板上的字太小了，我看不{0}。",
+      "options": [
+        "清楚",
+        "完成",
+        "结束",
+        "记得"
+      ],
+      "answer": "清楚",
+      "targets": [
+        "qing1chu"
+      ],
+      "explanation": "看不清楚 = nhìn không rõ.",
+      "id": "hsk3-hoc-tap-cong-viec-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "已经",
+        "完成",
+        "了",
+        "作业"
+      ],
+      "answers": [
+        [
+          "我",
+          "已经",
+          "完成",
+          "了",
+          "作业"
+        ]
+      ],
+      "targets": [
+        "wan2cheng2",
+        "zuo4ye4"
+      ],
+      "vi": "Tôi đã làm xong bài tập rồi.",
+      "id": "hsk3-hoc-tap-cong-viec-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "老师",
+        "让",
+        "我们",
+        "复习",
+        "句子"
+      ],
+      "answers": [
+        [
+          "老师",
+          "让",
+          "我们",
+          "复习",
+          "句子"
+        ]
+      ],
+      "targets": [
+        "fu4xi2",
+        "ju4zi"
+      ],
+      "vi": "Thầy bảo chúng tôi ôn lại các câu.",
+      "id": "hsk3-hoc-tap-cong-viec-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "忘记",
+        "带",
+        "作业",
+        "了"
+      ],
+      "answers": [
+        [
+          "我",
+          "忘记",
+          "带",
+          "作业",
+          "了"
+        ]
+      ],
+      "targets": [
+        "wang4ji4"
+      ],
+      "vi": "Tôi quên mang bài tập rồi.",
+      "id": "hsk3-hoc-tap-cong-viec-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "他",
+        "的",
+        "汉语",
+        "水平",
+        "很",
+        "高"
+      ],
+      "answers": [
+        [
+          "他",
+          "的",
+          "汉语",
+          "水平",
+          "很",
+          "高"
+        ]
+      ],
+      "targets": [
+        "shui3ping2"
+      ],
+      "vi": "Trình độ tiếng Trung của anh ấy rất cao.",
+      "id": "hsk3-hoc-tap-cong-viec-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我们",
+        "学校",
+        "明天",
+        "举行",
+        "比赛"
+      ],
+      "answers": [
+        [
+          "我们",
+          "学校",
+          "明天",
+          "举行",
+          "比赛"
+        ],
+        [
+          "明天",
+          "我们",
+          "学校",
+          "举行",
+          "比赛"
+        ]
+      ],
+      "targets": [
+        "ju3xing2"
+      ],
+      "vi": "Ngày mai trường chúng tôi tổ chức thi đấu.",
+      "id": "hsk3-hoc-tap-cong-viec-order-05"
+    }
+  ]
+}

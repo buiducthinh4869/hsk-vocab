@@ -51,7 +51,7 @@
 - 他昨天*离开*北京了。 = Anh ấy rời Bắc Kinh hôm qua.
 @迟到 | đến muộn
 - 对不起，我*迟到*了。 = Xin lỗi, tôi đến muộn.
-@遇到 | gặp (tình cờ); gặp phải
+@遇到 | gặp (tình cờ); gặp phải | c: 见面
 - 我在超市*遇到*了我的老师。 = Tôi tình cờ gặp thầy giáo ở siêu thị.
 @接 | đón; nhận | c: 送
 - 我去机场*接*你。 = Tôi ra sân bay đón bạn.

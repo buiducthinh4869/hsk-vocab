@@ -1,0 +1,974 @@
+{
+  "id": "hsk3-giai-tri-xa-hoi",
+  "level": 3,
+  "title": "Giải trí, xã hội",
+  "order": 8,
+  "words": [
+    {
+      "id": "ai4hao4",
+      "hanzi": "爱好",
+      "pinyin": "àihào",
+      "pinyinNum": "ai4 hao4",
+      "hanViet": null,
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "sở thích",
+        "yêu thích"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你有什么*爱好*？",
+          "vi": "Bạn có sở thích gì?",
+          "py": "Nǐ yǒu shénme *àihào*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xing4qu4",
+        "hao3"
+      ],
+      "check": true
+    },
+    {
+      "id": "xing4qu4",
+      "hanzi": "兴趣",
+      "pinyin": "xìngqù",
+      "pinyinNum": "xing4 qu4",
+      "hanViet": "hưng thú",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "hứng thú, sự thích thú"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "学习汉语，*兴趣*很重要。",
+          "vi": "Học tiếng Trung, hứng thú rất quan trọng.",
+          "py": "Xuéxí Hànyǔ, *xìngqù* hěn zhòngyào."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ai4hao4"
+      ],
+      "check": false
+    },
+    {
+      "id": "yin1yue4",
+      "hanzi": "音乐",
+      "pinyin": "yīnyuè",
+      "pinyinNum": "yin1 yue4",
+      "hanViet": "âm nhạc",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "âm nhạc, nhạc"
+      ],
+      "usage": "",
+      "measureWords": [
+        "张",
+        "曲",
+        "段"
+      ],
+      "examples": [
+        {
+          "zh": "我喜欢听*音乐*。",
+          "vi": "Tôi thích nghe nhạc.",
+          "py": "Wǒ xǐhuan tīng *yīnyuè*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jie2mu4",
+      "hanzi": "节目",
+      "pinyin": "jiémù",
+      "pinyinNum": "jie2 mu4",
+      "hanViet": "tiết mục",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "chương trình, tiết mục"
+      ],
+      "usage": "",
+      "measureWords": [
+        "台",
+        "个",
+        "套"
+      ],
+      "examples": [
+        {
+          "zh": "今天晚上有什么电视*节目*？",
+          "vi": "Tối nay có chương trình ti vi gì?",
+          "py": "Jīntiān wǎnshang yǒu shénme diànshì *jiémù*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "biao3yan3",
+      "hanzi": "表演",
+      "pinyin": "biǎoyǎn",
+      "pinyinNum": "biao3 yan3",
+      "hanViet": "biểu diễn",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "biểu diễn",
+        "màn biểu diễn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他们的*表演*非常好。",
+          "vi": "Màn biểu diễn của họ rất hay.",
+          "py": "Tāmen de *biǎoyǎn* fēicháng hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bi3sai4",
+      "hanzi": "比赛",
+      "pinyin": "bǐsài",
+      "pinyinNum": "bi3 sai4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "trận đấu, cuộc thi",
+        "thi đấu"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这次*比赛*我们班第一。",
+          "vi": "Cuộc thi này lớp chúng tôi đứng nhất.",
+          "py": "Zhè cì *bǐsài* wǒmen bān dìyī."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "you2xi4",
+      "hanzi": "游戏",
+      "pinyin": "yóuxì",
+      "pinyinNum": "you2 xi4",
+      "hanViet": null,
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "trò chơi"
+      ],
+      "usage": "",
+      "measureWords": [
+        "场"
+      ],
+      "examples": [
+        {
+          "zh": "我弟弟很喜欢玩*游戏*。",
+          "vi": "Em trai tôi rất thích chơi trò chơi.",
+          "py": "Wǒ dìdi hěn xǐhuan wán *yóuxì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "gu4shi",
+      "hanzi": "故事",
+      "pinyin": "gùshi",
+      "pinyinNum": "gu4 shi",
+      "hanViet": "cố sự",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "câu chuyện"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个*故事*很有意思。",
+          "vi": "Câu chuyện này rất thú vị.",
+          "py": "Zhège *gùshi* hěn yǒu yìsi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xin1wen2",
+      "hanzi": "新闻",
+      "pinyin": "xīnwén",
+      "pinyinNum": "xin1 wen2",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "tin tức, thời sự"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "爸爸晚上看电视*新闻*。",
+          "vi": "Buổi tối bố xem thời sự trên ti vi.",
+          "py": "Bàba wǎnshang kàn diànshì *xīnwén*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "shang4wang3",
+      "hanzi": "上网",
+      "pinyin": "shàngwǎng",
+      "pinyinNum": "shang4 wang3",
+      "hanViet": "thượng võng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "lên mạng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*上网*做什么？",
+          "vi": "Bạn lên mạng làm gì?",
+          "py": "Nǐ *shàngwǎng* zuò shénme?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "pa2shan1",
+      "hanzi": "爬山",
+      "pinyin": "páshān",
+      "pinyinNum": "pa2 shan1",
+      "hanViet": "bò sơn",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "leo núi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "周末我们去*爬山*吧。",
+          "vi": "Cuối tuần chúng ta đi leo núi nhé.",
+          "py": "Zhōumò wǒmen qù *páshān* ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "duan4lian4",
+      "hanzi": "锻炼",
+      "pinyin": "duànliàn",
+      "pinyinNum": "duan4 lian4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "rèn luyện (thân thể), tập thể dục"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "爷爷早上在公园*锻炼*身体。",
+          "vi": "Buổi sáng ông nội tập thể dục ở công viên.",
+          "py": "Yéye zǎoshang zài gōngyuán *duànliàn* shēntǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yun4dong4"
+      ],
+      "check": true
+    },
+    {
+      "id": "jie2hun1",
+      "hanzi": "结婚",
+      "pinyin": "jiéhūn",
+      "pinyinNum": "jie2 hun1",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "kết hôn, cưới"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他们*结婚*三年了。",
+          "vi": "Họ cưới nhau được ba năm rồi.",
+          "py": "Tāmen *jiéhūn* sān nián le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "jian4mian4",
+      "hanzi": "见面",
+      "pinyin": "jiànmiàn",
+      "pinyinNum": "jian4 mian4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "gặp mặt, gặp nhau"
+      ],
+      "usage": "见面 không mang tân ngữ: 和他见面, không nói 见面他.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们在哪儿*见面*？",
+          "vi": "Chúng ta gặp nhau ở đâu?",
+          "py": "Wǒmen zài nǎr *jiànmiàn*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yu4dao4"
+      ],
+      "check": true
+    },
+    {
+      "id": "zhao4gu",
+      "hanzi": "照顾",
+      "pinyin": "zhàogu",
+      "pinyinNum": "zhao4 gu",
+      "hanViet": "chiếu cố",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "chăm sóc, trông nom"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她在医院*照顾*妈妈。",
+          "vi": "Cô ấy chăm sóc mẹ ở bệnh viện.",
+          "py": "Tā zài yīyuàn *zhàogu* māma."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bang1mang2",
+      "hanzi": "帮忙",
+      "pinyin": "bāngmáng",
+      "pinyinNum": "bang1 mang2",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "giúp, giúp một tay"
+      ],
+      "usage": "帮忙 không mang tân ngữ: 帮我一个忙; giúp ai làm gì thì dùng 帮助.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "谢谢你来*帮忙*。",
+          "vi": "Cảm ơn bạn đến giúp.",
+          "py": "Xièxie nǐ lái *bāngmáng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bang1zhu4"
+      ],
+      "check": true
+    },
+    {
+      "id": "jie4",
+      "hanzi": "借",
+      "pinyin": "jiè",
+      "pinyinNum": "jie4",
+      "hanViet": "tá",
+      "pos": [
+        "v",
+        "prep"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "mượn",
+        "cho mượn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我可以*借*你的自行车吗？",
+          "vi": "Tôi mượn xe đạp của bạn được không?",
+          "py": "Wǒ kěyǐ *jiè* nǐ de zìxíngchē ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "wen2hua4",
+      "hanzi": "文化",
+      "pinyin": "wénhuà",
+      "pinyinNum": "wen2 hua4",
+      "hanViet": "văn hoá",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "văn hóa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "种"
+      ],
+      "examples": [
+        {
+          "zh": "每个国家都有自己的*文化*。",
+          "vi": "Mỗi quốc gia đều có văn hóa riêng.",
+          "py": "Měi ge guójiā dōu yǒu zìjǐ de *wénhuà*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "guo2jia1",
+      "hanzi": "国家",
+      "pinyin": "guójiā",
+      "pinyinNum": "guo2 jia1",
+      "hanViet": "quốc gia",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "quốc gia, đất nước"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你想去哪个*国家*旅游？",
+          "vi": "Bạn muốn đi du lịch nước nào?",
+          "py": "Nǐ xiǎng qù nǎge *guójiā* lǚyóu?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shi4jie4",
+      "hanzi": "世界",
+      "pinyin": "shìjiè",
+      "pinyinNum": "shi4 jie4",
+      "hanViet": "thế giới",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "thế giới"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "这是*世界*上最高的楼吗？",
+          "vi": "Đây có phải tòa nhà cao nhất thế giới không?",
+          "py": "Zhè shì *shìjiè* shàng zuì gāo de lóu ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "huan2jing4",
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "pinyinNum": "huan2 jing4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "môi trường"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "这里的*环境*很好。",
+          "vi": "Môi trường ở đây rất tốt.",
+          "py": "Zhèlǐ de *huánjìng* hěn hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "you3ming2",
+      "hanzi": "有名",
+      "pinyin": "yǒumíng",
+      "pinyinNum": "you3 ming2",
+      "hanViet": "hữu danh",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "nổi tiếng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "北京有很多*有名*的地方。",
+          "vi": "Bắc Kinh có nhiều nơi nổi tiếng.",
+          "py": "Běijīng yǒu hěn duō *yǒumíng* de dìfang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "sheng1yin1",
+      "hanzi": "声音",
+      "pinyin": "shēngyīn",
+      "pinyinNum": "sheng1 yin1",
+      "hanViet": "thanh âm",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "âm thanh, tiếng, giọng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "他的*声音*很大。",
+          "vi": "Giọng anh ấy rất to.",
+          "py": "Tā de *shēngyīn* hěn dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "hua4",
+      "hanzi": "画",
+      "pinyin": "huà",
+      "pinyinNum": "hua4",
+      "hanViet": "hoạ",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "vẽ",
+        "bức tranh"
+      ],
+      "usage": "",
+      "measureWords": [
+        "幅",
+        "张"
+      ],
+      "examples": [
+        {
+          "zh": "她*画*了一只猫。",
+          "vi": "Cô ấy vẽ một con mèo.",
+          "py": "Tā *huà* le yì zhī māo."
+        },
+        {
+          "zh": "这张*画*很漂亮。",
+          "vi": "Bức tranh này rất đẹp.",
+          "py": "Zhè zhāng *huà* hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我们好久没{0}了。",
+      "options": [
+        "见面",
+        "文化",
+        "世界",
+        "国家"
+      ],
+      "answer": "见面",
+      "targets": [
+        "jian4mian4"
+      ],
+      "explanation": "好久没见面 = lâu rồi không gặp.",
+      "id": "hsk3-giai-tri-xa-hoi-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "妈妈生病了，我要在家{0}她。",
+      "options": [
+        "照顾",
+        "帮忙",
+        "锻炼",
+        "表演"
+      ],
+      "answer": "照顾",
+      "targets": [
+        "zhao4gu"
+      ],
+      "explanation": "照顾 + người = chăm sóc ai.",
+      "id": "hsk3-giai-tri-xa-hoi-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "我的自行车坏了，能{0}你的吗？",
+      "options": [
+        "借",
+        "画",
+        "结婚",
+        "锻炼"
+      ],
+      "answer": "借",
+      "targets": [
+        "jie4"
+      ],
+      "explanation": "借 = mượn.",
+      "id": "hsk3-giai-tri-xa-hoi-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "你喜欢听什么{0}？",
+      "options": [
+        "音乐",
+        "画",
+        "游戏",
+        "环境"
+      ],
+      "answer": "音乐",
+      "targets": [
+        "yin1yue4"
+      ],
+      "explanation": "听音乐 = nghe nhạc.",
+      "id": "hsk3-giai-tri-xa-hoi-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "这个城市很{0}，很多人来这儿旅游。",
+      "options": [
+        "有名",
+        "文化",
+        "环境",
+        "世界"
+      ],
+      "answer": "有名",
+      "targets": [
+        "you3ming2"
+      ],
+      "explanation": "有名 = nổi tiếng.",
+      "id": "hsk3-giai-tri-xa-hoi-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "你有什么{0}？我喜欢爬山。",
+      "options": [
+        "爱好",
+        "声音",
+        "环境",
+        "新闻"
+      ],
+      "answer": "爱好",
+      "targets": [
+        "ai4hao4"
+      ],
+      "explanation": "Hỏi sở thích: 你有什么爱好？",
+      "id": "hsk3-giai-tri-xa-hoi-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "的",
+        "爱好",
+        "是",
+        "听",
+        "音乐"
+      ],
+      "answers": [
+        [
+          "我",
+          "的",
+          "爱好",
+          "是",
+          "听",
+          "音乐"
+        ],
+        [
+          "听",
+          "音乐",
+          "是",
+          "我",
+          "的",
+          "爱好"
+        ]
+      ],
+      "targets": [
+        "ai4hao4",
+        "yin1yue4"
+      ],
+      "vi": "Sở thích của tôi là nghe nhạc.",
+      "id": "hsk3-giai-tri-xa-hoi-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "爷爷",
+        "每个",
+        "星期",
+        "都",
+        "去",
+        "爬山"
+      ],
+      "answers": [
+        [
+          "爷爷",
+          "每个",
+          "星期",
+          "都",
+          "去",
+          "爬山"
+        ],
+        [
+          "每个",
+          "星期",
+          "爷爷",
+          "都",
+          "去",
+          "爬山"
+        ]
+      ],
+      "targets": [
+        "pa2shan1"
+      ],
+      "vi": "Tuần nào ông nội cũng đi leo núi.",
+      "id": "hsk3-giai-tri-xa-hoi-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "谢谢",
+        "你",
+        "的",
+        "照顾"
+      ],
+      "answers": [
+        [
+          "谢谢",
+          "你",
+          "的",
+          "照顾"
+        ]
+      ],
+      "targets": [
+        "zhao4gu"
+      ],
+      "vi": "Cảm ơn bạn đã chăm sóc.",
+      "id": "hsk3-giai-tri-xa-hoi-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这个",
+        "节目",
+        "很",
+        "有",
+        "意思"
+      ],
+      "answers": [
+        [
+          "这个",
+          "节目",
+          "很",
+          "有",
+          "意思"
+        ]
+      ],
+      "targets": [
+        "jie2mu4"
+      ],
+      "vi": "Chương trình này rất thú vị.",
+      "id": "hsk3-giai-tri-xa-hoi-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "他们",
+        "下个月",
+        "结婚"
+      ],
+      "answers": [
+        [
+          "他们",
+          "下个月",
+          "结婚"
+        ],
+        [
+          "下个月",
+          "他们",
+          "结婚"
+        ]
+      ],
+      "targets": [
+        "jie2hun1"
+      ],
+      "vi": "Tháng sau họ cưới.",
+      "id": "hsk3-giai-tri-xa-hoi-order-05"
+    }
+  ]
+}

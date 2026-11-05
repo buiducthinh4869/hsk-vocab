@@ -1,0 +1,68 @@
+# id: hsk3-hoc-tap-cong-viec
+# level: 3
+# title: Học tập, công việc
+# order: 7
+@班 bān | lớp; ca (làm việc) | c: 年级
+- 我们*班*有三十个学生。 = Lớp chúng tôi có 30 học sinh.
+@年级 | khối, năm học (lớp mấy) | c: 班
+- 我妹妹上三*年级*。 = Em gái tôi học lớp 3.
+@数学 | toán, toán học
+- 我的*数学*成绩不太好。 = Điểm toán của tôi không tốt lắm.
+@历史 | lịch sử
+- 中国有很长的*历史*。 = Trung Quốc có lịch sử rất lâu đời.
+@体育 | thể dục, thể thao (môn học)
+- 我最喜欢上*体育*课。 = Tôi thích nhất giờ thể dục.
+@作业 | bài tập (về nhà)
+- 你的*作业*做完了吗？ = Bạn làm xong bài tập chưa?
+@复习 | ôn tập | u: 复习 là ôn lại bài đã học; 练习 là luyện tập cho thành thạo. | c: 练习
+- 考试以前要好好*复习*。 = Trước kỳ thi phải ôn tập cho kỹ.
+@练习 | luyện tập; bài luyện tập | c: 复习
+- 我们一起*练习*写字吧。 = Chúng ta cùng luyện viết chữ nhé.
+@句子 | câu
+- 这个*句子*是什么意思？ = Câu này nghĩa là gì?
+@词语 | từ ngữ
+- 这些*词语*你都会写吗？ = Mấy từ này bạn đều biết viết chứ?
+@普通话 | tiếng phổ thông (tiếng Trung chuẩn)
+- 他会讲*普通话*。 = Anh ấy biết nói tiếng phổ thông.
+@成绩 | thành tích, điểm số
+- 这次考试你的*成绩*怎么样？ = Kỳ thi lần này điểm của bạn thế nào?
+@水平 | trình độ
+- 你的汉语*水平*提高了很多。 = Trình độ tiếng Trung của bạn tiến bộ nhiều.
+@检查 | kiểm tra; khám (bệnh)
+- 医生给我*检查*了身体。 = Bác sĩ khám sức khỏe cho tôi.
+@讲 | nói, giảng; kể | c: 说话
+- 老师正在*讲*课。 = Thầy đang giảng bài.
+- 奶奶给我*讲*了一个故事。 = Bà kể cho tôi một câu chuyện.
+@教 jiāo | dạy | u: Động từ "dạy" đọc jiāo; trong 教室 đọc jiào. | c: 学习
+- 她*教*我们汉语。 = Cô ấy dạy chúng tôi tiếng Trung.
+@明白 míngbai | hiểu, rõ | c: 懂 清楚
+- 你*明白*我的意思吗？ = Bạn hiểu ý tôi không?
+@清楚 qīngchu | rõ, rõ ràng | c: 明白
+- 黑板上的字我看不*清楚*。 = Chữ trên bảng tôi nhìn không rõ.
+@了解 | hiểu, tìm hiểu (sâu) | u: 了解 là hiểu rõ về người, sự việc qua thời gian; 懂, 明白 là hiểu một câu, một ý. | c: 明白
+- 我想多*了解*中国文化。 = Tôi muốn tìm hiểu thêm văn hóa Trung Quốc.
+@记得 | nhớ | c: 忘记
+- 你还*记得*我吗？ = Bạn còn nhớ tôi không?
+@忘记 | quên | c: 记得
+- 我*忘记*带伞了。 = Tôi quên mang ô rồi.
+@会议 | cuộc họp, hội nghị
+- 明天上午有一个*会议*。 = Sáng mai có một cuộc họp.
+@举行 | tổ chức (sự kiện) | hv: cử hành | c: 参加
+- 我们学校下个月*举行*比赛。 = Tháng sau trường chúng tôi tổ chức thi đấu.
+@参加 | tham gia | c: 举行
+- 你*参加*明天的比赛吗？ = Bạn có tham gia trận đấu ngày mai không?
+@完成 | hoàn thành | c: 结束
+- 我已经*完成*了今天的作业。 = Tôi đã hoàn thành bài tập hôm nay.
+@结束 | kết thúc | c: 开始 完成
+- 会议几点*结束*？ = Cuộc họp mấy giờ kết thúc?
+F 我妹妹上二{0}。 | 年级* 层 位 双 | e: Học lớp mấy: 上...年级.
+F 明天考试，今天晚上我要{0}。 | 复习* 结束 举行 忘记 | e: Trước kỳ thi thì ôn tập.
+F 你还{0}他的名字吗？ | 记得* 忘记 了解 举行 | e: 还记得 = còn nhớ.
+F 电影九点{0}，我们十点就能回家。 | 结束* 举行 参加 完成 | e: Phim kết thúc: 结束.
+F 她{0}我们数学。 | 教* 参加 记得 完成 | e: 教 + người + môn = dạy ai môn gì.
+F 黑板上的字太小了，我看不{0}。 | 清楚* 完成 结束 记得 | e: 看不清楚 = nhìn không rõ.
+O 我 已经 完成 了 作业 | vi: Tôi đã làm xong bài tập rồi. | t: 完成 作业
+O 老师 让 我们 复习 句子 | vi: Thầy bảo chúng tôi ôn lại các câu. | t: 复习 句子
+O 我 忘记 带 作业 了 | vi: Tôi quên mang bài tập rồi. | t: 忘记
+O 他 的 汉语 水平 很 高 | vi: Trình độ tiếng Trung của anh ấy rất cao. | t: 水平
+O 我们 学校 明天 举行 比赛 | vi: Ngày mai trường chúng tôi tổ chức thi đấu. | t: 举行 | alt: 明天 我们 学校 举行 比赛

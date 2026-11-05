@@ -29,8 +29,8 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 3 | hsk3-nha-cua-do-dung | Nhà cửa, đồ dùng | 26 | 6 fill, 5 order | xong | 楼 层 电梯 灯 空调 洗手间 洗澡 刷 打扫 干净 搬 放 拿 带 坏 照相机 照片 电子 行李箱 护照 铅笔 黑板 字典 信 礼物 包 |
 | 3 | hsk3-thanh-pho-di-lai | Thành phố, đi lại | 26 | 6 fill, 5 order | xong | 城市 街道 附近 地方 地铁 地图 公园 花园 超市 银行 宾馆 图书馆 办公室 中间 东 西 南 北方 骑 辆 站 经过 离开 迟到 遇到 接 |
 | 3 | hsk3-thoi-gian-thien-nhien | Thời gian, thiên nhiên | 27 | 6 fill, 5 order | xong | 春 夏 秋 冬 季节 周末 节日 刻 半 以前 以后 过去 最近 刚才 马上 太阳 月亮 云 刮 河 树 草 花 鸟 动物 熊猫 马 |
-| 3 | hsk3-hoc-tap-cong-viec | Học tập, công việc | 26 |  | chưa làm | 班 年级 数学 历史 体育 作业 复习 练习 句子 词语 普通话 成绩 水平 检查 讲 教 明白 清楚 了解 记得 忘记 会议 举行 参加 完成 结束 |
-| 3 | hsk3-giai-tri-xa-hoi | Giải trí, xã hội | 24 |  | chưa làm | 爱好 兴趣 音乐 节目 表演 比赛 游戏 故事 新闻 上网 爬山 锻炼 结婚 见面 照顾 帮忙 借 文化 国家 世界 环境 有名 声音 画 |
+| 3 | hsk3-hoc-tap-cong-viec | Học tập, công việc | 26 | 6 fill, 5 order | xong | 班 年级 数学 历史 体育 作业 复习 练习 句子 词语 普通话 成绩 水平 检查 讲 教 明白 清楚 了解 记得 忘记 会议 举行 参加 完成 结束 |
+| 3 | hsk3-giai-tri-xa-hoi | Giải trí, xã hội | 24 | 6 fill, 5 order | xong | 爱好 兴趣 音乐 节目 表演 比赛 游戏 故事 新闻 上网 爬山 锻炼 结婚 见面 照顾 帮忙 借 文化 国家 世界 环境 有名 声音 画 |
 | 3 | hsk3-tinh-chat-luong-tu | Tính chất, màu sắc, lượng từ | 29 |  | chưa làm | 黄 蓝 绿 短 低 久 旧 老 安静 简单 容易 难 方便 重要 主要 特别 相同 一样 一般 段 条 位 口 种 角 米 分 万 差 |
 | 3 | hsk3-suy-nghi-hanh-dong | Suy nghĩ, hành động | 26 |  | chưa làm | 认为 以为 打算 决定 选择 需要 要求 应该 发现 出现 表示 影响 变化 提高 解决 注意 关系 机会 办法 作用 习惯 使 祝 关 用 像 |
 | 3 | hsk3-pho-tu | Phó từ | 20 |  | chưa làm | 才 更 还是 极 几乎 经常 总是 一直 一定 一共 终于 其实 突然 当然 必须 比较 多么 越 又 只 |
@@ -235,6 +235,23 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 3 | hsk3-thoi-gian-thien-nhien | 草 | cǎo | thảo |
 | 3 | hsk3-thoi-gian-thien-nhien | 鸟 | niǎo | điểu |
 | 3 | hsk3-thoi-gian-thien-nhien | 熊猫 | xióngmāo | hùng mèo |
+| 3 | hsk3-hoc-tap-cong-viec | 年级 | niánjí | nên cấp |
+| 3 | hsk3-hoc-tap-cong-viec | 复习 | fùxí | hạ tập |
+| 3 | hsk3-hoc-tap-cong-viec | 句子 | jùzi | câu tí |
+| 3 | hsk3-hoc-tap-cong-viec | 检查 | jiǎnchá | ghém tra |
+| 3 | hsk3-hoc-tap-cong-viec | 教 | jiāo | giáo |
+| 3 | hsk3-hoc-tap-cong-viec | 结束 | jiéshù | kết thút |
+| 3 | hsk3-giai-tri-xa-hoi | 爱好 | àihào | — |
+| 3 | hsk3-giai-tri-xa-hoi | 比赛 | bǐsài | — |
+| 3 | hsk3-giai-tri-xa-hoi | 游戏 | yóuxì | — |
+| 3 | hsk3-giai-tri-xa-hoi | 故事 | gùshi | cố sự |
+| 3 | hsk3-giai-tri-xa-hoi | 新闻 | xīnwén | — |
+| 3 | hsk3-giai-tri-xa-hoi | 爬山 | páshān | bò sơn |
+| 3 | hsk3-giai-tri-xa-hoi | 锻炼 | duànliàn | — |
+| 3 | hsk3-giai-tri-xa-hoi | 结婚 | jiéhūn | — |
+| 3 | hsk3-giai-tri-xa-hoi | 见面 | jiànmiàn | — |
+| 3 | hsk3-giai-tri-xa-hoi | 帮忙 | bāngmáng | — |
+| 3 | hsk3-giai-tri-xa-hoi | 环境 | huánjìng | — |
 
 ## Âm Hán Việt cần xem
 
@@ -284,6 +301,10 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 厨 | chù | trù |
 | 园 | vườn | viên |
 | 附 | phò | phụ |
+| 复 | hạ | phục |
+| 检 | ghém | kiểm |
+| 束 | thút | thúc |
+| 爬 | bò | ba |
 
 ## Lỗi giao diện ghi nhận
 
