@@ -2,7 +2,7 @@
 # level: 3
 # title: Con người, cơ thể
 # order: 1
-@阿姨 | cô, dì (gọi phụ nữ lớn tuổi); người giúp việc | c: 叔叔 奶奶
+@阿姨 | cô, dì (cách gọi phụ nữ trạc tuổi bố mẹ); dì (chị, em gái của mẹ); người giúp việc | c: 叔叔 奶奶
 - *阿姨*，您好！ = Cháu chào cô ạ!
 @爷爷 | ông nội | c: 奶奶
 - 我*爷爷*八十岁了，身体还很好。 = Ông nội tôi 80 tuổi rồi, sức khỏe vẫn rất tốt.

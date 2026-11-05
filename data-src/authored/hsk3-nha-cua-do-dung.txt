@@ -41,7 +41,7 @@
 @行李箱 | va li
 - 我的*行李箱*是蓝的。 = Va li của tôi màu xanh lam.
 @护照 | hộ chiếu
-- 我的*护照*找不到了。 = Hộ chiếu của tôi không tìm thấy nữa.
+- 我的*护照*找不到了。 = Tôi không tìm thấy hộ chiếu của mình đâu nữa.
 @铅笔 | bút chì
 - 我能用你的*铅笔*吗？ = Tôi dùng bút chì của bạn được không?
 @黑板 | bảng đen

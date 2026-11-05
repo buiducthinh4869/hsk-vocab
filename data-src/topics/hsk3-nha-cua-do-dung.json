@@ -577,7 +577,7 @@
       ],
       "textbooks": null,
       "confusables": [],
-      "check": false
+      "check": true
     },
     {
       "id": "hu4zhao4",
@@ -602,7 +602,7 @@
       "examples": [
         {
           "zh": "我的*护照*找不到了。",
-          "vi": "Hộ chiếu của tôi không tìm thấy nữa.",
+          "vi": "Tôi không tìm thấy hộ chiếu của mình đâu nữa.",
           "py": "Wǒ de *hùzhào* zhǎo bú dào le."
         }
       ],

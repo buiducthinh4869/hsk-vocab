@@ -12,7 +12,7 @@
 - 中国北方人很喜欢吃*面条*。 = Người miền Bắc Trung Quốc rất thích ăn mì.
 @果汁 | nước hoa quả, nước ép
 - 你要喝*果汁*还是咖啡？ = Bạn muốn uống nước hoa quả hay cà phê?
-@啤酒 | bia
+@啤酒 | bia | mw: 杯 瓶 罐 桶
 - 爸爸晚上喜欢喝*啤酒*。 = Bố thích uống bia buổi tối.
 @葡萄 pútao | nho
 - 这些*葡萄*很甜。 = Chỗ nho này rất ngọt.

@@ -61,7 +61,7 @@ F {0}你新年快乐！ | 祝* 使 用 关 | e: Lời chúc bắt đầu bằng 
 F 这个问题我们一起{0}吧。 | 解决* 发现 出现 影响 | e: 解决问题 = giải quyết vấn đề.
 F 我想{0}我的汉语水平。 | 提高* 变化 出现 发现 | e: 提高水平 = nâng cao trình độ.
 O 你 打算 什么 时候 回 家 | vi: Bạn định khi nào về nhà? | t: 打算 | alt: 你 什么 时候 打算 回 家
-O 这 是 一个 很 好 的 机会 | vi: Đây là một cơ hội rất tốt. | t: 机会
+O 这 是 一个 很 好 的 机会 | vi: Đây là một cơ hội rất tốt. | t: 机会 | alt: 这 是 很 好 的 一个 机会
 O 我们 应该 注意 身体 | vi: Chúng ta nên chú ý sức khỏe. | t: 应该 注意
 O 我 不 习惯 吃 面条 | vi: Tôi không quen ăn mì. | t: 习惯
 O 这个 办法 能 解决 问题 | vi: Cách này có thể giải quyết vấn đề. | t: 办法 解决

@@ -61,8 +61,8 @@ F 你还{0}他的名字吗？ | 记得* 忘记 了解 举行 | e: 还记得 = c�
 F 电影九点{0}，我们十点就能回家。 | 结束* 举行 参加 完成 | e: Phim kết thúc: 结束.
 F 她{0}我们数学。 | 教* 参加 记得 完成 | e: 教 + người + môn = dạy ai môn gì.
 F 黑板上的字太小了，我看不{0}。 | 清楚* 完成 结束 记得 | e: 看不清楚 = nhìn không rõ.
-O 我 已经 完成 了 作业 | vi: Tôi đã làm xong bài tập rồi. | t: 完成 作业
+O 我 已经 完成 了 作业 | vi: Tôi đã làm xong bài tập rồi. | t: 完成 作业 | alt: 我 已经 完成 作业 了
 O 老师 让 我们 复习 句子 | vi: Thầy bảo chúng tôi ôn lại các câu. | t: 复习 句子
-O 我 忘记 带 作业 了 | vi: Tôi quên mang bài tập rồi. | t: 忘记
+O 我 忘记 带 作业 了 | vi: Tôi quên mang bài tập rồi. | t: 忘记 | alt: 我 忘记 了 带 作业
 O 他 的 汉语 水平 很 高 | vi: Trình độ tiếng Trung của anh ấy rất cao. | t: 水平
 O 我们 学校 明天 举行 比赛 | vi: Ngày mai trường chúng tôi tổ chức thi đấu. | t: 举行 | alt: 明天 我们 学校 举行 比赛

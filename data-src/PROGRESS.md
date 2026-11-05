@@ -213,12 +213,14 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 3 | hsk3-nha-cua-do-dung | 搬 | bān | bưng |
 | 3 | hsk3-nha-cua-do-dung | 带 | dài | đai |
 | 3 | hsk3-nha-cua-do-dung | 电子 | diànzǐ | — |
+| 3 | hsk3-nha-cua-do-dung | 行李箱 | xínglixiāng | hàng lí rương |
 | 3 | hsk3-nha-cua-do-dung | 黑板 | hēibǎn | hắc ván |
 | 3 | hsk3-thanh-pho-di-lai | 街道 | jiēdào | — |
 | 3 | hsk3-thanh-pho-di-lai | 附近 | fùjìn | phò cận |
 | 3 | hsk3-thanh-pho-di-lai | 地方 | dìfang | địa phương |
 | 3 | hsk3-thanh-pho-di-lai | 公园 | gōngyuán | công vườn |
 | 3 | hsk3-thanh-pho-di-lai | 花园 | huāyuán | hoa vườn |
+| 3 | hsk3-thanh-pho-di-lai | 银行 | yínháng | ngân hàng |
 | 3 | hsk3-thanh-pho-di-lai | 办公室 | bàngōngshì | — |
 | 3 | hsk3-thanh-pho-di-lai | 东 | dōng | đông |
 | 3 | hsk3-thanh-pho-di-lai | 北方 | běifāng | — |

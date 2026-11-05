@@ -310,7 +310,7 @@
       ],
       "textbooks": null,
       "confusables": [],
-      "check": false
+      "check": true
     },
     {
       "id": "bin1guan3",
@@ -889,7 +889,7 @@
       "sentence": "我坐在他们两个人{0}。",
       "options": [
         "中间",
-        "附近",
+        "公园",
         "地方",
         "北方"
       ],

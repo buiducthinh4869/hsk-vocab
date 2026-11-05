@@ -60,6 +60,6 @@ F 她看了这个电影，{0}了。 | 哭* 渴 饱 敢 | e: Phim cảm động l
 F 他发烧了，身体很不{0}。 | 舒服* 认真 热情 奇怪 | e: 不舒服 = khó chịu, không khỏe.
 O 你 别 担心 我 | vi: Bạn đừng lo cho tôi. | t: 担心
 O 你 愿意 跟 我 结婚 吗 | vi: Em có đồng ý lấy anh không? | t: 愿意
-O 我 今天 身体 不 舒服 | vi: Hôm nay tôi không khỏe. | t: 舒服 | alt: 今天 我 身体 不 舒服
+O 我 今天 身体 不 舒服 | vi: Hôm nay tôi không khỏe. | t: 舒服 | alt: 今天 我 身体 不 舒服 / 我 身体 今天 不 舒服
 O 你 渴 不 渴 | vi: Bạn có khát không? | t: 渴
 O 他 生气 地 走 了 | vi: Anh ấy tức giận bỏ đi. | t: 生气

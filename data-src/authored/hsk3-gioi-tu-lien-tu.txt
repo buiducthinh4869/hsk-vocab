@@ -48,6 +48,6 @@ F 周末我想去爬山{0}游泳。 | 或者* 还是 关于 根据 | e: Câu k�
 F 她慢慢{0}走进了教室。 | 地* 的 得 啊 | e: Trạng ngữ + 地 + động từ.
 O 我 先 去 超市 然后 回 家 | vi: Tôi đi siêu thị trước rồi về nhà. | t: 先 然后
 O 他 一边 听 音乐 一边 写 作业 | vi: Anh ấy vừa nghe nhạc vừa làm bài tập. | t: 一边 | alt: 他 一边 写 作业 一边 听 音乐
-O 这 是 一本 关于 中国 文化 的 书 | vi: Đây là cuốn sách về văn hóa Trung Quốc. | t: 关于
+O 这 是 一本 关于 中国 文化 的 书 | vi: Đây là cuốn sách về văn hóa Trung Quốc. | t: 关于 | alt: 这 是 关于 中国 文化 的 一本 书
 O 我 把 作业 做 完 了 | vi: Tôi làm xong bài tập rồi. | t: 把
 O 我 的 自行车 被 弟弟 骑 走 了 | vi: Xe đạp của tôi bị em trai đạp đi mất rồi. | t: 被
