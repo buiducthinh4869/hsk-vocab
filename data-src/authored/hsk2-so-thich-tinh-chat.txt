@@ -1,0 +1,53 @@
+# id: hsk2-so-thich-tinh-chat
+# level: 2
+# title: Sở thích, tính chất
+# order: 6
+@唱歌 | hát, ca hát | c: 跳舞
+- 我很喜欢*唱歌*。 = Tôi rất thích hát.
+@跳舞 | nhảy, khiêu vũ | c: 唱歌
+- 晚上我们去*跳舞*吧！ = Tối nay chúng ta đi nhảy nhé!
+@跑步 | chạy bộ | c: 走
+- 爸爸早上去*跑步*。 = Bố đi chạy bộ buổi sáng.
+@游泳 | bơi, bơi lội
+- 你会*游泳*吗？ = Bạn biết bơi không?
+@踢 | đá
+- 别*踢*门！ = Đừng đá cửa!
+@打篮球 | chơi bóng rổ | pos: v
+- 我们下午去*打篮球*。 = Chiều nay chúng tôi đi chơi bóng rổ.
+@运动 | vận động, tập thể dục; thể thao | pos: v n
+- 你喜欢什么*运动*？ = Bạn thích môn thể thao nào?
+@玩 | chơi | u: 玩 (wán) là chơi; 完 (wán) là xong: đọc giống nhau. | c: 完
+- 明天来我家*玩*吧！ = Mai đến nhà tôi chơi nhé!
+@穿 | mặc (quần áo), đi (giày)
+- 今天冷，*穿*这件衣服吧。 = Hôm nay lạnh, mặc chiếc áo này đi.
+@洗 | rửa, giặt
+- 我在*洗*衣服。 = Tôi đang giặt quần áo.
+@高 | cao | c: 长
+- 我哥哥比我*高*。 = Anh trai tôi cao hơn tôi.
+@长 cháng | dài | u: Đọc zhǎng khi nghĩa là lớn lên, đứng đầu (校长 ở HSK 3). | c: 高
+- 这个电影很*长*。 = Bộ phim này rất dài.
+@快 | nhanh; sắp | c: 慢 快乐
+- 他走得很*快*。 = Anh ấy đi rất nhanh.
+@慢 | chậm | c: 快
+- 你走得太*慢*了！ = Bạn đi chậm quá!
+@忙 | bận
+- 你今天*忙*吗？ = Hôm nay bạn có bận không?
+@真 | thật, thật là | u: Đứng trước tính từ để cảm thán: 真好！
+- 今天天气*真*好！ = Hôm nay thời tiết đẹp thật!
+@快乐 | vui vẻ, hạnh phúc | u: Hay dùng trong lời chúc: 生日快乐, 新年快乐. | c: 高兴 快
+- 和朋友在一起，我很*快乐*。 = Ở bên bạn bè, tôi rất vui.
+@可能 | có thể (khả năng); có lẽ | u: 可能 nói về khả năng xảy ra; 可以 là được phép, có thể làm. | c: 可以
+- 他*可能*不来了。 = Có lẽ anh ấy không đến nữa.
+@可以 | có thể, được (phép) | c: 可能 能
+- 我*可以*进来吗？ = Tôi vào được không?
+@要 yào | muốn; cần; sắp, sẽ | u: 要 + động từ = muốn / sẽ làm; 要 + danh từ = cần, muốn có. | c: 想
+- 你*要*喝什么？ = Bạn muốn uống gì?
+- 我明天*要*去北京。 = Ngày mai tôi sẽ đi Bắc Kinh.
+F 我在{0}衣服。 | 洗* 玩 踢 跑步 | e: 洗衣服 = giặt quần áo.
+F 他走得很{0}，我走得很慢。 | 快* 慢 高 长 | e: Trái nghĩa với 慢 là 快.
+F 今天很冷，你要多{0}衣服。 | 穿* 洗 玩 踢 | e: 穿衣服 = mặc quần áo.
+F 我{0}进来吗？ | 可以* 可能 快乐 真 | e: Xin phép: 可以...吗？
+F 他今天没来，{0}生病了。 | 可能* 可以 快乐 真 | e: 可能 = có lẽ.
+O 我 最 喜欢 的 运动 是 游泳 | vi: Môn thể thao tôi thích nhất là bơi. | t: 运动 游泳 | alt: 游泳 是 我 最 喜欢 的 运动
+O 明天 下午 我们 去 游泳 | vi: Chiều mai chúng tôi đi bơi. | t: 游泳 | alt: 我们 明天 下午 去 游泳
+O 这 件 衣服 真 漂亮 | vi: Chiếc áo này đẹp thật. | t: 真 穿

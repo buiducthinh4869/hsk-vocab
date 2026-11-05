@@ -1,0 +1,805 @@
+{
+  "id": "hsk2-hu-tu",
+  "level": 2,
+  "title": "Hư từ",
+  "order": 7,
+  "words": [
+    {
+      "id": "ye3",
+      "hanzi": "也",
+      "pinyin": "yě",
+      "pinyinNum": "ye3",
+      "hanViet": "dã",
+      "pos": [
+        "adv",
+        "part",
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "cũng"
+      ],
+      "usage": "也 đứng sau chủ ngữ, trước động từ: 我也是学生 (không nói 也我).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*也*喜欢喝咖啡。",
+          "vi": "Tôi cũng thích uống cà phê.",
+          "py": "Wǒ *yě* xǐhuan hē kāfēi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dou1",
+        "hai2"
+      ],
+      "check": false
+    },
+    {
+      "id": "hai2",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "pinyinNum": "hai2",
+      "hanViet": "hoàn",
+      "pos": [
+        "adv",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "còn, vẫn",
+        "còn nữa"
+      ],
+      "usage": "Còn đọc huán nghĩa là trả lại (还书 = trả sách).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他*还*在睡觉。",
+          "vi": "Anh ấy vẫn đang ngủ.",
+          "py": "Tā *hái* zài shuìjiào."
+        },
+        {
+          "zh": "你*还*要什么？",
+          "vi": "Bạn còn cần gì nữa?",
+          "py": "Nǐ *hái* yào shénme?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zai4-2",
+        "ye3"
+      ],
+      "check": true
+    },
+    {
+      "id": "jiu4",
+      "hanzi": "就",
+      "pinyin": "jiù",
+      "pinyinNum": "jiu4",
+      "hanViet": null,
+      "pos": [
+        "adv",
+        "prep",
+        "conj",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "thì, liền, ngay",
+        "chính là"
+      ],
+      "usage": "就 nhấn mạnh sớm, nhanh hoặc đúng là: 他七点就起床了; 我家就在这儿.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我家*就*在学校旁边。",
+          "vi": "Nhà tôi ngay bên cạnh trường.",
+          "py": "Wǒ jiā *jiù* zài xuéxiào pángbiān."
+        },
+        {
+          "zh": "他七点*就*起床了。",
+          "vi": "Anh ấy 7 giờ đã dậy rồi.",
+          "py": "Tā qī diǎn *jiù* qǐchuáng le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zai4-2",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "pinyinNum": "zai4",
+      "hanViet": "tái",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "lại, nữa (việc sẽ lặp lại)"
+      ],
+      "usage": "再 dùng cho việc lặp lại trong tương lai; việc đã lặp lại dùng 又 (HSK 3).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "明天*再*来吧。",
+          "vi": "Mai lại đến nhé.",
+          "py": "Míngtiān *zài* lái ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hai2"
+      ],
+      "check": false
+    },
+    {
+      "id": "zui4",
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "pinyinNum": "zui4",
+      "hanViet": "tối",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhất"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*最*喜欢吃西瓜。",
+          "vi": "Tôi thích ăn dưa hấu nhất.",
+          "py": "Wǒ *zuì* xǐhuan chī xīguā."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "fei1chang2",
+      "hanzi": "非常",
+      "pinyin": "fēicháng",
+      "pinyinNum": "fei1 chang2",
+      "hanViet": "phi thường",
+      "pos": [
+        "adv",
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "rất, vô cùng"
+      ],
+      "usage": "Mạnh hơn 很.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天我*非常*高兴。",
+          "vi": "Hôm nay tôi vô cùng vui.",
+          "py": "Jīntiān wǒ *fēicháng* gāoxìng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hen3"
+      ],
+      "check": false
+    },
+    {
+      "id": "bie2",
+      "hanzi": "别",
+      "pinyin": "bié",
+      "pinyinNum": "bie2",
+      "hanViet": "biết",
+      "pos": [
+        "adv",
+        "v",
+        "pron"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "đừng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*别*看电视了！",
+          "vi": "Đừng xem ti vi nữa!",
+          "py": "*Bié* kàn diànshì le!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bu4"
+      ],
+      "check": true
+    },
+    {
+      "id": "bi3",
+      "hanzi": "比",
+      "pinyin": "bǐ",
+      "pinyinNum": "bi3",
+      "hanViet": "tỉ",
+      "pos": [
+        "prep",
+        "v",
+        "n",
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "so với, hơn"
+      ],
+      "usage": "A 比 B + tính từ: 我比他高; không thêm 很 trước tính từ.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天*比*昨天冷。",
+          "vi": "Hôm nay lạnh hơn hôm qua.",
+          "py": "Jīntiān *bǐ* zuótiān lěng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ba",
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "pinyinNum": "ba",
+      "hanViet": "và",
+      "pos": [
+        "part"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhé, đi (gợi ý)",
+        "phải không (đoán)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们走*吧*！",
+          "vi": "Chúng ta đi thôi!",
+          "py": "Wǒmen zǒu *ba*!"
+        },
+        {
+          "zh": "你是老师*吧*？",
+          "vi": "Bạn là giáo viên phải không?",
+          "py": "Nǐ shì lǎoshī *ba*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ma"
+      ],
+      "check": true
+    },
+    {
+      "id": "de-2",
+      "hanzi": "得",
+      "pinyin": "de",
+      "pinyinNum": "de",
+      "hanViet": "đắc",
+      "pos": [
+        "part",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "(trợ từ nối động từ với bổ ngữ mức độ)"
+      ],
+      "usage": "Động từ + 得 + đánh giá: 走得很快. Chữ này còn đọc dé (được), děi (phải).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他写字写*得*很漂亮。",
+          "vi": "Anh ấy viết chữ rất đẹp.",
+          "py": "Tā xiě zì xiě *de* hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "de"
+      ],
+      "check": true
+    },
+    {
+      "id": "zhe",
+      "hanzi": "着",
+      "pinyin": "zhe",
+      "pinyinNum": "zhe",
+      "hanViet": "trứ",
+      "pos": [
+        "part",
+        "v",
+        "n",
+        "mw"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "(trợ từ) đang, ...sẵn (trạng thái kéo dài)"
+      ],
+      "usage": "Động từ + 着 chỉ trạng thái kéo dài: 门开着 = cửa đang mở.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "门开*着*。",
+          "vi": "Cửa đang mở.",
+          "py": "Mén kāi *zhe*."
+        },
+        {
+          "zh": "他坐*着*看书。",
+          "vi": "Anh ấy ngồi đọc sách.",
+          "py": "Tā zuò *zhe* kàn shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "wei4-2",
+      "hanzi": "为",
+      "pinyin": "wèi",
+      "pinyinNum": "wei4",
+      "hanViet": "vay",
+      "pos": [
+        "prep",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "cho, vì (ai)"
+      ],
+      "usage": "为 + người + làm gì = làm gì cho ai.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "妈妈*为*我做了很多菜。",
+          "vi": "Mẹ nấu cho tôi nhiều món.",
+          "py": "Māma *wèi* wǒ zuò le hěn duō cài."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gei3"
+      ],
+      "check": true
+    },
+    {
+      "id": "xiang4",
+      "hanzi": "向",
+      "pinyin": "xiàng",
+      "pinyinNum": "xiang4",
+      "hanViet": "hướng",
+      "pos": [
+        "prep",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "về phía, hướng về"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*向*左边走，就到了。",
+          "vi": "Bạn đi về phía bên trái là đến.",
+          "py": "Nǐ *xiàng* zuǒbian zǒu, jiù dào le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "cong2"
+      ],
+      "check": false
+    },
+    {
+      "id": "yi1qi3",
+      "hanzi": "一起",
+      "pinyin": "yīqǐ",
+      "pinyinNum": "yi1 qi3",
+      "hanViet": "nhất khởi",
+      "pos": [
+        "n",
+        "adv"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "cùng, cùng nhau"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我和朋友*一起*去旅游。",
+          "vi": "Tôi cùng bạn đi du lịch.",
+          "py": "Wǒ hé péngyou *yìqǐ* qù lǚyóu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "dan4shi4",
+      "hanzi": "但是",
+      "pinyin": "dànshì",
+      "pinyinNum": "dan4 shi4",
+      "hanViet": null,
+      "pos": [
+        "conj"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "nhưng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这件衣服很漂亮，*但是*太贵了。",
+          "vi": "Chiếc áo này rất đẹp nhưng đắt quá.",
+          "py": "Zhè jiàn yīfu hěn piàoliang, *dànshì* tài guì le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "suo3yi3"
+      ],
+      "check": true
+    },
+    {
+      "id": "suo3yi3",
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "pinyinNum": "suo3 yi3",
+      "hanViet": null,
+      "pos": [
+        "conj"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "vì vậy, cho nên"
+      ],
+      "usage": "因为...所以... = vì ... nên ...",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我生病了，*所以*没去上班。",
+          "vi": "Tôi bị ốm nên không đi làm.",
+          "py": "Wǒ shēngbìng le, *suǒyǐ* méi qù shàngbān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yin1wei4",
+        "dan4shi4"
+      ],
+      "check": true
+    },
+    {
+      "id": "yin1wei4",
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "pinyinNum": "yin1 wei4",
+      "hanViet": "nhân vay",
+      "pos": [
+        "prep",
+        "conj"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "vì, bởi vì"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*因为*下雨，我们没去跑步。",
+          "vi": "Vì trời mưa nên chúng tôi không đi chạy bộ.",
+          "py": "*Yīnwèi* xiàyǔ, wǒmen méi qù pǎobù."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "suo3yi3",
+        "wei4-2"
+      ],
+      "check": false
+    },
+    {
+      "id": "yi3jing1",
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "pinyinNum": "yi3 jing1",
+      "hanViet": "dĩ kinh",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "đã, rồi"
+      ],
+      "usage": "Thường đi với 了: 已经...了.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他*已经*回家了。",
+          "vi": "Anh ấy đã về nhà rồi.",
+          "py": "Tā *yǐjīng* huí jiā le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zheng4zai4",
+      "hanzi": "正在",
+      "pinyin": "zhèngzài",
+      "pinyinNum": "zheng4 zai4",
+      "hanViet": "chính tại",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "đang"
+      ],
+      "usage": "正在 + động từ: nhấn mạnh việc đang diễn ra đúng lúc đó.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "老师*正在*上课。",
+          "vi": "Thầy giáo đang dạy học.",
+          "py": "Lǎoshī *zhèngzài* shàng kè."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zai4"
+      ],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "他是老师，我{0}是老师。",
+      "options": [
+        "也",
+        "再",
+        "最",
+        "非常"
+      ],
+      "answer": "也",
+      "targets": [
+        "ye3"
+      ],
+      "explanation": "也 = cũng.",
+      "id": "hsk2-hu-tu-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "今天{0}昨天热。",
+      "options": [
+        "比",
+        "也",
+        "但是",
+        "向"
+      ],
+      "answer": "比",
+      "targets": [
+        "bi3"
+      ],
+      "explanation": "So sánh: A 比 B + tính từ.",
+      "id": "hsk2-hu-tu-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "你明天{0}来吧。",
+      "options": [
+        "再",
+        "还",
+        "已经",
+        "正在"
+      ],
+      "answer": "再",
+      "targets": [
+        "zai4-2"
+      ],
+      "explanation": "Lặp lại trong tương lai dùng 再.",
+      "id": "hsk2-hu-tu-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "这个手机很好，{0}太贵了。",
+      "options": [
+        "但是",
+        "所以",
+        "因为",
+        "一起"
+      ],
+      "answer": "但是",
+      "targets": [
+        "dan4shi4"
+      ],
+      "explanation": "Hai ý trái ngược nối bằng 但是.",
+      "id": "hsk2-hu-tu-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "他{0}回家了。",
+      "options": [
+        "已经",
+        "正在",
+        "别",
+        "最"
+      ],
+      "answer": "已经",
+      "targets": [
+        "yi3jing1"
+      ],
+      "explanation": "已经...了 = đã ... rồi.",
+      "id": "hsk2-hu-tu-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "{0}看电视了，去睡觉吧！",
+      "options": [
+        "别",
+        "也",
+        "非常",
+        "最"
+      ],
+      "answer": "别",
+      "targets": [
+        "bie2"
+      ],
+      "explanation": "别 = đừng.",
+      "id": "hsk2-hu-tu-fill-06"
+    },
+    {
+      "type": "fill",
+      "sentence": "他走{0}很慢。",
+      "options": [
+        "得",
+        "的",
+        "着",
+        "吧"
+      ],
+      "answer": "得",
+      "targets": [
+        "de-2"
+      ],
+      "explanation": "Động từ + 得 + bổ ngữ.",
+      "id": "hsk2-hu-tu-fill-07"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "因为",
+        "下雨",
+        "所以",
+        "我",
+        "没",
+        "去"
+      ],
+      "answers": [
+        [
+          "因为",
+          "下雨",
+          "所以",
+          "我",
+          "没",
+          "去"
+        ]
+      ],
+      "targets": [
+        "yin1wei4",
+        "suo3yi3"
+      ],
+      "vi": "Vì trời mưa nên tôi không đi.",
+      "id": "hsk2-hu-tu-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "已经",
+        "吃",
+        "完",
+        "了"
+      ],
+      "answers": [
+        [
+          "我",
+          "已经",
+          "吃",
+          "完",
+          "了"
+        ]
+      ],
+      "targets": [
+        "yi3jing1"
+      ],
+      "vi": "Tôi đã ăn xong rồi.",
+      "id": "hsk2-hu-tu-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我们",
+        "一起",
+        "去",
+        "吃",
+        "鱼",
+        "吧"
+      ],
+      "answers": [
+        [
+          "我们",
+          "一起",
+          "去",
+          "吃",
+          "鱼",
+          "吧"
+        ]
+      ],
+      "targets": [
+        "yi1qi3",
+        "ba"
+      ],
+      "vi": "Chúng ta cùng đi ăn cá nhé.",
+      "id": "hsk2-hu-tu-order-03"
+    }
+  ]
+}

@@ -208,7 +208,7 @@
       "hanzi": "第一",
       "pinyin": "dìyī",
       "pinyinNum": "di4 yi1",
-      "hanViet": "đậy nhất",
+      "hanViet": "đệ nhất",
       "pos": [
         "num"
       ],
@@ -267,7 +267,7 @@
       "hanzi": "每",
       "pinyin": "měi",
       "pinyinNum": "mei3",
-      "hanViet": "hỏi",
+      "hanViet": "mỗi",
       "pos": [
         "pron"
       ],
@@ -463,7 +463,9 @@
         }
       ],
       "textbooks": null,
-      "confusables": [],
+      "confusables": [
+        "wan2-2"
+      ],
       "check": false
     },
     {

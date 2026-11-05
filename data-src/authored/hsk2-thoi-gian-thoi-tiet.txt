@@ -15,11 +15,11 @@
 @号 hào | ngày (trong tháng, khẩu ngữ); số | c: 日
 - 今天几*号*？ = Hôm nay ngày mấy?
 - 你住几*号*房间？ = Bạn ở phòng số mấy?
-@第一 | thứ nhất, đầu tiên
+@第一 | thứ nhất, đầu tiên | hv: đệ nhất
 - 这是我*第一*次来北京。 = Đây là lần đầu tiên tôi đến Bắc Kinh.
 @两 | hai (trước lượng từ) | u: 两 + lượng từ: 两个, 两本; đếm số và số thứ tự dùng 二. | c: 二
 - 我买了*两*本书。 = Tôi mua hai quyển sách.
-@每 | mỗi | u: 每 + lượng từ + danh từ, phía sau thường có 都: 每个人都...
+@每 | mỗi | hv: mỗi | u: 每 + lượng từ + danh từ, phía sau thường có 都: 每个人都...
 - *每*个星期六我都去打篮球。 = Thứ Bảy nào tôi cũng đi chơi bóng rổ.
 @次 | lần (lượng từ chỉ số lần) | pos: mw | c: 第一
 - 这个星期我去了两*次*医院。 = Tuần này tôi đã đi bệnh viện hai lần.
@@ -31,7 +31,7 @@
 - 北京下*雪*了。 = Bắc Kinh có tuyết rồi.
 @开始 | bắt đầu
 - 电影几点*开始*？ = Phim mấy giờ bắt đầu?
-@完 | xong, hết | u: Đứng sau động từ: 做完, 吃完, 看完 = làm xong, ăn xong, xem xong.
+@完 | xong, hết | u: Đứng sau động từ: 做完, 吃完, 看完 = làm xong, ăn xong, xem xong. | c: 玩
 - 你吃*完*了吗？ = Bạn ăn xong chưa?
 @上班 | đi làm
 - 我爸爸八点*上班*。 = Bố tôi đi làm lúc 8 giờ.

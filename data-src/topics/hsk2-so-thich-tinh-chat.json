@@ -1,0 +1,792 @@
+{
+  "id": "hsk2-so-thich-tinh-chat",
+  "level": 2,
+  "title": "Sở thích, tính chất",
+  "order": 6,
+  "words": [
+    {
+      "id": "chang4ge1",
+      "hanzi": "唱歌",
+      "pinyin": "chànggē",
+      "pinyinNum": "chang4 ge1",
+      "hanViet": "xướng ca",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "hát, ca hát"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我很喜欢*唱歌*。",
+          "vi": "Tôi rất thích hát.",
+          "py": "Wǒ hěn xǐhuan *chànggē*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tiao4wu3"
+      ],
+      "check": false
+    },
+    {
+      "id": "tiao4wu3",
+      "hanzi": "跳舞",
+      "pinyin": "tiàowǔ",
+      "pinyinNum": "tiao4 wu3",
+      "hanViet": "khêu vũ",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "nhảy, khiêu vũ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "晚上我们去*跳舞*吧！",
+          "vi": "Tối nay chúng ta đi nhảy nhé!",
+          "py": "Wǎnshang wǒmen qù *tiàowǔ* ba!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "chang4ge1"
+      ],
+      "check": false
+    },
+    {
+      "id": "pao3bu4",
+      "hanzi": "跑步",
+      "pinyin": "pǎobù",
+      "pinyinNum": "pao3 bu4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "chạy bộ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "爸爸早上去*跑步*。",
+          "vi": "Bố đi chạy bộ buổi sáng.",
+          "py": "Bàba zǎoshang qù *pǎobù*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zou3"
+      ],
+      "check": true
+    },
+    {
+      "id": "you2yong3",
+      "hanzi": "游泳",
+      "pinyin": "yóuyǒng",
+      "pinyinNum": "you2 yong3",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "bơi, bơi lội"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你会*游泳*吗？",
+          "vi": "Bạn biết bơi không?",
+          "py": "Nǐ huì *yóuyǒng* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ti1",
+      "hanzi": "踢",
+      "pinyin": "tī",
+      "pinyinNum": "ti1",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 6,
+      "common": 1,
+      "meaning": [
+        "đá"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "别*踢*门！",
+          "vi": "Đừng đá cửa!",
+          "py": "Bié *tī* mén!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "da3lan2qiu2",
+      "hanzi": "打篮球",
+      "pinyin": "dǎlánqiú",
+      "pinyinNum": "da3 lan2 qiu2",
+      "hanViet": "đả xờm cầu",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": null,
+      "common": null,
+      "meaning": [
+        "chơi bóng rổ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们下午去*打篮球*。",
+          "vi": "Chiều nay chúng tôi đi chơi bóng rổ.",
+          "py": "Wǒmen xiàwǔ qù *dǎlánqiú*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "yun4dong4",
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "pinyinNum": "yun4 dong4",
+      "hanViet": "vận động",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "vận động, tập thể dục",
+        "thể thao"
+      ],
+      "usage": "",
+      "measureWords": [
+        "场"
+      ],
+      "examples": [
+        {
+          "zh": "你喜欢什么*运动*？",
+          "vi": "Bạn thích môn thể thao nào?",
+          "py": "Nǐ xǐhuan shénme *yùndòng*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "wan2-2",
+      "hanzi": "玩",
+      "pinyin": "wán",
+      "pinyinNum": "wan2",
+      "hanViet": "ngoạn",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": null,
+      "common": 3,
+      "meaning": [
+        "chơi"
+      ],
+      "usage": "玩 (wán) là chơi; 完 (wán) là xong: đọc giống nhau.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "明天来我家*玩*吧！",
+          "vi": "Mai đến nhà tôi chơi nhé!",
+          "py": "Míngtiān lái wǒ jiā *wán* ba!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "wan2"
+      ],
+      "check": false
+    },
+    {
+      "id": "chuan1",
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "pinyinNum": "chuan1",
+      "hanViet": "xuyên",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "mặc (quần áo), đi (giày)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天冷，*穿*这件衣服吧。",
+          "vi": "Hôm nay lạnh, mặc chiếc áo này đi.",
+          "py": "Jīntiān lěng, *chuān* zhè jiàn yīfu ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xi3",
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "pinyinNum": "xi3",
+      "hanViet": "tẩy",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "rửa, giặt"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我在*洗*衣服。",
+          "vi": "Tôi đang giặt quần áo.",
+          "py": "Wǒ zài *xǐ* yīfu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "gao1",
+      "hanzi": "高",
+      "pinyin": "gāo",
+      "pinyinNum": "gao1",
+      "hanViet": "cao",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "cao"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我哥哥比我*高*。",
+          "vi": "Anh trai tôi cao hơn tôi.",
+          "py": "Wǒ gēge bǐ wǒ *gāo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "chang2"
+      ],
+      "check": false
+    },
+    {
+      "id": "chang2",
+      "hanzi": "长",
+      "pinyin": "cháng",
+      "pinyinNum": "chang2",
+      "hanViet": "trường",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "dài"
+      ],
+      "usage": "Đọc zhǎng khi nghĩa là lớn lên, đứng đầu (校长 ở HSK 3).",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个电影很*长*。",
+          "vi": "Bộ phim này rất dài.",
+          "py": "Zhège diànyǐng hěn *cháng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gao1"
+      ],
+      "check": true
+    },
+    {
+      "id": "kuai4-2",
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "pinyinNum": "kuai4",
+      "hanViet": "khoái",
+      "pos": [
+        "adj",
+        "adv"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhanh",
+        "sắp"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他走得很*快*。",
+          "vi": "Anh ấy đi rất nhanh.",
+          "py": "Tā zǒu de hěn *kuài*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "man4",
+        "kuai4le4"
+      ],
+      "check": false
+    },
+    {
+      "id": "man4",
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "pinyinNum": "man4",
+      "hanViet": "mạn",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "chậm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你走得太*慢*了！",
+          "vi": "Bạn đi chậm quá!",
+          "py": "Nǐ zǒu de tài *màn* le!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "kuai4-2"
+      ],
+      "check": false
+    },
+    {
+      "id": "mang2",
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "pinyinNum": "mang2",
+      "hanViet": "mang",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "bận"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你今天*忙*吗？",
+          "vi": "Hôm nay bạn có bận không?",
+          "py": "Nǐ jīntiān *máng* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhen1",
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "pinyinNum": "zhen1",
+      "hanViet": "chân",
+      "pos": [
+        "adv",
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "thật, thật là"
+      ],
+      "usage": "Đứng trước tính từ để cảm thán: 真好！",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天天气*真*好！",
+          "vi": "Hôm nay thời tiết đẹp thật!",
+          "py": "Jīntiān tiānqì *zhēn* hǎo!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "kuai4le4",
+      "hanzi": "快乐",
+      "pinyin": "kuàilè",
+      "pinyinNum": "kuai4 le4",
+      "hanViet": "khoái lạc",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "vui vẻ, hạnh phúc"
+      ],
+      "usage": "Hay dùng trong lời chúc: 生日快乐, 新年快乐.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "和朋友在一起，我很*快乐*。",
+          "vi": "Ở bên bạn bè, tôi rất vui.",
+          "py": "Hé péngyou zài yìqǐ, wǒ hěn *kuàilè*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gao1xing4",
+        "kuai4-2"
+      ],
+      "check": false
+    },
+    {
+      "id": "ke3neng2",
+      "hanzi": "可能",
+      "pinyin": "kěnéng",
+      "pinyinNum": "ke3 neng2",
+      "hanViet": "khả năng",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "có thể (khả năng)",
+        "có lẽ"
+      ],
+      "usage": "可能 nói về khả năng xảy ra; 可以 là được phép, có thể làm.",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "他*可能*不来了。",
+          "vi": "Có lẽ anh ấy không đến nữa.",
+          "py": "Tā *kěnéng* bù lái le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ke3yi3"
+      ],
+      "check": false
+    },
+    {
+      "id": "ke3yi3",
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "pinyinNum": "ke3 yi3",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "có thể, được (phép)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*可以*进来吗？",
+          "vi": "Tôi vào được không?",
+          "py": "Wǒ *kěyǐ* jìn lái ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ke3neng2",
+        "neng2"
+      ],
+      "check": true
+    },
+    {
+      "id": "yao4-2",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "pinyinNum": "yao4",
+      "hanViet": "yếu",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "muốn",
+        "cần",
+        "sắp, sẽ"
+      ],
+      "usage": "要 + động từ = muốn / sẽ làm; 要 + danh từ = cần, muốn có.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*要*喝什么？",
+          "vi": "Bạn muốn uống gì?",
+          "py": "Nǐ *yào* hē shénme?"
+        },
+        {
+          "zh": "我明天*要*去北京。",
+          "vi": "Ngày mai tôi sẽ đi Bắc Kinh.",
+          "py": "Wǒ míngtiān *yào* qù Běijīng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xiang3"
+      ],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我在{0}衣服。",
+      "options": [
+        "洗",
+        "玩",
+        "踢",
+        "跑步"
+      ],
+      "answer": "洗",
+      "targets": [
+        "xi3"
+      ],
+      "explanation": "洗衣服 = giặt quần áo.",
+      "id": "hsk2-so-thich-tinh-chat-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "他走得很{0}，我走得很慢。",
+      "options": [
+        "快",
+        "慢",
+        "高",
+        "长"
+      ],
+      "answer": "快",
+      "targets": [
+        "kuai4-2"
+      ],
+      "explanation": "Trái nghĩa với 慢 là 快.",
+      "id": "hsk2-so-thich-tinh-chat-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "今天很冷，你要多{0}衣服。",
+      "options": [
+        "穿",
+        "洗",
+        "玩",
+        "踢"
+      ],
+      "answer": "穿",
+      "targets": [
+        "chuan1"
+      ],
+      "explanation": "穿衣服 = mặc quần áo.",
+      "id": "hsk2-so-thich-tinh-chat-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我{0}进来吗？",
+      "options": [
+        "可以",
+        "可能",
+        "快乐",
+        "真"
+      ],
+      "answer": "可以",
+      "targets": [
+        "ke3yi3"
+      ],
+      "explanation": "Xin phép: 可以...吗？",
+      "id": "hsk2-so-thich-tinh-chat-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "他今天没来，{0}生病了。",
+      "options": [
+        "可能",
+        "可以",
+        "快乐",
+        "真"
+      ],
+      "answer": "可能",
+      "targets": [
+        "ke3neng2"
+      ],
+      "explanation": "可能 = có lẽ.",
+      "id": "hsk2-so-thich-tinh-chat-fill-05"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "最",
+        "喜欢",
+        "的",
+        "运动",
+        "是",
+        "游泳"
+      ],
+      "answers": [
+        [
+          "我",
+          "最",
+          "喜欢",
+          "的",
+          "运动",
+          "是",
+          "游泳"
+        ],
+        [
+          "游泳",
+          "是",
+          "我",
+          "最",
+          "喜欢",
+          "的",
+          "运动"
+        ]
+      ],
+      "targets": [
+        "yun4dong4",
+        "you2yong3"
+      ],
+      "vi": "Môn thể thao tôi thích nhất là bơi.",
+      "id": "hsk2-so-thich-tinh-chat-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "明天",
+        "下午",
+        "我们",
+        "去",
+        "游泳"
+      ],
+      "answers": [
+        [
+          "明天",
+          "下午",
+          "我们",
+          "去",
+          "游泳"
+        ],
+        [
+          "我们",
+          "明天",
+          "下午",
+          "去",
+          "游泳"
+        ]
+      ],
+      "targets": [
+        "you2yong3"
+      ],
+      "vi": "Chiều mai chúng tôi đi bơi.",
+      "id": "hsk2-so-thich-tinh-chat-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这",
+        "件",
+        "衣服",
+        "真",
+        "漂亮"
+      ],
+      "answers": [
+        [
+          "这",
+          "件",
+          "衣服",
+          "真",
+          "漂亮"
+        ]
+      ],
+      "targets": [
+        "zhen1",
+        "chuan1"
+      ],
+      "vi": "Chiếc áo này đẹp thật.",
+      "id": "hsk2-so-thich-tinh-chat-order-03"
+    }
+  ]
+}

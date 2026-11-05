@@ -20,8 +20,8 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 2 | hsk2-thoi-gian-thoi-tiet | Thời gian, thời tiết | 20 | 6 fill, 3 order | xong | 早上 晚上 去年 时间 小时 号 第一 两 每 次 晴 阴 雪 开始 完 上班 起床 事情 新 准备 |
 | 2 | hsk2-noi-chon-di-lai | Nơi chốn, đi lại | 22 | 5 fill, 3 order | xong | 路 门 房间 教室 机场 公司 旁边 左边 右边 外 近 远 离 从 到 进 出 走 船 公共汽车 自行车 旅游 |
 | 2 | hsk2-hoc-tap-giao-tiep | Học tập, giao tiếp | 20 | 6 fill, 3 order | xong | 课 题 问 问题 回答 考试 懂 知道 意思 介绍 告诉 帮助 找 送 给 让 欢迎 希望 觉得 错 |
-| 2 | hsk2-so-thich-tinh-chat | Sở thích, tính chất | 20 |  | chưa làm | 唱歌 跳舞 跑步 游泳 踢 打篮球 运动 玩 穿 洗 高 长 快 慢 忙 真 快乐 可能 可以 要 |
-| 2 | hsk2-hu-tu | Hư từ | 19 |  | chưa làm | 也 还 就 再 最 非常 别 比 吧 得 着 为 向 一起 但是 所以 因为 已经 正在 |
+| 2 | hsk2-so-thich-tinh-chat | Sở thích, tính chất | 20 | 5 fill, 3 order | xong | 唱歌 跳舞 跑步 游泳 踢 打篮球 运动 玩 穿 洗 高 长 快 慢 忙 真 快乐 可能 可以 要 |
+| 2 | hsk2-hu-tu | Hư từ | 19 | 7 fill, 3 order | xong | 也 还 就 再 最 非常 别 比 吧 得 着 为 向 一起 但是 所以 因为 已经 正在 |
 | 2 | **Cộng** | | **147 / 147** | | | |
 | 3 | hsk3-con-nguoi | Con người, cơ thể | 25 |  | chưa làm | 阿姨 爷爷 奶奶 叔叔 邻居 客人 同事 经理 校长 司机 别人 自己 鼻子 耳朵 脸 头发 脚 腿 矮 胖 瘦 年轻 聪明 可爱 健康 |
 | 3 | hsk3-cam-xuc-suc-khoe | Cảm xúc, sức khỏe | 25 |  | chưa làm | 担心 害怕 生气 难过 着急 放心 满意 关心 热情 认真 努力 奇怪 舒服 疼 饿 饱 渴 感冒 发烧 哭 小心 相信 愿意 敢 同意 |
@@ -117,8 +117,8 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 2 | hsk2-an-uong-mua-sam | 便宜 | piányi | tiện nghi |
 | 2 | hsk2-an-uong-mua-sam | 百 | bǎi | bách |
 | 2 | hsk2-thoi-gian-thoi-tiet | 号 | hào | hiệu |
-| 2 | hsk2-thoi-gian-thoi-tiet | 第一 | dìyī | đậy nhất |
-| 2 | hsk2-thoi-gian-thoi-tiet | 每 | měi | hỏi |
+| 2 | hsk2-thoi-gian-thoi-tiet | 第一 | dìyī | đệ nhất |
+| 2 | hsk2-thoi-gian-thoi-tiet | 每 | měi | mỗi |
 | 2 | hsk2-thoi-gian-thoi-tiet | 晴 | qíng | tạnh |
 | 2 | hsk2-thoi-gian-thoi-tiet | 雪 | xuě | — |
 | 2 | hsk2-noi-chon-di-lai | 远 | yuǎn | viễn |
@@ -132,6 +132,23 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 2 | hsk2-hoc-tap-giao-tiep | 告诉 | gàosu | — |
 | 2 | hsk2-hoc-tap-giao-tiep | 帮助 | bāngzhù | — |
 | 2 | hsk2-hoc-tap-giao-tiep | 给 | gěi | cấp |
+| 2 | hsk2-so-thich-tinh-chat | 跑步 | pǎobù | — |
+| 2 | hsk2-so-thich-tinh-chat | 游泳 | yóuyǒng | — |
+| 2 | hsk2-so-thich-tinh-chat | 踢 | tī | — |
+| 2 | hsk2-so-thich-tinh-chat | 打篮球 | dǎlánqiú | đả xờm cầu |
+| 2 | hsk2-so-thich-tinh-chat | 长 | cháng | trường |
+| 2 | hsk2-so-thich-tinh-chat | 可以 | kěyǐ | — |
+| 2 | hsk2-so-thich-tinh-chat | 要 | yào | yếu |
+| 2 | hsk2-hu-tu | 还 | hái | hoàn |
+| 2 | hsk2-hu-tu | 就 | jiù | — |
+| 2 | hsk2-hu-tu | 别 | bié | biết |
+| 2 | hsk2-hu-tu | 比 | bǐ | tỉ |
+| 2 | hsk2-hu-tu | 吧 | ba | và |
+| 2 | hsk2-hu-tu | 得 | de | đắc |
+| 2 | hsk2-hu-tu | 着 | zhe | trứ |
+| 2 | hsk2-hu-tu | 为 | wèi | vay |
+| 2 | hsk2-hu-tu | 但是 | dànshì | — |
+| 2 | hsk2-hu-tu | 所以 | suǒyǐ | — |
 
 ## Âm Hán Việt cần xem
 
@@ -156,8 +173,6 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 姐 | thư | tỉ |
 | 女 | nữa | nữ |
 | 奶 | nái | nãi |
-| 第 | đậy/đệ | đệ |
-| 每 | hỏi/mỏi/mọi/mỗi/mủ/mủi/mũi | mỗi |
 | 晴 | tạnh | tình |
 | 准 | chốn | chuẩn |
 | 离 | le | ly |
@@ -165,6 +180,11 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 希 | hơi | hi |
 | 错 | thó | thác |
 | 让 | nhường | nhượng |
+| 跳 | khêu | khiêu |
+| 篮 | xờm | lam |
+| 别 | biết | biệt |
+| 吧 | và | ba |
+| 为 | vay | vị |
 
 ## Lỗi giao diện ghi nhận
 
