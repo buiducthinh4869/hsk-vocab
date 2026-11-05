@@ -1,0 +1,56 @@
+# id: hsk2-hoc-tap-giao-tiep
+# level: 2
+# title: Học tập, giao tiếp
+# order: 5
+@课 | bài học; tiết học, giờ học
+- 我们下午有汉语*课*。 = Buổi chiều chúng tôi có giờ học tiếng Trung.
+@题 | đề, câu (bài tập, bài thi) | c: 问题
+- 这个*题*我不会。 = Câu này tôi không biết làm.
+@问 | hỏi | u: 问 + người + điều muốn hỏi: 我问老师一个问题. | c: 问题
+- 我可以*问*你一个问题吗？ = Tôi hỏi bạn một câu được không?
+@问题 | câu hỏi; vấn đề | c: 题 问
+- 你有*问题*吗？ = Bạn có câu hỏi không?
+- 没*问题*！ = Không vấn đề gì!
+@回答 | trả lời
+- 请你*回答*我的问题。 = Mời bạn trả lời câu hỏi của tôi.
+@考试 | thi, kiểm tra; kỳ thi
+- 明天有汉语*考试*。 = Ngày mai có bài thi tiếng Trung.
+@懂 | hiểu | u: Thường đứng sau động từ: 听懂, 看懂 = nghe hiểu, đọc hiểu. | c: 知道
+- 你听*懂*了吗？ = Bạn nghe hiểu chưa?
+@知道 | biết (một thông tin) | u: 知道 là biết một thông tin; 会 là biết làm (do học); 认识 là quen biết người. | c: 认识 会 懂
+- 你*知道*他住在哪儿吗？ = Bạn có biết anh ấy sống ở đâu không?
+@意思 | ý nghĩa, ý
+- 这个字是什么*意思*？ = Chữ này nghĩa là gì?
+@介绍 | giới thiệu
+- 我*介绍*你们认识。 = Tôi giới thiệu để các bạn làm quen.
+@告诉 gàosu | nói cho biết, bảo | u: 告诉 + người + việc: 告诉我你的名字.
+- 请*告诉*我你的名字。 = Hãy cho tôi biết tên bạn.
+@帮助 | giúp đỡ; sự giúp đỡ
+- 谢谢你的*帮助*！ = Cảm ơn sự giúp đỡ của bạn!
+@找 | tìm
+- 你在*找*什么？ = Bạn đang tìm gì?
+@送 | tặng; đưa, tiễn | c: 给
+- 这是我*送*给你的。 = Cái này tôi tặng bạn.
+- 我*送*你去机场。 = Tôi đưa bạn ra sân bay.
+@给 gěi | cho, đưa; (làm gì) cho ai | u: 给 + người + động từ: 我给妈妈打电话. | c: 送
+- 请*给*我两个苹果。 = Cho tôi hai quả táo.
+- 我*给*妈妈打电话。 = Tôi gọi điện cho mẹ.
+@让 | để, cho phép; bảo (ai làm gì)
+- 妈妈不*让*我看电视。 = Mẹ không cho tôi xem ti vi.
+@欢迎 | chào mừng, hoan nghênh
+- *欢迎*你来我家！ = Chào mừng bạn đến nhà tôi!
+@希望 | hy vọng, mong
+- 我*希望*明天不下雨。 = Tôi hy vọng ngày mai không mưa.
+@觉得 | cảm thấy, thấy (rằng) | c: 想
+- 你*觉得*这件衣服怎么样？ = Bạn thấy chiếc áo này thế nào?
+@错 | sai
+- 你写*错*了。 = Bạn viết sai rồi.
+F 我不{0}他叫什么名字。 | 知道* 懂 会 认识 | e: Biết một thông tin: 知道.
+F 老师，这个字是什么{0}？ | 意思* 问题 题 课 | e: 什么意思 = nghĩa là gì.
+F 我想{0}老师一个问题。 | 问* 回答 欢迎 希望 | e: 问 + người + 问题.
+F {0}你们来北京！ | 欢迎* 帮助 觉得 知道 | e: 欢迎 = chào mừng.
+F 老师{0}我们回答问题。 | 让* 送 找 懂 | e: 让 + người + làm gì = bảo ai làm gì.
+F 这个字你写{0}了。 | 错* 懂 问 让 | e: 写错 = viết sai.
+O 我 没 听 懂 这个 问题 | vi: Tôi nghe không hiểu câu hỏi này. | t: 懂 问题 | alt: 这个 问题 我 没 听 懂
+O 他 送 我 一个 手表 | vi: Anh ấy tặng tôi một cái đồng hồ. | t: 送
+O 我 希望 你 明天 能 来 | vi: Tôi hy vọng ngày mai bạn đến được. | t: 希望 | alt: 我 希望 明天 你 能 来

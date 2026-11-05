@@ -1,0 +1,57 @@
+# id: hsk2-noi-chon-di-lai
+# level: 2
+# title: Nơi chốn, đi lại
+# order: 4
+@路 | đường, con đường
+- *路*上人很多。 = Trên đường rất đông người.
+@门 | cửa
+- 商店九点开*门*。 = Cửa hàng mở cửa lúc 9 giờ.
+@房间 | phòng
+- 这个*房间*有两张桌子。 = Phòng này có hai cái bàn.
+@教室 | phòng học, lớp học
+- 老师在*教室*里。 = Thầy giáo ở trong lớp.
+@机场 | sân bay | c: 飞机
+- 从这儿到*机场*要一个小时。 = Từ đây đến sân bay mất một tiếng.
+@公司 | công ty
+- 我丈夫在一家*公司*工作。 = Chồng tôi làm việc ở một công ty.
+@旁边 | bên cạnh
+- 我家*旁边*是学校。 = Bên cạnh nhà tôi là trường học.
+@左边 | bên trái | c: 右边
+- 你*左边*的人是谁？ = Người bên trái bạn là ai?
+@右边 | bên phải | c: 左边
+- 商店在学校的*右边*。 = Cửa hàng ở bên phải trường.
+@外 | ngoài, bên ngoài | c: 里
+- 门*外*有一个人。 = Ngoài cửa có một người.
+@近 | gần | u: 近 (jìn, thanh 4) là gần; 进 (jìn) là vào: đọc giống nhau. | c: 远 进
+- 我家离学校很*近*。 = Nhà tôi cách trường rất gần.
+@远 yuǎn | xa | c: 近
+- 机场离这儿很*远*吗？ = Sân bay có xa đây không?
+@离 lí | cách (khoảng cách) | u: A 离 B 很近 / 很远 = A cách B gần / xa; điểm xuất phát thì dùng 从. | c: 从
+- 你家*离*公司远不远？ = Nhà bạn cách công ty có xa không?
+@从 | từ (điểm bắt đầu) | u: 从 A 到 B = từ A đến B. | c: 离
+- 你*从*哪儿来？ = Bạn từ đâu đến?
+@到 | đến, tới
+- 我们几点*到*机场？ = Mấy giờ chúng ta đến sân bay?
+@进 | vào | c: 出 近
+- 请*进*！ = Mời vào!
+@出 | ra | c: 进
+- 我爸爸*出*去了。 = Bố tôi ra ngoài rồi.
+@走 | đi bộ; đi, rời đi | u: 走 là đi bộ hoặc rời đi; đi đến đâu thì dùng 去 + nơi chốn. | c: 去
+- 我们*走*路去学校吧。 = Chúng ta đi bộ đến trường nhé.
+- 去机场怎么*走*？ = Đi sân bay đường nào?
+@船 | thuyền, tàu thủy
+- 坐*船*去那儿要两个小时。 = Đi thuyền đến đó mất hai tiếng.
+@公共汽车 | xe buýt | pos: n | c: 出租车
+- 我坐*公共汽车*上班。 = Tôi đi làm bằng xe buýt.
+@自行车 | xe đạp | hv: tự hành xa
+- 我的*自行车*是黑的。 = Xe đạp của tôi màu đen.
+@旅游 | du lịch
+- 我想去中国*旅游*。 = Tôi muốn đi du lịch Trung Quốc.
+F 我家{0}学校很近。 | 离* 从 到 在 | e: Khoảng cách: A 离 B 很近.
+F {0}我家到学校要十分钟。 | 从* 离 在 进 | e: 从 A 到 B = từ A đến B.
+F 请{0}，请坐。 | 进* 出 近 远 | e: 请进 = mời vào.
+F 我坐{0}去上班。 | 公共汽车* 房间 教室 公司 | e: 坐 + phương tiện.
+F 学校很{0}，我们走路去吧。 | 近* 远 外 路 | e: Gần thì đi bộ.
+O 我 家 离 公司 很 远 | vi: Nhà tôi cách công ty rất xa. | t: 离 远
+O 我们 坐 船 去 旅游 | vi: Chúng tôi đi du lịch bằng thuyền. | t: 船 旅游
+O 请 从 左边 的 门 进 | vi: Mời vào bằng cửa bên trái. | t: 从 左边 门 进
