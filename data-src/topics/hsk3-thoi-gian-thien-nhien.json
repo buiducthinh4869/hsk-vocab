@@ -1,0 +1,1100 @@
+{
+  "id": "hsk3-thoi-gian-thien-nhien",
+  "level": 3,
+  "title": "Thời gian, thiên nhiên",
+  "order": 6,
+  "words": [
+    {
+      "id": "chun1",
+      "hanzi": "春",
+      "pinyin": "chūn",
+      "pinyinNum": "chun1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "mùa xuân"
+      ],
+      "usage": "Trong câu thường nói 春天.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*春天*来了，花都开了。",
+          "vi": "Mùa xuân đến rồi, hoa đều nở cả.",
+          "py": "*Chūntiān* lái le, huā dōu kāi le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xia4-2"
+      ],
+      "check": true
+    },
+    {
+      "id": "xia4-2",
+      "hanzi": "夏",
+      "pinyin": "xià",
+      "pinyinNum": "xia4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "mùa hè"
+      ],
+      "usage": "Trong câu thường nói 夏天.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*夏天*北京很热。",
+          "vi": "Mùa hè Bắc Kinh rất nóng.",
+          "py": "*Xiàtiān* Běijīng hěn rè."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "chun1"
+      ],
+      "check": true
+    },
+    {
+      "id": "qiu1",
+      "hanzi": "秋",
+      "pinyin": "qiū",
+      "pinyinNum": "qiu1",
+      "hanViet": "thu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "mùa thu"
+      ],
+      "usage": "Trong câu thường nói 秋天.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我最喜欢*秋天*。",
+          "vi": "Tôi thích mùa thu nhất.",
+          "py": "Wǒ zuì xǐhuan *qiūtiān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dong1-2"
+      ],
+      "check": false
+    },
+    {
+      "id": "dong1-2",
+      "hanzi": "冬",
+      "pinyin": "dōng",
+      "pinyinNum": "dong1",
+      "hanViet": "đông",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "mùa đông"
+      ],
+      "usage": "Trong câu thường nói 冬天.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*冬天*你想去哪儿旅游？",
+          "vi": "Mùa đông bạn muốn đi du lịch đâu?",
+          "py": "*Dōngtiān* nǐ xiǎng qù nǎr lǚyóu?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qiu1"
+      ],
+      "check": false
+    },
+    {
+      "id": "ji4jie2",
+      "hanzi": "季节",
+      "pinyin": "jìjié",
+      "pinyinNum": "ji4 jie2",
+      "hanViet": "quí tiết",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "mùa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "北京哪个*季节*最漂亮？",
+          "vi": "Mùa nào ở Bắc Kinh đẹp nhất?",
+          "py": "Běijīng nǎge *jìjié* zuì piàoliang?"
+        },
+        {
+          "zh": "一年有春、夏、秋、冬四个*季节*。",
+          "vi": "Một năm có bốn mùa xuân, hạ, thu, đông.",
+          "py": "Yì nián yǒu chūn, xià, qiū, dōng sì ge *jìjié*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhou1mo4",
+      "hanzi": "周末",
+      "pinyin": "zhōumò",
+      "pinyinNum": "zhou1 mo4",
+      "hanViet": "chu mạt",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "cuối tuần"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个*周末*你有时间吗？",
+          "vi": "Cuối tuần này bạn có rảnh không?",
+          "py": "Zhège *zhōumò* nǐ yǒu shíjiān ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jie2ri4",
+      "hanzi": "节日",
+      "pinyin": "jiérì",
+      "pinyinNum": "jie2 ri4",
+      "hanViet": "tiết nhật",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "ngày lễ, ngày hội"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "中国有很多*节日*。",
+          "vi": "Trung Quốc có rất nhiều ngày lễ.",
+          "py": "Zhōngguó yǒu hěn duō *jiérì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ke4-2",
+      "hanzi": "刻",
+      "pinyin": "kè",
+      "pinyinNum": "ke4",
+      "hanViet": "khắc",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "khắc (15 phút)"
+      ],
+      "usage": "一刻 = 15 phút; 三点一刻 = 3 giờ 15; 三点三刻 = 3 giờ 45.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "现在是三点一*刻*。",
+          "vi": "Bây giờ là 3 giờ 15.",
+          "py": "Xiànzài shì sān diǎn yí *kè*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ban4"
+      ],
+      "check": false
+    },
+    {
+      "id": "ban4",
+      "hanzi": "半",
+      "pinyin": "bàn",
+      "pinyinNum": "ban4",
+      "hanViet": "bán",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "rưỡi, một nửa"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "现在七点*半*。",
+          "vi": "Bây giờ là bảy giờ rưỡi.",
+          "py": "Xiànzài qī diǎn *bàn*."
+        },
+        {
+          "zh": "我只吃了*半*个苹果。",
+          "vi": "Tôi chỉ ăn nửa quả táo.",
+          "py": "Wǒ zhǐ chī le *bàn* ge píngguǒ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ke4-2"
+      ],
+      "check": false
+    },
+    {
+      "id": "yi3qian2",
+      "hanzi": "以前",
+      "pinyin": "yǐqián",
+      "pinyinNum": "yi3 qian2",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "trước đây",
+        "trước khi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*以前*住在北京。",
+          "vi": "Trước đây tôi sống ở Bắc Kinh.",
+          "py": "Wǒ *yǐqián* zhù zài Běijīng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi3hou4",
+        "guo4qu4"
+      ],
+      "check": true
+    },
+    {
+      "id": "yi3hou4",
+      "hanzi": "以后",
+      "pinyin": "yǐhòu",
+      "pinyinNum": "yi3 hou4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "sau này",
+        "sau khi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "下课*以后*我们去打篮球。",
+          "vi": "Tan học xong chúng ta đi chơi bóng rổ.",
+          "py": "Xià kè *yǐhòu* wǒmen qù dǎlánqiú."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi3qian2"
+      ],
+      "check": true
+    },
+    {
+      "id": "guo4qu4",
+      "hanzi": "过去",
+      "pinyin": "guòqù",
+      "pinyinNum": "guo4 qu4",
+      "hanViet": "quá khứ",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "quá khứ, trước đây",
+        "đi qua"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*过去*的事情就别想了。",
+          "vi": "Chuyện đã qua thì đừng nghĩ nữa.",
+          "py": "*Guòqù* de shìqing jiù bié xiǎng le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi3qian2"
+      ],
+      "check": true
+    },
+    {
+      "id": "zui4jin4",
+      "hanzi": "最近",
+      "pinyin": "zuìjìn",
+      "pinyinNum": "zui4 jin4",
+      "hanViet": "tối cận",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "gần đây, dạo này"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*最近*怎么样？",
+          "vi": "Dạo này bạn thế nào?",
+          "py": "Nǐ *zuìjìn* zěnmeyàng?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "gang1cai2",
+      "hanzi": "刚才",
+      "pinyin": "gāngcái",
+      "pinyinNum": "gang1 cai2",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "vừa nãy, vừa rồi"
+      ],
+      "usage": "刚才 chỉ lúc vừa rồi, có thể đứng trước chủ ngữ: 刚才他来了.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*刚才*有人给你打电话。",
+          "vi": "Vừa nãy có người gọi điện cho bạn.",
+          "py": "*Gāngcái* yǒu rén gěi nǐ dǎdiànhuà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ma3shang4"
+      ],
+      "check": true
+    },
+    {
+      "id": "ma3shang4",
+      "hanzi": "马上",
+      "pinyin": "mǎshàng",
+      "pinyinNum": "ma3 shang4",
+      "hanViet": "mã thượng",
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "ngay, lập tức"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*马上*就来！",
+          "vi": "Tôi đến ngay!",
+          "py": "Wǒ *mǎshàng* jiù lái!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gang1cai2"
+      ],
+      "check": false
+    },
+    {
+      "id": "tai4yang",
+      "hanzi": "太阳",
+      "pinyin": "tàiyang",
+      "pinyinNum": "tai4 yang",
+      "hanViet": "thái dương",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "mặt trời"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*太阳*出来了。",
+          "vi": "Mặt trời mọc rồi.",
+          "py": "*Tàiyang* chū lái le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yue4liang"
+      ],
+      "check": false
+    },
+    {
+      "id": "yue4liang",
+      "hanzi": "月亮",
+      "pinyin": "yuèliang",
+      "pinyinNum": "yue4 liang",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "mặt trăng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天晚上的*月亮*很漂亮。",
+          "vi": "Trăng tối nay đẹp quá.",
+          "py": "Jīntiān wǎnshang de *yuèliang* hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tai4yang"
+      ],
+      "check": true
+    },
+    {
+      "id": "yun2",
+      "hanzi": "云",
+      "pinyin": "yún",
+      "pinyinNum": "yun2",
+      "hanViet": "vân",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "mây"
+      ],
+      "usage": "",
+      "measureWords": [
+        "朵"
+      ],
+      "examples": [
+        {
+          "zh": "今天*云*很多，可能要下雨。",
+          "vi": "Hôm nay nhiều mây, có thể sẽ mưa.",
+          "py": "Jīntiān *yún* hěn duō, kěnéng yào xiàyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "gua1",
+      "hanzi": "刮",
+      "pinyin": "guā",
+      "pinyinNum": "gua1",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 6,
+      "common": 1,
+      "meaning": [
+        "thổi (gió)",
+        "cạo"
+      ],
+      "usage": "Gió thổi: 刮风.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天*刮风*了，很冷。",
+          "vi": "Hôm nay có gió, lạnh lắm.",
+          "py": "Jīntiān *guāfēng* le, hěn lěng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "he2-2",
+      "hanzi": "河",
+      "pinyin": "hé",
+      "pinyinNum": "he2",
+      "hanViet": "hà",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "sông"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条",
+        "道"
+      ],
+      "examples": [
+        {
+          "zh": "我家前面有一条*河*。",
+          "vi": "Trước nhà tôi có một con sông.",
+          "py": "Wǒ jiā qiánmian yǒu yì tiáo *hé*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shu4",
+      "hanzi": "树",
+      "pinyin": "shù",
+      "pinyinNum": "shu4",
+      "hanViet": "thụ",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "cây"
+      ],
+      "usage": "",
+      "measureWords": [
+        "棵"
+      ],
+      "examples": [
+        {
+          "zh": "公园里有很多*树*。",
+          "vi": "Trong công viên có nhiều cây.",
+          "py": "Gōngyuán lǐ yǒu hěn duō *shù*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "cao3",
+      "hanzi": "草",
+      "pinyin": "cǎo",
+      "pinyinNum": "cao3",
+      "hanViet": "thảo",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "cỏ"
+      ],
+      "usage": "",
+      "measureWords": [
+        "棵",
+        "撮",
+        "株",
+        "根"
+      ],
+      "examples": [
+        {
+          "zh": "请不要在*草*上走。",
+          "vi": "Xin đừng đi trên cỏ.",
+          "py": "Qǐng bú yào zài *cǎo* shàng zǒu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hua1"
+      ],
+      "check": true
+    },
+    {
+      "id": "hua1",
+      "hanzi": "花",
+      "pinyin": "huā",
+      "pinyinNum": "hua1",
+      "hanViet": "hoa",
+      "pos": [
+        "v",
+        "n",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "hoa",
+        "tiêu, tốn (tiền, thời gian)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "朵",
+        "支",
+        "束",
+        "把",
+        "盆",
+        "簇"
+      ],
+      "examples": [
+        {
+          "zh": "我给妈妈买了一些*花*。",
+          "vi": "Tôi mua cho mẹ ít hoa.",
+          "py": "Wǒ gěi māma mǎi le yì xiē *huā*."
+        },
+        {
+          "zh": "这件衣服*花*了我五百块钱。",
+          "vi": "Chiếc áo này tốn của tôi 500 đồng.",
+          "py": "Zhè jiàn yīfu *huā* le wǒ wǔ bǎi kuài qián."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "cao3"
+      ],
+      "check": false
+    },
+    {
+      "id": "niao3",
+      "hanzi": "鸟",
+      "pinyin": "niǎo",
+      "pinyinNum": "niao3",
+      "hanViet": "điểu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "chim"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只",
+        "群"
+      ],
+      "examples": [
+        {
+          "zh": "树上有一只*鸟*。",
+          "vi": "Trên cây có một con chim.",
+          "py": "Shù shàng yǒu yì zhī *niǎo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "dong4wu4",
+      "hanzi": "动物",
+      "pinyin": "dòngwù",
+      "pinyinNum": "dong4 wu4",
+      "hanViet": "động vật",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "động vật, con vật"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只",
+        "群",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你喜欢什么*动物*？",
+          "vi": "Bạn thích con vật nào?",
+          "py": "Nǐ xǐhuan shénme *dòngwù*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xiong2mao1",
+      "hanzi": "熊猫",
+      "pinyin": "xióngmāo",
+      "pinyinNum": "xiong2 mao1",
+      "hanViet": "hùng mèo",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "gấu trúc"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "我想去看*熊猫*。",
+          "vi": "Tôi muốn đi xem gấu trúc.",
+          "py": "Wǒ xiǎng qù kàn *xióngmāo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ma3",
+      "hanzi": "马",
+      "pinyin": "mǎ",
+      "pinyinNum": "ma3",
+      "hanViet": "mã",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "ngựa"
+      ],
+      "usage": "马 (mǎ, ngựa) khác 妈 (mā, mẹ) và 吗 (ma) ở thanh điệu và bộ.",
+      "measureWords": [
+        "匹"
+      ],
+      "examples": [
+        {
+          "zh": "你会骑*马*吗？",
+          "vi": "Bạn biết cưỡi ngựa không?",
+          "py": "Nǐ huì qí *mǎ* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "现在三点{0}，我们走吧。",
+      "options": [
+        "半",
+        "季节",
+        "周末",
+        "云"
+      ],
+      "answer": "半",
+      "targets": [
+        "ban4"
+      ],
+      "explanation": "三点半 = 3 giờ rưỡi.",
+      "id": "hsk3-thoi-gian-thien-nhien-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "他{0}还在这儿，现在去哪儿了？",
+      "options": [
+        "刚才",
+        "马上",
+        "以后",
+        "周末"
+      ],
+      "answer": "刚才",
+      "targets": [
+        "gang1cai2"
+      ],
+      "explanation": "刚才 = vừa nãy.",
+      "id": "hsk3-thoi-gian-thien-nhien-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "你别着急，我{0}就来。",
+      "options": [
+        "马上",
+        "刚才",
+        "以前",
+        "过去"
+      ],
+      "answer": "马上",
+      "targets": [
+        "ma3shang4"
+      ],
+      "explanation": "马上 = ngay.",
+      "id": "hsk3-thoi-gian-thien-nhien-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "一年有四个{0}。",
+      "options": [
+        "季节",
+        "周末",
+        "刚才",
+        "太阳"
+      ],
+      "answer": "季节",
+      "targets": [
+        "ji4jie2"
+      ],
+      "explanation": "Bốn mùa: 四个季节.",
+      "id": "hsk3-thoi-gian-thien-nhien-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "树上有很多{0}。",
+      "options": [
+        "鸟",
+        "马",
+        "熊猫",
+        "河"
+      ],
+      "answer": "鸟",
+      "targets": [
+        "niao3"
+      ],
+      "explanation": "Chim đậu trên cây.",
+      "id": "hsk3-thoi-gian-thien-nhien-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "{0}出来了，我们起床吧。",
+      "options": [
+        "太阳",
+        "月亮",
+        "云",
+        "草"
+      ],
+      "answer": "太阳",
+      "targets": [
+        "tai4yang"
+      ],
+      "explanation": "Mặt trời mọc thì dậy.",
+      "id": "hsk3-thoi-gian-thien-nhien-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "最",
+        "喜欢",
+        "哪个",
+        "季节"
+      ],
+      "answers": [
+        [
+          "你",
+          "最",
+          "喜欢",
+          "哪个",
+          "季节"
+        ]
+      ],
+      "targets": [
+        "ji4jie2"
+      ],
+      "vi": "Bạn thích mùa nào nhất?",
+      "id": "hsk3-thoi-gian-thien-nhien-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "下课",
+        "以后",
+        "我",
+        "去",
+        "图书馆"
+      ],
+      "answers": [
+        [
+          "下课",
+          "以后",
+          "我",
+          "去",
+          "图书馆"
+        ],
+        [
+          "我",
+          "下课",
+          "以后",
+          "去",
+          "图书馆"
+        ]
+      ],
+      "targets": [
+        "yi3hou4"
+      ],
+      "vi": "Tan học tôi đi thư viện.",
+      "id": "hsk3-thoi-gian-thien-nhien-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "河",
+        "里",
+        "有",
+        "很",
+        "多",
+        "鱼"
+      ],
+      "answers": [
+        [
+          "河",
+          "里",
+          "有",
+          "很",
+          "多",
+          "鱼"
+        ]
+      ],
+      "targets": [
+        "he2-2"
+      ],
+      "vi": "Dưới sông có rất nhiều cá.",
+      "id": "hsk3-thoi-gian-thien-nhien-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这个",
+        "周末",
+        "我们",
+        "去",
+        "看",
+        "熊猫"
+      ],
+      "answers": [
+        [
+          "这个",
+          "周末",
+          "我们",
+          "去",
+          "看",
+          "熊猫"
+        ],
+        [
+          "我们",
+          "这个",
+          "周末",
+          "去",
+          "看",
+          "熊猫"
+        ]
+      ],
+      "targets": [
+        "zhou1mo4",
+        "xiong2mao1"
+      ],
+      "vi": "Cuối tuần này chúng ta đi xem gấu trúc.",
+      "id": "hsk3-thoi-gian-thien-nhien-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "最近",
+        "很",
+        "忙"
+      ],
+      "answers": [
+        [
+          "我",
+          "最近",
+          "很",
+          "忙"
+        ],
+        [
+          "最近",
+          "我",
+          "很",
+          "忙"
+        ]
+      ],
+      "targets": [
+        "zui4jin4"
+      ],
+      "vi": "Dạo này tôi rất bận.",
+      "id": "hsk3-thoi-gian-thien-nhien-order-05"
+    }
+  ]
+}

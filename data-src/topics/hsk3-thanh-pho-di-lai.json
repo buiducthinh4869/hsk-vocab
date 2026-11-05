@@ -1,0 +1,1055 @@
+{
+  "id": "hsk3-thanh-pho-di-lai",
+  "level": 3,
+  "title": "Thành phố, đi lại",
+  "order": 5,
+  "words": [
+    {
+      "id": "cheng2shi4",
+      "hanzi": "城市",
+      "pinyin": "chéngshì",
+      "pinyinNum": "cheng2 shi4",
+      "hanViet": "thành thị",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "thành phố"
+      ],
+      "usage": "",
+      "measureWords": [
+        "座"
+      ],
+      "examples": [
+        {
+          "zh": "北京是一个很大的*城市*。",
+          "vi": "Bắc Kinh là một thành phố rất lớn.",
+          "py": "Běijīng shì yí ge hěn dà de *chéngshì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jie1dao4",
+      "hanzi": "街道",
+      "pinyin": "jiēdào",
+      "pinyinNum": "jie1 dao4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "đường phố, phố"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条"
+      ],
+      "examples": [
+        {
+          "zh": "这条*街道*很干净。",
+          "vi": "Con phố này rất sạch.",
+          "py": "Zhè tiáo *jiēdào* hěn gānjìng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "fu4jin4",
+      "hanzi": "附近",
+      "pinyin": "fùjìn",
+      "pinyinNum": "fu4 jin4",
+      "hanViet": "phò cận",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "gần đây, lân cận"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这*附近*有银行吗？",
+          "vi": "Gần đây có ngân hàng không?",
+          "py": "Zhè *fùjìn* yǒu yínháng ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jin4"
+      ],
+      "check": true
+    },
+    {
+      "id": "di4fang",
+      "hanzi": "地方",
+      "pinyin": "dìfang",
+      "pinyinNum": "di4 fang",
+      "hanViet": "địa phương",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nơi, chỗ"
+      ],
+      "usage": "",
+      "measureWords": [
+        "处",
+        "个",
+        "块"
+      ],
+      "examples": [
+        {
+          "zh": "这个*地方*很漂亮。",
+          "vi": "Nơi này rất đẹp.",
+          "py": "Zhège *dìfang* hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "di4tie3",
+      "hanzi": "地铁",
+      "pinyin": "dìtiě",
+      "pinyinNum": "di4 tie3",
+      "hanViet": "địa thiết",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tàu điện ngầm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "坐*地铁*去机场很方便。",
+          "vi": "Đi tàu điện ngầm ra sân bay rất tiện.",
+          "py": "Zuò *dìtiě* qù jīchǎng hěn fāngbiàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "di4tu2",
+      "hanzi": "地图",
+      "pinyin": "dìtú",
+      "pinyinNum": "di4 tu2",
+      "hanViet": "địa đồ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "bản đồ"
+      ],
+      "usage": "",
+      "measureWords": [
+        "张",
+        "本"
+      ],
+      "examples": [
+        {
+          "zh": "你有北京的*地图*吗？",
+          "vi": "Bạn có bản đồ Bắc Kinh không?",
+          "py": "Nǐ yǒu Běijīng de *dìtú* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "gong1yuan2",
+      "hanzi": "公园",
+      "pinyin": "gōngyuán",
+      "pinyinNum": "gong1 yuan2",
+      "hanViet": "công vườn",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "công viên"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "座"
+      ],
+      "examples": [
+        {
+          "zh": "周末我们去*公园*玩吧。",
+          "vi": "Cuối tuần chúng ta đi công viên chơi nhé.",
+          "py": "Zhōumò wǒmen qù *gōngyuán* wán ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hua1yuan2"
+      ],
+      "check": true
+    },
+    {
+      "id": "hua1yuan2",
+      "hanzi": "花园",
+      "pinyin": "huāyuán",
+      "pinyinNum": "hua1 yuan2",
+      "hanViet": "hoa vườn",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "vườn hoa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "座",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我家后面有一个小*花园*。",
+          "vi": "Sau nhà tôi có một vườn hoa nhỏ.",
+          "py": "Wǒ jiā hòumian yǒu yí ge xiǎo *huāyuán*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gong1yuan2"
+      ],
+      "check": true
+    },
+    {
+      "id": "chao1shi4",
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "pinyinNum": "chao1 shi4",
+      "hanViet": "siêu thị",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "siêu thị"
+      ],
+      "usage": "",
+      "measureWords": [
+        "家"
+      ],
+      "examples": [
+        {
+          "zh": "我去*超市*买水果。",
+          "vi": "Tôi đi siêu thị mua hoa quả.",
+          "py": "Wǒ qù *chāoshì* mǎi shuǐguǒ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yin2hang2",
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "pinyinNum": "yin2 hang2",
+      "hanViet": "ngân hàng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "ngân hàng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "家",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*银行*几点开门？",
+          "vi": "Ngân hàng mấy giờ mở cửa?",
+          "py": "*Yínháng* jǐ diǎn kāi mén?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bin1guan3",
+      "hanzi": "宾馆",
+      "pinyin": "bīnguǎn",
+      "pinyinNum": "bin1 guan3",
+      "hanViet": "tân quán",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "khách sạn, nhà khách"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "家"
+      ],
+      "examples": [
+        {
+          "zh": "我们住在火车站旁边的*宾馆*。",
+          "vi": "Chúng tôi ở khách sạn cạnh ga tàu.",
+          "py": "Wǒmen zhù zài huǒchēzhàn pángbiān de *bīnguǎn*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "tu2shu1guan3",
+      "hanzi": "图书馆",
+      "pinyin": "túshūguǎn",
+      "pinyinNum": "tu2 shu1 guan3",
+      "hanViet": "đồ thư quán",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "thư viện"
+      ],
+      "usage": "",
+      "measureWords": [
+        "家",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我在*图书馆*借了两本书。",
+          "vi": "Tôi mượn hai quyển sách ở thư viện.",
+          "py": "Wǒ zài *túshūguǎn* jiè le liǎng běn shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ban4gong1shi4",
+      "hanzi": "办公室",
+      "pinyin": "bàngōngshì",
+      "pinyinNum": "ban4 gong1 shi4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "văn phòng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "间"
+      ],
+      "examples": [
+        {
+          "zh": "你的*办公室*在几层？",
+          "vi": "Văn phòng của bạn ở tầng mấy?",
+          "py": "Nǐ de *bàngōngshì* zài jǐ céng?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zhong1jian1",
+      "hanzi": "中间",
+      "pinyin": "zhōngjiān",
+      "pinyinNum": "zhong1 jian1",
+      "hanViet": "trung gian",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "ở giữa"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我坐在爸爸和妈妈*中间*。",
+          "vi": "Tôi ngồi giữa bố và mẹ.",
+          "py": "Wǒ zuò zài bàba hé māma *zhōngjiān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "dong1",
+      "hanzi": "东",
+      "pinyin": "dōng",
+      "pinyinNum": "dong1",
+      "hanViet": "đông",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "phía đông"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你向*东*走，就能看到银行。",
+          "vi": "Bạn đi về phía đông là thấy ngân hàng.",
+          "py": "Nǐ xiàng *dōng* zǒu, jiù néng kàn dào yínháng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xi1"
+      ],
+      "check": true
+    },
+    {
+      "id": "xi1",
+      "hanzi": "西",
+      "pinyin": "xī",
+      "pinyinNum": "xi1",
+      "hanViet": "tây",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "phía tây"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "从这儿向*西*走十分钟就到了。",
+          "vi": "Từ đây đi về phía tây 10 phút là đến.",
+          "py": "Cóng zhèr xiàng *xī* zǒu shí fēnzhōng jiù dào le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dong1"
+      ],
+      "check": false
+    },
+    {
+      "id": "nan2",
+      "hanzi": "南",
+      "pinyin": "nán",
+      "pinyinNum": "nan2",
+      "hanViet": "nam",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "phía nam"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这辆公共汽车向*南*开。",
+          "vi": "Chiếc xe buýt này chạy về phía nam.",
+          "py": "Zhè liàng gōnggòngqìchē xiàng *nán* kāi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bei3fang1"
+      ],
+      "check": false
+    },
+    {
+      "id": "bei3fang1",
+      "hanzi": "北方",
+      "pinyin": "běifāng",
+      "pinyinNum": "bei3 fang1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "phương bắc, miền Bắc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*北方*的冬天很冷。",
+          "vi": "Mùa đông ở miền Bắc rất lạnh.",
+          "py": "*Běifāng* de dōngtiān hěn lěng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nan2"
+      ],
+      "check": true
+    },
+    {
+      "id": "qi2",
+      "hanzi": "骑",
+      "pinyin": "qí",
+      "pinyinNum": "qi2",
+      "hanViet": "kị",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "cưỡi, đi (xe đạp, xe máy, ngựa)"
+      ],
+      "usage": "Xe đạp, xe máy, ngựa dùng 骑; ô tô, tàu, máy bay dùng 坐.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*骑*自行车上班。",
+          "vi": "Tôi đạp xe đi làm.",
+          "py": "Wǒ *qí* zìxíngchē shàngbān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zuo4"
+      ],
+      "check": true
+    },
+    {
+      "id": "liang4",
+      "hanzi": "辆",
+      "pinyin": "liàng",
+      "pinyinNum": "liang4",
+      "hanViet": null,
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "chiếc (lượng từ cho xe)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我买了一*辆*新自行车。",
+          "vi": "Tôi mua một chiếc xe đạp mới.",
+          "py": "Wǒ mǎi le yí *liàng* xīn zìxíngchē."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zhan4",
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "pinyinNum": "zhan4",
+      "hanViet": "trạm",
+      "pos": [
+        "v",
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "trạm, bến, ga",
+        "đứng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "下一*站*是哪儿？",
+          "vi": "Trạm tiếp theo là đâu?",
+          "py": "Xià yí *zhàn* shì nǎr?"
+        },
+        {
+          "zh": "他*站*在门外。",
+          "vi": "Anh ấy đứng ngoài cửa.",
+          "py": "Tā *zhàn* zài mén wài."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jing1guo4",
+      "hanzi": "经过",
+      "pinyin": "jīngguò",
+      "pinyinNum": "jing1 guo4",
+      "hanViet": "kinh quá",
+      "pos": [
+        "prep",
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "đi qua",
+        "trải qua"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "去学校要*经过*一个公园。",
+          "vi": "Đến trường phải đi qua một công viên.",
+          "py": "Qù xuéxiào yào *jīngguò* yí ge gōngyuán."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "li2kai1",
+      "hanzi": "离开",
+      "pinyin": "líkāi",
+      "pinyinNum": "li2 kai1",
+      "hanViet": "le khai",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "rời, rời khỏi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他昨天*离开*北京了。",
+          "vi": "Anh ấy rời Bắc Kinh hôm qua.",
+          "py": "Tā zuótiān *líkāi* Běijīng le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "li2"
+      ],
+      "check": true
+    },
+    {
+      "id": "chi2dao4",
+      "hanzi": "迟到",
+      "pinyin": "chídào",
+      "pinyinNum": "chi2 dao4",
+      "hanViet": "trì đáo",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "đến muộn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "对不起，我*迟到*了。",
+          "vi": "Xin lỗi, tôi đến muộn.",
+          "py": "Duìbuqǐ, wǒ *chídào* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yu4dao4",
+      "hanzi": "遇到",
+      "pinyin": "yùdào",
+      "pinyinNum": "yu4 dao4",
+      "hanViet": "ngộ đáo",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "gặp (tình cờ)",
+        "gặp phải"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我在超市*遇到*了我的老师。",
+          "vi": "Tôi tình cờ gặp thầy giáo ở siêu thị.",
+          "py": "Wǒ zài chāoshì *yùdào* le wǒ de lǎoshī."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jie1",
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "pinyinNum": "jie1",
+      "hanViet": "tiếp",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đón",
+        "nhận"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我去机场*接*你。",
+          "vi": "Tôi ra sân bay đón bạn.",
+          "py": "Wǒ qù jīchǎng *jiē* nǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "song4"
+      ],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我{0}自行车去学校。",
+      "options": [
+        "骑",
+        "开",
+        "接",
+        "站"
+      ],
+      "answer": "骑",
+      "targets": [
+        "qi2"
+      ],
+      "explanation": "Xe đạp dùng 骑.",
+      "id": "hsk3-thanh-pho-di-lai-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "路上有一{0}公共汽车。",
+      "options": [
+        "辆",
+        "双",
+        "层",
+        "位"
+      ],
+      "answer": "辆",
+      "targets": [
+        "liang4"
+      ],
+      "explanation": "Lượng từ của xe là 辆.",
+      "id": "hsk3-thanh-pho-di-lai-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "明天八点上课，别{0}。",
+      "options": [
+        "迟到",
+        "遇到",
+        "经过",
+        "附近"
+      ],
+      "answer": "迟到",
+      "targets": [
+        "chi2dao4"
+      ],
+      "explanation": "别迟到 = đừng đến muộn.",
+      "id": "hsk3-thanh-pho-di-lai-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我去机场{0}朋友。",
+      "options": [
+        "接",
+        "骑",
+        "经过",
+        "站"
+      ],
+      "answer": "接",
+      "targets": [
+        "jie1"
+      ],
+      "explanation": "接 = đón.",
+      "id": "hsk3-thanh-pho-di-lai-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "我想借书，要去{0}。",
+      "options": [
+        "图书馆",
+        "银行",
+        "超市",
+        "宾馆"
+      ],
+      "answer": "图书馆",
+      "targets": [
+        "tu2shu1guan3"
+      ],
+      "explanation": "Mượn sách ở thư viện.",
+      "id": "hsk3-thanh-pho-di-lai-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "我坐在他们两个人{0}。",
+      "options": [
+        "中间",
+        "附近",
+        "地方",
+        "北方"
+      ],
+      "answer": "中间",
+      "targets": [
+        "zhong1jian1"
+      ],
+      "explanation": "中间 = ở giữa.",
+      "id": "hsk3-thanh-pho-di-lai-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这",
+        "附近",
+        "有",
+        "超市",
+        "吗"
+      ],
+      "answers": [
+        [
+          "这",
+          "附近",
+          "有",
+          "超市",
+          "吗"
+        ]
+      ],
+      "targets": [
+        "fu4jin4",
+        "chao1shi4"
+      ],
+      "vi": "Gần đây có siêu thị không?",
+      "id": "hsk3-thanh-pho-di-lai-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "每个",
+        "周末",
+        "都",
+        "去",
+        "公园"
+      ],
+      "answers": [
+        [
+          "我",
+          "每个",
+          "周末",
+          "都",
+          "去",
+          "公园"
+        ],
+        [
+          "每个",
+          "周末",
+          "我",
+          "都",
+          "去",
+          "公园"
+        ]
+      ],
+      "targets": [
+        "gong1yuan2"
+      ],
+      "vi": "Cuối tuần nào tôi cũng đi công viên.",
+      "id": "hsk3-thanh-pho-di-lai-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "他",
+        "骑",
+        "自行车",
+        "去",
+        "图书馆"
+      ],
+      "answers": [
+        [
+          "他",
+          "骑",
+          "自行车",
+          "去",
+          "图书馆"
+        ]
+      ],
+      "targets": [
+        "qi2",
+        "tu2shu1guan3"
+      ],
+      "vi": "Anh ấy đạp xe đến thư viện.",
+      "id": "hsk3-thanh-pho-di-lai-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "银行",
+        "在",
+        "超市",
+        "和",
+        "宾馆",
+        "中间"
+      ],
+      "answers": [
+        [
+          "银行",
+          "在",
+          "超市",
+          "和",
+          "宾馆",
+          "中间"
+        ],
+        [
+          "银行",
+          "在",
+          "宾馆",
+          "和",
+          "超市",
+          "中间"
+        ]
+      ],
+      "targets": [
+        "yin2hang2",
+        "zhong1jian1"
+      ],
+      "vi": "Ngân hàng nằm giữa siêu thị và khách sạn.",
+      "id": "hsk3-thanh-pho-di-lai-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "明天",
+        "去",
+        "机场",
+        "接",
+        "你"
+      ],
+      "answers": [
+        [
+          "我",
+          "明天",
+          "去",
+          "机场",
+          "接",
+          "你"
+        ],
+        [
+          "明天",
+          "我",
+          "去",
+          "机场",
+          "接",
+          "你"
+        ]
+      ],
+      "targets": [
+        "jie1"
+      ],
+      "vi": "Ngày mai tôi ra sân bay đón bạn.",
+      "id": "hsk3-thanh-pho-di-lai-order-05"
+    }
+  ]
+}

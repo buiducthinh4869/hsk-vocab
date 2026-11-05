@@ -145,7 +145,8 @@
     "Pinyin câu mẫu tự sinh từ pinyin của từng từ trong bảng; biến điệu 一, 不 ghi như HSK 1 (bú rènshi, yí ge); 个 ghi ge. Câu có chữ nhiều âm theo ngữ cảnh thì ghi pinyin bằng tay.",
     "HSK 2–3: pinyin của từ lấy từ bản làm việc (bỏ dạng viết hoa là họ / tên riêng). Chỉ đặt check: true về pinyin khi bản làm việc có nhiều âm và phải chọn một âm.",
     "Chủ đề hsk2-hu-tu có 19 từ (dưới 20) để giữ hư từ riêng; chủ đề HSK 3 phó từ / giới từ tách làm hai (20 và 19 từ).",
-    "Hán Việt giữ đúng Unihan kVietnamese. Unihan có một số âm Nôm hoặc âm không phổ biến (年 nên, 零 lênh, 们 món); các từ này đặt check: true và ghi âm thường gặp ở bảng \"Âm Hán Việt cần xem\" để người duyệt quyết định, không tự sửa."
+    "Hán Việt giữ đúng Unihan kVietnamese. Unihan có một số âm Nôm hoặc âm không phổ biến (年 nên, 零 lênh, 们 món); các từ này đặt check: true và ghi âm thường gặp ở bảng \"Âm Hán Việt cần xem\" để người duyệt quyết định, không tự sửa.",
+    "Thêm 春天, 夏天, 秋天, 冬天, 刮风 (cấp 3) vào DERIVED: bảng HSK 3 ghi 春 夏 秋 冬 và 刮, nhưng trong câu phải dùng các dạng này."
   ],
   "hvSuggest": {
     "们": "môn",
@@ -187,6 +188,14 @@
     "搬": "ban",
     "带": "đới",
     "板": "bản",
-    "厨": "trù"
-  }
+    "厨": "trù",
+    "园": "viên",
+    "附": "phụ"
+  },
+  "pendingConfusables": [
+    "矮 → 低",
+    "难过 → 难",
+    "遇到 → 见面",
+    "以后 → 然后"
+  ]
 }

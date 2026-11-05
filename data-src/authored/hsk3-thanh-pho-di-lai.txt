@@ -1,0 +1,68 @@
+# id: hsk3-thanh-pho-di-lai
+# level: 3
+# title: Thành phố, đi lại
+# order: 5
+@城市 | thành phố
+- 北京是一个很大的*城市*。 = Bắc Kinh là một thành phố rất lớn.
+@街道 | đường phố, phố
+- 这条*街道*很干净。 = Con phố này rất sạch.
+@附近 | gần đây, lân cận | c: 近
+- 这*附近*有银行吗？ = Gần đây có ngân hàng không?
+@地方 dìfang | nơi, chỗ
+- 这个*地方*很漂亮。 = Nơi này rất đẹp.
+@地铁 | tàu điện ngầm
+- 坐*地铁*去机场很方便。 = Đi tàu điện ngầm ra sân bay rất tiện.
+@地图 | bản đồ
+- 你有北京的*地图*吗？ = Bạn có bản đồ Bắc Kinh không?
+@公园 | công viên | c: 花园
+- 周末我们去*公园*玩吧。 = Cuối tuần chúng ta đi công viên chơi nhé.
+@花园 | vườn hoa | c: 公园
+- 我家后面有一个小*花园*。 = Sau nhà tôi có một vườn hoa nhỏ.
+@超市 | siêu thị
+- 我去*超市*买水果。 = Tôi đi siêu thị mua hoa quả.
+@银行 | ngân hàng
+- *银行*几点开门？ = Ngân hàng mấy giờ mở cửa?
+@宾馆 | khách sạn, nhà khách
+- 我们住在火车站旁边的*宾馆*。 = Chúng tôi ở khách sạn cạnh ga tàu.
+@图书馆 | thư viện
+- 我在*图书馆*借了两本书。 = Tôi mượn hai quyển sách ở thư viện.
+@办公室 | văn phòng
+- 你的*办公室*在几层？ = Văn phòng của bạn ở tầng mấy?
+@中间 | ở giữa
+- 我坐在爸爸和妈妈*中间*。 = Tôi ngồi giữa bố và mẹ.
+@东 dōng | phía đông | hv: đông | c: 西
+- 你向*东*走，就能看到银行。 = Bạn đi về phía đông là thấy ngân hàng.
+@西 xī | phía tây | c: 东
+- 从这儿向*西*走十分钟就到了。 = Từ đây đi về phía tây 10 phút là đến.
+@南 nán | phía nam | c: 北方
+- 这辆公共汽车向*南*开。 = Chiếc xe buýt này chạy về phía nam.
+@北方 | phương bắc, miền Bắc | c: 南
+- *北方*的冬天很冷。 = Mùa đông ở miền Bắc rất lạnh.
+@骑 qí | cưỡi, đi (xe đạp, xe máy, ngựa) | u: Xe đạp, xe máy, ngựa dùng 骑; ô tô, tàu, máy bay dùng 坐. | c: 坐
+- 我*骑*自行车上班。 = Tôi đạp xe đi làm.
+@辆 | chiếc (lượng từ cho xe)
+- 我买了一*辆*新自行车。 = Tôi mua một chiếc xe đạp mới.
+@站 | trạm, bến, ga; đứng
+- 下一*站*是哪儿？ = Trạm tiếp theo là đâu?
+- 他*站*在门外。 = Anh ấy đứng ngoài cửa.
+@经过 | đi qua; trải qua
+- 去学校要*经过*一个公园。 = Đến trường phải đi qua một công viên.
+@离开 | rời, rời khỏi | c: 离
+- 他昨天*离开*北京了。 = Anh ấy rời Bắc Kinh hôm qua.
+@迟到 | đến muộn
+- 对不起，我*迟到*了。 = Xin lỗi, tôi đến muộn.
+@遇到 | gặp (tình cờ); gặp phải
+- 我在超市*遇到*了我的老师。 = Tôi tình cờ gặp thầy giáo ở siêu thị.
+@接 | đón; nhận | c: 送
+- 我去机场*接*你。 = Tôi ra sân bay đón bạn.
+F 我{0}自行车去学校。 | 骑* 开 接 站 | e: Xe đạp dùng 骑.
+F 路上有一{0}公共汽车。 | 辆* 双 层 位 | e: Lượng từ của xe là 辆.
+F 明天八点上课，别{0}。 | 迟到* 遇到 经过 附近 | e: 别迟到 = đừng đến muộn.
+F 我去机场{0}朋友。 | 接* 骑 经过 站 | e: 接 = đón.
+F 我想借书，要去{0}。 | 图书馆* 银行 超市 宾馆 | e: Mượn sách ở thư viện.
+F 我坐在他们两个人{0}。 | 中间* 附近 地方 北方 | e: 中间 = ở giữa.
+O 这 附近 有 超市 吗 | vi: Gần đây có siêu thị không? | t: 附近 超市
+O 我 每个 周末 都 去 公园 | vi: Cuối tuần nào tôi cũng đi công viên. | t: 公园 | alt: 每个 周末 我 都 去 公园
+O 他 骑 自行车 去 图书馆 | vi: Anh ấy đạp xe đến thư viện. | t: 骑 图书馆
+O 银行 在 超市 和 宾馆 中间 | vi: Ngân hàng nằm giữa siêu thị và khách sạn. | t: 银行 中间 | alt: 银行 在 宾馆 和 超市 中间
+O 我 明天 去 机场 接 你 | vi: Ngày mai tôi ra sân bay đón bạn. | t: 接 | alt: 明天 我 去 机场 接 你

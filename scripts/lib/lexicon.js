@@ -29,6 +29,8 @@ const DERIVED = [
   ['你们', 'nǐ men', 1], ['他们', 'tā men', 1], ['她们', 'tā men', 1], ['它们', 'tā men', 2],
   ['这儿', 'zhèr', 1], ['那儿', 'nàr', 1], ['哪儿', 'nǎr', 1],
   ['这里', 'zhè lǐ', 1], ['那里', 'nà lǐ', 1], ['哪里', 'nǎ lǐ', 1],
+  // HSK 3 lists the seasons as 春 夏 秋 冬 and the verb as 刮; the everyday words are these
+  ['春天', 'chūn tiān', 3], ['夏天', 'xià tiān', 3], ['秋天', 'qiū tiān', 3], ['冬天', 'dōng tiān', 3], ['刮风', 'guā fēng', 3],
 ];
 
 const strip = (s) => s.normalize('NFD').replace(TONE_MARKS, '').normalize('NFC').toLowerCase();

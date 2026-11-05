@@ -1,0 +1,72 @@
+# id: hsk3-thoi-gian-thien-nhien
+# level: 3
+# title: Thời gian, thiên nhiên
+# order: 6
+@春 | mùa xuân | pos: n | u: Trong câu thường nói 春天. | c: 夏
+- *春天*来了，花都开了。 = Mùa xuân đến rồi, hoa đều nở cả.
+@夏 | mùa hè | pos: n | u: Trong câu thường nói 夏天. | c: 春
+- *夏天*北京很热。 = Mùa hè Bắc Kinh rất nóng.
+@秋 | mùa thu | pos: n | u: Trong câu thường nói 秋天. | c: 冬
+- 我最喜欢*秋天*。 = Tôi thích mùa thu nhất.
+@冬 dōng | mùa đông | pos: n | u: Trong câu thường nói 冬天. | c: 秋
+- *冬天*你想去哪儿旅游？ = Mùa đông bạn muốn đi du lịch đâu?
+@季节 | mùa
+- 北京哪个*季节*最漂亮？ = Mùa nào ở Bắc Kinh đẹp nhất?
+- 一年有春、夏、秋、冬四个*季节*。 = Một năm có bốn mùa xuân, hạ, thu, đông.
+@周末 | cuối tuần
+- 这个*周末*你有时间吗？ = Cuối tuần này bạn có rảnh không?
+@节日 | ngày lễ, ngày hội
+- 中国有很多*节日*。 = Trung Quốc có rất nhiều ngày lễ.
+@刻 | khắc (15 phút) | pos: mw | u: 一刻 = 15 phút; 三点一刻 = 3 giờ 15; 三点三刻 = 3 giờ 45. | c: 半
+- 现在是三点一*刻*。 = Bây giờ là 3 giờ 15.
+@半 | rưỡi, một nửa | c: 刻
+- 现在七点*半*。 = Bây giờ là bảy giờ rưỡi.
+- 我只吃了*半*个苹果。 = Tôi chỉ ăn nửa quả táo.
+@以前 | trước đây; trước khi | c: 以后 过去
+- 我*以前*住在北京。 = Trước đây tôi sống ở Bắc Kinh.
+@以后 | sau này; sau khi | c: 以前
+- 下课*以后*我们去打篮球。 = Tan học xong chúng ta đi chơi bóng rổ.
+@过去 guòqù | quá khứ, trước đây; đi qua | c: 以前
+- *过去*的事情就别想了。 = Chuyện đã qua thì đừng nghĩ nữa.
+@最近 | gần đây, dạo này
+- 你*最近*怎么样？ = Dạo này bạn thế nào?
+@刚才 | vừa nãy, vừa rồi | u: 刚才 chỉ lúc vừa rồi, có thể đứng trước chủ ngữ: 刚才他来了. | c: 马上
+- *刚才*有人给你打电话。 = Vừa nãy có người gọi điện cho bạn.
+@马上 | ngay, lập tức | c: 刚才
+- 我*马上*就来！ = Tôi đến ngay!
+@太阳 tàiyang | mặt trời | c: 月亮
+- *太阳*出来了。 = Mặt trời mọc rồi.
+@月亮 yuèliang | mặt trăng | c: 太阳
+- 今天晚上的*月亮*很漂亮。 = Trăng tối nay đẹp quá.
+@云 yún | mây
+- 今天*云*很多，可能要下雨。 = Hôm nay nhiều mây, có thể sẽ mưa.
+@刮 | thổi (gió); cạo | u: Gió thổi: 刮风.
+- 今天*刮风*了，很冷。 = Hôm nay có gió, lạnh lắm.
+@河 | sông
+- 我家前面有一条*河*。 = Trước nhà tôi có một con sông.
+@树 | cây
+- 公园里有很多*树*。 = Trong công viên có nhiều cây.
+@草 cǎo | cỏ | c: 花
+- 请不要在*草*上走。 = Xin đừng đi trên cỏ.
+@花 huā | hoa; tiêu, tốn (tiền, thời gian) | c: 草
+- 我给妈妈买了一些*花*。 = Tôi mua cho mẹ ít hoa.
+- 这件衣服*花*了我五百块钱。 = Chiếc áo này tốn của tôi 500 đồng.
+@鸟 niǎo | chim
+- 树上有一只*鸟*。 = Trên cây có một con chim.
+@动物 | động vật, con vật
+- 你喜欢什么*动物*？ = Bạn thích con vật nào?
+@熊猫 | gấu trúc
+- 我想去看*熊猫*。 = Tôi muốn đi xem gấu trúc.
+@马 mǎ | ngựa | u: 马 (mǎ, ngựa) khác 妈 (mā, mẹ) và 吗 (ma) ở thanh điệu và bộ.
+- 你会骑*马*吗？ = Bạn biết cưỡi ngựa không?
+F 现在三点{0}，我们走吧。 | 半* 季节 周末 云 | e: 三点半 = 3 giờ rưỡi.
+F 他{0}还在这儿，现在去哪儿了？ | 刚才* 马上 以后 周末 | e: 刚才 = vừa nãy.
+F 你别着急，我{0}就来。 | 马上* 刚才 以前 过去 | e: 马上 = ngay.
+F 一年有四个{0}。 | 季节* 周末 刚才 太阳 | e: Bốn mùa: 四个季节.
+F 树上有很多{0}。 | 鸟* 马 熊猫 河 | e: Chim đậu trên cây.
+F {0}出来了，我们起床吧。 | 太阳* 月亮 云 草 | e: Mặt trời mọc thì dậy.
+O 你 最 喜欢 哪个 季节 | vi: Bạn thích mùa nào nhất? | t: 季节
+O 下课 以后 我 去 图书馆 | vi: Tan học tôi đi thư viện. | t: 以后 | alt: 我 下课 以后 去 图书馆
+O 河 里 有 很 多 鱼 | vi: Dưới sông có rất nhiều cá. | t: 河
+O 这个 周末 我们 去 看 熊猫 | vi: Cuối tuần này chúng ta đi xem gấu trúc. | t: 周末 熊猫 | alt: 我们 这个 周末 去 看 熊猫
+O 我 最近 很 忙 | vi: Dạo này tôi rất bận. | t: 最近 | alt: 最近 我 很 忙
