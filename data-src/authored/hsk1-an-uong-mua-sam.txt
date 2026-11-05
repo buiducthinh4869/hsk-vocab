@@ -24,7 +24,7 @@
 - 我在*饭馆*工作。 = Tôi làm việc ở nhà hàng.
 @钱 | tiền
 - 我没有*钱*了。 = Tôi hết tiền rồi.
-@买 | mua
+@买 | mua | c: 卖
 - 你想*买*什么？ = Bạn muốn mua gì?
 @东西 | đồ, đồ vật | hv: đông tây | u: 东西 (dōngxi, xi đọc nhẹ) là đồ vật; 东 và 西 đứng riêng là hướng đông, tây.
 - 我去商店买*东西*。 = Tôi đi cửa hàng mua đồ.
@@ -43,9 +43,9 @@
 @电影 | phim, điện ảnh | c: 电视
 - 我们明天去看*电影*。 = Ngày mai chúng tôi đi xem phim.
 F 我中午想{0}米饭。 | 吃* 喝 读 写 | e: Ăn cơm: 吃米饭; 喝 dùng cho đồ uống.
-F 我们去看{0}。 | 电影* 米饭 桌子 椅子 | e: 看电影 = xem phim.
+F 我们去看{0}。 | 电影* 米饭 茶 水 | e: 看电影 = xem phim.
 F 这本书三块{0}。 | 钱* 东西 菜 水 | e: Nói giá: 三块钱.
-F 我去{0}买东西。 | 商店* 学校 医院 饭馆 | e: Mua đồ ở cửa hàng.
+F 我去{0}买东西。 | 商店* 米饭 衣服 桌子 | e: Mua đồ ở cửa hàng.
 F 我喜欢喝{0}。 | 茶* 米饭 苹果 菜 | e: 喝 đi với đồ uống: 喝茶, 喝水.
 O 你 想 喝 什么 | vi: Bạn muốn uống gì? | t: 喝
 O 我 去 商店 买 衣服 | vi: Tôi đi cửa hàng mua quần áo. | t: 商店 买 衣服

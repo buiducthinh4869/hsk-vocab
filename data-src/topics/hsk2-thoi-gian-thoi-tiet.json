@@ -1,0 +1,795 @@
+{
+  "id": "hsk2-thoi-gian-thoi-tiet",
+  "level": 2,
+  "title": "Thời gian, thời tiết",
+  "order": 3,
+  "words": [
+    {
+      "id": "zao3shang",
+      "hanzi": "早上",
+      "pinyin": "zǎoshang",
+      "pinyinNum": "zao3 shang",
+      "hanViet": "tảo thượng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "buổi sáng (sớm)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我*早上*七点起床。",
+          "vi": "Tôi dậy lúc 7 giờ sáng.",
+          "py": "Wǒ *zǎoshang* qī diǎn qǐchuáng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "wan3shang",
+        "shang4wu3"
+      ],
+      "check": false
+    },
+    {
+      "id": "wan3shang",
+      "hanzi": "晚上",
+      "pinyin": "wǎnshang",
+      "pinyinNum": "wan3 shang",
+      "hanViet": "vãn thượng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "buổi tối"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*晚上*你想做什么？",
+          "vi": "Buổi tối bạn muốn làm gì?",
+          "py": "*Wǎnshang* nǐ xiǎng zuò shénme?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zao3shang"
+      ],
+      "check": false
+    },
+    {
+      "id": "qu4nian2",
+      "hanzi": "去年",
+      "pinyin": "qùnián",
+      "pinyinNum": "qu4 nian2",
+      "hanViet": "khứ nên",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "năm ngoái"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我是*去年*来中国的。",
+          "vi": "Tôi đến Trung Quốc năm ngoái.",
+          "py": "Wǒ shì *qùnián* lái Zhōngguó de."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shi2jian1",
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "pinyinNum": "shi2 jian1",
+      "hanViet": "thì gian",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "thời gian"
+      ],
+      "usage": "时间 là thời gian nói chung; 小时 là giờ đồng hồ (60 phút).",
+      "measureWords": [
+        "段"
+      ],
+      "examples": [
+        {
+          "zh": "你明天有*时间*吗？",
+          "vi": "Ngày mai bạn có thời gian không?",
+          "py": "Nǐ míngtiān yǒu *shíjiān* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xiao3shi2"
+      ],
+      "check": false
+    },
+    {
+      "id": "xiao3shi2",
+      "hanzi": "小时",
+      "pinyin": "xiǎoshí",
+      "pinyinNum": "xiao3 shi2",
+      "hanViet": "tiểu thì",
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "giờ, tiếng (khoảng 60 phút)"
+      ],
+      "usage": "两个小时 = 2 tiếng (khoảng thời gian); 两点 = 2 giờ (thời điểm).",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我学习了两个*小时*。",
+          "vi": "Tôi đã học hai tiếng.",
+          "py": "Wǒ xuéxí le liǎng ge *xiǎoshí*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dian3",
+        "shi2jian1"
+      ],
+      "check": false
+    },
+    {
+      "id": "hao4",
+      "hanzi": "号",
+      "pinyin": "hào",
+      "pinyinNum": "hao4",
+      "hanViet": "hiệu",
+      "pos": [
+        "mw",
+        "n",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ngày (trong tháng, khẩu ngữ)",
+        "số"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "今天几*号*？",
+          "vi": "Hôm nay ngày mấy?",
+          "py": "Jīntiān jǐ *hào*?"
+        },
+        {
+          "zh": "你住几*号*房间？",
+          "vi": "Bạn ở phòng số mấy?",
+          "py": "Nǐ zhù jǐ *hào* fángjiān?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ri4"
+      ],
+      "check": true
+    },
+    {
+      "id": "di4yi1",
+      "hanzi": "第一",
+      "pinyin": "dìyī",
+      "pinyinNum": "di4 yi1",
+      "hanViet": "đậy nhất",
+      "pos": [
+        "num"
+      ],
+      "hsk2": 2,
+      "hsk3": null,
+      "common": 3,
+      "meaning": [
+        "thứ nhất, đầu tiên"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这是我*第一*次来北京。",
+          "vi": "Đây là lần đầu tiên tôi đến Bắc Kinh.",
+          "py": "Zhè shì wǒ *dìyī* cì lái Běijīng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "liang3",
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "pinyinNum": "liang3",
+      "hanViet": "lưỡng",
+      "pos": [
+        "num",
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "hai (trước lượng từ)"
+      ],
+      "usage": "两 + lượng từ: 两个, 两本; đếm số và số thứ tự dùng 二.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我买了*两*本书。",
+          "vi": "Tôi mua hai quyển sách.",
+          "py": "Wǒ mǎi le *liǎng* běn shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "er4"
+      ],
+      "check": false
+    },
+    {
+      "id": "mei3",
+      "hanzi": "每",
+      "pinyin": "měi",
+      "pinyinNum": "mei3",
+      "hanViet": "hỏi",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "mỗi"
+      ],
+      "usage": "每 + lượng từ + danh từ, phía sau thường có 都: 每个人都...",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*每*个星期六我都去打篮球。",
+          "vi": "Thứ Bảy nào tôi cũng đi chơi bóng rổ.",
+          "py": "*Měi* ge xīngqī liù wǒ dōu qù dǎlánqiú."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ci4",
+      "hanzi": "次",
+      "pinyin": "cì",
+      "pinyinNum": "ci4",
+      "hanViet": "thứ",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "lần (lượng từ chỉ số lần)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个星期我去了两*次*医院。",
+          "vi": "Tuần này tôi đã đi bệnh viện hai lần.",
+          "py": "Zhège xīngqī wǒ qù le liǎng *cì* yīyuàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "di4yi1"
+      ],
+      "check": false
+    },
+    {
+      "id": "qing2",
+      "hanzi": "晴",
+      "pinyin": "qíng",
+      "pinyinNum": "qing2",
+      "hanViet": "tạnh",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "nắng, trời quang"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "明天北京*晴*。",
+          "vi": "Ngày mai Bắc Kinh trời nắng.",
+          "py": "Míngtiān Běijīng *qíng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yin1"
+      ],
+      "check": true
+    },
+    {
+      "id": "yin1",
+      "hanzi": "阴",
+      "pinyin": "yīn",
+      "pinyinNum": "yin1",
+      "hanViet": "âm",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "âm u, nhiều mây"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天北京*阴*，可能会下雨。",
+          "vi": "Hôm nay Bắc Kinh trời âm u, có thể sẽ mưa.",
+          "py": "Jīntiān Běijīng *yīn*, kěnéng huì xiàyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qing2"
+      ],
+      "check": false
+    },
+    {
+      "id": "xue3",
+      "hanzi": "雪",
+      "pinyin": "xuě",
+      "pinyinNum": "xue3",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tuyết"
+      ],
+      "usage": "Tuyết rơi: 下雪.",
+      "measureWords": [
+        "场"
+      ],
+      "examples": [
+        {
+          "zh": "北京下*雪*了。",
+          "vi": "Bắc Kinh có tuyết rồi.",
+          "py": "Běijīng xià *xuě* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "kai1shi3",
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "pinyinNum": "kai1 shi3",
+      "hanViet": "khai thuỷ",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "bắt đầu"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "电影几点*开始*？",
+          "vi": "Phim mấy giờ bắt đầu?",
+          "py": "Diànyǐng jǐ diǎn *kāishǐ*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "wan2",
+      "hanzi": "完",
+      "pinyin": "wán",
+      "pinyinNum": "wan2",
+      "hanViet": "hoàn",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "xong, hết"
+      ],
+      "usage": "Đứng sau động từ: 做完, 吃完, 看完 = làm xong, ăn xong, xem xong.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你吃*完*了吗？",
+          "vi": "Bạn ăn xong chưa?",
+          "py": "Nǐ chī *wán* le ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shang4ban1",
+      "hanzi": "上班",
+      "pinyin": "shàngbān",
+      "pinyinNum": "shang4 ban1",
+      "hanViet": "thượng ban",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "đi làm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我爸爸八点*上班*。",
+          "vi": "Bố tôi đi làm lúc 8 giờ.",
+          "py": "Wǒ bàba bā diǎn *shàngbān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "qi3chuang2",
+      "hanzi": "起床",
+      "pinyin": "qǐchuáng",
+      "pinyinNum": "qi3 chuang2",
+      "hanViet": "khởi sàng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "thức dậy, dậy"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你几点*起床*？",
+          "vi": "Bạn dậy lúc mấy giờ?",
+          "py": "Nǐ jǐ diǎn *qǐchuáng*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shui4jiao4"
+      ],
+      "check": false
+    },
+    {
+      "id": "shi4qing",
+      "hanzi": "事情",
+      "pinyin": "shìqing",
+      "pinyinNum": "shi4 qing",
+      "hanViet": "sự tình",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "việc, chuyện"
+      ],
+      "usage": "",
+      "measureWords": [
+        "件",
+        "桩"
+      ],
+      "examples": [
+        {
+          "zh": "我有*事情*，不能去。",
+          "vi": "Tôi có việc, không đi được.",
+          "py": "Wǒ yǒu *shìqing*, bù néng qù."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xin1",
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "pinyinNum": "xin1",
+      "hanViet": "tân",
+      "pos": [
+        "adj",
+        "adv"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "mới"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这是我的*新*手机。",
+          "vi": "Đây là điện thoại mới của tôi.",
+          "py": "Zhè shì wǒ de *xīn* shǒujī."
+        },
+        {
+          "zh": "*新*年快乐！",
+          "vi": "Chúc mừng năm mới!",
+          "py": "*Xīn* nián kuàilè!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhun3bei4",
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "pinyinNum": "zhun3 bei4",
+      "hanViet": "chốn bị",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "chuẩn bị"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我在*准备*考试。",
+          "vi": "Tôi đang chuẩn bị cho kỳ thi.",
+          "py": "Wǒ zài *zhǔnbèi* kǎoshì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我没有{0}看电视。",
+      "options": [
+        "时间",
+        "小时",
+        "事情",
+        "号"
+      ],
+      "answer": "时间",
+      "targets": [
+        "shi2jian1"
+      ],
+      "explanation": "有时间 / 没有时间 = có / không có thời gian.",
+      "id": "hsk2-thoi-gian-thoi-tiet-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "我学习了三个{0}。",
+      "options": [
+        "小时",
+        "时间",
+        "号",
+        "点"
+      ],
+      "answer": "小时",
+      "targets": [
+        "xiao3shi2"
+      ],
+      "explanation": "Khoảng thời gian: 三个小时.",
+      "id": "hsk2-thoi-gian-thoi-tiet-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "今天几{0}？今天十号。",
+      "options": [
+        "号",
+        "次",
+        "岁",
+        "本"
+      ],
+      "answer": "号",
+      "targets": [
+        "hao4"
+      ],
+      "explanation": "Hỏi ngày: 几号.",
+      "id": "hsk2-thoi-gian-thoi-tiet-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我有{0}个孩子。",
+      "options": [
+        "两",
+        "二",
+        "第一",
+        "每"
+      ],
+      "answer": "两",
+      "targets": [
+        "liang3"
+      ],
+      "explanation": "Trước lượng từ dùng 两.",
+      "id": "hsk2-thoi-gian-thoi-tiet-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "这是我{0}次来中国。",
+      "options": [
+        "第一",
+        "两",
+        "每",
+        "新"
+      ],
+      "answer": "第一",
+      "targets": [
+        "di4yi1"
+      ],
+      "explanation": "第一次 = lần đầu tiên.",
+      "id": "hsk2-thoi-gian-thoi-tiet-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "我吃{0}了，你呢？",
+      "options": [
+        "完",
+        "新",
+        "晴",
+        "开始"
+      ],
+      "answer": "完",
+      "targets": [
+        "wan2"
+      ],
+      "explanation": "吃完 = ăn xong.",
+      "id": "hsk2-thoi-gian-thoi-tiet-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "电影",
+        "七点",
+        "开始"
+      ],
+      "answers": [
+        [
+          "电影",
+          "七点",
+          "开始"
+        ]
+      ],
+      "targets": [
+        "kai1shi3"
+      ],
+      "vi": "Phim bắt đầu lúc 7 giờ.",
+      "id": "hsk2-thoi-gian-thoi-tiet-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "每个",
+        "星期六",
+        "都",
+        "上班"
+      ],
+      "answers": [
+        [
+          "我",
+          "每个",
+          "星期六",
+          "都",
+          "上班"
+        ],
+        [
+          "每个",
+          "星期六",
+          "我",
+          "都",
+          "上班"
+        ]
+      ],
+      "targets": [
+        "mei3",
+        "shang4ban1"
+      ],
+      "vi": "Thứ Bảy nào tôi cũng đi làm.",
+      "id": "hsk2-thoi-gian-thoi-tiet-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "准备",
+        "好",
+        "了",
+        "吗"
+      ],
+      "answers": [
+        [
+          "你",
+          "准备",
+          "好",
+          "了",
+          "吗"
+        ]
+      ],
+      "targets": [
+        "zhun3bei4"
+      ],
+      "vi": "Bạn chuẩn bị xong chưa?",
+      "id": "hsk2-thoi-gian-thoi-tiet-order-03"
+    }
+  ]
+}

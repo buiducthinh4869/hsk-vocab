@@ -1,0 +1,962 @@
+{
+  "id": "hsk2-an-uong-mua-sam",
+  "level": 2,
+  "title": "Ăn uống, mua sắm, màu sắc",
+  "order": 2,
+  "words": [
+    {
+      "id": "ji1dan4",
+      "hanzi": "鸡蛋",
+      "pinyin": "jīdàn",
+      "pinyinNum": "ji1 dan4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "trứng gà"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "打"
+      ],
+      "examples": [
+        {
+          "zh": "我早上吃了两个*鸡蛋*。",
+          "vi": "Sáng nay tôi ăn hai quả trứng.",
+          "py": "Wǒ zǎoshang chī le liǎng ge *jīdàn*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "niu2nai3",
+      "hanzi": "牛奶",
+      "pinyin": "niúnǎi",
+      "pinyinNum": "niu2 nai3",
+      "hanViet": "ngưu nái",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "sữa bò, sữa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "瓶",
+        "杯"
+      ],
+      "examples": [
+        {
+          "zh": "早上我喝*牛奶*。",
+          "vi": "Buổi sáng tôi uống sữa.",
+          "py": "Zǎoshang wǒ hē *niúnǎi*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ka1fei1",
+      "hanzi": "咖啡",
+      "pinyin": "kāfēi",
+      "pinyinNum": "ka1 fei1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "cà phê"
+      ],
+      "usage": "",
+      "measureWords": [
+        "杯"
+      ],
+      "examples": [
+        {
+          "zh": "我不喝*咖啡*，我喝茶。",
+          "vi": "Tôi không uống cà phê, tôi uống trà.",
+          "py": "Wǒ bù hē *kāfēi*, wǒ hē chá."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xi1gua1",
+      "hanzi": "西瓜",
+      "pinyin": "xīguā",
+      "pinyinNum": "xi1 gua1",
+      "hanViet": "tây qua",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "dưa hấu"
+      ],
+      "usage": "",
+      "measureWords": [
+        "颗",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*西瓜*多少钱一公斤？",
+          "vi": "Dưa hấu bao nhiêu tiền một cân?",
+          "py": "*Xīguā* duōshao qián yì gōngjīn?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yu2",
+      "hanzi": "鱼",
+      "pinyin": "yú",
+      "pinyinNum": "yu2",
+      "hanViet": "ngư",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "cá"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条",
+        "尾"
+      ],
+      "examples": [
+        {
+          "zh": "我不喜欢吃*鱼*。",
+          "vi": "Tôi không thích ăn cá.",
+          "py": "Wǒ bù xǐhuan chī *yú*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yang2rou4",
+      "hanzi": "羊肉",
+      "pinyin": "yángròu",
+      "pinyinNum": "yang2 rou4",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "thịt cừu, thịt dê"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "北京的*羊肉*很好吃。",
+          "vi": "Thịt cừu ở Bắc Kinh rất ngon.",
+          "py": "Běijīng de *yángròu* hěn hǎochī."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "hao3chi1",
+      "hanzi": "好吃",
+      "pinyin": "hǎochī",
+      "pinyinNum": "hao3 chi1",
+      "hanViet": "háo khật",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "ngon (đồ ăn)"
+      ],
+      "usage": "Dùng cho đồ ăn; đồ uống ngon thường nói 好喝.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "妈妈做的菜很*好吃*。",
+          "vi": "Món mẹ nấu rất ngon.",
+          "py": "Māma zuò de cài hěn *hǎochī*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "fu2wu4yuan2",
+      "hanzi": "服务员",
+      "pinyin": "fúwùyuán",
+      "pinyinNum": "fu2 wu4 yuan2",
+      "hanViet": "phục vụ viên",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "nhân viên phục vụ"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "*服务员*，我们想喝茶。",
+          "vi": "Phục vụ ơi, chúng tôi muốn uống trà.",
+          "py": "*Fúwùyuán*, wǒmen xiǎng hē chá."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xiao3jie3"
+      ],
+      "check": false
+    },
+    {
+      "id": "mai4",
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "pinyinNum": "mai4",
+      "hanViet": "mại",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "bán"
+      ],
+      "usage": "卖 (mài, thanh 4) là bán; 买 (mǎi, thanh 3) là mua.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "那个商店*卖*水果。",
+          "vi": "Cửa hàng kia bán hoa quả.",
+          "py": "Nàge shāngdiàn *mài* shuǐguǒ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mai3"
+      ],
+      "check": false
+    },
+    {
+      "id": "pian2yi",
+      "hanzi": "便宜",
+      "pinyin": "piányi",
+      "pinyinNum": "pian2 yi",
+      "hanViet": "tiện nghi",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "rẻ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这件衣服很*便宜*。",
+          "vi": "Chiếc áo này rất rẻ.",
+          "py": "Zhè jiàn yīfu hěn *piányi*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gui4"
+      ],
+      "check": true
+    },
+    {
+      "id": "gui4",
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "pinyinNum": "gui4",
+      "hanViet": "quý",
+      "pos": [
+        "adj",
+        "pron"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "đắt",
+        "quý (cách nói lịch sự: 您贵姓)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个手机太*贵*了！",
+          "vi": "Cái điện thoại này đắt quá!",
+          "py": "Zhège shǒujī tài *guì* le!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "pian2yi"
+      ],
+      "check": false
+    },
+    {
+      "id": "yuan2",
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "pinyinNum": "yuan2",
+      "hanViet": "nguyên",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "đồng, tệ (đơn vị tiền, văn viết)"
+      ],
+      "usage": "Viết 元, nói 块: 十元 = 十块.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这本书二十*元*。",
+          "vi": "Quyển sách này 20 tệ.",
+          "py": "Zhè běn shū èr shí *yuán*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "kuai4"
+      ],
+      "check": false
+    },
+    {
+      "id": "bai3",
+      "hanzi": "百",
+      "pinyin": "bǎi",
+      "pinyinNum": "bai3",
+      "hanViet": "bách",
+      "pos": [
+        "num",
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "trăm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个手表三*百*块钱。",
+          "vi": "Cái đồng hồ này 300 đồng.",
+          "py": "Zhège shǒubiǎo sān *bǎi* kuài qián."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qian1"
+      ],
+      "check": true
+    },
+    {
+      "id": "qian1",
+      "hanzi": "千",
+      "pinyin": "qiān",
+      "pinyinNum": "qian1",
+      "hanViet": "thiên",
+      "pos": [
+        "num",
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "nghìn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个电脑五*千*块钱。",
+          "vi": "Cái máy tính này 5 nghìn đồng.",
+          "py": "Zhège diànnǎo wǔ *qiān* kuài qián."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bai3"
+      ],
+      "check": false
+    },
+    {
+      "id": "gong1jin1",
+      "hanzi": "公斤",
+      "pinyin": "gōngjīn",
+      "pinyinNum": "gong1 jin1",
+      "hanViet": "công cân",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "ki-lô-gam, cân"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我买了两*公斤*苹果。",
+          "vi": "Tôi mua hai cân táo.",
+          "py": "Wǒ mǎi le liǎng *gōngjīn* píngguǒ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jian4",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "pinyinNum": "jian4",
+      "hanViet": "kiện",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "chiếc, cái (lượng từ cho quần áo, sự việc)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我买了一*件*衣服。",
+          "vi": "Tôi mua một chiếc áo.",
+          "py": "Wǒ mǎi le yí *jiàn* yīfu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhang1",
+        "ge4"
+      ],
+      "check": false
+    },
+    {
+      "id": "zhang1",
+      "hanzi": "张",
+      "pinyin": "zhāng",
+      "pinyinNum": "zhang1",
+      "hanViet": "trương",
+      "pos": [
+        "mw",
+        "n",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "tờ, tấm, cái (lượng từ cho vật phẳng: giấy, vé, bàn)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我买了两*张*票。",
+          "vi": "Tôi mua hai tấm vé.",
+          "py": "Wǒ mǎi le liǎng *zhāng* piào."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "jian4"
+      ],
+      "check": false
+    },
+    {
+      "id": "piao4",
+      "hanzi": "票",
+      "pinyin": "piào",
+      "pinyinNum": "piao4",
+      "hanViet": "phiếu",
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "vé"
+      ],
+      "usage": "",
+      "measureWords": [
+        "张"
+      ],
+      "examples": [
+        {
+          "zh": "你买*票*了吗？",
+          "vi": "Bạn mua vé chưa?",
+          "py": "Nǐ mǎi *piào* le ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shou3biao3",
+      "hanzi": "手表",
+      "pinyin": "shǒubiǎo",
+      "pinyinNum": "shou3 biao3",
+      "hanViet": "thủ biểu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "đồng hồ đeo tay"
+      ],
+      "usage": "",
+      "measureWords": [
+        "块",
+        "只",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你的*手表*真漂亮！",
+          "vi": "Đồng hồ của bạn đẹp thật!",
+          "py": "Nǐ de *shǒubiǎo* zhēn piàoliang!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shou3ji1"
+      ],
+      "check": false
+    },
+    {
+      "id": "shou3ji1",
+      "hanzi": "手机",
+      "pinyin": "shǒujī",
+      "pinyinNum": "shou3 ji1",
+      "hanViet": "thủ cơ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "điện thoại di động"
+      ],
+      "usage": "",
+      "measureWords": [
+        "部",
+        "支"
+      ],
+      "examples": [
+        {
+          "zh": "我的*手机*在哪儿？",
+          "vi": "Điện thoại của tôi đâu rồi?",
+          "py": "Wǒ de *shǒujī* zài nǎr?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shou3biao3"
+      ],
+      "check": false
+    },
+    {
+      "id": "bao4zhi3",
+      "hanzi": "报纸",
+      "pinyin": "bàozhǐ",
+      "pinyinNum": "bao4 zhi3",
+      "hanViet": "báo chỉ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "báo, tờ báo"
+      ],
+      "usage": "",
+      "measureWords": [
+        "份",
+        "期",
+        "张"
+      ],
+      "examples": [
+        {
+          "zh": "爸爸在看*报纸*。",
+          "vi": "Bố đang đọc báo.",
+          "py": "Bàba zài kàn *bàozhǐ*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yan2se4",
+      "hanzi": "颜色",
+      "pinyin": "yánsè",
+      "pinyinNum": "yan2 se4",
+      "hanViet": "nhan sắc",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "màu, màu sắc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你喜欢什么*颜色*？",
+          "vi": "Bạn thích màu gì?",
+          "py": "Nǐ xǐhuan shénme *yánsè*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bai2",
+      "hanzi": "白",
+      "pinyin": "bái",
+      "pinyinNum": "bai2",
+      "hanViet": "bạch",
+      "pos": [
+        "adj",
+        "n",
+        "adv",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "trắng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她喜欢穿*白*衣服。",
+          "vi": "Cô ấy thích mặc đồ màu trắng.",
+          "py": "Tā xǐhuan chuān *bái* yīfu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hei1"
+      ],
+      "check": false
+    },
+    {
+      "id": "hei1",
+      "hanzi": "黑",
+      "pinyin": "hēi",
+      "pinyinNum": "hei1",
+      "hanViet": "hắc",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đen"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我的狗是*黑*的。",
+          "vi": "Con chó của tôi màu đen.",
+          "py": "Wǒ de gǒu shì *hēi* de."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bai2"
+      ],
+      "check": false
+    },
+    {
+      "id": "hong2",
+      "hanzi": "红",
+      "pinyin": "hóng",
+      "pinyinNum": "hong2",
+      "hanViet": "hồng",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 2,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đỏ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我想买那件*红*衣服。",
+          "vi": "Tôi muốn mua chiếc áo đỏ kia.",
+          "py": "Wǒ xiǎng mǎi nà jiàn *hóng* yīfu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我想买两{0}衣服。",
+      "options": [
+        "件",
+        "张",
+        "本",
+        "公斤"
+      ],
+      "answer": "件",
+      "targets": [
+        "jian4"
+      ],
+      "explanation": "Lượng từ của quần áo là 件.",
+      "id": "hsk2-an-uong-mua-sam-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "我买了三{0}票。",
+      "options": [
+        "张",
+        "件",
+        "本",
+        "元"
+      ],
+      "answer": "张",
+      "targets": [
+        "zhang1"
+      ],
+      "explanation": "Lượng từ của vé là 张.",
+      "id": "hsk2-an-uong-mua-sam-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "那个商店{0}很多水果。",
+      "options": [
+        "卖",
+        "买",
+        "吃",
+        "喝"
+      ],
+      "answer": "卖",
+      "targets": [
+        "mai4"
+      ],
+      "explanation": "Cửa hàng bán (卖) hàng.",
+      "id": "hsk2-an-uong-mua-sam-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "这个手机太{0}了，我不买。",
+      "options": [
+        "贵",
+        "便宜",
+        "好吃",
+        "白"
+      ],
+      "answer": "贵",
+      "targets": [
+        "gui4"
+      ],
+      "explanation": "Đắt quá nên không mua.",
+      "id": "hsk2-an-uong-mua-sam-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "你喜欢什么{0}？我喜欢红的。",
+      "options": [
+        "颜色",
+        "手表",
+        "报纸",
+        "鱼"
+      ],
+      "answer": "颜色",
+      "targets": [
+        "yan2se4"
+      ],
+      "explanation": "Hỏi màu: 什么颜色.",
+      "id": "hsk2-an-uong-mua-sam-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "我买了两{0}苹果。",
+      "options": [
+        "公斤",
+        "件",
+        "张",
+        "本"
+      ],
+      "answer": "公斤",
+      "targets": [
+        "gong1jin1"
+      ],
+      "explanation": "Cân nặng dùng 公斤.",
+      "id": "hsk2-an-uong-mua-sam-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这个",
+        "西瓜",
+        "多少",
+        "钱",
+        "一",
+        "公斤"
+      ],
+      "answers": [
+        [
+          "这个",
+          "西瓜",
+          "多少",
+          "钱",
+          "一",
+          "公斤"
+        ],
+        [
+          "这个",
+          "西瓜",
+          "一",
+          "公斤",
+          "多少",
+          "钱"
+        ]
+      ],
+      "targets": [
+        "xi1gua1",
+        "gong1jin1"
+      ],
+      "vi": "Quả dưa hấu này bao nhiêu tiền một cân?",
+      "id": "hsk2-an-uong-mua-sam-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "想",
+        "买",
+        "一件",
+        "白",
+        "衣服"
+      ],
+      "answers": [
+        [
+          "我",
+          "想",
+          "买",
+          "一件",
+          "白",
+          "衣服"
+        ]
+      ],
+      "targets": [
+        "jian4",
+        "bai2"
+      ],
+      "vi": "Tôi muốn mua một chiếc áo trắng.",
+      "id": "hsk2-an-uong-mua-sam-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "服务员",
+        "我们",
+        "要",
+        "两个",
+        "鸡蛋"
+      ],
+      "answers": [
+        [
+          "服务员",
+          "我们",
+          "要",
+          "两个",
+          "鸡蛋"
+        ]
+      ],
+      "targets": [
+        "fu2wu4yuan2",
+        "ji1dan4"
+      ],
+      "vi": "Phục vụ ơi, chúng tôi muốn hai quả trứng.",
+      "id": "hsk2-an-uong-mua-sam-order-03"
+    }
+  ]
+}

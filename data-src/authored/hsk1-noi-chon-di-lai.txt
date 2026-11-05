@@ -58,4 +58,4 @@ F 今天会{0}吗？ | 下雨* 天气 飞机 北京 | e: 会 + động từ = c�
 F 他会{0}出租车。 | 开* 回 住 来 | e: 开车 = lái xe.
 O 医院 后面 有 一个 饭馆 | vi: Phía sau bệnh viện có một quán ăn. | t: 医院 后面
 O 我 明天 坐 飞机 回 家 | vi: Ngày mai tôi đi máy bay về nhà. | t: 坐 飞机 回 | alt: 明天 我 坐 飞机 回 家
-O 我 爸爸 住 在 北京 | vi: Bố tôi sống ở Bắc Kinh. | t: 住 北京
+O 我 爸爸 住 在 北京 | vi: Bố tôi sống ở Bắc Kinh. | t: 住 北京 | alt: 我 爸爸 在 北京 住

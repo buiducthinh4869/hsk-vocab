@@ -47,7 +47,7 @@
 - *明天*我去北京。 = Ngày mai tôi đi Bắc Kinh.
 @昨天 | hôm qua | c: 明天 今天
 - *昨天*下雨了。 = Hôm qua trời mưa.
-@年 | năm | c: 月
+@年 | năm | u: 年 không cần lượng từ: 三年, không nói 三个年. | mw: - | c: 月
 - 我在中国住了三*年*。 = Tôi đã sống ở Trung Quốc ba năm.
 @月 | tháng | c: 年
 - 一年有十二个*月*。 = Một năm có mười hai tháng.

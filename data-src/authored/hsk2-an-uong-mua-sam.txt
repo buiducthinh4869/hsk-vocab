@@ -1,0 +1,63 @@
+# id: hsk2-an-uong-mua-sam
+# level: 2
+# title: Ăn uống, mua sắm, màu sắc
+# order: 2
+@鸡蛋 | trứng gà
+- 我早上吃了两个*鸡蛋*。 = Sáng nay tôi ăn hai quả trứng.
+@牛奶 | sữa bò, sữa
+- 早上我喝*牛奶*。 = Buổi sáng tôi uống sữa.
+@咖啡 | cà phê
+- 我不喝*咖啡*，我喝茶。 = Tôi không uống cà phê, tôi uống trà.
+@西瓜 | dưa hấu
+- *西瓜*多少钱一公斤？ = Dưa hấu bao nhiêu tiền một cân?
+@鱼 | cá
+- 我不喜欢吃*鱼*。 = Tôi không thích ăn cá.
+@羊肉 | thịt cừu, thịt dê
+- 北京的*羊肉*很好吃。 = Thịt cừu ở Bắc Kinh rất ngon.
+@好吃 hǎochī | ngon (đồ ăn) | u: Dùng cho đồ ăn; đồ uống ngon thường nói 好喝.
+- 妈妈做的菜很*好吃*。 = Món mẹ nấu rất ngon.
+@服务员 | nhân viên phục vụ | c: 小姐
+- *服务员*，我们想喝茶。 = Phục vụ ơi, chúng tôi muốn uống trà.
+@卖 | bán | u: 卖 (mài, thanh 4) là bán; 买 (mǎi, thanh 3) là mua. | c: 买
+- 那个商店*卖*水果。 = Cửa hàng kia bán hoa quả.
+@便宜 piányi | rẻ | c: 贵
+- 这件衣服很*便宜*。 = Chiếc áo này rất rẻ.
+@贵 | đắt; quý (cách nói lịch sự: 您贵姓) | c: 便宜
+- 这个手机太*贵*了！ = Cái điện thoại này đắt quá!
+@元 | đồng, tệ (đơn vị tiền, văn viết) | u: Viết 元, nói 块: 十元 = 十块. | c: 块
+- 这本书二十*元*。 = Quyển sách này 20 tệ.
+@百 | trăm | hv: bách | c: 千
+- 这个手表三*百*块钱。 = Cái đồng hồ này 300 đồng.
+@千 | nghìn | c: 百
+- 这个电脑五*千*块钱。 = Cái máy tính này 5 nghìn đồng.
+@公斤 | ki-lô-gam, cân
+- 我买了两*公斤*苹果。 = Tôi mua hai cân táo.
+@件 | chiếc, cái (lượng từ cho quần áo, sự việc) | c: 张 个
+- 我买了一*件*衣服。 = Tôi mua một chiếc áo.
+@张 | tờ, tấm, cái (lượng từ cho vật phẳng: giấy, vé, bàn) | c: 件
+- 我买了两*张*票。 = Tôi mua hai tấm vé.
+@票 | vé
+- 你买*票*了吗？ = Bạn mua vé chưa?
+@手表 | đồng hồ đeo tay | c: 手机
+- 你的*手表*真漂亮！ = Đồng hồ của bạn đẹp thật!
+@手机 | điện thoại di động | c: 手表
+- 我的*手机*在哪儿？ = Điện thoại của tôi đâu rồi?
+@报纸 | báo, tờ báo
+- 爸爸在看*报纸*。 = Bố đang đọc báo.
+@颜色 | màu, màu sắc
+- 你喜欢什么*颜色*？ = Bạn thích màu gì?
+@白 | trắng | c: 黑
+- 她喜欢穿*白*衣服。 = Cô ấy thích mặc đồ màu trắng.
+@黑 | đen | c: 白
+- 我的狗是*黑*的。 = Con chó của tôi màu đen.
+@红 | đỏ
+- 我想买那件*红*衣服。 = Tôi muốn mua chiếc áo đỏ kia.
+F 我想买两{0}衣服。 | 件* 张 本 公斤 | e: Lượng từ của quần áo là 件.
+F 我买了三{0}票。 | 张* 件 本 元 | e: Lượng từ của vé là 张.
+F 那个商店{0}很多水果。 | 卖* 买 吃 喝 | e: Cửa hàng bán (卖) hàng.
+F 这个手机太{0}了，我不买。 | 贵* 便宜 好吃 白 | e: Đắt quá nên không mua.
+F 你喜欢什么{0}？我喜欢红的。 | 颜色* 手表 报纸 鱼 | e: Hỏi màu: 什么颜色.
+F 我买了两{0}苹果。 | 公斤* 件 张 本 | e: Cân nặng dùng 公斤.
+O 这个 西瓜 多少 钱 一 公斤 | vi: Quả dưa hấu này bao nhiêu tiền một cân? | t: 西瓜 公斤 | alt: 这个 西瓜 一 公斤 多少 钱
+O 我 想 买 一件 白 衣服 | vi: Tôi muốn mua một chiếc áo trắng. | t: 件 白
+O 服务员 我们 要 两个 鸡蛋 | vi: Phục vụ ơi, chúng tôi muốn hai quả trứng. | t: 服务员 鸡蛋

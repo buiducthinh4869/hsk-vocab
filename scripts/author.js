@@ -3,7 +3,7 @@
 //
 // Format (one item per line; "|" separates fields):
 //   # id: hsk2-xxx            # level: 2            # title: ...            # order: 1
-//   @哥哥 | anh trai; anh | u: usage note | c: 弟弟 姐姐 | py: gēge | hv: ca ca | pos: n
+//   @哥哥 | anh trai; anh | u: usage note | c: 弟弟 姐姐 | py: gēge | hv: ca ca | pos: n | mw: 个 ("-" = none)
 //   - 我*哥哥*是医生。 = Anh trai tôi là bác sĩ.
 //     py: hand-written pinyin (only when the automatic one is wrong)
 //   F 我{0}去过北京。 | 没* 不 很 都 | t: 没 | e: explanation
@@ -41,6 +41,7 @@ for (const raw of lines) {
     if (kv.hv) w.hanViet = kv.hv === 'null' ? null : kv.hv;
     if (kv.pos) w.pos = kv.pos.split(/\s+/);
     if (kv.check) w.check = true;
+    if (kv.mw) w.measureWords = kv.mw === "-" ? [] : kv.mw.split(/\s+/);
     w.confusables = kv.c ? kv.c.split(/\s+/) : [];
     w.examples = [];
     words.push(w);

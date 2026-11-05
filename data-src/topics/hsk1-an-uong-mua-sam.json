@@ -367,7 +367,9 @@
         }
       ],
       "textbooks": null,
-      "confusables": [],
+      "confusables": [
+        "mai4"
+      ],
       "check": false
     },
     {
@@ -654,8 +656,8 @@
       "options": [
         "电影",
         "米饭",
-        "桌子",
-        "椅子"
+        "茶",
+        "水"
       ],
       "answer": "电影",
       "targets": [
@@ -685,9 +687,9 @@
       "sentence": "我去{0}买东西。",
       "options": [
         "商店",
-        "学校",
-        "医院",
-        "饭馆"
+        "米饭",
+        "衣服",
+        "桌子"
       ],
       "answer": "商店",
       "targets": [

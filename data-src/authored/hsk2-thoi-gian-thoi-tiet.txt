@@ -1,0 +1,55 @@
+# id: hsk2-thoi-gian-thoi-tiet
+# level: 2
+# title: Thời gian, thời tiết
+# order: 3
+@早上 | buổi sáng (sớm) | c: 晚上 上午
+- 我*早上*七点起床。 = Tôi dậy lúc 7 giờ sáng.
+@晚上 | buổi tối | c: 早上
+- *晚上*你想做什么？ = Buổi tối bạn muốn làm gì?
+@去年 | năm ngoái
+- 我是*去年*来中国的。 = Tôi đến Trung Quốc năm ngoái.
+@时间 | thời gian | u: 时间 là thời gian nói chung; 小时 là giờ đồng hồ (60 phút). | c: 小时
+- 你明天有*时间*吗？ = Ngày mai bạn có thời gian không?
+@小时 | giờ, tiếng (khoảng 60 phút) | u: 两个小时 = 2 tiếng (khoảng thời gian); 两点 = 2 giờ (thời điểm). | c: 点 时间
+- 我学习了两个*小时*。 = Tôi đã học hai tiếng.
+@号 hào | ngày (trong tháng, khẩu ngữ); số | c: 日
+- 今天几*号*？ = Hôm nay ngày mấy?
+- 你住几*号*房间？ = Bạn ở phòng số mấy?
+@第一 | thứ nhất, đầu tiên
+- 这是我*第一*次来北京。 = Đây là lần đầu tiên tôi đến Bắc Kinh.
+@两 | hai (trước lượng từ) | u: 两 + lượng từ: 两个, 两本; đếm số và số thứ tự dùng 二. | c: 二
+- 我买了*两*本书。 = Tôi mua hai quyển sách.
+@每 | mỗi | u: 每 + lượng từ + danh từ, phía sau thường có 都: 每个人都...
+- *每*个星期六我都去打篮球。 = Thứ Bảy nào tôi cũng đi chơi bóng rổ.
+@次 | lần (lượng từ chỉ số lần) | pos: mw | c: 第一
+- 这个星期我去了两*次*医院。 = Tuần này tôi đã đi bệnh viện hai lần.
+@晴 | nắng, trời quang | pos: adj | c: 阴
+- 明天北京*晴*。 = Ngày mai Bắc Kinh trời nắng.
+@阴 | âm u, nhiều mây | c: 晴
+- 今天北京*阴*，可能会下雨。 = Hôm nay Bắc Kinh trời âm u, có thể sẽ mưa.
+@雪 | tuyết | u: Tuyết rơi: 下雪.
+- 北京下*雪*了。 = Bắc Kinh có tuyết rồi.
+@开始 | bắt đầu
+- 电影几点*开始*？ = Phim mấy giờ bắt đầu?
+@完 | xong, hết | u: Đứng sau động từ: 做完, 吃完, 看完 = làm xong, ăn xong, xem xong.
+- 你吃*完*了吗？ = Bạn ăn xong chưa?
+@上班 | đi làm
+- 我爸爸八点*上班*。 = Bố tôi đi làm lúc 8 giờ.
+@起床 | thức dậy, dậy | c: 睡觉
+- 你几点*起床*？ = Bạn dậy lúc mấy giờ?
+@事情 | việc, chuyện
+- 我有*事情*，不能去。 = Tôi có việc, không đi được.
+@新 | mới
+- 这是我的*新*手机。 = Đây là điện thoại mới của tôi.
+- *新*年快乐！ = Chúc mừng năm mới!
+@准备 | chuẩn bị
+- 我在*准备*考试。 = Tôi đang chuẩn bị cho kỳ thi.
+F 我没有{0}看电视。 | 时间* 小时 事情 号 | e: 有时间 / 没有时间 = có / không có thời gian.
+F 我学习了三个{0}。 | 小时* 时间 号 点 | e: Khoảng thời gian: 三个小时.
+F 今天几{0}？今天十号。 | 号* 次 岁 本 | e: Hỏi ngày: 几号.
+F 我有{0}个孩子。 | 两* 二 第一 每 | e: Trước lượng từ dùng 两.
+F 这是我{0}次来中国。 | 第一* 两 每 新 | e: 第一次 = lần đầu tiên.
+F 我吃{0}了，你呢？ | 完* 新 晴 开始 | e: 吃完 = ăn xong.
+O 电影 七点 开始 | vi: Phim bắt đầu lúc 7 giờ. | t: 开始
+O 我 每个 星期六 都 上班 | vi: Thứ Bảy nào tôi cũng đi làm. | t: 每 上班 | alt: 每个 星期六 我 都 上班
+O 你 准备 好 了 吗 | vi: Bạn chuẩn bị xong chưa? | t: 准备

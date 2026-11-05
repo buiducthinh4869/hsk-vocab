@@ -16,8 +16,8 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 1 | hsk1-hu-tu | Hư từ | 10 | 5 fill, 3 order | xong | 不 没 很 太 都 和 的 了 吗 呢 |
 | 1 | **Cộng** | | **150 / 150** | | | |
 | 2 | hsk2-gia-dinh-suc-khoe | Gia đình, sức khỏe | 21 | 6 fill, 3 order | xong | 哥哥 姐姐 弟弟 妹妹 丈夫 妻子 孩子 男人 女人 大家 您 它 姓 生日 身体 眼睛 生病 药 休息 累 笑 |
-| 2 | hsk2-an-uong-mua-sam | Ăn uống, mua sắm, màu sắc | 25 |  | chưa làm | 鸡蛋 牛奶 咖啡 西瓜 鱼 羊肉 好吃 服务员 卖 便宜 贵 元 百 千 公斤 件 张 票 手表 手机 报纸 颜色 白 黑 红 |
-| 2 | hsk2-thoi-gian-thoi-tiet | Thời gian, thời tiết | 20 |  | chưa làm | 早上 晚上 去年 时间 小时 号 第一 两 每 次 晴 阴 雪 开始 完 上班 起床 事情 新 准备 |
+| 2 | hsk2-an-uong-mua-sam | Ăn uống, mua sắm, màu sắc | 25 | 6 fill, 3 order | xong | 鸡蛋 牛奶 咖啡 西瓜 鱼 羊肉 好吃 服务员 卖 便宜 贵 元 百 千 公斤 件 张 票 手表 手机 报纸 颜色 白 黑 红 |
+| 2 | hsk2-thoi-gian-thoi-tiet | Thời gian, thời tiết | 20 | 6 fill, 3 order | xong | 早上 晚上 去年 时间 小时 号 第一 两 每 次 晴 阴 雪 开始 完 上班 起床 事情 新 准备 |
 | 2 | hsk2-noi-chon-di-lai | Nơi chốn, đi lại | 22 |  | chưa làm | 路 门 房间 教室 机场 公司 旁边 左边 右边 外 近 远 离 从 到 进 出 走 船 公共汽车 自行车 旅游 |
 | 2 | hsk2-hoc-tap-giao-tiep | Học tập, giao tiếp | 20 |  | chưa làm | 课 题 问 问题 回答 考试 懂 知道 意思 介绍 告诉 帮助 找 送 给 让 欢迎 希望 觉得 错 |
 | 2 | hsk2-so-thich-tinh-chat | Sở thích, tính chất | 20 |  | chưa làm | 唱歌 跳舞 跑步 游泳 踢 打篮球 运动 玩 穿 洗 高 长 快 慢 忙 真 快乐 可能 可以 要 |
@@ -110,6 +110,17 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 2 | hsk2-gia-dinh-suc-khoe | 眼睛 | yǎnjing | — |
 | 2 | hsk2-gia-dinh-suc-khoe | 累 | lèi | luỵ |
 | 2 | hsk2-gia-dinh-suc-khoe | 笑 | xiào | — |
+| 2 | hsk2-an-uong-mua-sam | 鸡蛋 | jīdàn | — |
+| 2 | hsk2-an-uong-mua-sam | 咖啡 | kāfēi | — |
+| 2 | hsk2-an-uong-mua-sam | 羊肉 | yángròu | — |
+| 2 | hsk2-an-uong-mua-sam | 好吃 | hǎochī | háo khật |
+| 2 | hsk2-an-uong-mua-sam | 便宜 | piányi | tiện nghi |
+| 2 | hsk2-an-uong-mua-sam | 百 | bǎi | bách |
+| 2 | hsk2-thoi-gian-thoi-tiet | 号 | hào | hiệu |
+| 2 | hsk2-thoi-gian-thoi-tiet | 第一 | dìyī | đậy nhất |
+| 2 | hsk2-thoi-gian-thoi-tiet | 每 | měi | hỏi |
+| 2 | hsk2-thoi-gian-thoi-tiet | 晴 | qíng | tạnh |
+| 2 | hsk2-thoi-gian-thoi-tiet | 雪 | xuě | — |
 
 ## Âm Hán Việt cần xem
 
@@ -133,6 +144,11 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 呢 | nài | ni |
 | 姐 | thư | tỉ |
 | 女 | nữa | nữ |
+| 奶 | nái | nãi |
+| 第 | đậy/đệ | đệ |
+| 每 | hỏi/mỏi/mọi/mỗi/mủ/mủi/mũi | mỗi |
+| 晴 | tạnh | tình |
+| 准 | chốn | chuẩn |
 
 ## Lỗi giao diện ghi nhận
 
