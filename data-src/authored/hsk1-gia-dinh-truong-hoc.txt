@@ -1,0 +1,57 @@
+# id: hsk1-gia-dinh-truong-hoc
+# level: 1
+# title: Gia đình, trường học
+# order: 3
+@爸爸 | bố, ba | c: 妈妈
+- 我*爸爸*在医院工作。 = Bố tôi làm việc ở bệnh viện.
+@妈妈 | mẹ, má | c: 爸爸
+- *妈妈*，我想喝水。 = Mẹ ơi, con muốn uống nước.
+@儿子 | con trai | c: 女儿
+- 她有一个*儿子*。 = Chị ấy có một con trai.
+@女儿 | con gái | c: 儿子
+- 她*女儿*很漂亮。 = Con gái chị ấy rất xinh.
+@人 | người | c: 八
+- 他是中国*人*。 = Anh ấy là người Trung Quốc.
+@先生 | ông, ngài (gọi nam giới lịch sự); chồng (cách gọi lịch sự) | c: 小姐
+- *先生*，请坐。 = Mời ông ngồi.
+@小姐 | cô (gọi phụ nữ trẻ lịch sự) | u: Ở nhiều nơi không gọi người phục vụ nữ là 小姐; dùng 服务员 (HSK 2). | c: 先生
+- 那个*小姐*是我的汉语老师。 = Cô kia là giáo viên tiếng Trung của tôi.
+@朋友 | bạn, bạn bè
+- 我在北京有很多*朋友*。 = Tôi có nhiều bạn ở Bắc Kinh.
+@同学 | bạn học, bạn cùng lớp | c: 学生
+- 我的*同学*都喜欢学习汉语。 = Các bạn cùng lớp của tôi đều thích học tiếng Trung.
+@老师 | thầy giáo, cô giáo, giáo viên | c: 学生
+- *老师*，这个字怎么写？ = Thưa thầy, chữ này viết thế nào?
+@学生 | học sinh, sinh viên | c: 同学 老师
+- 我们学校有很多*学生*。 = Trường chúng tôi có rất nhiều học sinh.
+@医生 | bác sĩ
+- 我想做*医生*。 = Tôi muốn làm bác sĩ.
+@工作 | làm việc; công việc | pos: v n
+- 你在哪儿*工作*？ = Bạn làm việc ở đâu?
+- 我很喜欢我的*工作*。 = Tôi rất thích công việc của mình.
+@学校 | trường học | hv: học hiệu
+- 我的*学校*很大。 = Trường của tôi rất to.
+@学习 | học, học tập | c: 学生
+- 我在中国*学习*汉语。 = Tôi học tiếng Trung ở Trung Quốc.
+@汉语 | tiếng Hán, tiếng Trung | u: 汉语 là tiếng Trung (ngôn ngữ của người Hán); trong đời sống cũng hay nói 中文.
+- 她的*汉语*很好。 = Tiếng Trung của cô ấy rất giỏi.
+@字 | chữ | c: 书
+- 我会写这个*字*。 = Tôi biết viết chữ này.
+@书 | sách | c: 字
+- 这是一本汉语*书*。 = Đây là một quyển sách tiếng Trung.
+@读 | đọc (thành tiếng) | u: 读 thường là đọc thành tiếng; xem sách cũng nói 看书. | c: 写
+- 我喜欢*读*书。 = Tôi thích đọc sách.
+@写 | viết | c: 读
+- 你会*写*你的名字吗？ = Bạn có biết viết tên mình không?
+@猫 | con mèo | c: 狗
+- *猫*在椅子上。 = Con mèo ở trên ghế.
+@狗 | con chó | c: 猫
+- 我家的*狗*很大。 = Con chó nhà tôi rất to.
+F 他是我的汉语{0}。 | 老师* 医生 先生 学校 | e: 汉语老师 = giáo viên tiếng Trung.
+F 这个{0}怎么写？ | 字* 书 人 猫 | e: Hỏi cách viết một chữ: 这个字怎么写？
+F 我买了一本汉语{0}。 | 书* 字 学校 老师 | e: 本 là lượng từ của sách.
+F 我们是{0}，都在一个学校学习。 | 同学* 老师 医生 先生 | e: 同学 = bạn cùng học.
+F 他是{0}，在医院工作。 | 医生* 老师 学生 先生 | e: Làm ở bệnh viện: bác sĩ.
+O 我 妈妈 在 学校 工作 | vi: Mẹ tôi làm việc ở trường. | t: 妈妈 工作
+O 我们 都 在 学校 学习 | vi: Chúng tôi đều học ở trường. | t: 学校 学习
+O 这个 字 我 不会 写 | vi: Chữ này tôi không biết viết. | t: 字 写 | alt: 我 不会 写 这个 字

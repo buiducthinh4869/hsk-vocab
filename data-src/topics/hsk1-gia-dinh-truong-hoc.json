@@ -1,0 +1,877 @@
+{
+  "id": "hsk1-gia-dinh-truong-hoc",
+  "level": 1,
+  "title": "Gia đình, trường học",
+  "order": 3,
+  "words": [
+    {
+      "id": "ba4ba",
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "pinyinNum": "ba4 ba",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "bố, ba"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "我*爸爸*在医院工作。",
+          "vi": "Bố tôi làm việc ở bệnh viện.",
+          "py": "Wǒ *bàba* zài yīyuàn gōngzuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ma1ma"
+      ],
+      "check": true
+    },
+    {
+      "id": "ma1ma",
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "pinyinNum": "ma1 ma",
+      "hanViet": "má má",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "mẹ, má"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "*妈妈*，我想喝水。",
+          "vi": "Mẹ ơi, con muốn uống nước.",
+          "py": "*Māma*, wǒ xiǎng hē shuǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ba4ba"
+      ],
+      "check": false
+    },
+    {
+      "id": "er2zi",
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "pinyinNum": "er2 zi",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "con trai"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她有一个*儿子*。",
+          "vi": "Chị ấy có một con trai.",
+          "py": "Tā yǒu yí ge *érzi*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "nü3er2"
+      ],
+      "check": true
+    },
+    {
+      "id": "nü3er2",
+      "hanzi": "女儿",
+      "pinyin": "nǚ'ér",
+      "pinyinNum": "nü3 er2",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "con gái"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她*女儿*很漂亮。",
+          "vi": "Con gái chị ấy rất xinh.",
+          "py": "Tā *nǚ'ér* hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "er2zi"
+      ],
+      "check": true
+    },
+    {
+      "id": "ren2",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "pinyinNum": "ren2",
+      "hanViet": "nhân",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "người"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "他是中国*人*。",
+          "vi": "Anh ấy là người Trung Quốc.",
+          "py": "Tā shì Zhōngguó *rén*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ba1"
+      ],
+      "check": false
+    },
+    {
+      "id": "xian1sheng",
+      "hanzi": "先生",
+      "pinyin": "xiānsheng",
+      "pinyinNum": "xian1 sheng",
+      "hanViet": "tiên sinh",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ông, ngài (gọi nam giới lịch sự)",
+        "chồng (cách gọi lịch sự)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "*先生*，请坐。",
+          "vi": "Mời ông ngồi.",
+          "py": "*Xiānsheng*, qǐng zuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xiao3jie3"
+      ],
+      "check": false
+    },
+    {
+      "id": "xiao3jie3",
+      "hanzi": "小姐",
+      "pinyin": "xiǎojiě",
+      "pinyinNum": "xiao3 jie3",
+      "hanViet": "tiểu thư",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "cô (gọi phụ nữ trẻ lịch sự)"
+      ],
+      "usage": "Ở nhiều nơi không gọi người phục vụ nữ là 小姐; dùng 服务员 (HSK 2).",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "那个*小姐*是我的汉语老师。",
+          "vi": "Cô kia là giáo viên tiếng Trung của tôi.",
+          "py": "Nàge *xiǎojiě* shì wǒ de Hànyǔ lǎoshī."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xian1sheng"
+      ],
+      "check": false
+    },
+    {
+      "id": "peng2you",
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "pinyinNum": "peng2 you",
+      "hanViet": "bằng hữu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "bạn, bạn bè"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "我在北京有很多*朋友*。",
+          "vi": "Tôi có nhiều bạn ở Bắc Kinh.",
+          "py": "Wǒ zài Běijīng yǒu hěn duō *péngyou*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "tong2xue2",
+      "hanzi": "同学",
+      "pinyin": "tóngxué",
+      "pinyinNum": "tong2 xue2",
+      "hanViet": "đồng học",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "bạn học, bạn cùng lớp"
+      ],
+      "usage": "",
+      "measureWords": [
+        "位",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我的*同学*都喜欢学习汉语。",
+          "vi": "Các bạn cùng lớp của tôi đều thích học tiếng Trung.",
+          "py": "Wǒ de *tóngxué* dōu xǐhuan xuéxí Hànyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xue2sheng"
+      ],
+      "check": false
+    },
+    {
+      "id": "lao3shi1",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "pinyinNum": "lao3 shi1",
+      "hanViet": "lão sư",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "thầy giáo, cô giáo, giáo viên"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位"
+      ],
+      "examples": [
+        {
+          "zh": "*老师*，这个字怎么写？",
+          "vi": "Thưa thầy, chữ này viết thế nào?",
+          "py": "*Lǎoshī*, zhège zì zěnme xiě?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xue2sheng"
+      ],
+      "check": false
+    },
+    {
+      "id": "xue2sheng",
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "pinyinNum": "xue2 sheng",
+      "hanViet": "học sinh",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "học sinh, sinh viên"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们学校有很多*学生*。",
+          "vi": "Trường chúng tôi có rất nhiều học sinh.",
+          "py": "Wǒmen xuéxiào yǒu hěn duō *xuésheng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tong2xue2",
+        "lao3shi1"
+      ],
+      "check": false
+    },
+    {
+      "id": "yi1sheng1",
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "pinyinNum": "yi1 sheng1",
+      "hanViet": "y sinh",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "bác sĩ"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "位",
+        "名"
+      ],
+      "examples": [
+        {
+          "zh": "我想做*医生*。",
+          "vi": "Tôi muốn làm bác sĩ.",
+          "py": "Wǒ xiǎng zuò *yīshēng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "gong1zuo4",
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "pinyinNum": "gong1 zuo4",
+      "hanViet": "công tác",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "làm việc",
+        "công việc"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "份",
+        "项"
+      ],
+      "examples": [
+        {
+          "zh": "你在哪儿*工作*？",
+          "vi": "Bạn làm việc ở đâu?",
+          "py": "Nǐ zài nǎr *gōngzuò*?"
+        },
+        {
+          "zh": "我很喜欢我的*工作*。",
+          "vi": "Tôi rất thích công việc của mình.",
+          "py": "Wǒ hěn xǐhuan wǒ de *gōngzuò*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xue2xiao4",
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "pinyinNum": "xue2 xiao4",
+      "hanViet": "học hiệu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "trường học"
+      ],
+      "usage": "",
+      "measureWords": [
+        "所"
+      ],
+      "examples": [
+        {
+          "zh": "我的*学校*很大。",
+          "vi": "Trường của tôi rất to.",
+          "py": "Wǒ de *xuéxiào* hěn dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xue2xi2",
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "pinyinNum": "xue2 xi2",
+      "hanViet": "học tập",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "học, học tập"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我在中国*学习*汉语。",
+          "vi": "Tôi học tiếng Trung ở Trung Quốc.",
+          "py": "Wǒ zài Zhōngguó *xuéxí* Hànyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xue2sheng"
+      ],
+      "check": false
+    },
+    {
+      "id": "han4yu3",
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "pinyinNum": "han4 yu3",
+      "hanViet": "hán ngữ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "tiếng Hán, tiếng Trung"
+      ],
+      "usage": "汉语 là tiếng Trung (ngôn ngữ của người Hán); trong đời sống cũng hay nói 中文.",
+      "measureWords": [
+        "门"
+      ],
+      "examples": [
+        {
+          "zh": "她的*汉语*很好。",
+          "vi": "Tiếng Trung của cô ấy rất giỏi.",
+          "py": "Tā de *Hànyǔ* hěn hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zi4",
+      "hanzi": "字",
+      "pinyin": "zì",
+      "pinyinNum": "zi4",
+      "hanViet": "tự",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "chữ"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我会写这个*字*。",
+          "vi": "Tôi biết viết chữ này.",
+          "py": "Wǒ huì xiě zhège *zì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shu1"
+      ],
+      "check": false
+    },
+    {
+      "id": "shu1",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "pinyinNum": "shu1",
+      "hanViet": "thư",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "sách"
+      ],
+      "usage": "",
+      "measureWords": [
+        "本",
+        "册",
+        "部"
+      ],
+      "examples": [
+        {
+          "zh": "这是一本汉语*书*。",
+          "vi": "Đây là một quyển sách tiếng Trung.",
+          "py": "Zhè shì yì běn Hànyǔ *shū*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zi4"
+      ],
+      "check": false
+    },
+    {
+      "id": "du2",
+      "hanzi": "读",
+      "pinyin": "dú",
+      "pinyinNum": "du2",
+      "hanViet": "độc",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "đọc (thành tiếng)"
+      ],
+      "usage": "读 thường là đọc thành tiếng; xem sách cũng nói 看书.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我喜欢*读*书。",
+          "vi": "Tôi thích đọc sách.",
+          "py": "Wǒ xǐhuan *dú* shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xie3"
+      ],
+      "check": false
+    },
+    {
+      "id": "xie3",
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "pinyinNum": "xie3",
+      "hanViet": "tả",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "viết"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你会*写*你的名字吗？",
+          "vi": "Bạn có biết viết tên mình không?",
+          "py": "Nǐ huì *xiě* nǐ de míngzi ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "du2"
+      ],
+      "check": false
+    },
+    {
+      "id": "mao1",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "pinyinNum": "mao1",
+      "hanViet": "mèo",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "con mèo"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "*猫*在椅子上。",
+          "vi": "Con mèo ở trên ghế.",
+          "py": "*Māo* zài yǐzi shàng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gou3"
+      ],
+      "check": true
+    },
+    {
+      "id": "gou3",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "pinyinNum": "gou3",
+      "hanViet": "cẩu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "con chó"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只",
+        "条"
+      ],
+      "examples": [
+        {
+          "zh": "我家的*狗*很大。",
+          "vi": "Con chó nhà tôi rất to.",
+          "py": "Wǒ jiā de *gǒu* hěn dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mao1"
+      ],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "他是我的汉语{0}。",
+      "options": [
+        "老师",
+        "医生",
+        "先生",
+        "学校"
+      ],
+      "answer": "老师",
+      "targets": [
+        "lao3shi1"
+      ],
+      "explanation": "汉语老师 = giáo viên tiếng Trung.",
+      "id": "hsk1-gia-dinh-truong-hoc-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "这个{0}怎么写？",
+      "options": [
+        "字",
+        "书",
+        "人",
+        "猫"
+      ],
+      "answer": "字",
+      "targets": [
+        "zi4"
+      ],
+      "explanation": "Hỏi cách viết một chữ: 这个字怎么写？",
+      "id": "hsk1-gia-dinh-truong-hoc-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "我买了一本汉语{0}。",
+      "options": [
+        "书",
+        "字",
+        "学校",
+        "老师"
+      ],
+      "answer": "书",
+      "targets": [
+        "shu1"
+      ],
+      "explanation": "本 là lượng từ của sách.",
+      "id": "hsk1-gia-dinh-truong-hoc-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我们是{0}，都在一个学校学习。",
+      "options": [
+        "同学",
+        "老师",
+        "医生",
+        "先生"
+      ],
+      "answer": "同学",
+      "targets": [
+        "tong2xue2"
+      ],
+      "explanation": "同学 = bạn cùng học.",
+      "id": "hsk1-gia-dinh-truong-hoc-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "他是{0}，在医院工作。",
+      "options": [
+        "医生",
+        "老师",
+        "学生",
+        "先生"
+      ],
+      "answer": "医生",
+      "targets": [
+        "yi1sheng1"
+      ],
+      "explanation": "Làm ở bệnh viện: bác sĩ.",
+      "id": "hsk1-gia-dinh-truong-hoc-fill-05"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "妈妈",
+        "在",
+        "学校",
+        "工作"
+      ],
+      "answers": [
+        [
+          "我",
+          "妈妈",
+          "在",
+          "学校",
+          "工作"
+        ]
+      ],
+      "targets": [
+        "ma1ma",
+        "gong1zuo4"
+      ],
+      "vi": "Mẹ tôi làm việc ở trường.",
+      "id": "hsk1-gia-dinh-truong-hoc-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我们",
+        "都",
+        "在",
+        "学校",
+        "学习"
+      ],
+      "answers": [
+        [
+          "我们",
+          "都",
+          "在",
+          "学校",
+          "学习"
+        ]
+      ],
+      "targets": [
+        "xue2xiao4",
+        "xue2xi2"
+      ],
+      "vi": "Chúng tôi đều học ở trường.",
+      "id": "hsk1-gia-dinh-truong-hoc-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这个",
+        "字",
+        "我",
+        "不会",
+        "写"
+      ],
+      "answers": [
+        [
+          "这个",
+          "字",
+          "我",
+          "不会",
+          "写"
+        ],
+        [
+          "我",
+          "不会",
+          "写",
+          "这个",
+          "字"
+        ]
+      ],
+      "targets": [
+        "zi4",
+        "xie3"
+      ],
+      "vi": "Chữ này tôi không biết viết.",
+      "id": "hsk1-gia-dinh-truong-hoc-order-03"
+    }
+  ]
+}
