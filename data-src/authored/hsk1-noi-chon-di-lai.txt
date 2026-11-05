@@ -1,0 +1,61 @@
+# id: hsk1-noi-chon-di-lai
+# level: 1
+# title: Nơi chốn, đi lại, thời tiết
+# order: 5
+@家 | nhà; gia đình
+- 你*家*在哪儿？ = Nhà bạn ở đâu?
+@中国 | Trung Quốc
+- *中国*很大。 = Trung Quốc rất rộng lớn.
+@北京 | Bắc Kinh
+- *北京*有很多饭馆。 = Bắc Kinh có rất nhiều quán ăn.
+@医院 | bệnh viện | c: 医生
+- 她明天去*医院*看医生。 = Ngày mai cô ấy đi bệnh viện khám bác sĩ.
+@火车站 | ga tàu hỏa
+- *火车站*在哪儿？ = Ga tàu hỏa ở đâu?
+@上 | trên; lên (xe, tàu) | c: 下
+- 杯子在桌子*上*。 = Cái cốc ở trên bàn.
+@下 | dưới; xuống | c: 上
+- 狗在椅子*下*。 = Con chó ở dưới ghế.
+@前面 | phía trước | c: 后面
+- 学校*前面*有一个商店。 = Phía trước trường có một cửa hàng.
+@后面 | phía sau | c: 前面
+- 我家*后面*是医院。 = Phía sau nhà tôi là bệnh viện.
+@里 | trong, bên trong
+- 杯子*里*有茶。 = Trong cốc có trà.
+@在 | ở, tại; đang (làm gì) | pos: v prep adv | u: 在 + nơi chốn = ở đâu; 在 + động từ = đang làm: 他在看电视. | c: 住
+- 我妈妈*在*家。 = Mẹ tôi ở nhà.
+- 他*在*看电视。 = Anh ấy đang xem ti vi.
+@去 | đi (đến) | u: 去 là đi khỏi chỗ người nói; 来 là đến chỗ người nói. | c: 来
+- 你*去*哪儿？ = Bạn đi đâu?
+@来 | đến, tới | c: 去
+- 明天你*来*我家吗？ = Ngày mai bạn đến nhà tôi không?
+@回 | về, trở về
+- 我想*回*家。 = Tôi muốn về nhà.
+@住 | ở, sống (cư trú) | u: 住 là sống, ở lâu dài (住在北京); 在 chỉ vị trí lúc nói. | c: 在
+- 你*住*在哪儿？ = Bạn sống ở đâu?
+@飞机 | máy bay
+- 我坐*飞机*去北京。 = Tôi đi máy bay đến Bắc Kinh.
+@出租车 | xe taxi | hv: xuất tô xa
+- 我们坐*出租车*去火车站。 = Chúng tôi đi taxi ra ga tàu.
+@坐 | ngồi; đi (xe, tàu, máy bay) | u: Đi phương tiện: 坐飞机, 坐出租车.
+- 他*坐*在我前面。 = Anh ấy ngồi phía trước tôi.
+- 我们*坐*出租车回家。 = Chúng tôi đi taxi về nhà.
+@开 | lái (xe); mở
+- 他会*开*出租车。 = Anh ấy biết lái taxi.
+@天气 | thời tiết
+- 明天*天气*很好。 = Ngày mai thời tiết rất đẹp.
+@冷 | lạnh | c: 热
+- 今天很*冷*。 = Hôm nay rất lạnh.
+@热 | nóng | c: 冷
+- 我很*热*，想喝水。 = Tôi nóng quá, muốn uống nước.
+@下雨 | mưa, trời mưa
+- 明天会*下雨*吗？ = Ngày mai có mưa không?
+F 我想坐{0}去中国。 | 飞机* 椅子 桌子 电脑 | e: 坐飞机 = đi máy bay.
+F 你{0}在哪儿？我住在北京。 | 住* 去 来 回 | e: Hỏi chỗ sống: 你住在哪儿？
+F 你几点{0}家？ | 回* 去 来 住 | e: 回家 = về nhà.
+F 我们坐{0}去医院。 | 出租车* 桌子 天气 北京 | e: 坐出租车 = đi taxi.
+F 今天会{0}吗？ | 下雨* 天气 飞机 北京 | e: 会 + động từ = có khả năng sẽ xảy ra.
+F 他会{0}出租车。 | 开* 回 住 来 | e: 开车 = lái xe.
+O 医院 后面 有 一个 饭馆 | vi: Phía sau bệnh viện có một quán ăn. | t: 医院 后面
+O 我 明天 坐 飞机 回 家 | vi: Ngày mai tôi đi máy bay về nhà. | t: 坐 飞机 回 | alt: 明天 我 坐 飞机 回 家
+O 我 爸爸 住 在 北京 | vi: Bố tôi sống ở Bắc Kinh. | t: 住 北京

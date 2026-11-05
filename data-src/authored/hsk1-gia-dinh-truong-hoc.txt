@@ -24,7 +24,7 @@
 - *老师*，这个字怎么写？ = Thưa thầy, chữ này viết thế nào?
 @学生 | học sinh, sinh viên | c: 同学 老师
 - 我们学校有很多*学生*。 = Trường chúng tôi có rất nhiều học sinh.
-@医生 | bác sĩ
+@医生 | bác sĩ | c: 医院
 - 我想做*医生*。 = Tôi muốn làm bác sĩ.
 @工作 | làm việc; công việc | pos: v n
 - 你在哪儿*工作*？ = Bạn làm việc ở đâu?

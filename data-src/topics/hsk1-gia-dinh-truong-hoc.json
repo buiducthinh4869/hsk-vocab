@@ -386,7 +386,9 @@
         }
       ],
       "textbooks": null,
-      "confusables": [],
+      "confusables": [
+        "yi1yuan4"
+      ],
       "check": false
     },
     {

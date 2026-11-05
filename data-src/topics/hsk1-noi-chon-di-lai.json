@@ -1,0 +1,884 @@
+{
+  "id": "hsk1-noi-chon-di-lai",
+  "level": 1,
+  "title": "Nơi chốn, đi lại, thời tiết",
+  "order": 5,
+  "words": [
+    {
+      "id": "jia1",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "pinyinNum": "jia1",
+      "hanViet": "gia",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "nhà",
+        "gia đình"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你*家*在哪儿？",
+          "vi": "Nhà bạn ở đâu?",
+          "py": "Nǐ *jiā* zài nǎr?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhong1guo2",
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "pinyinNum": "zhong1 guo2",
+      "hanViet": "trung quốc",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "Trung Quốc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*中国*很大。",
+          "vi": "Trung Quốc rất rộng lớn.",
+          "py": "*Zhōngguó* hěn dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bei3jing1",
+      "hanzi": "北京",
+      "pinyin": "Běijīng",
+      "pinyinNum": "bei3 jing1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "Bắc Kinh"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*北京*有很多饭馆。",
+          "vi": "Bắc Kinh có rất nhiều quán ăn.",
+          "py": "*Běijīng* yǒu hěn duō fànguǎn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "yi1yuan4",
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "pinyinNum": "yi1 yuan4",
+      "hanViet": "y viện",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "bệnh viện"
+      ],
+      "usage": "",
+      "measureWords": [
+        "所",
+        "家",
+        "座"
+      ],
+      "examples": [
+        {
+          "zh": "她明天去*医院*看医生。",
+          "vi": "Ngày mai cô ấy đi bệnh viện khám bác sĩ.",
+          "py": "Tā míngtiān qù *yīyuàn* kàn yīshēng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi1sheng1"
+      ],
+      "check": false
+    },
+    {
+      "id": "huo3che1zhan4",
+      "hanzi": "火车站",
+      "pinyin": "huǒchēzhàn",
+      "pinyinNum": "huo3 che1 zhan4",
+      "hanViet": "hoả xa trạm",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "ga tàu hỏa"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*火车站*在哪儿？",
+          "vi": "Ga tàu hỏa ở đâu?",
+          "py": "*Huǒchēzhàn* zài nǎr?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "shang4",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "pinyinNum": "shang4",
+      "hanViet": "thượng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "trên",
+        "lên (xe, tàu)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "杯子在桌子*上*。",
+          "vi": "Cái cốc ở trên bàn.",
+          "py": "Bēizi zài zhuōzi *shàng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xia4"
+      ],
+      "check": false
+    },
+    {
+      "id": "xia4",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "pinyinNum": "xia4",
+      "hanViet": "hạ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "dưới",
+        "xuống"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "狗在椅子*下*。",
+          "vi": "Con chó ở dưới ghế.",
+          "py": "Gǒu zài yǐzi *xià*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "shang4"
+      ],
+      "check": false
+    },
+    {
+      "id": "qian2mian",
+      "hanzi": "前面",
+      "pinyin": "qiánmian",
+      "pinyinNum": "qian2 mian",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "phía trước"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "学校*前面*有一个商店。",
+          "vi": "Phía trước trường có một cửa hàng.",
+          "py": "Xuéxiào *qiánmian* yǒu yí ge shāngdiàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hou4mian"
+      ],
+      "check": true
+    },
+    {
+      "id": "hou4mian",
+      "hanzi": "后面",
+      "pinyin": "hòumian",
+      "pinyinNum": "hou4 mian",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "phía sau"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我家*后面*是医院。",
+          "vi": "Phía sau nhà tôi là bệnh viện.",
+          "py": "Wǒ jiā *hòumian* shì yīyuàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qian2mian"
+      ],
+      "check": true
+    },
+    {
+      "id": "li3",
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "pinyinNum": "li3",
+      "hanViet": "lịa",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "trong, bên trong"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "杯子*里*有茶。",
+          "vi": "Trong cốc có trà.",
+          "py": "Bēizi *lǐ* yǒu chá."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zai4",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "pinyinNum": "zai4",
+      "hanViet": "tại",
+      "pos": [
+        "v",
+        "prep",
+        "adv"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ở, tại",
+        "đang (làm gì)"
+      ],
+      "usage": "在 + nơi chốn = ở đâu; 在 + động từ = đang làm: 他在看电视.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我妈妈*在*家。",
+          "vi": "Mẹ tôi ở nhà.",
+          "py": "Wǒ māma *zài* jiā."
+        },
+        {
+          "zh": "他*在*看电视。",
+          "vi": "Anh ấy đang xem ti vi.",
+          "py": "Tā *zài* kàn diànshì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhu4"
+      ],
+      "check": false
+    },
+    {
+      "id": "qu4",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "pinyinNum": "qu4",
+      "hanViet": "khứ",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "đi (đến)"
+      ],
+      "usage": "去 là đi khỏi chỗ người nói; 来 là đến chỗ người nói.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*去*哪儿？",
+          "vi": "Bạn đi đâu?",
+          "py": "Nǐ *qù* nǎr?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "lai2"
+      ],
+      "check": false
+    },
+    {
+      "id": "lai2",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "pinyinNum": "lai2",
+      "hanViet": "lai",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "đến, tới"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "明天你*来*我家吗？",
+          "vi": "Ngày mai bạn đến nhà tôi không?",
+          "py": "Míngtiān nǐ *lái* wǒ jiā ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qu4"
+      ],
+      "check": false
+    },
+    {
+      "id": "hui2",
+      "hanzi": "回",
+      "pinyin": "huí",
+      "pinyinNum": "hui2",
+      "hanViet": "hồi",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "về, trở về"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我想*回*家。",
+          "vi": "Tôi muốn về nhà.",
+          "py": "Wǒ xiǎng *huí* jiā."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhu4",
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "pinyinNum": "zhu4",
+      "hanViet": "trú",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ở, sống (cư trú)"
+      ],
+      "usage": "住 là sống, ở lâu dài (住在北京); 在 chỉ vị trí lúc nói.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*住*在哪儿？",
+          "vi": "Bạn sống ở đâu?",
+          "py": "Nǐ *zhù* zài nǎr?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zai4"
+      ],
+      "check": false
+    },
+    {
+      "id": "fei1ji1",
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "pinyinNum": "fei1 ji1",
+      "hanViet": "phi cơ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "máy bay"
+      ],
+      "usage": "",
+      "measureWords": [
+        "架"
+      ],
+      "examples": [
+        {
+          "zh": "我坐*飞机*去北京。",
+          "vi": "Tôi đi máy bay đến Bắc Kinh.",
+          "py": "Wǒ zuò *fēijī* qù Běijīng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "chu1zu1che1",
+      "hanzi": "出租车",
+      "pinyin": "chūzūchē",
+      "pinyinNum": "chu1 zu1 che1",
+      "hanViet": "xuất tô xa",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "xe taxi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们坐*出租车*去火车站。",
+          "vi": "Chúng tôi đi taxi ra ga tàu.",
+          "py": "Wǒmen zuò *chūzūchē* qù huǒchēzhàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zuo4",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "pinyinNum": "zuo4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "ngồi",
+        "đi (xe, tàu, máy bay)"
+      ],
+      "usage": "Đi phương tiện: 坐飞机, 坐出租车.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他*坐*在我前面。",
+          "vi": "Anh ấy ngồi phía trước tôi.",
+          "py": "Tā *zuò* zài wǒ qiánmian."
+        },
+        {
+          "zh": "我们*坐*出租车回家。",
+          "vi": "Chúng tôi đi taxi về nhà.",
+          "py": "Wǒmen *zuò* chūzūchē huí jiā."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "kai1",
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "pinyinNum": "kai1",
+      "hanViet": "khai",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "lái (xe)",
+        "mở"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他会*开*出租车。",
+          "vi": "Anh ấy biết lái taxi.",
+          "py": "Tā huì *kāi* chūzūchē."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "tian1qi4",
+      "hanzi": "天气",
+      "pinyin": "tiānqì",
+      "pinyinNum": "tian1 qi4",
+      "hanViet": "thiên khí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "thời tiết"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "明天*天气*很好。",
+          "vi": "Ngày mai thời tiết rất đẹp.",
+          "py": "Míngtiān *tiānqì* hěn hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "leng3",
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "pinyinNum": "leng3",
+      "hanViet": "lạnh",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "lạnh"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "今天很*冷*。",
+          "vi": "Hôm nay rất lạnh.",
+          "py": "Jīntiān hěn *lěng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "re4"
+      ],
+      "check": true
+    },
+    {
+      "id": "re4",
+      "hanzi": "热",
+      "pinyin": "rè",
+      "pinyinNum": "re4",
+      "hanViet": "nhiệt",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "nóng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我很*热*，想喝水。",
+          "vi": "Tôi nóng quá, muốn uống nước.",
+          "py": "Wǒ hěn *rè*, xiǎng hē shuǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "leng3"
+      ],
+      "check": false
+    },
+    {
+      "id": "xia4yu3",
+      "hanzi": "下雨",
+      "pinyin": "xiàyǔ",
+      "pinyinNum": "xia4 yu3",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 1,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "mưa, trời mưa"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "明天会*下雨*吗？",
+          "vi": "Ngày mai có mưa không?",
+          "py": "Míngtiān huì *xiàyǔ* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我想坐{0}去中国。",
+      "options": [
+        "飞机",
+        "椅子",
+        "桌子",
+        "电脑"
+      ],
+      "answer": "飞机",
+      "targets": [
+        "fei1ji1"
+      ],
+      "explanation": "坐飞机 = đi máy bay.",
+      "id": "hsk1-noi-chon-di-lai-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "你{0}在哪儿？我住在北京。",
+      "options": [
+        "住",
+        "去",
+        "来",
+        "回"
+      ],
+      "answer": "住",
+      "targets": [
+        "zhu4"
+      ],
+      "explanation": "Hỏi chỗ sống: 你住在哪儿？",
+      "id": "hsk1-noi-chon-di-lai-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "你几点{0}家？",
+      "options": [
+        "回",
+        "去",
+        "来",
+        "住"
+      ],
+      "answer": "回",
+      "targets": [
+        "hui2"
+      ],
+      "explanation": "回家 = về nhà.",
+      "id": "hsk1-noi-chon-di-lai-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "我们坐{0}去医院。",
+      "options": [
+        "出租车",
+        "桌子",
+        "天气",
+        "北京"
+      ],
+      "answer": "出租车",
+      "targets": [
+        "chu1zu1che1"
+      ],
+      "explanation": "坐出租车 = đi taxi.",
+      "id": "hsk1-noi-chon-di-lai-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "今天会{0}吗？",
+      "options": [
+        "下雨",
+        "天气",
+        "飞机",
+        "北京"
+      ],
+      "answer": "下雨",
+      "targets": [
+        "xia4yu3"
+      ],
+      "explanation": "会 + động từ = có khả năng sẽ xảy ra.",
+      "id": "hsk1-noi-chon-di-lai-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "他会{0}出租车。",
+      "options": [
+        "开",
+        "回",
+        "住",
+        "来"
+      ],
+      "answer": "开",
+      "targets": [
+        "kai1"
+      ],
+      "explanation": "开车 = lái xe.",
+      "id": "hsk1-noi-chon-di-lai-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "医院",
+        "后面",
+        "有",
+        "一个",
+        "饭馆"
+      ],
+      "answers": [
+        [
+          "医院",
+          "后面",
+          "有",
+          "一个",
+          "饭馆"
+        ]
+      ],
+      "targets": [
+        "yi1yuan4",
+        "hou4mian"
+      ],
+      "vi": "Phía sau bệnh viện có một quán ăn.",
+      "id": "hsk1-noi-chon-di-lai-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "明天",
+        "坐",
+        "飞机",
+        "回",
+        "家"
+      ],
+      "answers": [
+        [
+          "我",
+          "明天",
+          "坐",
+          "飞机",
+          "回",
+          "家"
+        ],
+        [
+          "明天",
+          "我",
+          "坐",
+          "飞机",
+          "回",
+          "家"
+        ]
+      ],
+      "targets": [
+        "zuo4",
+        "fei1ji1",
+        "hui2"
+      ],
+      "vi": "Ngày mai tôi đi máy bay về nhà.",
+      "id": "hsk1-noi-chon-di-lai-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "爸爸",
+        "住",
+        "在",
+        "北京"
+      ],
+      "answers": [
+        [
+          "我",
+          "爸爸",
+          "住",
+          "在",
+          "北京"
+        ]
+      ],
+      "targets": [
+        "zhu4",
+        "bei3jing1"
+      ],
+      "vi": "Bố tôi sống ở Bắc Kinh.",
+      "id": "hsk1-noi-chon-di-lai-order-03"
+    }
+  ]
+}

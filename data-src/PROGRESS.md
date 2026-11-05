@@ -11,7 +11,7 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 1 | hsk1-so-dem-thoi-gian | Số đếm, thời gian | 30 | 6 fill, 4 order | xong | 一 二 三 四 五 六 七 八 九 十 零 个 本 块 些 岁 点 分钟 现在 今天 明天 昨天 年 月 日 星期 上午 中午 下午 时候 |
 | 1 | hsk1-gia-dinh-truong-hoc | Gia đình, trường học | 22 | 5 fill, 3 order | xong | 爸爸 妈妈 儿子 女儿 人 先生 小姐 朋友 同学 老师 学生 医生 工作 学校 学习 汉语 字 书 读 写 猫 狗 |
 | 1 | hsk1-an-uong-mua-sam | Ăn uống, mua sắm | 20 | 5 fill, 3 order | xong | 吃 喝 菜 茶 水 米饭 水果 苹果 杯子 饭馆 钱 买 东西 衣服 商店 桌子 椅子 电脑 电视 电影 |
-| 1 | hsk1-noi-chon-di-lai | Nơi chốn, đi lại, thời tiết | 23 |  | chưa làm | 家 中国 北京 医院 火车站 上 下 前面 后面 里 在 去 来 回 住 飞机 出租车 坐 开 天气 冷 热 下雨 |
+| 1 | hsk1-noi-chon-di-lai | Nơi chốn, đi lại, thời tiết | 23 | 6 fill, 3 order | xong | 家 中国 北京 医院 火车站 上 下 前面 后面 里 在 去 来 回 住 飞机 出租车 坐 开 天气 冷 热 下雨 |
 | 1 | hsk1-hoat-dong-tinh-tu | Hoạt động, tính chất | 19 |  | chưa làm | 看 看见 听 说话 睡觉 打电话 做 有 爱 喜欢 想 会 能 大 小 多 少 好 漂亮 |
 | 1 | hsk1-hu-tu | Hư từ | 10 |  | chưa làm | 不 没 很 太 都 和 的 了 吗 呢 |
 | 1 | **Cộng** | | **150 / 150** | | | |
@@ -83,6 +83,14 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 1 | hsk1-an-uong-mua-sam | 电脑 | diànnǎo | — |
 | 1 | hsk1-an-uong-mua-sam | 电视 | diànshì | — |
 | 1 | hsk1-an-uong-mua-sam | 电影 | diànyǐng | — |
+| 1 | hsk1-noi-chon-di-lai | 北京 | Běijīng | — |
+| 1 | hsk1-noi-chon-di-lai | 前面 | qiánmian | — |
+| 1 | hsk1-noi-chon-di-lai | 后面 | hòumian | — |
+| 1 | hsk1-noi-chon-di-lai | 里 | lǐ | lịa |
+| 1 | hsk1-noi-chon-di-lai | 出租车 | chūzūchē | xuất tô xa |
+| 1 | hsk1-noi-chon-di-lai | 坐 | zuò | — |
+| 1 | hsk1-noi-chon-di-lai | 冷 | lěng | lạnh |
+| 1 | hsk1-noi-chon-di-lai | 下雨 | xiàyǔ | — |
 
 ## Âm Hán Việt cần xem
 
@@ -99,6 +107,8 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 吃 | khật | ngật |
 | 苹 | tần | bình |
 | 子 | tí | tử |
+| 里 | lịa | lý |
+| 冷 | lạnh | lãnh |
 
 ## Lỗi giao diện ghi nhận
 
