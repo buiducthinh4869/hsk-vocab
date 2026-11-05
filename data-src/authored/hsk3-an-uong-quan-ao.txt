@@ -1,0 +1,65 @@
+# id: hsk3-an-uong-quan-ao
+# level: 3
+# title: Ăn uống, quần áo
+# order: 3
+@菜单 | thực đơn
+- 服务员，请给我*菜单*。 = Phục vụ ơi, cho tôi xem thực đơn.
+@蛋糕 | bánh ngọt, bánh gato
+- 我给妈妈买了一个生日*蛋糕*。 = Tôi mua cho mẹ một cái bánh sinh nhật.
+@面包 | bánh mì | c: 面条
+- 早上我吃*面包*，喝牛奶。 = Buổi sáng tôi ăn bánh mì, uống sữa.
+@面条 | mì sợi | c: 面包
+- 中国北方人很喜欢吃*面条*。 = Người miền Bắc Trung Quốc rất thích ăn mì.
+@果汁 | nước hoa quả, nước ép
+- 你要喝*果汁*还是咖啡？ = Bạn muốn uống nước hoa quả hay cà phê?
+@啤酒 | bia
+- 爸爸晚上喜欢喝*啤酒*。 = Bố thích uống bia buổi tối.
+@葡萄 pútao | nho
+- 这些*葡萄*很甜。 = Chỗ nho này rất ngọt.
+@香蕉 | chuối
+- 我买了一公斤*香蕉*。 = Tôi mua một cân chuối.
+@糖 | đường; kẹo | c: 甜
+- 咖啡里别放*糖*。 = Đừng cho đường vào cà phê.
+@甜 | ngọt | c: 糖
+- 这个蛋糕太*甜*了。 = Cái bánh này ngọt quá.
+@新鲜 | tươi, tươi mới | c: 新
+- 这些水果很*新鲜*。 = Chỗ hoa quả này rất tươi.
+@盘子 | cái đĩa | c: 碗
+- 请把*盘子*放在桌子上。 = Hãy đặt đĩa lên bàn.
+@碗 | cái bát, cái chén; bát (lượng từ) | c: 盘子
+- 我吃了两*碗*米饭。 = Tôi ăn hai bát cơm.
+@筷子 | đôi đũa, chiếc đũa
+- 你会用*筷子*吗？ = Bạn biết dùng đũa không?
+@冰箱 | tủ lạnh
+- 牛奶在*冰箱*里。 = Sữa ở trong tủ lạnh.
+@厨房 | nhà bếp
+- 妈妈在*厨房*里做菜。 = Mẹ đang nấu ăn trong bếp.
+@衬衫 | áo sơ mi
+- 他今天穿了一件白*衬衫*。 = Hôm nay anh ấy mặc một chiếc áo sơ mi trắng.
+@裤子 | quần (dài) | c: 裙子
+- 这条*裤子*太长了。 = Cái quần này dài quá.
+@裙子 | váy | c: 裤子
+- 你穿这条*裙子*真漂亮！ = Bạn mặc chiếc váy này đẹp thật!
+@帽子 | mũ, nón
+- 你的*帽子*在哪儿买的？ = Mũ của bạn mua ở đâu thế?
+@鞋 | giày
+- 我想买一双新*鞋*。 = Tôi muốn mua một đôi giày mới.
+@眼镜 | kính (đeo mắt) | hv: nhãn kẻng | u: 眼镜 (yǎnjìng) là kính; 眼睛 (yǎnjing) là mắt. | c: 眼睛
+- 我找不到我的*眼镜*了。 = Tôi không tìm thấy kính của mình.
+@伞 | cái ô, cái dù
+- 要下雨了，带*伞*吧。 = Sắp mưa rồi, mang ô đi.
+@换 | đổi, thay
+- 我想*换*一件衣服。 = Tôi muốn thay chiếc áo khác.
+@双 | đôi (lượng từ cho vật đi thành đôi) | pos: mw
+- 这*双*筷子是新的。 = Đôi đũa này là mới.
+F 我想吃一{0}面条。 | 碗* 双 件 张 | e: Món nước đựng trong bát: 一碗面条.
+F 我买了一{0}鞋。 | 双* 件 张 碗 | e: Giày đi thành đôi: 一双鞋.
+F 服务员，请给我{0}，我想点菜。 | 菜单* 冰箱 厨房 伞 | e: Gọi món thì cần thực đơn.
+F 这个蛋糕太{0}了，我不想吃了。 | 甜* 新鲜 年轻 聪明 | e: 太甜了 = ngọt quá.
+F 下雨了，你带{0}了吗？ | 伞* 糖 碗 葡萄 | e: Trời mưa thì mang ô.
+F 这件衬衫太小了，我想{0}一件大的。 | 换* 洗 刷 渴 | e: 换 = đổi.
+O 冰箱 里 有 很 多 水果 | vi: Trong tủ lạnh có rất nhiều hoa quả. | t: 冰箱
+O 我 想 换 一双 鞋 | vi: Tôi muốn đổi một đôi giày. | t: 换 双 鞋
+O 她 穿 着 一条 红 裙子 | vi: Cô ấy đang mặc một chiếc váy đỏ. | t: 裙子
+O 请 把 碗 放 在 厨房 里 | vi: Hãy để bát vào trong bếp. | t: 碗 厨房
+O 这些 香蕉 很 新鲜 | vi: Chỗ chuối này rất tươi. | t: 香蕉 新鲜

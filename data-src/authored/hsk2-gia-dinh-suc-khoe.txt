@@ -34,7 +34,7 @@
 - *生日*快乐！ = Chúc mừng sinh nhật!
 @身体 | cơ thể; sức khỏe
 - 你*身体*怎么样？ = Sức khỏe bạn thế nào?
-@眼睛 | mắt
+@眼睛 | mắt | c: 眼镜
 - 她的*眼睛*很大。 = Mắt cô ấy rất to.
 @生病 | bị ốm, bị bệnh | u: 生病 không mang tân ngữ phía sau.
 - 我*生病*了，今天不去上班。 = Tôi bị ốm rồi, hôm nay không đi làm.

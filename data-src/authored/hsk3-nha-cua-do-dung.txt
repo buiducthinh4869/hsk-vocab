@@ -1,0 +1,67 @@
+# id: hsk3-nha-cua-do-dung
+# level: 3
+# title: Nhà cửa, đồ dùng
+# order: 4
+@楼 | tòa nhà (nhiều tầng); tầng | u: 三号楼 = tòa nhà số 3; 三楼 cũng có nghĩa là tầng 3. | c: 层
+- 我住在三号*楼*。 = Tôi ở tòa nhà số 3.
+@层 | tầng, lớp | c: 楼
+- 我家在十二*层*。 = Nhà tôi ở tầng 12.
+@电梯 | thang máy
+- 我们坐*电梯*上去吧。 = Chúng ta đi thang máy lên nhé.
+@灯 | đèn
+- 房间里的*灯*坏了。 = Đèn trong phòng hỏng rồi.
+@空调 | máy điều hòa
+- 太热了，开*空调*吧。 = Nóng quá, bật điều hòa đi.
+@洗手间 | nhà vệ sinh
+- 请问，*洗手间*在哪儿？ = Xin hỏi nhà vệ sinh ở đâu?
+@洗澡 | tắm
+- 我先*洗澡*，然后睡觉。 = Tôi tắm trước rồi đi ngủ.
+@刷 shuā | chải, cọ, đánh (bằng bàn chải)
+- 我来*刷*碗吧。 = Để tôi rửa bát cho.
+@打扫 | quét dọn, dọn dẹp | c: 干净
+- 周末我要*打扫*房间。 = Cuối tuần tôi phải dọn phòng.
+@干净 | sạch, sạch sẽ
+- 你的房间真*干净*！ = Phòng bạn sạch thật!
+@搬 | chuyển, dọn (nhà); khiêng | c: 拿
+- 我们下个月*搬*家。 = Tháng sau chúng tôi chuyển nhà.
+@放 | đặt, để
+- 你把书*放*在哪儿了？ = Bạn để sách ở đâu rồi?
+@拿 | cầm, lấy | c: 带
+- 我去*拿*我的包。 = Tôi đi lấy cái túi của tôi.
+@带 | mang theo; dẫn | u: 带 là mang theo người; 拿 là cầm bằng tay. | c: 拿
+- 你*带*护照了吗？ = Bạn mang hộ chiếu chưa?
+@坏 | hỏng; xấu, tồi
+- 我的手机*坏*了。 = Điện thoại của tôi hỏng rồi.
+@照相机 | máy ảnh | c: 照片
+- 这个*照相机*是新买的。 = Cái máy ảnh này mới mua.
+@照片 | ảnh, bức ảnh | c: 照相机
+- 这是我在北京的*照片*。 = Đây là ảnh tôi ở Bắc Kinh.
+@电子 | điện tử
+- 他在一家*电子*公司工作。 = Anh ấy làm việc ở một công ty điện tử.
+@行李箱 | va li
+- 我的*行李箱*是蓝的。 = Va li của tôi màu xanh lam.
+@护照 | hộ chiếu
+- 我的*护照*找不到了。 = Hộ chiếu của tôi không tìm thấy nữa.
+@铅笔 | bút chì
+- 我能用你的*铅笔*吗？ = Tôi dùng bút chì của bạn được không?
+@黑板 | bảng đen
+- 老师在*黑板*上写字。 = Thầy viết chữ lên bảng.
+@字典 | từ điển (tra chữ)
+- 这本*字典*很有用。 = Cuốn từ điển này rất có ích.
+@信 | thư; tin, tin tưởng
+- 这是谁写的*信*？ = Đây là thư ai viết?
+@礼物 | quà, món quà
+- 这是我送你的生日*礼物*。 = Đây là quà sinh nhật tôi tặng bạn.
+@包 bāo | túi, cặp; gói, bọc
+- 我的*包*里有一本书。 = Trong túi tôi có một quyển sách.
+F 我的办公室在五{0}。 | 层* 张 双 位 | e: Tầng dùng 层.
+F 房间太热了，我们开{0}吧。 | 空调* 电梯 字典 信 | e: Nóng thì bật điều hòa.
+F 我的手机{0}了，不能打电话。 | 坏* 干净 新鲜 甜 | e: 坏了 = hỏng rồi.
+F 去北京要{0}护照。 | 带* 搬 刷 放 | e: 带 = mang theo.
+F 请用{0}写名字。 | 铅笔* 黑板 字典 照片 | e: Viết bằng bút chì.
+F 我们一起{0}房间吧。 | 打扫* 洗澡 干净 坏 | e: 打扫房间 = dọn phòng.
+O 请 把 灯 关 了 | vi: Làm ơn tắt đèn đi. | t: 灯
+O 你 把 照片 放 在 哪儿 了 | vi: Bạn để ảnh ở đâu rồi? | t: 照片 放
+O 洗手间 在 二 层 | vi: Nhà vệ sinh ở tầng 2. | t: 洗手间 层
+O 这 是 我 送 给 你 的 礼物 | vi: Đây là quà tôi tặng bạn. | t: 礼物
+O 他 把 房间 打扫 得 很 干净 | vi: Anh ấy dọn phòng rất sạch. | t: 打扫 干净

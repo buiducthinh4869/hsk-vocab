@@ -25,8 +25,8 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 2 | **Cộng** | | **147 / 147** | | | |
 | 3 | hsk3-con-nguoi | Con người, cơ thể | 25 | 5 fill, 5 order | xong | 阿姨 爷爷 奶奶 叔叔 邻居 客人 同事 经理 校长 司机 别人 自己 鼻子 耳朵 脸 头发 脚 腿 矮 胖 瘦 年轻 聪明 可爱 健康 |
 | 3 | hsk3-cam-xuc-suc-khoe | Cảm xúc, sức khỏe | 25 | 6 fill, 5 order | xong | 担心 害怕 生气 难过 着急 放心 满意 关心 热情 认真 努力 奇怪 舒服 疼 饿 饱 渴 感冒 发烧 哭 小心 相信 愿意 敢 同意 |
-| 3 | hsk3-an-uong-quan-ao | Ăn uống, quần áo | 25 |  | chưa làm | 菜单 蛋糕 面包 面条 果汁 啤酒 葡萄 香蕉 糖 甜 新鲜 盘子 碗 筷子 冰箱 厨房 衬衫 裤子 裙子 帽子 鞋 眼镜 伞 换 双 |
-| 3 | hsk3-nha-cua-do-dung | Nhà cửa, đồ dùng | 26 |  | chưa làm | 楼 层 电梯 灯 空调 洗手间 洗澡 刷 打扫 干净 搬 放 拿 带 坏 照相机 照片 电子 行李箱 护照 铅笔 黑板 字典 信 礼物 包 |
+| 3 | hsk3-an-uong-quan-ao | Ăn uống, quần áo | 25 | 6 fill, 5 order | xong | 菜单 蛋糕 面包 面条 果汁 啤酒 葡萄 香蕉 糖 甜 新鲜 盘子 碗 筷子 冰箱 厨房 衬衫 裤子 裙子 帽子 鞋 眼镜 伞 换 双 |
+| 3 | hsk3-nha-cua-do-dung | Nhà cửa, đồ dùng | 26 | 6 fill, 5 order | xong | 楼 层 电梯 灯 空调 洗手间 洗澡 刷 打扫 干净 搬 放 拿 带 坏 照相机 照片 电子 行李箱 护照 铅笔 黑板 字典 信 礼物 包 |
 | 3 | hsk3-thanh-pho-di-lai | Thành phố, đi lại | 26 |  | chưa làm | 城市 街道 附近 地方 地铁 地图 公园 花园 超市 银行 宾馆 图书馆 办公室 中间 东 西 南 北方 骑 辆 站 经过 离开 迟到 遇到 接 |
 | 3 | hsk3-thoi-gian-thien-nhien | Thời gian, thiên nhiên | 27 |  | chưa làm | 春 夏 秋 冬 季节 周末 节日 刻 半 以前 以后 过去 最近 刚才 马上 太阳 月亮 云 刮 河 树 草 花 鸟 动物 熊猫 马 |
 | 3 | hsk3-hoc-tap-cong-viec | Học tập, công việc | 26 |  | chưa làm | 班 年级 数学 历史 体育 作业 复习 练习 句子 词语 普通话 成绩 水平 检查 讲 教 明白 清楚 了解 记得 忘记 会议 举行 参加 完成 结束 |
@@ -186,6 +186,32 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 3 | hsk3-cam-xuc-suc-khoe | 饱 | bǎo | — |
 | 3 | hsk3-cam-xuc-suc-khoe | 哭 | kū | khóc |
 | 3 | hsk3-cam-xuc-suc-khoe | 敢 | gǎn | cám |
+| 3 | hsk3-an-uong-quan-ao | 菜单 | càidān | — |
+| 3 | hsk3-an-uong-quan-ao | 蛋糕 | dàngāo | — |
+| 3 | hsk3-an-uong-quan-ao | 面包 | miànbāo | — |
+| 3 | hsk3-an-uong-quan-ao | 面条 | miàntiáo | — |
+| 3 | hsk3-an-uong-quan-ao | 啤酒 | píjiǔ | — |
+| 3 | hsk3-an-uong-quan-ao | 葡萄 | pútao | — |
+| 3 | hsk3-an-uong-quan-ao | 甜 | tián | — |
+| 3 | hsk3-an-uong-quan-ao | 盘子 | pánzi | bàn tí |
+| 3 | hsk3-an-uong-quan-ao | 碗 | wǎn | — |
+| 3 | hsk3-an-uong-quan-ao | 筷子 | kuàizi | — |
+| 3 | hsk3-an-uong-quan-ao | 厨房 | chúfáng | chù phòng |
+| 3 | hsk3-an-uong-quan-ao | 衬衫 | chènshān | — |
+| 3 | hsk3-an-uong-quan-ao | 裤子 | kùzi | khố tí |
+| 3 | hsk3-an-uong-quan-ao | 裙子 | qúnzi | quần tí |
+| 3 | hsk3-an-uong-quan-ao | 帽子 | màozi | mão tí |
+| 3 | hsk3-an-uong-quan-ao | 眼镜 | yǎnjìng | nhãn kẻng |
+| 3 | hsk3-an-uong-quan-ao | 伞 | sǎn | tàn |
+| 3 | hsk3-an-uong-quan-ao | 换 | huàn | — |
+| 3 | hsk3-nha-cua-do-dung | 电梯 | diàntī | — |
+| 3 | hsk3-nha-cua-do-dung | 洗澡 | xǐzǎo | — |
+| 3 | hsk3-nha-cua-do-dung | 刷 | shuā | loát |
+| 3 | hsk3-nha-cua-do-dung | 干净 | gānjìng | — |
+| 3 | hsk3-nha-cua-do-dung | 搬 | bān | bưng |
+| 3 | hsk3-nha-cua-do-dung | 带 | dài | đai |
+| 3 | hsk3-nha-cua-do-dung | 电子 | diànzǐ | — |
+| 3 | hsk3-nha-cua-do-dung | 黑板 | hēibǎn | hắc ván |
 
 ## Âm Hán Việt cần xem
 
@@ -227,6 +253,12 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 胖 | bỡn | bàn |
 | 敢 | cám | cảm |
 | 哭 | khóc | khốc |
+| 镜 | kẻng | kính |
+| 伞 | tàn | tản |
+| 搬 | bưng | ban |
+| 带 | đai | đới |
+| 板 | ván | bản |
+| 厨 | chù | trù |
 
 ## Lỗi giao diện ghi nhận
 

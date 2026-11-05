@@ -1,0 +1,1038 @@
+{
+  "id": "hsk3-nha-cua-do-dung",
+  "level": 3,
+  "title": "Nhà cửa, đồ dùng",
+  "order": 4,
+  "words": [
+    {
+      "id": "lou2",
+      "hanzi": "楼",
+      "pinyin": "lóu",
+      "pinyinNum": "lou2",
+      "hanViet": "lầu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "tòa nhà (nhiều tầng)",
+        "tầng"
+      ],
+      "usage": "三号楼 = tòa nhà số 3; 三楼 cũng có nghĩa là tầng 3.",
+      "measureWords": [
+        "层",
+        "座",
+        "栋"
+      ],
+      "examples": [
+        {
+          "zh": "我住在三号*楼*。",
+          "vi": "Tôi ở tòa nhà số 3.",
+          "py": "Wǒ zhù zài sān hào *lóu*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ceng2"
+      ],
+      "check": false
+    },
+    {
+      "id": "ceng2",
+      "hanzi": "层",
+      "pinyin": "céng",
+      "pinyinNum": "ceng2",
+      "hanViet": "tầng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tầng, lớp"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我家在十二*层*。",
+          "vi": "Nhà tôi ở tầng 12.",
+          "py": "Wǒ jiā zài shí èr *céng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "lou2"
+      ],
+      "check": false
+    },
+    {
+      "id": "dian4ti1",
+      "hanzi": "电梯",
+      "pinyin": "diàntī",
+      "pinyinNum": "dian4 ti1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "thang máy"
+      ],
+      "usage": "",
+      "measureWords": [
+        "台",
+        "部"
+      ],
+      "examples": [
+        {
+          "zh": "我们坐*电梯*上去吧。",
+          "vi": "Chúng ta đi thang máy lên nhé.",
+          "py": "Wǒmen zuò *diàntī* shàng qù ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "deng1",
+      "hanzi": "灯",
+      "pinyin": "dēng",
+      "pinyinNum": "deng1",
+      "hanViet": "đăng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "đèn"
+      ],
+      "usage": "",
+      "measureWords": [
+        "盏"
+      ],
+      "examples": [
+        {
+          "zh": "房间里的*灯*坏了。",
+          "vi": "Đèn trong phòng hỏng rồi.",
+          "py": "Fángjiān lǐ de *dēng* huài le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "kong1tiao2",
+      "hanzi": "空调",
+      "pinyin": "kōngtiáo",
+      "pinyinNum": "kong1 tiao2",
+      "hanViet": "không điều",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "máy điều hòa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "台"
+      ],
+      "examples": [
+        {
+          "zh": "太热了，开*空调*吧。",
+          "vi": "Nóng quá, bật điều hòa đi.",
+          "py": "Tài rè le, kāi *kōngtiáo* ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xi3shou3jian1",
+      "hanzi": "洗手间",
+      "pinyin": "xǐshǒujiān",
+      "pinyinNum": "xi3 shou3 jian1",
+      "hanViet": "tẩy thủ gian",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "nhà vệ sinh"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "请问，*洗手间*在哪儿？",
+          "vi": "Xin hỏi nhà vệ sinh ở đâu?",
+          "py": "Qǐng wèn, *xǐshǒujiān* zài nǎr?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xi3zao3",
+      "hanzi": "洗澡",
+      "pinyin": "xǐzǎo",
+      "pinyinNum": "xi3 zao3",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tắm"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我先*洗澡*，然后睡觉。",
+          "vi": "Tôi tắm trước rồi đi ngủ.",
+          "py": "Wǒ xiān *xǐzǎo*, ránhòu shuìjiào."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "shua1",
+      "hanzi": "刷",
+      "pinyin": "shuā",
+      "pinyinNum": "shua1",
+      "hanViet": "loát",
+      "pos": [
+        "v",
+        "interj"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "chải, cọ, đánh (bằng bàn chải)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我来*刷*碗吧。",
+          "vi": "Để tôi rửa bát cho.",
+          "py": "Wǒ lái *shuā* wǎn ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "da3sao3",
+      "hanzi": "打扫",
+      "pinyin": "dǎsǎo",
+      "pinyinNum": "da3 sao3",
+      "hanViet": "đả tảo",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "quét dọn, dọn dẹp"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "周末我要*打扫*房间。",
+          "vi": "Cuối tuần tôi phải dọn phòng.",
+          "py": "Zhōumò wǒ yào *dǎsǎo* fángjiān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "gan1jing4"
+      ],
+      "check": false
+    },
+    {
+      "id": "gan1jing4",
+      "hanzi": "干净",
+      "pinyin": "gānjìng",
+      "pinyinNum": "gan1 jing4",
+      "hanViet": null,
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "sạch, sạch sẽ"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你的房间真*干净*！",
+          "vi": "Phòng bạn sạch thật!",
+          "py": "Nǐ de fángjiān zhēn *gānjìng*!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ban1",
+      "hanzi": "搬",
+      "pinyin": "bān",
+      "pinyinNum": "ban1",
+      "hanViet": "bưng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "chuyển, dọn (nhà)",
+        "khiêng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们下个月*搬*家。",
+          "vi": "Tháng sau chúng tôi chuyển nhà.",
+          "py": "Wǒmen xià ge yuè *bān* jiā."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "na2"
+      ],
+      "check": true
+    },
+    {
+      "id": "fang4",
+      "hanzi": "放",
+      "pinyin": "fàng",
+      "pinyinNum": "fang4",
+      "hanViet": "phóng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "đặt, để"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你把书*放*在哪儿了？",
+          "vi": "Bạn để sách ở đâu rồi?",
+          "py": "Nǐ bǎ shū *fàng* zài nǎr le?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "na2",
+      "hanzi": "拿",
+      "pinyin": "ná",
+      "pinyinNum": "na2",
+      "hanViet": "nã",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "cầm, lấy"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我去*拿*我的包。",
+          "vi": "Tôi đi lấy cái túi của tôi.",
+          "py": "Wǒ qù *ná* wǒ de bāo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dai4"
+      ],
+      "check": false
+    },
+    {
+      "id": "dai4",
+      "hanzi": "带",
+      "pinyin": "dài",
+      "pinyinNum": "dai4",
+      "hanViet": "đai",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "mang theo",
+        "dẫn"
+      ],
+      "usage": "带 là mang theo người; 拿 là cầm bằng tay.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*带*护照了吗？",
+          "vi": "Bạn mang hộ chiếu chưa?",
+          "py": "Nǐ *dài* hùzhào le ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "na2"
+      ],
+      "check": true
+    },
+    {
+      "id": "huai4",
+      "hanzi": "坏",
+      "pinyin": "huài",
+      "pinyinNum": "huai4",
+      "hanViet": "hoại",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "hỏng",
+        "xấu, tồi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我的手机*坏*了。",
+          "vi": "Điện thoại của tôi hỏng rồi.",
+          "py": "Wǒ de shǒujī *huài* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhao4xiang4ji1",
+      "hanzi": "照相机",
+      "pinyin": "zhàoxiàngjī",
+      "pinyinNum": "zhao4 xiang4 ji1",
+      "hanViet": "chiếu tương cơ",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "máy ảnh"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "架",
+        "部",
+        "台",
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "这个*照相机*是新买的。",
+          "vi": "Cái máy ảnh này mới mua.",
+          "py": "Zhège *zhàoxiàngjī* shì xīn mǎi de."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhao4pian4"
+      ],
+      "check": false
+    },
+    {
+      "id": "zhao4pian4",
+      "hanzi": "照片",
+      "pinyin": "zhàopiàn",
+      "pinyinNum": "zhao4 pian4",
+      "hanViet": "chiếu phiến",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "ảnh, bức ảnh"
+      ],
+      "usage": "",
+      "measureWords": [
+        "张",
+        "套",
+        "幅"
+      ],
+      "examples": [
+        {
+          "zh": "这是我在北京的*照片*。",
+          "vi": "Đây là ảnh tôi ở Bắc Kinh.",
+          "py": "Zhè shì wǒ zài Běijīng de *zhàopiàn*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhao4xiang4ji1"
+      ],
+      "check": false
+    },
+    {
+      "id": "dian4zi3",
+      "hanzi": "电子",
+      "pinyin": "diànzǐ",
+      "pinyinNum": "dian4 zi3",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "điện tử"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他在一家*电子*公司工作。",
+          "vi": "Anh ấy làm việc ở một công ty điện tử.",
+          "py": "Tā zài yì jiā *diànzǐ* gōngsī gōngzuò."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xing2lixiang1",
+      "hanzi": "行李箱",
+      "pinyin": "xínglixiāng",
+      "pinyinNum": "xing2 li xiang1",
+      "hanViet": "hàng lí rương",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "va li"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我的*行李箱*是蓝的。",
+          "vi": "Va li của tôi màu xanh lam.",
+          "py": "Wǒ de *xínglixiāng* shì lán de."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "hu4zhao4",
+      "hanzi": "护照",
+      "pinyin": "hùzhào",
+      "pinyinNum": "hu4 zhao4",
+      "hanViet": "hộ chiếu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "hộ chiếu"
+      ],
+      "usage": "",
+      "measureWords": [
+        "本",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我的*护照*找不到了。",
+          "vi": "Hộ chiếu của tôi không tìm thấy nữa.",
+          "py": "Wǒ de *hùzhào* zhǎo bú dào le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "qian1bi3",
+      "hanzi": "铅笔",
+      "pinyin": "qiānbǐ",
+      "pinyinNum": "qian1 bi3",
+      "hanViet": "duyên bút",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 6,
+      "common": 1,
+      "meaning": [
+        "bút chì"
+      ],
+      "usage": "",
+      "measureWords": [
+        "支",
+        "枝",
+        "杆"
+      ],
+      "examples": [
+        {
+          "zh": "我能用你的*铅笔*吗？",
+          "vi": "Tôi dùng bút chì của bạn được không?",
+          "py": "Wǒ néng yòng nǐ de *qiānbǐ* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "hei1ban3",
+      "hanzi": "黑板",
+      "pinyin": "hēibǎn",
+      "pinyinNum": "hei1 ban3",
+      "hanViet": "hắc ván",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "bảng đen"
+      ],
+      "usage": "",
+      "measureWords": [
+        "块",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "老师在*黑板*上写字。",
+          "vi": "Thầy viết chữ lên bảng.",
+          "py": "Lǎoshī zài *hēibǎn* shàng xiě zì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zi4dian3",
+      "hanzi": "字典",
+      "pinyin": "zìdiǎn",
+      "pinyinNum": "zi4 dian3",
+      "hanViet": "tự điển",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "từ điển (tra chữ)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "本"
+      ],
+      "examples": [
+        {
+          "zh": "这本*字典*很有用。",
+          "vi": "Cuốn từ điển này rất có ích.",
+          "py": "Zhè běn *zìdiǎn* hěn yǒu yòng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xin4",
+      "hanzi": "信",
+      "pinyin": "xìn",
+      "pinyinNum": "xin4",
+      "hanViet": "tín",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "thư",
+        "tin, tin tưởng"
+      ],
+      "usage": "",
+      "measureWords": [
+        "封"
+      ],
+      "examples": [
+        {
+          "zh": "这是谁写的*信*？",
+          "vi": "Đây là thư ai viết?",
+          "py": "Zhè shì shéi xiě de *xìn*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "li3wu4",
+      "hanzi": "礼物",
+      "pinyin": "lǐwù",
+      "pinyinNum": "li3 wu4",
+      "hanViet": "lễ vật",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "quà, món quà"
+      ],
+      "usage": "",
+      "measureWords": [
+        "件",
+        "个",
+        "份"
+      ],
+      "examples": [
+        {
+          "zh": "这是我送你的生日*礼物*。",
+          "vi": "Đây là quà sinh nhật tôi tặng bạn.",
+          "py": "Zhè shì wǒ sòng nǐ de shēngrì *lǐwù*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bao1",
+      "hanzi": "包",
+      "pinyin": "bāo",
+      "pinyinNum": "bao1",
+      "hanViet": "bao",
+      "pos": [
+        "v",
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "túi, cặp",
+        "gói, bọc"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "我的*包*里有一本书。",
+          "vi": "Trong túi tôi có một quyển sách.",
+          "py": "Wǒ de *bāo* lǐ yǒu yì běn shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我的办公室在五{0}。",
+      "options": [
+        "层",
+        "张",
+        "双",
+        "位"
+      ],
+      "answer": "层",
+      "targets": [
+        "ceng2"
+      ],
+      "explanation": "Tầng dùng 层.",
+      "id": "hsk3-nha-cua-do-dung-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "房间太热了，我们开{0}吧。",
+      "options": [
+        "空调",
+        "电梯",
+        "字典",
+        "信"
+      ],
+      "answer": "空调",
+      "targets": [
+        "kong1tiao2"
+      ],
+      "explanation": "Nóng thì bật điều hòa.",
+      "id": "hsk3-nha-cua-do-dung-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "我的手机{0}了，不能打电话。",
+      "options": [
+        "坏",
+        "干净",
+        "新鲜",
+        "甜"
+      ],
+      "answer": "坏",
+      "targets": [
+        "huai4"
+      ],
+      "explanation": "坏了 = hỏng rồi.",
+      "id": "hsk3-nha-cua-do-dung-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "去北京要{0}护照。",
+      "options": [
+        "带",
+        "搬",
+        "刷",
+        "放"
+      ],
+      "answer": "带",
+      "targets": [
+        "dai4"
+      ],
+      "explanation": "带 = mang theo.",
+      "id": "hsk3-nha-cua-do-dung-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "请用{0}写名字。",
+      "options": [
+        "铅笔",
+        "黑板",
+        "字典",
+        "照片"
+      ],
+      "answer": "铅笔",
+      "targets": [
+        "qian1bi3"
+      ],
+      "explanation": "Viết bằng bút chì.",
+      "id": "hsk3-nha-cua-do-dung-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "我们一起{0}房间吧。",
+      "options": [
+        "打扫",
+        "洗澡",
+        "干净",
+        "坏"
+      ],
+      "answer": "打扫",
+      "targets": [
+        "da3sao3"
+      ],
+      "explanation": "打扫房间 = dọn phòng.",
+      "id": "hsk3-nha-cua-do-dung-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "请",
+        "把",
+        "灯",
+        "关",
+        "了"
+      ],
+      "answers": [
+        [
+          "请",
+          "把",
+          "灯",
+          "关",
+          "了"
+        ]
+      ],
+      "targets": [
+        "deng1"
+      ],
+      "vi": "Làm ơn tắt đèn đi.",
+      "id": "hsk3-nha-cua-do-dung-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "把",
+        "照片",
+        "放",
+        "在",
+        "哪儿",
+        "了"
+      ],
+      "answers": [
+        [
+          "你",
+          "把",
+          "照片",
+          "放",
+          "在",
+          "哪儿",
+          "了"
+        ]
+      ],
+      "targets": [
+        "zhao4pian4",
+        "fang4"
+      ],
+      "vi": "Bạn để ảnh ở đâu rồi?",
+      "id": "hsk3-nha-cua-do-dung-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "洗手间",
+        "在",
+        "二",
+        "层"
+      ],
+      "answers": [
+        [
+          "洗手间",
+          "在",
+          "二",
+          "层"
+        ]
+      ],
+      "targets": [
+        "xi3shou3jian1",
+        "ceng2"
+      ],
+      "vi": "Nhà vệ sinh ở tầng 2.",
+      "id": "hsk3-nha-cua-do-dung-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这",
+        "是",
+        "我",
+        "送",
+        "给",
+        "你",
+        "的",
+        "礼物"
+      ],
+      "answers": [
+        [
+          "这",
+          "是",
+          "我",
+          "送",
+          "给",
+          "你",
+          "的",
+          "礼物"
+        ]
+      ],
+      "targets": [
+        "li3wu4"
+      ],
+      "vi": "Đây là quà tôi tặng bạn.",
+      "id": "hsk3-nha-cua-do-dung-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "他",
+        "把",
+        "房间",
+        "打扫",
+        "得",
+        "很",
+        "干净"
+      ],
+      "answers": [
+        [
+          "他",
+          "把",
+          "房间",
+          "打扫",
+          "得",
+          "很",
+          "干净"
+        ]
+      ],
+      "targets": [
+        "da3sao3",
+        "gan1jing4"
+      ],
+      "vi": "Anh ấy dọn phòng rất sạch.",
+      "id": "hsk3-nha-cua-do-dung-order-05"
+    }
+  ]
+}

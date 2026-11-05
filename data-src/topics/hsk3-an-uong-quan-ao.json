@@ -1,0 +1,1013 @@
+{
+  "id": "hsk3-an-uong-quan-ao",
+  "level": 3,
+  "title": "Ăn uống, quần áo",
+  "order": 3,
+  "words": [
+    {
+      "id": "cai4dan1",
+      "hanzi": "菜单",
+      "pinyin": "càidān",
+      "pinyinNum": "cai4 dan1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "thực đơn"
+      ],
+      "usage": "",
+      "measureWords": [
+        "份",
+        "张"
+      ],
+      "examples": [
+        {
+          "zh": "服务员，请给我*菜单*。",
+          "vi": "Phục vụ ơi, cho tôi xem thực đơn.",
+          "py": "Fúwùyuán, qǐng gěi wǒ *càidān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "dan4gao1",
+      "hanzi": "蛋糕",
+      "pinyin": "dàngāo",
+      "pinyinNum": "dan4 gao1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "bánh ngọt, bánh gato"
+      ],
+      "usage": "",
+      "measureWords": [
+        "块",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我给妈妈买了一个生日*蛋糕*。",
+          "vi": "Tôi mua cho mẹ một cái bánh sinh nhật.",
+          "py": "Wǒ gěi māma mǎi le yí ge shēngrì *dàngāo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "mian4bao1",
+      "hanzi": "面包",
+      "pinyin": "miànbāo",
+      "pinyinNum": "mian4 bao1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 1,
+      "meaning": [
+        "bánh mì"
+      ],
+      "usage": "",
+      "measureWords": [
+        "片",
+        "袋",
+        "块"
+      ],
+      "examples": [
+        {
+          "zh": "早上我吃*面包*，喝牛奶。",
+          "vi": "Buổi sáng tôi ăn bánh mì, uống sữa.",
+          "py": "Zǎoshang wǒ chī *miànbāo*, hē niúnǎi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mian4tiao2"
+      ],
+      "check": true
+    },
+    {
+      "id": "mian4tiao2",
+      "hanzi": "面条",
+      "pinyin": "miàntiáo",
+      "pinyinNum": "mian4 tiao2",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "mì sợi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "中国北方人很喜欢吃*面条*。",
+          "vi": "Người miền Bắc Trung Quốc rất thích ăn mì.",
+          "py": "Zhōngguó běifāng rén hěn xǐhuan chī *miàntiáo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "mian4bao1"
+      ],
+      "check": true
+    },
+    {
+      "id": "guo3zhi1",
+      "hanzi": "果汁",
+      "pinyin": "guǒzhī",
+      "pinyinNum": "guo3 zhi1",
+      "hanViet": "quả chấp",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "nước hoa quả, nước ép"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你要喝*果汁*还是咖啡？",
+          "vi": "Bạn muốn uống nước hoa quả hay cà phê?",
+          "py": "Nǐ yào hē *guǒzhī* háishi kāfēi?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "pi2jiu3",
+      "hanzi": "啤酒",
+      "pinyin": "píjiǔ",
+      "pinyinNum": "pi2 jiu3",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "bia"
+      ],
+      "usage": "",
+      "measureWords": [
+        "杯",
+        "瓶",
+        "罐",
+        "桶",
+        "缸"
+      ],
+      "examples": [
+        {
+          "zh": "爸爸晚上喜欢喝*啤酒*。",
+          "vi": "Bố thích uống bia buổi tối.",
+          "py": "Bàba wǎnshang xǐhuan hē *píjiǔ*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "pu2tao",
+      "hanzi": "葡萄",
+      "pinyin": "pútao",
+      "pinyinNum": "pu2 tao",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "nho"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这些*葡萄*很甜。",
+          "vi": "Chỗ nho này rất ngọt.",
+          "py": "Zhè xiē *pútao* hěn tián."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xiang1jiao1",
+      "hanzi": "香蕉",
+      "pinyin": "xiāngjiāo",
+      "pinyinNum": "xiang1 jiao1",
+      "hanViet": "hương tiêu",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "chuối"
+      ],
+      "usage": "",
+      "measureWords": [
+        "枝",
+        "根",
+        "个",
+        "把"
+      ],
+      "examples": [
+        {
+          "zh": "我买了一公斤*香蕉*。",
+          "vi": "Tôi mua một cân chuối.",
+          "py": "Wǒ mǎi le yì gōngjīn *xiāngjiāo*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "tang2",
+      "hanzi": "糖",
+      "pinyin": "táng",
+      "pinyinNum": "tang2",
+      "hanViet": "đường",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "đường",
+        "kẹo"
+      ],
+      "usage": "",
+      "measureWords": [
+        "颗",
+        "块"
+      ],
+      "examples": [
+        {
+          "zh": "咖啡里别放*糖*。",
+          "vi": "Đừng cho đường vào cà phê.",
+          "py": "Kāfēi lǐ bié fàng *táng*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tian2"
+      ],
+      "check": false
+    },
+    {
+      "id": "tian2",
+      "hanzi": "甜",
+      "pinyin": "tián",
+      "pinyinNum": "tian2",
+      "hanViet": null,
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "ngọt"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个蛋糕太*甜*了。",
+          "vi": "Cái bánh này ngọt quá.",
+          "py": "Zhège dàngāo tài *tián* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "tang2"
+      ],
+      "check": true
+    },
+    {
+      "id": "xin1xian1",
+      "hanzi": "新鲜",
+      "pinyin": "xīnxiān",
+      "pinyinNum": "xin1 xian1",
+      "hanViet": "tân tiên",
+      "pos": [
+        "adj"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "tươi, tươi mới"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这些水果很*新鲜*。",
+          "vi": "Chỗ hoa quả này rất tươi.",
+          "py": "Zhè xiē shuǐguǒ hěn *xīnxiān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "xin1"
+      ],
+      "check": false
+    },
+    {
+      "id": "pan2zi",
+      "hanzi": "盘子",
+      "pinyin": "pánzi",
+      "pinyinNum": "pan2 zi",
+      "hanViet": "bàn tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "cái đĩa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "请把*盘子*放在桌子上。",
+          "vi": "Hãy đặt đĩa lên bàn.",
+          "py": "Qǐng bǎ *pánzi* fàng zài zhuōzi shàng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "wan3"
+      ],
+      "check": true
+    },
+    {
+      "id": "wan3",
+      "hanzi": "碗",
+      "pinyin": "wǎn",
+      "pinyinNum": "wan3",
+      "hanViet": null,
+      "pos": [
+        "n",
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "cái bát, cái chén",
+        "bát (lượng từ)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "只",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我吃了两*碗*米饭。",
+          "vi": "Tôi ăn hai bát cơm.",
+          "py": "Wǒ chī le liǎng *wǎn* mǐfàn."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "pan2zi"
+      ],
+      "check": true
+    },
+    {
+      "id": "kuai4zi",
+      "hanzi": "筷子",
+      "pinyin": "kuàizi",
+      "pinyinNum": "kuai4 zi",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "đôi đũa, chiếc đũa"
+      ],
+      "usage": "",
+      "measureWords": [
+        "对",
+        "根",
+        "把",
+        "双"
+      ],
+      "examples": [
+        {
+          "zh": "你会用*筷子*吗？",
+          "vi": "Bạn biết dùng đũa không?",
+          "py": "Nǐ huì yòng *kuàizi* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "bing1xiang1",
+      "hanzi": "冰箱",
+      "pinyin": "bīngxiāng",
+      "pinyinNum": "bing1 xiang1",
+      "hanViet": "băng rương",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "tủ lạnh"
+      ],
+      "usage": "",
+      "measureWords": [
+        "台",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "牛奶在*冰箱*里。",
+          "vi": "Sữa ở trong tủ lạnh.",
+          "py": "Niúnǎi zài *bīngxiāng* lǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "chu2fang2",
+      "hanzi": "厨房",
+      "pinyin": "chúfáng",
+      "pinyinNum": "chu2 fang2",
+      "hanViet": "chù phòng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 5,
+      "common": 1,
+      "meaning": [
+        "nhà bếp"
+      ],
+      "usage": "",
+      "measureWords": [
+        "间"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈在*厨房*里做菜。",
+          "vi": "Mẹ đang nấu ăn trong bếp.",
+          "py": "Māma zài *chúfáng* lǐ zuò cài."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "chen4shan1",
+      "hanzi": "衬衫",
+      "pinyin": "chènshān",
+      "pinyinNum": "chen4 shan1",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "áo sơ mi"
+      ],
+      "usage": "",
+      "measureWords": [
+        "件"
+      ],
+      "examples": [
+        {
+          "zh": "他今天穿了一件白*衬衫*。",
+          "vi": "Hôm nay anh ấy mặc một chiếc áo sơ mi trắng.",
+          "py": "Tā jīntiān chuān le yí jiàn bái *chènshān*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ku4zi",
+      "hanzi": "裤子",
+      "pinyin": "kùzi",
+      "pinyinNum": "ku4 zi",
+      "hanViet": "khố tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "quần (dài)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条"
+      ],
+      "examples": [
+        {
+          "zh": "这条*裤子*太长了。",
+          "vi": "Cái quần này dài quá.",
+          "py": "Zhè tiáo *kùzi* tài cháng le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "qun2zi"
+      ],
+      "check": true
+    },
+    {
+      "id": "qun2zi",
+      "hanzi": "裙子",
+      "pinyin": "qúnzi",
+      "pinyinNum": "qun2 zi",
+      "hanViet": "quần tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "váy"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条"
+      ],
+      "examples": [
+        {
+          "zh": "你穿这条*裙子*真漂亮！",
+          "vi": "Bạn mặc chiếc váy này đẹp thật!",
+          "py": "Nǐ chuān zhè tiáo *qúnzi* zhēn piàoliang!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ku4zi"
+      ],
+      "check": true
+    },
+    {
+      "id": "mao4zi",
+      "hanzi": "帽子",
+      "pinyin": "màozi",
+      "pinyinNum": "mao4 zi",
+      "hanViet": "mão tí",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "mũ, nón"
+      ],
+      "usage": "",
+      "measureWords": [
+        "顶"
+      ],
+      "examples": [
+        {
+          "zh": "你的*帽子*在哪儿买的？",
+          "vi": "Mũ của bạn mua ở đâu thế?",
+          "py": "Nǐ de *màozi* zài nǎr mǎi de?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "xie2",
+      "hanzi": "鞋",
+      "pinyin": "xié",
+      "pinyinNum": "xie2",
+      "hanViet": "hài",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "giày"
+      ],
+      "usage": "",
+      "measureWords": [
+        "双",
+        "只"
+      ],
+      "examples": [
+        {
+          "zh": "我想买一双新*鞋*。",
+          "vi": "Tôi muốn mua một đôi giày mới.",
+          "py": "Wǒ xiǎng mǎi yì shuāng xīn *xié*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "yan3jing4",
+      "hanzi": "眼镜",
+      "pinyin": "yǎnjìng",
+      "pinyinNum": "yan3 jing4",
+      "hanViet": "nhãn kẻng",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "kính (đeo mắt)"
+      ],
+      "usage": "眼镜 (yǎnjìng) là kính; 眼睛 (yǎnjing) là mắt.",
+      "measureWords": [
+        "副"
+      ],
+      "examples": [
+        {
+          "zh": "我找不到我的*眼镜*了。",
+          "vi": "Tôi không tìm thấy kính của mình.",
+          "py": "Wǒ zhǎo bú dào wǒ de *yǎnjìng* le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yan3jing"
+      ],
+      "check": true
+    },
+    {
+      "id": "san3",
+      "hanzi": "伞",
+      "pinyin": "sǎn",
+      "pinyinNum": "san3",
+      "hanViet": "tàn",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 1,
+      "meaning": [
+        "cái ô, cái dù"
+      ],
+      "usage": "",
+      "measureWords": [
+        "把"
+      ],
+      "examples": [
+        {
+          "zh": "要下雨了，带*伞*吧。",
+          "vi": "Sắp mưa rồi, mang ô đi.",
+          "py": "Yào xiàyǔ le, dài *sǎn* ba."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "huan4",
+      "hanzi": "换",
+      "pinyin": "huàn",
+      "pinyinNum": "huan4",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "đổi, thay"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我想*换*一件衣服。",
+          "vi": "Tôi muốn thay chiếc áo khác.",
+          "py": "Wǒ xiǎng *huàn* yí jiàn yīfu."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "shuang1",
+      "hanzi": "双",
+      "pinyin": "shuāng",
+      "pinyinNum": "shuang1",
+      "hanViet": "song",
+      "pos": [
+        "mw"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "đôi (lượng từ cho vật đi thành đôi)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这*双*筷子是新的。",
+          "vi": "Đôi đũa này là mới.",
+          "py": "Zhè *shuāng* kuàizi shì xīn de."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我想吃一{0}面条。",
+      "options": [
+        "碗",
+        "双",
+        "件",
+        "张"
+      ],
+      "answer": "碗",
+      "targets": [
+        "wan3"
+      ],
+      "explanation": "Món nước đựng trong bát: 一碗面条.",
+      "id": "hsk3-an-uong-quan-ao-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "我买了一{0}鞋。",
+      "options": [
+        "双",
+        "件",
+        "张",
+        "碗"
+      ],
+      "answer": "双",
+      "targets": [
+        "shuang1"
+      ],
+      "explanation": "Giày đi thành đôi: 一双鞋.",
+      "id": "hsk3-an-uong-quan-ao-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "服务员，请给我{0}，我想点菜。",
+      "options": [
+        "菜单",
+        "冰箱",
+        "厨房",
+        "伞"
+      ],
+      "answer": "菜单",
+      "targets": [
+        "cai4dan1"
+      ],
+      "explanation": "Gọi món thì cần thực đơn.",
+      "id": "hsk3-an-uong-quan-ao-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "这个蛋糕太{0}了，我不想吃了。",
+      "options": [
+        "甜",
+        "新鲜",
+        "年轻",
+        "聪明"
+      ],
+      "answer": "甜",
+      "targets": [
+        "tian2"
+      ],
+      "explanation": "太甜了 = ngọt quá.",
+      "id": "hsk3-an-uong-quan-ao-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "下雨了，你带{0}了吗？",
+      "options": [
+        "伞",
+        "糖",
+        "碗",
+        "葡萄"
+      ],
+      "answer": "伞",
+      "targets": [
+        "san3"
+      ],
+      "explanation": "Trời mưa thì mang ô.",
+      "id": "hsk3-an-uong-quan-ao-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "这件衬衫太小了，我想{0}一件大的。",
+      "options": [
+        "换",
+        "洗",
+        "刷",
+        "渴"
+      ],
+      "answer": "换",
+      "targets": [
+        "huan4"
+      ],
+      "explanation": "换 = đổi.",
+      "id": "hsk3-an-uong-quan-ao-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "冰箱",
+        "里",
+        "有",
+        "很",
+        "多",
+        "水果"
+      ],
+      "answers": [
+        [
+          "冰箱",
+          "里",
+          "有",
+          "很",
+          "多",
+          "水果"
+        ]
+      ],
+      "targets": [
+        "bing1xiang1"
+      ],
+      "vi": "Trong tủ lạnh có rất nhiều hoa quả.",
+      "id": "hsk3-an-uong-quan-ao-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "想",
+        "换",
+        "一双",
+        "鞋"
+      ],
+      "answers": [
+        [
+          "我",
+          "想",
+          "换",
+          "一双",
+          "鞋"
+        ]
+      ],
+      "targets": [
+        "huan4",
+        "shuang1",
+        "xie2"
+      ],
+      "vi": "Tôi muốn đổi một đôi giày.",
+      "id": "hsk3-an-uong-quan-ao-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "她",
+        "穿",
+        "着",
+        "一条",
+        "红",
+        "裙子"
+      ],
+      "answers": [
+        [
+          "她",
+          "穿",
+          "着",
+          "一条",
+          "红",
+          "裙子"
+        ]
+      ],
+      "targets": [
+        "qun2zi"
+      ],
+      "vi": "Cô ấy đang mặc một chiếc váy đỏ.",
+      "id": "hsk3-an-uong-quan-ao-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "请",
+        "把",
+        "碗",
+        "放",
+        "在",
+        "厨房",
+        "里"
+      ],
+      "answers": [
+        [
+          "请",
+          "把",
+          "碗",
+          "放",
+          "在",
+          "厨房",
+          "里"
+        ]
+      ],
+      "targets": [
+        "wan3",
+        "chu2fang2"
+      ],
+      "vi": "Hãy để bát vào trong bếp.",
+      "id": "hsk3-an-uong-quan-ao-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这些",
+        "香蕉",
+        "很",
+        "新鲜"
+      ],
+      "answers": [
+        [
+          "这些",
+          "香蕉",
+          "很",
+          "新鲜"
+        ]
+      ],
+      "targets": [
+        "xiang1jiao1",
+        "xin1xian1"
+      ],
+      "vi": "Chỗ chuối này rất tươi.",
+      "id": "hsk3-an-uong-quan-ao-order-05"
+    }
+  ]
+}
