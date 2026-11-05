@@ -134,6 +134,7 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 2 | hsk2-noi-chon-di-lai | 远 | yuǎn | viễn |
 | 2 | hsk2-noi-chon-di-lai | 离 | lí | le |
 | 2 | hsk2-noi-chon-di-lai | 公共汽车 | gōnggòngqìchē | — |
+| 2 | hsk2-noi-chon-di-lai | 自行车 | zìxíngchē | tự hàng xa |
 | 2 | hsk2-noi-chon-di-lai | 旅游 | lǚyóu | — |
 | 2 | hsk2-hoc-tap-giao-tiep | 题 | tí | — |
 | 2 | hsk2-hoc-tap-giao-tiep | 问 | wèn | — |
@@ -240,8 +241,10 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 3 | hsk3-hoc-tap-cong-viec | 句子 | jùzi | câu tí |
 | 3 | hsk3-hoc-tap-cong-viec | 检查 | jiǎnchá | ghém tra |
 | 3 | hsk3-hoc-tap-cong-viec | 教 | jiāo | giáo |
+| 3 | hsk3-hoc-tap-cong-viec | 举行 | jǔxíng | cử hàng |
 | 3 | hsk3-hoc-tap-cong-viec | 结束 | jiéshù | kết thút |
 | 3 | hsk3-giai-tri-xa-hoi | 爱好 | àihào | — |
+| 3 | hsk3-giai-tri-xa-hoi | 音乐 | yīnyuè | âm lạc |
 | 3 | hsk3-giai-tri-xa-hoi | 比赛 | bǐsài | — |
 | 3 | hsk3-giai-tri-xa-hoi | 游戏 | yóuxì | — |
 | 3 | hsk3-giai-tri-xa-hoi | 故事 | gùshi | cố sự |
@@ -305,6 +308,8 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 检 | ghém | kiểm |
 | 束 | thút | thúc |
 | 爬 | bò | ba |
+| 乐 | lạc | nhạc (trong 音乐) |
+| 行 | hàng | hành (trong 自行车, 举行) |
 
 ## Lỗi giao diện ghi nhận
 

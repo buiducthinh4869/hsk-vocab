@@ -628,7 +628,7 @@
       "hanzi": "自行车",
       "pinyin": "zìxíngchē",
       "pinyinNum": "zi4 xing2 che1",
-      "hanViet": "tự hành xa",
+      "hanViet": "tự hàng xa",
       "pos": [
         "n"
       ],
@@ -651,7 +651,7 @@
       ],
       "textbooks": null,
       "confusables": [],
-      "check": false
+      "check": true
     },
     {
       "id": "lü3you2",

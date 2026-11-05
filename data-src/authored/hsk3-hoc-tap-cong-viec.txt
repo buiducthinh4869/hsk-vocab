@@ -47,7 +47,7 @@
 - 我*忘记*带伞了。 = Tôi quên mang ô rồi.
 @会议 | cuộc họp, hội nghị
 - 明天上午有一个*会议*。 = Sáng mai có một cuộc họp.
-@举行 | tổ chức (sự kiện) | hv: cử hành | c: 参加
+@举行 | tổ chức (sự kiện) | c: 参加
 - 我们学校下个月*举行*比赛。 = Tháng sau trường chúng tôi tổ chức thi đấu.
 @参加 | tham gia | c: 举行
 - 你*参加*明天的比赛吗？ = Bạn có tham gia trận đấu ngày mai không?

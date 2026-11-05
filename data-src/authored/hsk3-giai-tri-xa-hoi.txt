@@ -6,7 +6,7 @@
 - 你有什么*爱好*？ = Bạn có sở thích gì?
 @兴趣 | hứng thú, sự thích thú | c: 爱好
 - 学习汉语，*兴趣*很重要。 = Học tiếng Trung, hứng thú rất quan trọng.
-@音乐 | âm nhạc, nhạc | hv: âm nhạc
+@音乐 | âm nhạc, nhạc
 - 我喜欢听*音乐*。 = Tôi thích nghe nhạc.
 @节目 | chương trình, tiết mục
 - 今天晚上有什么电视*节目*？ = Tối nay có chương trình ti vi gì?

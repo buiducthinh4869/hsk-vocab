@@ -43,7 +43,7 @@
 - 坐*船*去那儿要两个小时。 = Đi thuyền đến đó mất hai tiếng.
 @公共汽车 | xe buýt | pos: n | c: 出租车
 - 我坐*公共汽车*上班。 = Tôi đi làm bằng xe buýt.
-@自行车 | xe đạp | hv: tự hành xa
+@自行车 | xe đạp
 - 我的*自行车*是黑的。 = Xe đạp của tôi màu đen.
 @旅游 | du lịch
 - 我想去中国*旅游*。 = Tôi muốn đi du lịch Trung Quốc.

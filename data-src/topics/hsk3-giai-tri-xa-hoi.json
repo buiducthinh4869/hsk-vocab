@@ -76,7 +76,7 @@
       "hanzi": "音乐",
       "pinyin": "yīnyuè",
       "pinyinNum": "yin1 yue4",
-      "hanViet": "âm nhạc",
+      "hanViet": "âm lạc",
       "pos": [
         "n"
       ],
@@ -101,7 +101,7 @@
       ],
       "textbooks": null,
       "confusables": [],
-      "check": false
+      "check": true
     },
     {
       "id": "jie2mu4",

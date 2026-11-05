@@ -678,7 +678,7 @@
       "hanzi": "举行",
       "pinyin": "jǔxíng",
       "pinyinNum": "ju3 xing2",
-      "hanViet": "cử hành",
+      "hanViet": "cử hàng",
       "pos": [
         "v"
       ],
@@ -701,7 +701,7 @@
       "confusables": [
         "can1jia1"
       ],
-      "check": false
+      "check": true
     },
     {
       "id": "can1jia1",
