@@ -1,0 +1,835 @@
+{
+  "id": "hsk3-gioi-tu-lien-tu",
+  "level": 3,
+  "title": "Giới từ, liên từ, trợ từ",
+  "order": 12,
+  "words": [
+    {
+      "id": "ba3",
+      "hanzi": "把",
+      "pinyin": "bǎ",
+      "pinyinNum": "ba3",
+      "hanViet": "bã",
+      "pos": [
+        "prep",
+        "v",
+        "num"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "(giới từ đưa tân ngữ lên trước động từ)"
+      ],
+      "usage": "把 + tân ngữ + động từ + thành phần khác: 把门关上 = đóng cửa lại.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "请*把*这本书给他。",
+          "vi": "Hãy đưa quyển sách này cho anh ấy.",
+          "py": "Qǐng *bǎ* zhè běn shū gěi tā."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bei4"
+      ],
+      "check": true
+    },
+    {
+      "id": "bei4",
+      "hanzi": "被",
+      "pinyin": "bèi",
+      "pinyinNum": "bei4",
+      "hanViet": "bị",
+      "pos": [
+        "prep",
+        "adv"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "bị, được (câu bị động)"
+      ],
+      "usage": "A 被 B + động từ = A bị B làm gì.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "蛋糕*被*弟弟吃了。",
+          "vi": "Bánh bị em trai ăn mất rồi.",
+          "py": "Dàngāo *bèi* dìdi chī le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ba3"
+      ],
+      "check": false
+    },
+    {
+      "id": "gen1",
+      "hanzi": "跟",
+      "pinyin": "gēn",
+      "pinyinNum": "gen1",
+      "hanViet": "ngấn",
+      "pos": [
+        "prep",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "với, cùng",
+        "theo"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*跟*你一起去。",
+          "vi": "Tôi đi cùng bạn.",
+          "py": "Wǒ *gēn* nǐ yìqǐ qù."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "he2"
+      ],
+      "check": true
+    },
+    {
+      "id": "guan1yu2",
+      "hanzi": "关于",
+      "pinyin": "guānyú",
+      "pinyinNum": "guan1 yu2",
+      "hanViet": "quan vu",
+      "pos": [
+        "prep"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "về (vấn đề gì)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这是一本*关于*中国历史的书。",
+          "vi": "Đây là một cuốn sách về lịch sử Trung Quốc.",
+          "py": "Zhè shì yì běn *guānyú* Zhōngguó lìshǐ de shū."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "gen1ju4",
+      "hanzi": "根据",
+      "pinyin": "gēnjù",
+      "pinyinNum": "gen1 ju4",
+      "hanViet": "căn cứ",
+      "pos": [
+        "prep",
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "căn cứ vào, theo"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "*根据*新闻，明天会下雪。",
+          "vi": "Theo tin tức, ngày mai sẽ có tuyết.",
+          "py": "*Gēnjù* xīnwén, míngtiān huì xià xuě."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "wei4le",
+      "hanzi": "为了",
+      "pinyin": "wèile",
+      "pinyinNum": "wei4 le",
+      "hanViet": "vay liễu",
+      "pos": [
+        "prep",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "để, vì (mục đích)"
+      ],
+      "usage": "为了 chỉ mục đích; 因为 chỉ nguyên nhân.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*为了*学习汉语，他来了中国。",
+          "vi": "Để học tiếng Trung, anh ấy đã sang Trung Quốc.",
+          "py": "*Wèile* xuéxí Hànyǔ, tā lái le Zhōngguó."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yin1wei4"
+      ],
+      "check": true
+    },
+    {
+      "id": "chu2le",
+      "hanzi": "除了",
+      "pinyin": "chúle",
+      "pinyinNum": "chu2 le",
+      "hanViet": "trừ liễu",
+      "pos": [
+        "prep"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "ngoài ... ra",
+        "trừ"
+      ],
+      "usage": "除了 A，都... = trừ A; 除了 A，还 / 也... = ngoài A còn...",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*除了*咖啡，我什么都喝。",
+          "vi": "Ngoài cà phê ra, cái gì tôi cũng uống.",
+          "py": "*Chúle* kāfēi, wǒ shénme dōu hē."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "er2qie3",
+      "hanzi": "而且",
+      "pinyin": "érqiě",
+      "pinyinNum": "er2 qie3",
+      "hanViet": null,
+      "pos": [
+        "conj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "mà còn, hơn nữa"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这件衣服很便宜，*而且*很漂亮。",
+          "vi": "Chiếc áo này rẻ, mà còn rất đẹp.",
+          "py": "Zhè jiàn yīfu hěn piányi, *érqiě* hěn piàoliang."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dan4shi4"
+      ],
+      "check": true
+    },
+    {
+      "id": "huo4zhe3",
+      "hanzi": "或者",
+      "pinyin": "huòzhě",
+      "pinyinNum": "huo4 zhe3",
+      "hanViet": null,
+      "pos": [
+        "conj",
+        "adv"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "hoặc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你可以坐地铁*或者*公共汽车去。",
+          "vi": "Bạn có thể đi tàu điện ngầm hoặc xe buýt.",
+          "py": "Nǐ kěyǐ zuò dìtiě *huòzhě* gōnggòngqìchē qù."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "hai2shi"
+      ],
+      "check": true
+    },
+    {
+      "id": "sui1ran2",
+      "hanzi": "虽然",
+      "pinyin": "suīrán",
+      "pinyinNum": "sui1 ran2",
+      "hanViet": "tuy nhiên",
+      "pos": [
+        "conj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "tuy, mặc dù"
+      ],
+      "usage": "虽然...但是... = tuy ... nhưng ...",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*虽然*很累，但是我很高兴。",
+          "vi": "Tuy rất mệt nhưng tôi rất vui.",
+          "py": "*Suīrán* hěn lèi, dànshì wǒ hěn gāoxìng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "dan4shi4"
+      ],
+      "check": false
+    },
+    {
+      "id": "ru2guo3",
+      "hanzi": "如果",
+      "pinyin": "rúguǒ",
+      "pinyinNum": "ru2 guo3",
+      "hanViet": "như quả",
+      "pos": [
+        "conj",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "nếu"
+      ],
+      "usage": "如果...就... = nếu ... thì ...",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*如果*明天下雨，我们就不去了。",
+          "vi": "Nếu mai trời mưa thì chúng ta không đi nữa.",
+          "py": "*Rúguǒ* míngtiān xiàyǔ, wǒmen jiù bú qù le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ran2hou4",
+      "hanzi": "然后",
+      "pinyin": "ránhòu",
+      "pinyinNum": "ran2 hou4",
+      "hanViet": "nhiên hậu",
+      "pos": [
+        "conj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "sau đó, rồi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我们先去超市，*然后*去公园。",
+          "vi": "Chúng ta đi siêu thị trước, sau đó đi công viên.",
+          "py": "Wǒmen xiān qù chāoshì, *ránhòu* qù gōngyuán."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi3hou4",
+        "xian1"
+      ],
+      "check": false
+    },
+    {
+      "id": "a",
+      "hanzi": "啊",
+      "pinyin": "a",
+      "pinyinNum": "a",
+      "hanViet": "à",
+      "pos": [
+        "part",
+        "interj"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "a, à, nhé (trợ từ cuối câu, cảm thán)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "快来*啊*！",
+          "vi": "Mau lại đây nào!",
+          "py": "Kuài lái *a*!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "de-3",
+      "hanzi": "地",
+      "pinyin": "de",
+      "pinyinNum": "de",
+      "hanViet": "địa",
+      "pos": [
+        "part",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "(trợ từ nối trạng ngữ với động từ)"
+      ],
+      "usage": "Tính từ + 地 + động từ: 高兴地笑; 的 đứng trước danh từ, 得 đứng sau động từ. Còn đọc dì (đất).",
+      "measureWords": [
+        "片"
+      ],
+      "examples": [
+        {
+          "zh": "他高兴*地*笑了。",
+          "vi": "Anh ấy cười vui vẻ.",
+          "py": "Tā gāoxìng *de* xiào le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "de",
+        "de-2"
+      ],
+      "check": true
+    },
+    {
+      "id": "qi2ta1",
+      "hanzi": "其他",
+      "pinyin": "qítā",
+      "pinyinNum": "qi2 ta1",
+      "hanViet": "kì tha",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "khác, còn lại"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我只喜欢红的，*其他*的颜色都不喜欢。",
+          "vi": "Tôi chỉ thích màu đỏ, các màu khác đều không thích.",
+          "py": "Wǒ zhǐ xǐhuan hóng de, *qítā* de yánsè dōu bù xǐhuan."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bie2ren"
+      ],
+      "check": false
+    },
+    {
+      "id": "wei4shen2me",
+      "hanzi": "为什么",
+      "pinyin": "wèishénme",
+      "pinyinNum": "wei4 shen2 me",
+      "hanViet": "vay thập mô",
+      "pos": [
+        "pron"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "tại sao, vì sao"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*为什么*学习汉语？",
+          "vi": "Tại sao bạn học tiếng Trung?",
+          "py": "Nǐ *wèishénme* xuéxí Hànyǔ?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zen3me"
+      ],
+      "check": true
+    },
+    {
+      "id": "yi1bian1",
+      "hanzi": "一边",
+      "pinyin": "yībiān",
+      "pinyinNum": "yi1 bian1",
+      "hanViet": "nhất biên",
+      "pos": [
+        "adv",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "vừa ... vừa ...",
+        "một bên"
+      ],
+      "usage": "一边 A 一边 B = vừa làm A vừa làm B.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "她*一边*唱歌*一边*跳舞。",
+          "vi": "Cô ấy vừa hát vừa nhảy.",
+          "py": "Tā *yìbiān* chànggē *yìbiān* tiàowǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xian1",
+      "hanzi": "先",
+      "pinyin": "xiān",
+      "pinyinNum": "xian1",
+      "hanViet": "tiên",
+      "pos": [
+        "adv"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "trước"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*先*走吧，我马上来。",
+          "vi": "Bạn đi trước đi, tôi đến ngay.",
+          "py": "Nǐ *xiān* zǒu ba, wǒ mǎshàng lái."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ran2hou4"
+      ],
+      "check": false
+    },
+    {
+      "id": "yi1hui4r",
+      "hanzi": "一会儿",
+      "pinyin": "yīhuìr",
+      "pinyinNum": "yi1 hui4 r",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "một lát, một chốc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我休息*一会儿*。",
+          "vi": "Tôi nghỉ một lát.",
+          "py": "Wǒ xiūxi *yíhuìr*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我的手机{0}弟弟拿走了。",
+      "options": [
+        "被",
+        "把",
+        "跟",
+        "关于"
+      ],
+      "answer": "被",
+      "targets": [
+        "bei4"
+      ],
+      "explanation": "Bị động: A 被 B + động từ.",
+      "id": "hsk3-gioi-tu-lien-tu-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "请{0}灯关了。",
+      "options": [
+        "把",
+        "被",
+        "跟",
+        "为了"
+      ],
+      "answer": "把",
+      "targets": [
+        "ba3"
+      ],
+      "explanation": "把 + tân ngữ + động từ.",
+      "id": "hsk3-gioi-tu-lien-tu-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "{0}明天天气好，我们就去爬山。",
+      "options": [
+        "如果",
+        "虽然",
+        "而且",
+        "然后"
+      ],
+      "answer": "如果",
+      "targets": [
+        "ru2guo3"
+      ],
+      "explanation": "如果...就... = nếu ... thì ...",
+      "id": "hsk3-gioi-tu-lien-tu-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "{0}他很忙，但是每个周末都去看奶奶。",
+      "options": [
+        "虽然",
+        "如果",
+        "或者",
+        "除了"
+      ],
+      "answer": "虽然",
+      "targets": [
+        "sui1ran2"
+      ],
+      "explanation": "虽然...但是... = tuy ... nhưng ...",
+      "id": "hsk3-gioi-tu-lien-tu-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "周末我想去爬山{0}游泳。",
+      "options": [
+        "或者",
+        "还是",
+        "关于",
+        "根据"
+      ],
+      "answer": "或者",
+      "targets": [
+        "huo4zhe3"
+      ],
+      "explanation": "Câu kể dùng 或者; câu hỏi lựa chọn mới dùng 还是.",
+      "id": "hsk3-gioi-tu-lien-tu-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "她慢慢{0}走进了教室。",
+      "options": [
+        "地",
+        "的",
+        "得",
+        "啊"
+      ],
+      "answer": "地",
+      "targets": [
+        "de-3"
+      ],
+      "explanation": "Trạng ngữ + 地 + động từ.",
+      "id": "hsk3-gioi-tu-lien-tu-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "先",
+        "去",
+        "超市",
+        "然后",
+        "回",
+        "家"
+      ],
+      "answers": [
+        [
+          "我",
+          "先",
+          "去",
+          "超市",
+          "然后",
+          "回",
+          "家"
+        ]
+      ],
+      "targets": [
+        "xian1",
+        "ran2hou4"
+      ],
+      "vi": "Tôi đi siêu thị trước rồi về nhà.",
+      "id": "hsk3-gioi-tu-lien-tu-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "他",
+        "一边",
+        "听",
+        "音乐",
+        "一边",
+        "写",
+        "作业"
+      ],
+      "answers": [
+        [
+          "他",
+          "一边",
+          "听",
+          "音乐",
+          "一边",
+          "写",
+          "作业"
+        ],
+        [
+          "他",
+          "一边",
+          "写",
+          "作业",
+          "一边",
+          "听",
+          "音乐"
+        ]
+      ],
+      "targets": [
+        "yi1bian1"
+      ],
+      "vi": "Anh ấy vừa nghe nhạc vừa làm bài tập.",
+      "id": "hsk3-gioi-tu-lien-tu-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这",
+        "是",
+        "一本",
+        "关于",
+        "中国",
+        "文化",
+        "的",
+        "书"
+      ],
+      "answers": [
+        [
+          "这",
+          "是",
+          "一本",
+          "关于",
+          "中国",
+          "文化",
+          "的",
+          "书"
+        ]
+      ],
+      "targets": [
+        "guan1yu2"
+      ],
+      "vi": "Đây là cuốn sách về văn hóa Trung Quốc.",
+      "id": "hsk3-gioi-tu-lien-tu-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "把",
+        "作业",
+        "做",
+        "完",
+        "了"
+      ],
+      "answers": [
+        [
+          "我",
+          "把",
+          "作业",
+          "做",
+          "完",
+          "了"
+        ]
+      ],
+      "targets": [
+        "ba3"
+      ],
+      "vi": "Tôi làm xong bài tập rồi.",
+      "id": "hsk3-gioi-tu-lien-tu-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "的",
+        "自行车",
+        "被",
+        "弟弟",
+        "骑",
+        "走",
+        "了"
+      ],
+      "answers": [
+        [
+          "我",
+          "的",
+          "自行车",
+          "被",
+          "弟弟",
+          "骑",
+          "走",
+          "了"
+        ]
+      ],
+      "targets": [
+        "bei4"
+      ],
+      "vi": "Xe đạp của tôi bị em trai đạp đi mất rồi.",
+      "id": "hsk3-gioi-tu-lien-tu-order-05"
+    }
+  ]
+}

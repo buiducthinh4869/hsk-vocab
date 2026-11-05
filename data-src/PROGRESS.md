@@ -32,9 +32,9 @@ Phiên làm việc mới: làm tiếp chủ đề đầu tiên có trạng thái
 | 3 | hsk3-hoc-tap-cong-viec | Học tập, công việc | 26 | 6 fill, 5 order | xong | 班 年级 数学 历史 体育 作业 复习 练习 句子 词语 普通话 成绩 水平 检查 讲 教 明白 清楚 了解 记得 忘记 会议 举行 参加 完成 结束 |
 | 3 | hsk3-giai-tri-xa-hoi | Giải trí, xã hội | 24 | 6 fill, 5 order | xong | 爱好 兴趣 音乐 节目 表演 比赛 游戏 故事 新闻 上网 爬山 锻炼 结婚 见面 照顾 帮忙 借 文化 国家 世界 环境 有名 声音 画 |
 | 3 | hsk3-tinh-chat-luong-tu | Tính chất, màu sắc, lượng từ | 29 | 7 fill, 5 order | xong | 黄 蓝 绿 短 低 久 旧 老 安静 简单 容易 难 方便 重要 主要 特别 相同 一样 一般 段 条 位 口 种 角 米 分 万 差 |
-| 3 | hsk3-suy-nghi-hanh-dong | Suy nghĩ, hành động | 26 |  | chưa làm | 认为 以为 打算 决定 选择 需要 要求 应该 发现 出现 表示 影响 变化 提高 解决 注意 关系 机会 办法 作用 习惯 使 祝 关 用 像 |
-| 3 | hsk3-pho-tu | Phó từ | 20 |  | chưa làm | 才 更 还是 极 几乎 经常 总是 一直 一定 一共 终于 其实 突然 当然 必须 比较 多么 越 又 只 |
-| 3 | hsk3-gioi-tu-lien-tu | Giới từ, liên từ, trợ từ | 19 |  | chưa làm | 把 被 跟 关于 根据 为了 除了 而且 或者 虽然 如果 然后 啊 地 其他 为什么 一边 先 一会儿 |
+| 3 | hsk3-suy-nghi-hanh-dong | Suy nghĩ, hành động | 26 | 6 fill, 5 order | xong | 认为 以为 打算 决定 选择 需要 要求 应该 发现 出现 表示 影响 变化 提高 解决 注意 关系 机会 办法 作用 习惯 使 祝 关 用 像 |
+| 3 | hsk3-pho-tu | Phó từ | 20 | 6 fill, 5 order | xong | 才 更 还是 极 几乎 经常 总是 一直 一定 一共 终于 其实 突然 当然 必须 比较 多么 越 又 只 |
+| 3 | hsk3-gioi-tu-lien-tu | Giới từ, liên từ, trợ từ | 19 | 6 fill, 5 order | xong | 把 被 跟 关于 根据 为了 除了 而且 或者 虽然 如果 然后 啊 地 其他 为什么 一边 先 一会儿 |
 | 3 | **Cộng** | | **298 / 298** | | | |
 
 ## Quyết định tự đưa ra
@@ -268,6 +268,28 @@ Lý do thường gặp: chữ có nhiều âm Hán Việt (đã chọn âm thôn
 | 3 | hsk3-tinh-chat-luong-tu | 分 | fēn | phân |
 | 3 | hsk3-tinh-chat-luong-tu | 万 | wàn | vạn |
 | 3 | hsk3-tinh-chat-luong-tu | 差 | chà | sai |
+| 3 | hsk3-suy-nghi-hanh-dong | 认为 | rènwéi | nhận vay |
+| 3 | hsk3-suy-nghi-hanh-dong | 以为 | yǐwéi | — |
+| 3 | hsk3-suy-nghi-hanh-dong | 需要 | xūyào | — |
+| 3 | hsk3-suy-nghi-hanh-dong | 应该 | yīnggāi | — |
+| 3 | hsk3-suy-nghi-hanh-dong | 表示 | biǎoshì | biểu thị |
+| 3 | hsk3-suy-nghi-hanh-dong | 办法 | bànfǎ | — |
+| 3 | hsk3-suy-nghi-hanh-dong | 习惯 | xíguàn | tập quen |
+| 3 | hsk3-pho-tu | 更 | gèng | cánh |
+| 3 | hsk3-pho-tu | 一直 | yīzhí | — |
+| 3 | hsk3-pho-tu | 必须 | bìxū | tất tu |
+| 3 | hsk3-pho-tu | 比较 | bǐjiào | — |
+| 3 | hsk3-pho-tu | 又 | yòu | lại |
+| 3 | hsk3-pho-tu | 只 | zhǐ | chỉ |
+| 3 | hsk3-gioi-tu-lien-tu | 把 | bǎ | bã |
+| 3 | hsk3-gioi-tu-lien-tu | 跟 | gēn | ngấn |
+| 3 | hsk3-gioi-tu-lien-tu | 为了 | wèile | vay liễu |
+| 3 | hsk3-gioi-tu-lien-tu | 而且 | érqiě | — |
+| 3 | hsk3-gioi-tu-lien-tu | 或者 | huòzhě | — |
+| 3 | hsk3-gioi-tu-lien-tu | 啊 | a | à |
+| 3 | hsk3-gioi-tu-lien-tu | 地 | de | địa |
+| 3 | hsk3-gioi-tu-lien-tu | 为什么 | wèishénme | vay thập mô |
+| 3 | hsk3-gioi-tu-lien-tu | 一会儿 | yīhuìr | — |
 
 ## Âm Hán Việt cần xem
 
@@ -327,6 +349,10 @@ Unihan ghi âm khác âm Hán Việt thường gặp. Web đang hiện âm theo 
 | 易 | dịch | dị |
 | 主 | chúa | chủ |
 | 种 | chõng | chủng |
+| 跟 | ngấn | cân |
+| 把 | bã | bả |
+| 又 | lại | hựu |
+| 惯 | quen | quán |
 
 ## Lỗi giao diện ghi nhận
 

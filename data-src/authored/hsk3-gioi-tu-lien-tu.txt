@@ -1,0 +1,53 @@
+# id: hsk3-gioi-tu-lien-tu
+# level: 3
+# title: Giới từ, liên từ, trợ từ
+# order: 12
+@把 bǎ | (giới từ đưa tân ngữ lên trước động từ) | u: 把 + tân ngữ + động từ + thành phần khác: 把门关上 = đóng cửa lại. | c: 被
+- 请*把*这本书给他。 = Hãy đưa quyển sách này cho anh ấy.
+@被 | bị, được (câu bị động) | u: A 被 B + động từ = A bị B làm gì. | c: 把
+- 蛋糕*被*弟弟吃了。 = Bánh bị em trai ăn mất rồi.
+@跟 | với, cùng; theo | c: 和
+- 我*跟*你一起去。 = Tôi đi cùng bạn.
+@关于 | về (vấn đề gì)
+- 这是一本*关于*中国历史的书。 = Đây là một cuốn sách về lịch sử Trung Quốc.
+@根据 | căn cứ vào, theo
+- *根据*新闻，明天会下雪。 = Theo tin tức, ngày mai sẽ có tuyết.
+@为了 | để, vì (mục đích) | u: 为了 chỉ mục đích; 因为 chỉ nguyên nhân. | c: 因为
+- *为了*学习汉语，他来了中国。 = Để học tiếng Trung, anh ấy đã sang Trung Quốc.
+@除了 | ngoài ... ra; trừ | u: 除了 A，都... = trừ A; 除了 A，还 / 也... = ngoài A còn...
+- *除了*咖啡，我什么都喝。 = Ngoài cà phê ra, cái gì tôi cũng uống.
+@而且 | mà còn, hơn nữa | c: 但是
+- 这件衣服很便宜，*而且*很漂亮。 = Chiếc áo này rẻ, mà còn rất đẹp.
+@或者 | hoặc | c: 还是
+- 你可以坐地铁*或者*公共汽车去。 = Bạn có thể đi tàu điện ngầm hoặc xe buýt.
+@虽然 | tuy, mặc dù | u: 虽然...但是... = tuy ... nhưng ... | c: 但是
+- *虽然*很累，但是我很高兴。 = Tuy rất mệt nhưng tôi rất vui.
+@如果 | nếu | u: 如果...就... = nếu ... thì ...
+- *如果*明天下雨，我们就不去了。 = Nếu mai trời mưa thì chúng ta không đi nữa.
+@然后 | sau đó, rồi | c: 以后 先
+- 我们先去超市，*然后*去公园。 = Chúng ta đi siêu thị trước, sau đó đi công viên.
+@啊 a | a, à, nhé (trợ từ cuối câu, cảm thán)
+- 快来*啊*！ = Mau lại đây nào!
+@地 de | (trợ từ nối trạng ngữ với động từ) | u: Tính từ + 地 + động từ: 高兴地笑; 的 đứng trước danh từ, 得 đứng sau động từ. Còn đọc dì (đất). | c: 的 得
+- 他高兴*地*笑了。 = Anh ấy cười vui vẻ.
+@其他 | khác, còn lại | c: 别人
+- 我只喜欢红的，*其他*的颜色都不喜欢。 = Tôi chỉ thích màu đỏ, các màu khác đều không thích.
+@为什么 wèishénme | tại sao, vì sao | c: 怎么
+- 你*为什么*学习汉语？ = Tại sao bạn học tiếng Trung?
+@一边 | vừa ... vừa ...; một bên | u: 一边 A 一边 B = vừa làm A vừa làm B.
+- 她*一边*唱歌*一边*跳舞。 = Cô ấy vừa hát vừa nhảy.
+@先 | trước | c: 然后
+- 你*先*走吧，我马上来。 = Bạn đi trước đi, tôi đến ngay.
+@一会儿 yīhuìr | một lát, một chốc | pos: n
+- 我休息*一会儿*。 = Tôi nghỉ một lát.
+F 我的手机{0}弟弟拿走了。 | 被* 把 跟 关于 | e: Bị động: A 被 B + động từ.
+F 请{0}灯关了。 | 把* 被 跟 为了 | e: 把 + tân ngữ + động từ.
+F {0}明天天气好，我们就去爬山。 | 如果* 虽然 而且 然后 | e: 如果...就... = nếu ... thì ...
+F {0}他很忙，但是每个周末都去看奶奶。 | 虽然* 如果 或者 除了 | e: 虽然...但是... = tuy ... nhưng ...
+F 周末我想去爬山{0}游泳。 | 或者* 还是 关于 根据 | e: Câu kể dùng 或者; câu hỏi lựa chọn mới dùng 还是.
+F 她慢慢{0}走进了教室。 | 地* 的 得 啊 | e: Trạng ngữ + 地 + động từ.
+O 我 先 去 超市 然后 回 家 | vi: Tôi đi siêu thị trước rồi về nhà. | t: 先 然后
+O 他 一边 听 音乐 一边 写 作业 | vi: Anh ấy vừa nghe nhạc vừa làm bài tập. | t: 一边 | alt: 他 一边 写 作业 一边 听 音乐
+O 这 是 一本 关于 中国 文化 的 书 | vi: Đây là cuốn sách về văn hóa Trung Quốc. | t: 关于
+O 我 把 作业 做 完 了 | vi: Tôi làm xong bài tập rồi. | t: 把
+O 我 的 自行车 被 弟弟 骑 走 了 | vi: Xe đạp của tôi bị em trai đạp đi mất rồi. | t: 被

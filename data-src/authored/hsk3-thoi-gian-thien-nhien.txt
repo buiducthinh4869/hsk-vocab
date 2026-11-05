@@ -24,7 +24,7 @@
 - 我只吃了*半*个苹果。 = Tôi chỉ ăn nửa quả táo.
 @以前 | trước đây; trước khi | c: 以后 过去
 - 我*以前*住在北京。 = Trước đây tôi sống ở Bắc Kinh.
-@以后 | sau này; sau khi | c: 以前
+@以后 | sau này; sau khi | c: 以前 然后
 - 下课*以后*我们去打篮球。 = Tan học xong chúng ta đi chơi bóng rổ.
 @过去 guòqù | quá khứ, trước đây; đi qua | c: 以前
 - *过去*的事情就别想了。 = Chuyện đã qua thì đừng nghĩ nữa.

@@ -1,0 +1,57 @@
+# id: hsk3-pho-tu
+# level: 3
+# title: Phó từ
+# order: 11
+@才 | mới (muộn hơn, ít hơn dự kiến) | u: 才 chỉ việc xảy ra muộn hơn dự kiến, ngược với 就: 他十点才起床 / 他六点就起床了. | c: 就
+- 他十点*才*起床。 = 10 giờ anh ấy mới dậy.
+@更 gèng | càng, hơn nữa | hv: cánh | c: 最
+- 今天比昨天*更*冷。 = Hôm nay còn lạnh hơn hôm qua.
+@还是 háishi | hay là (câu hỏi lựa chọn); vẫn; tốt hơn là | u: Câu hỏi lựa chọn dùng 还是; câu kể dùng 或者. | c: 或者
+- 你喝茶*还是*咖啡？ = Bạn uống trà hay cà phê?
+- 他*还是*没来。 = Anh ấy vẫn chưa đến.
+@极 | cực kỳ, vô cùng | u: Hay dùng tính từ + 极了: 好极了.
+- 今天的天气好*极*了！ = Hôm nay trời đẹp tuyệt!
+@几乎 | hầu như, gần như
+- 他*几乎*每个周末都去爬山。 = Hầu như cuối tuần nào anh ấy cũng đi leo núi.
+@经常 | thường xuyên, thường | c: 总是
+- 我*经常*去那个超市买东西。 = Tôi thường đến siêu thị đó mua đồ.
+@总是 | luôn luôn, lúc nào cũng | c: 经常 一直
+- 他*总是*迟到。 = Anh ấy lúc nào cũng đến muộn.
+@一直 | luôn, suốt; thẳng | c: 总是
+- 你*一直*走，就能看到地铁站。 = Bạn cứ đi thẳng là thấy ga tàu điện ngầm.
+- 他*一直*住在北京。 = Anh ấy vẫn luôn sống ở Bắc Kinh.
+@一定 | nhất định, chắc chắn
+- 明天我*一定*来。 = Ngày mai tôi nhất định đến.
+@一共 | tổng cộng
+- 这些东西*一共*多少钱？ = Mấy món này tổng cộng bao nhiêu tiền?
+@终于 | cuối cùng (cũng)
+- 我*终于*找到了我的护照。 = Cuối cùng tôi cũng tìm thấy hộ chiếu.
+@其实 | thật ra
+- *其实*我不喜欢喝啤酒。 = Thật ra tôi không thích uống bia.
+@突然 | đột nhiên, bỗng nhiên
+- 他*突然*哭了。 = Anh ấy đột nhiên khóc.
+@当然 | đương nhiên, tất nhiên
+- A：你会来吗？B：*当然*！ = A: Bạn có đến không? B: Đương nhiên!
+@必须 | phải, nhất thiết phải | hv: tất tu | c: 应该
+- 你*必须*八点以前到。 = Bạn phải đến trước 8 giờ.
+@比较 | khá, tương đối; so sánh
+- 今天*比较*热。 = Hôm nay khá nóng.
+@多么 | biết bao, sao mà
+- 这里的环境*多么*好啊！ = Môi trường ở đây tốt biết bao!
+@越 | càng (越...越...) | u: 越来越 + tính từ = ngày càng...; 越 A 越 B = càng A càng B.
+- 天气*越*来*越*冷了。 = Thời tiết ngày càng lạnh.
+@又 | lại (việc đã lặp lại); vừa ... vừa | u: 又 dùng cho việc đã lặp lại; việc sẽ lặp lại dùng 再. | c: 再
+- 你*又*迟到了！ = Bạn lại đến muộn rồi!
+@只 zhǐ | chỉ | u: Đọc zhī khi là lượng từ cho con vật: 一只猫. | c: 才
+- 我*只*有一百块钱。 = Tôi chỉ có 100 đồng.
+F 他昨天工作到十一点，十二点{0}睡觉。 | 才* 就 又 更 | e: Muộn hơn bình thường dùng 才.
+F 你喝茶{0}喝咖啡？ | 还是* 或者 和 也 | e: Câu hỏi lựa chọn dùng 还是.
+F 这些东西{0}一百块钱。 | 一共* 一直 一定 终于 | e: 一共 = tổng cộng.
+F 你昨天迟到了，今天{0}迟到了！ | 又* 再 才 更 | e: Việc đã lặp lại dùng 又.
+F 明天的考试很重要，你{0}来。 | 一定* 一共 几乎 终于 | e: 一定 = nhất định.
+F 我找了一个小时，{0}找到了我的手机。 | 终于* 一共 几乎 多么 | e: 终于 = cuối cùng cũng.
+O 他 越 来 越 胖 了 | vi: Anh ấy ngày càng béo. | t: 越
+O 我 只 有 一个 妹妹 | vi: Tôi chỉ có một em gái. | t: 只
+O 我们 必须 完成 作业 | vi: Chúng ta phải hoàn thành bài tập. | t: 必须
+O 他 总是 九点 才 起床 | vi: Anh ấy lúc nào cũng 9 giờ mới dậy. | t: 总是 才
+O 这个 菜 好吃 极 了 | vi: Món này ngon cực kỳ. | t: 极

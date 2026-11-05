@@ -1,0 +1,1026 @@
+{
+  "id": "hsk3-suy-nghi-hanh-dong",
+  "level": 3,
+  "title": "Suy nghĩ, hành động",
+  "order": 10,
+  "words": [
+    {
+      "id": "ren4wei2",
+      "hanzi": "认为",
+      "pinyin": "rènwéi",
+      "pinyinNum": "ren4 wei2",
+      "hanViet": "nhận vay",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "cho rằng, nghĩ rằng"
+      ],
+      "usage": "认为 là đưa ra nhận định; 以为 là tưởng, thường điều tưởng ra là sai.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*认为*这个办法很好。",
+          "vi": "Tôi cho rằng cách này rất hay.",
+          "py": "Wǒ *rènwéi* zhège bànfǎ hěn hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi3wei2",
+        "jue2de"
+      ],
+      "check": true
+    },
+    {
+      "id": "yi3wei2",
+      "hanzi": "以为",
+      "pinyin": "yǐwéi",
+      "pinyinNum": "yi3 wei2",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "tưởng (là)"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "我*以为*你不来了。",
+          "vi": "Tôi tưởng bạn không đến nữa.",
+          "py": "Wǒ *yǐwéi* nǐ bù lái le."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "ren4wei2"
+      ],
+      "check": true
+    },
+    {
+      "id": "da3suan4",
+      "hanzi": "打算",
+      "pinyin": "dǎsuàn",
+      "pinyinNum": "da3 suan4",
+      "hanViet": "đả toán",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "định, dự định",
+        "dự định (danh từ)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你*打算*什么时候去北京？",
+          "vi": "Bạn định khi nào đi Bắc Kinh?",
+          "py": "Nǐ *dǎsuàn* shénme shíhou qù Běijīng?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "zhun3bei4",
+        "jue2ding4"
+      ],
+      "check": false
+    },
+    {
+      "id": "jue2ding4",
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "pinyinNum": "jue2 ding4",
+      "hanViet": "quyết định",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "quyết định"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个",
+        "项"
+      ],
+      "examples": [
+        {
+          "zh": "我*决定*去中国学习汉语。",
+          "vi": "Tôi quyết định sang Trung Quốc học tiếng Trung.",
+          "py": "Wǒ *juédìng* qù Zhōngguó xuéxí Hànyǔ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "da3suan4"
+      ],
+      "check": false
+    },
+    {
+      "id": "xuan3ze2",
+      "hanzi": "选择",
+      "pinyin": "xuǎnzé",
+      "pinyinNum": "xuan3 ze2",
+      "hanViet": "tuyển trạch",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 4,
+      "common": 2,
+      "meaning": [
+        "lựa chọn, chọn"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*选择*哪一个？",
+          "vi": "Bạn chọn cái nào?",
+          "py": "Nǐ *xuǎnzé* nǎ yí ge?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xu1yao4",
+      "hanzi": "需要",
+      "pinyin": "xūyào",
+      "pinyinNum": "xu1 yao4",
+      "hanViet": null,
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 3,
+      "meaning": [
+        "cần",
+        "nhu cầu"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*需要*帮助吗？",
+          "vi": "Bạn có cần giúp đỡ không?",
+          "py": "Nǐ *xūyào* bāngzhù ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yao4-2"
+      ],
+      "check": true
+    },
+    {
+      "id": "yao1qiu2",
+      "hanzi": "要求",
+      "pinyin": "yāoqiú",
+      "pinyinNum": "yao1 qiu2",
+      "hanViet": "yếu cầu",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "yêu cầu"
+      ],
+      "usage": "",
+      "measureWords": [
+        "点"
+      ],
+      "examples": [
+        {
+          "zh": "老师*要求*我们八点到教室。",
+          "vi": "Thầy yêu cầu chúng tôi có mặt ở lớp lúc 8 giờ.",
+          "py": "Lǎoshī *yāoqiú* wǒmen bā diǎn dào jiàoshì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ying1gai1",
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "pinyinNum": "ying1 gai1",
+      "hanViet": null,
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "nên, phải"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你*应该*多休息。",
+          "vi": "Bạn nên nghỉ ngơi nhiều hơn.",
+          "py": "Nǐ *yīnggāi* duō xiūxi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "bi4xu1",
+        "ke3yi3"
+      ],
+      "check": true
+    },
+    {
+      "id": "fa1xian4",
+      "hanzi": "发现",
+      "pinyin": "fāxiàn",
+      "pinyinNum": "fa1 xian4",
+      "hanViet": "phát hiện",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "phát hiện, nhận ra"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "回家以后，我*发现*手机没带。",
+          "vi": "Về đến nhà tôi mới nhận ra quên mang điện thoại.",
+          "py": "Huí jiā yǐhòu, wǒ *fāxiàn* shǒujī méi dài."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "chu1xian4"
+      ],
+      "check": false
+    },
+    {
+      "id": "chu1xian4",
+      "hanzi": "出现",
+      "pinyin": "chūxiàn",
+      "pinyinNum": "chu1 xian4",
+      "hanViet": "xuất hiện",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "xuất hiện, xảy ra"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "电脑*出现*了一些问题。",
+          "vi": "Máy tính xảy ra một số vấn đề.",
+          "py": "Diànnǎo *chūxiàn* le yì xiē wèntí."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "fa1xian4"
+      ],
+      "check": false
+    },
+    {
+      "id": "biao3shi4",
+      "hanzi": "表示",
+      "pinyin": "biǎoshì",
+      "pinyinNum": "biao3 shi4",
+      "hanViet": "biểu thị",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": null,
+      "common": 1,
+      "meaning": [
+        "bày tỏ, biểu thị"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "他*表示*同意。",
+          "vi": "Anh ấy tỏ ý đồng ý.",
+          "py": "Tā *biǎoshì* tóngyì."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "ying3xiang3",
+      "hanzi": "影响",
+      "pinyin": "yǐngxiǎng",
+      "pinyinNum": "ying3 xiang3",
+      "hanViet": "ảnh hưởng",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "ảnh hưởng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "别*影响*别人休息。",
+          "vi": "Đừng làm ảnh hưởng người khác nghỉ ngơi.",
+          "py": "Bié *yǐngxiǎng* biéren xiūxi."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "bian4hua4",
+      "hanzi": "变化",
+      "pinyin": "biànhuà",
+      "pinyinNum": "bian4 hua4",
+      "hanViet": "biến hoá",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 1,
+      "meaning": [
+        "thay đổi, biến đổi",
+        "sự thay đổi"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个城市的*变化*很大。",
+          "vi": "Thành phố này thay đổi rất nhiều.",
+          "py": "Zhège chéngshì de *biànhuà* hěn dà."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ti2gao1",
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "pinyinNum": "ti2 gao1",
+      "hanViet": "đề cao",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "nâng cao"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "怎么*提高*成绩？",
+          "vi": "Làm sao nâng cao thành tích?",
+          "py": "Zěnme *tígāo* chéngjì?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "jie3jue2",
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "pinyinNum": "jie3 jue2",
+      "hanViet": "giải quyết",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "giải quyết"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个问题很难*解决*。",
+          "vi": "Vấn đề này rất khó giải quyết.",
+          "py": "Zhège wèntí hěn nán *jiějué*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "zhu4yi4",
+      "hanzi": "注意",
+      "pinyin": "zhùyì",
+      "pinyinNum": "zhu4 yi4",
+      "hanViet": "chú ý",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "chú ý"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "请*注意*身体。",
+          "vi": "Hãy chú ý giữ sức khỏe.",
+          "py": "Qǐng *zhùyì* shēntǐ."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "guan1xi",
+      "hanzi": "关系",
+      "pinyin": "guānxi",
+      "pinyinNum": "guan1 xi",
+      "hanViet": "quan hệ",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "quan hệ, mối quan hệ"
+      ],
+      "usage": "没关系 (HSK 1) = không sao.",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我们的*关系*很好。",
+          "vi": "Quan hệ của chúng tôi rất tốt.",
+          "py": "Wǒmen de *guānxi* hěn hǎo."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ji1hui4",
+      "hanzi": "机会",
+      "pinyin": "jīhuì",
+      "pinyinNum": "ji1 hui4",
+      "hanViet": "cơ hội",
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "cơ hội"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "这是一个好*机会*。",
+          "vi": "Đây là một cơ hội tốt.",
+          "py": "Zhè shì yí ge hǎo *jīhuì*."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "ban4fa3",
+      "hanzi": "办法",
+      "pinyin": "bànfǎ",
+      "pinyinNum": "ban4 fa3",
+      "hanViet": null,
+      "pos": [
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 2,
+      "meaning": [
+        "cách, biện pháp"
+      ],
+      "usage": "",
+      "measureWords": [
+        "条",
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "你有什么好*办法*吗？",
+          "vi": "Bạn có cách gì hay không?",
+          "py": "Nǐ yǒu shénme hǎo *bànfǎ* ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "zuo4yong4",
+      "hanzi": "作用",
+      "pinyin": "zuòyòng",
+      "pinyinNum": "zuo4 yong4",
+      "hanViet": "tác dụng",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "tác dụng, vai trò"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "这个药有什么*作用*？",
+          "vi": "Thuốc này có tác dụng gì?",
+          "py": "Zhège yào yǒu shénme *zuòyòng*?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xi2guan4",
+      "hanzi": "习惯",
+      "pinyin": "xíguàn",
+      "pinyinNum": "xi2 guan4",
+      "hanViet": "tập quen",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 1,
+      "meaning": [
+        "thói quen",
+        "quen (với)"
+      ],
+      "usage": "",
+      "measureWords": [
+        "个"
+      ],
+      "examples": [
+        {
+          "zh": "我还不*习惯*北京的冬天。",
+          "vi": "Tôi vẫn chưa quen với mùa đông Bắc Kinh.",
+          "py": "Wǒ hái bù *xíguàn* Běijīng de dōngtiān."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": true
+    },
+    {
+      "id": "shi3",
+      "hanzi": "使",
+      "pinyin": "shǐ",
+      "pinyinNum": "shi3",
+      "hanViet": "sứ",
+      "pos": [
+        "v"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "khiến, làm cho"
+      ],
+      "usage": "使 trang trọng hơn 让: 运动使人健康.",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "运动*使*人健康。",
+          "vi": "Vận động giúp con người khỏe mạnh.",
+          "py": "Yùndòng *shǐ* rén jiànkāng."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "rang4"
+      ],
+      "check": false
+    },
+    {
+      "id": "zhu4-2",
+      "hanzi": "祝",
+      "pinyin": "zhù",
+      "pinyinNum": "zhu4",
+      "hanViet": "chúc",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 3,
+      "common": 2,
+      "meaning": [
+        "chúc"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "*祝*你生日快乐！",
+          "vi": "Chúc bạn sinh nhật vui vẻ!",
+          "py": "*Zhù* nǐ shēngrì kuàilè!"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "guan1",
+      "hanzi": "关",
+      "pinyin": "guān",
+      "pinyinNum": "guan1",
+      "hanViet": "quan",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 2,
+      "meaning": [
+        "đóng, tắt"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "请*关*门。",
+          "vi": "Làm ơn đóng cửa.",
+          "py": "Qǐng *guān* mén."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "kai1"
+      ],
+      "check": false
+    },
+    {
+      "id": "yong4",
+      "hanzi": "用",
+      "pinyin": "yòng",
+      "pinyinNum": "yong4",
+      "hanViet": "dụng",
+      "pos": [
+        "v",
+        "prep"
+      ],
+      "hsk2": 3,
+      "hsk3": 1,
+      "common": 3,
+      "meaning": [
+        "dùng, sử dụng"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "你会*用*电脑吗？",
+          "vi": "Bạn biết dùng máy tính không?",
+          "py": "Nǐ huì *yòng* diànnǎo ma?"
+        }
+      ],
+      "textbooks": null,
+      "confusables": [],
+      "check": false
+    },
+    {
+      "id": "xiang4-2",
+      "hanzi": "像",
+      "pinyin": "xiàng",
+      "pinyinNum": "xiang4",
+      "hanViet": "tượng",
+      "pos": [
+        "v",
+        "prep",
+        "n",
+        "adv"
+      ],
+      "hsk2": 3,
+      "hsk3": 2,
+      "common": 3,
+      "meaning": [
+        "giống"
+      ],
+      "usage": "",
+      "measureWords": [],
+      "examples": [
+        {
+          "zh": "女儿很*像*她妈妈。",
+          "vi": "Con gái rất giống mẹ.",
+          "py": "Nǚ'ér hěn *xiàng* tā māma."
+        }
+      ],
+      "textbooks": null,
+      "confusables": [
+        "yi1yang4"
+      ],
+      "check": false
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sentence": "我{0}你不来了，你怎么来了？",
+      "options": [
+        "以为",
+        "发现",
+        "需要",
+        "习惯"
+      ],
+      "answer": "以为",
+      "targets": [
+        "yi3wei2"
+      ],
+      "explanation": "以为 = tưởng (nhưng không phải vậy).",
+      "id": "hsk3-suy-nghi-hanh-dong-fill-01"
+    },
+    {
+      "type": "fill",
+      "sentence": "你生病了，{0}多休息。",
+      "options": [
+        "应该",
+        "发现",
+        "表示",
+        "关"
+      ],
+      "answer": "应该",
+      "targets": [
+        "ying1gai1"
+      ],
+      "explanation": "应该 = nên.",
+      "id": "hsk3-suy-nghi-hanh-dong-fill-02"
+    },
+    {
+      "type": "fill",
+      "sentence": "请把门{0}上。",
+      "options": [
+        "关",
+        "用",
+        "使",
+        "祝"
+      ],
+      "answer": "关",
+      "targets": [
+        "guan1"
+      ],
+      "explanation": "关上 = đóng lại.",
+      "id": "hsk3-suy-nghi-hanh-dong-fill-03"
+    },
+    {
+      "type": "fill",
+      "sentence": "{0}你新年快乐！",
+      "options": [
+        "祝",
+        "使",
+        "用",
+        "关"
+      ],
+      "answer": "祝",
+      "targets": [
+        "zhu4-2"
+      ],
+      "explanation": "Lời chúc bắt đầu bằng 祝.",
+      "id": "hsk3-suy-nghi-hanh-dong-fill-04"
+    },
+    {
+      "type": "fill",
+      "sentence": "这个问题我们一起{0}吧。",
+      "options": [
+        "解决",
+        "发现",
+        "出现",
+        "影响"
+      ],
+      "answer": "解决",
+      "targets": [
+        "jie3jue2"
+      ],
+      "explanation": "解决问题 = giải quyết vấn đề.",
+      "id": "hsk3-suy-nghi-hanh-dong-fill-05"
+    },
+    {
+      "type": "fill",
+      "sentence": "我想{0}我的汉语水平。",
+      "options": [
+        "提高",
+        "变化",
+        "出现",
+        "发现"
+      ],
+      "answer": "提高",
+      "targets": [
+        "ti2gao1"
+      ],
+      "explanation": "提高水平 = nâng cao trình độ.",
+      "id": "hsk3-suy-nghi-hanh-dong-fill-06"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "你",
+        "打算",
+        "什么",
+        "时候",
+        "回",
+        "家"
+      ],
+      "answers": [
+        [
+          "你",
+          "打算",
+          "什么",
+          "时候",
+          "回",
+          "家"
+        ],
+        [
+          "你",
+          "什么",
+          "时候",
+          "打算",
+          "回",
+          "家"
+        ]
+      ],
+      "targets": [
+        "da3suan4"
+      ],
+      "vi": "Bạn định khi nào về nhà?",
+      "id": "hsk3-suy-nghi-hanh-dong-order-01"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这",
+        "是",
+        "一个",
+        "很",
+        "好",
+        "的",
+        "机会"
+      ],
+      "answers": [
+        [
+          "这",
+          "是",
+          "一个",
+          "很",
+          "好",
+          "的",
+          "机会"
+        ]
+      ],
+      "targets": [
+        "ji1hui4"
+      ],
+      "vi": "Đây là một cơ hội rất tốt.",
+      "id": "hsk3-suy-nghi-hanh-dong-order-02"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我们",
+        "应该",
+        "注意",
+        "身体"
+      ],
+      "answers": [
+        [
+          "我们",
+          "应该",
+          "注意",
+          "身体"
+        ]
+      ],
+      "targets": [
+        "ying1gai1",
+        "zhu4yi4"
+      ],
+      "vi": "Chúng ta nên chú ý sức khỏe.",
+      "id": "hsk3-suy-nghi-hanh-dong-order-03"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "我",
+        "不",
+        "习惯",
+        "吃",
+        "面条"
+      ],
+      "answers": [
+        [
+          "我",
+          "不",
+          "习惯",
+          "吃",
+          "面条"
+        ]
+      ],
+      "targets": [
+        "xi2guan4"
+      ],
+      "vi": "Tôi không quen ăn mì.",
+      "id": "hsk3-suy-nghi-hanh-dong-order-04"
+    },
+    {
+      "type": "order",
+      "chunks": [
+        "这个",
+        "办法",
+        "能",
+        "解决",
+        "问题"
+      ],
+      "answers": [
+        [
+          "这个",
+          "办法",
+          "能",
+          "解决",
+          "问题"
+        ]
+      ],
+      "targets": [
+        "ban4fa3",
+        "jie3jue2"
+      ],
+      "vi": "Cách này có thể giải quyết vấn đề.",
+      "id": "hsk3-suy-nghi-hanh-dong-order-05"
+    }
+  ]
+}

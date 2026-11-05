@@ -1,0 +1,67 @@
+# id: hsk3-suy-nghi-hanh-dong
+# level: 3
+# title: Suy nghĩ, hành động
+# order: 10
+@认为 | cho rằng, nghĩ rằng | u: 认为 là đưa ra nhận định; 以为 là tưởng, thường điều tưởng ra là sai. | c: 以为 觉得
+- 我*认为*这个办法很好。 = Tôi cho rằng cách này rất hay.
+@以为 | tưởng (là) | c: 认为
+- 我*以为*你不来了。 = Tôi tưởng bạn không đến nữa.
+@打算 | định, dự định; dự định (danh từ) | c: 准备 决定
+- 你*打算*什么时候去北京？ = Bạn định khi nào đi Bắc Kinh?
+@决定 | quyết định | c: 打算
+- 我*决定*去中国学习汉语。 = Tôi quyết định sang Trung Quốc học tiếng Trung.
+@选择 | lựa chọn, chọn
+- 你*选择*哪一个？ = Bạn chọn cái nào?
+@需要 | cần; nhu cầu | c: 要
+- 你*需要*帮助吗？ = Bạn có cần giúp đỡ không?
+@要求 | yêu cầu
+- 老师*要求*我们八点到教室。 = Thầy yêu cầu chúng tôi có mặt ở lớp lúc 8 giờ.
+@应该 | nên, phải | c: 必须 可以
+- 你*应该*多休息。 = Bạn nên nghỉ ngơi nhiều hơn.
+@发现 | phát hiện, nhận ra | c: 出现
+- 回家以后，我*发现*手机没带。 = Về đến nhà tôi mới nhận ra quên mang điện thoại.
+@出现 | xuất hiện, xảy ra | c: 发现
+- 电脑*出现*了一些问题。 = Máy tính xảy ra một số vấn đề.
+@表示 | bày tỏ, biểu thị | hv: biểu thị
+- 他*表示*同意。 = Anh ấy tỏ ý đồng ý.
+@影响 | ảnh hưởng
+- 别*影响*别人休息。 = Đừng làm ảnh hưởng người khác nghỉ ngơi.
+@变化 | thay đổi, biến đổi; sự thay đổi
+- 这个城市的*变化*很大。 = Thành phố này thay đổi rất nhiều.
+@提高 | nâng cao
+- 怎么*提高*成绩？ = Làm sao nâng cao thành tích?
+@解决 | giải quyết
+- 这个问题很难*解决*。 = Vấn đề này rất khó giải quyết.
+@注意 | chú ý
+- 请*注意*身体。 = Hãy chú ý giữ sức khỏe.
+@关系 guānxi | quan hệ, mối quan hệ | u: 没关系 (HSK 1) = không sao.
+- 我们的*关系*很好。 = Quan hệ của chúng tôi rất tốt.
+@机会 | cơ hội
+- 这是一个好*机会*。 = Đây là một cơ hội tốt.
+@办法 | cách, biện pháp
+- 你有什么好*办法*吗？ = Bạn có cách gì hay không?
+@作用 | tác dụng, vai trò
+- 这个药有什么*作用*？ = Thuốc này có tác dụng gì?
+@习惯 | thói quen; quen (với)
+- 我还不*习惯*北京的冬天。 = Tôi vẫn chưa quen với mùa đông Bắc Kinh.
+@使 | khiến, làm cho | u: 使 trang trọng hơn 让: 运动使人健康. | c: 让
+- 运动*使*人健康。 = Vận động giúp con người khỏe mạnh.
+@祝 | chúc
+- *祝*你生日快乐！ = Chúc bạn sinh nhật vui vẻ!
+@关 guān | đóng, tắt | c: 开
+- 请*关*门。 = Làm ơn đóng cửa.
+@用 | dùng, sử dụng
+- 你会*用*电脑吗？ = Bạn biết dùng máy tính không?
+@像 | giống | c: 一样
+- 女儿很*像*她妈妈。 = Con gái rất giống mẹ.
+F 我{0}你不来了，你怎么来了？ | 以为* 发现 需要 习惯 | e: 以为 = tưởng (nhưng không phải vậy).
+F 你生病了，{0}多休息。 | 应该* 发现 表示 关 | e: 应该 = nên.
+F 请把门{0}上。 | 关* 用 使 祝 | e: 关上 = đóng lại.
+F {0}你新年快乐！ | 祝* 使 用 关 | e: Lời chúc bắt đầu bằng 祝.
+F 这个问题我们一起{0}吧。 | 解决* 发现 出现 影响 | e: 解决问题 = giải quyết vấn đề.
+F 我想{0}我的汉语水平。 | 提高* 变化 出现 发现 | e: 提高水平 = nâng cao trình độ.
+O 你 打算 什么 时候 回 家 | vi: Bạn định khi nào về nhà? | t: 打算 | alt: 你 什么 时候 打算 回 家
+O 这 是 一个 很 好 的 机会 | vi: Đây là một cơ hội rất tốt. | t: 机会
+O 我们 应该 注意 身体 | vi: Chúng ta nên chú ý sức khỏe. | t: 应该 注意
+O 我 不 习惯 吃 面条 | vi: Tôi không quen ăn mì. | t: 习惯
+O 这个 办法 能 解决 问题 | vi: Cách này có thể giải quyết vấn đề. | t: 办法 解决
