@@ -47,11 +47,11 @@
 - 我的*自行车*是黑的。 = Xe đạp của tôi màu đen.
 @旅游 | du lịch
 - 我想去中国*旅游*。 = Tôi muốn đi du lịch Trung Quốc.
-F 我家{0}学校很近。 | 离* 从 到 在 | e: Khoảng cách: A 离 B 很近.
+F 我家{0}学校很近。 | 离* 从 进 在 | e: Khoảng cách: A 离 B 很近.
 F {0}我家到学校要十分钟。 | 从* 离 在 进 | e: 从 A 到 B = từ A đến B.
 F 请{0}，请坐。 | 进* 出 近 远 | e: 请进 = mời vào.
 F 我坐{0}去上班。 | 公共汽车* 房间 教室 公司 | e: 坐 + phương tiện.
 F 学校很{0}，我们走路去吧。 | 近* 远 外 路 | e: Gần thì đi bộ.
-O 我 家 离 公司 很 远 | vi: Nhà tôi cách công ty rất xa. | t: 离 远
+O 我 家 离 公司 很 远 | vi: Nhà tôi cách công ty rất xa. | t: 离 远 | alt: 公司 离 我 家 很 远
 O 我们 坐 船 去 旅游 | vi: Chúng tôi đi du lịch bằng thuyền. | t: 船 旅游
 O 请 从 左边 的 门 进 | vi: Mời vào bằng cửa bên trái. | t: 从 左边 门 进

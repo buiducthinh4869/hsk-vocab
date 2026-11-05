@@ -53,9 +53,9 @@
 @红 | đỏ
 - 我想买那件*红*衣服。 = Tôi muốn mua chiếc áo đỏ kia.
 F 我想买两{0}衣服。 | 件* 张 本 公斤 | e: Lượng từ của quần áo là 件.
-F 我买了三{0}票。 | 张* 件 本 元 | e: Lượng từ của vé là 张.
+F 我买了三{0}票。 | 张* 件 本 公斤 | e: Lượng từ của vé là 张.
 F 那个商店{0}很多水果。 | 卖* 买 吃 喝 | e: Cửa hàng bán (卖) hàng.
-F 这个手机太{0}了，我不买。 | 贵* 便宜 好吃 白 | e: Đắt quá nên không mua.
+F 这个手机太{0}了，我不买。 | 贵* 便宜 好吃 累 | e: Đắt quá nên không mua.
 F 你喜欢什么{0}？我喜欢红的。 | 颜色* 手表 报纸 鱼 | e: Hỏi màu: 什么颜色.
 F 我买了两{0}苹果。 | 公斤* 件 张 本 | e: Cân nặng dùng 公斤.
 O 这个 西瓜 多少 钱 一 公斤 | vi: Quả dưa hấu này bao nhiêu tiền một cân? | t: 西瓜 公斤 | alt: 这个 西瓜 一 公斤 多少 钱

@@ -25,7 +25,7 @@
 - 我*介绍*你们认识。 = Tôi giới thiệu để các bạn làm quen.
 @告诉 gàosu | nói cho biết, bảo | u: 告诉 + người + việc: 告诉我你的名字.
 - 请*告诉*我你的名字。 = Hãy cho tôi biết tên bạn.
-@帮助 | giúp đỡ; sự giúp đỡ
+@帮助 | giúp đỡ; sự giúp đỡ | pos: v n
 - 谢谢你的*帮助*！ = Cảm ơn sự giúp đỡ của bạn!
 @找 | tìm
 - 你在*找*什么？ = Bạn đang tìm gì?
@@ -49,8 +49,8 @@ F 我不{0}他叫什么名字。 | 知道* 懂 会 认识 | e: Biết một thô
 F 老师，这个字是什么{0}？ | 意思* 问题 题 课 | e: 什么意思 = nghĩa là gì.
 F 我想{0}老师一个问题。 | 问* 回答 欢迎 希望 | e: 问 + người + 问题.
 F {0}你们来北京！ | 欢迎* 帮助 觉得 知道 | e: 欢迎 = chào mừng.
-F 老师{0}我们回答问题。 | 让* 送 找 懂 | e: 让 + người + làm gì = bảo ai làm gì.
+F 老师{0}我们回答问题。 | 让* 送 卖 懂 | e: 让 + người + làm gì = bảo ai làm gì.
 F 这个字你写{0}了。 | 错* 懂 问 让 | e: 写错 = viết sai.
 O 我 没 听 懂 这个 问题 | vi: Tôi nghe không hiểu câu hỏi này. | t: 懂 问题 | alt: 这个 问题 我 没 听 懂
 O 他 送 我 一个 手表 | vi: Anh ấy tặng tôi một cái đồng hồ. | t: 送
-O 我 希望 你 明天 能 来 | vi: Tôi hy vọng ngày mai bạn đến được. | t: 希望 | alt: 我 希望 明天 你 能 来
+O 我 希望 你 明天 能 来 | vi: Tôi hy vọng ngày mai bạn đến được. | t: 希望 | alt: 我 希望 明天 你 能 来 / 我 希望 你 能 明天 来

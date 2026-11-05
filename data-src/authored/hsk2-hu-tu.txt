@@ -46,11 +46,11 @@
 - 老师*正在*上课。 = Thầy giáo đang dạy học.
 F 他是老师，我{0}是老师。 | 也* 再 最 非常 | e: 也 = cũng.
 F 今天{0}昨天热。 | 比* 也 但是 向 | e: So sánh: A 比 B + tính từ.
-F 你明天{0}来吧。 | 再* 还 已经 正在 | e: Lặp lại trong tương lai dùng 再.
+F 你明天{0}来吧。 | 再* 最 已经 正在 | e: Lặp lại trong tương lai dùng 再.
 F 这个手机很好，{0}太贵了。 | 但是* 所以 因为 一起 | e: Hai ý trái ngược nối bằng 但是.
-F 他{0}回家了。 | 已经* 正在 别 最 | e: 已经...了 = đã ... rồi.
+F 他{0}回家了。 | 已经* 正在 非常 最 | e: 已经...了 = đã ... rồi.
 F {0}看电视了，去睡觉吧！ | 别* 也 非常 最 | e: 别 = đừng.
 F 他走{0}很慢。 | 得* 的 着 吧 | e: Động từ + 得 + bổ ngữ.
-O 因为 下雨 所以 我 没 去 | vi: Vì trời mưa nên tôi không đi. | t: 因为 所以
+O 因为 下雨 所以 我 没 去 | vi: Vì trời mưa nên tôi không đi. | t: 因为 所以 | alt: 我 因为 下雨 所以 没 去
 O 我 已经 吃 完 了 | vi: Tôi đã ăn xong rồi. | t: 已经
 O 我们 一起 去 吃 鱼 吧 | vi: Chúng ta cùng đi ăn cá nhé. | t: 一起 吧

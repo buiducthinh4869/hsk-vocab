@@ -42,7 +42,7 @@
 @新 | mới
 - 这是我的*新*手机。 = Đây là điện thoại mới của tôi.
 - *新*年快乐！ = Chúc mừng năm mới!
-@准备 | chuẩn bị
+@准备 | chuẩn bị; dự định (làm gì)
 - 我在*准备*考试。 = Tôi đang chuẩn bị cho kỳ thi.
 F 我没有{0}看电视。 | 时间* 小时 事情 号 | e: 有时间 / 没有时间 = có / không có thời gian.
 F 我学习了三个{0}。 | 小时* 时间 号 点 | e: Khoảng thời gian: 三个小时.
@@ -50,6 +50,6 @@ F 今天几{0}？今天十号。 | 号* 次 岁 本 | e: Hỏi ngày: 几号.
 F 我有{0}个孩子。 | 两* 二 第一 每 | e: Trước lượng từ dùng 两.
 F 这是我{0}次来中国。 | 第一* 两 每 新 | e: 第一次 = lần đầu tiên.
 F 我吃{0}了，你呢？ | 完* 新 晴 开始 | e: 吃完 = ăn xong.
-O 电影 七点 开始 | vi: Phim bắt đầu lúc 7 giờ. | t: 开始
+O 电影 七点 开始 | vi: Phim bắt đầu lúc 7 giờ. | t: 开始 | alt: 七点 电影 开始
 O 我 每个 星期六 都 上班 | vi: Thứ Bảy nào tôi cũng đi làm. | t: 每 上班 | alt: 每个 星期六 我 都 上班
 O 你 准备 好 了 吗 | vi: Bạn chuẩn bị xong chưa? | t: 准备

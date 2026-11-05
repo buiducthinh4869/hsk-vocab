@@ -49,5 +49,5 @@ F 今天很冷，你要多{0}衣服。 | 穿* 洗 玩 踢 | e: 穿衣服 = mặc
 F 我{0}进来吗？ | 可以* 可能 快乐 真 | e: Xin phép: 可以...吗？
 F 他今天没来，{0}生病了。 | 可能* 可以 快乐 真 | e: 可能 = có lẽ.
 O 我 最 喜欢 的 运动 是 游泳 | vi: Môn thể thao tôi thích nhất là bơi. | t: 运动 游泳 | alt: 游泳 是 我 最 喜欢 的 运动
-O 明天 下午 我们 去 游泳 | vi: Chiều mai chúng tôi đi bơi. | t: 游泳 | alt: 我们 明天 下午 去 游泳
-O 这 件 衣服 真 漂亮 | vi: Chiếc áo này đẹp thật. | t: 真 穿
+O 明天 下午 我们 去 游泳 | vi: Chiều mai chúng tôi đi bơi. | t: 游泳 | alt: 我们 明天 下午 去 游泳 / 明天 我们 下午 去 游泳
+O 这 件 衣服 真 漂亮 | vi: Chiếc áo này đẹp thật. | t: 真

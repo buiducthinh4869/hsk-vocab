@@ -755,6 +755,13 @@
           "下午",
           "去",
           "游泳"
+        ],
+        [
+          "明天",
+          "我们",
+          "下午",
+          "去",
+          "游泳"
         ]
       ],
       "targets": [
@@ -782,8 +789,7 @@
         ]
       ],
       "targets": [
-        "zhen1",
-        "chuan1"
+        "zhen1"
       ],
       "vi": "Chiếc áo này đẹp thật.",
       "id": "hsk2-so-thich-tinh-chat-order-03"
