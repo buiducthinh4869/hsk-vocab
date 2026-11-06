@@ -159,3 +159,13 @@ dl.kv dd { margin: 0; }
 .kbd { display: none; }
 @media (hover: hover) and (pointer: fine) { .kbd { display: block; font-size: .78rem; color: var(--muted); text-align: center; margin-top: 12px; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; } }
+
+/* learner edits */
+.tag-edit { display: inline-block; padding: 1px 6px; border-radius: 6px; background: var(--warn-soft); color: var(--warn); font-size: .75rem; font-weight: 500; vertical-align: middle; }
+textarea.field { resize: vertical; font: inherit; }
+.ed-ex { display: grid; gap: 4px; padding: 10px; margin: 8px 0; border: 1px solid var(--line); border-radius: 10px; }
+.ed-ex .btn { justify-self: start; min-height: 40px; }
+.ed-warn { color: var(--warn); }
+.ed-err { color: var(--bad); min-height: 1.2em; }
+.ed-form label { display: block; margin: 12px 0 4px; }
+.ed-ex label { margin: 4px 0 0; }

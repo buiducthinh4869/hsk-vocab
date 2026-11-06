@@ -13,3 +13,14 @@ Khi thêm một chủ đề:
 Bài giáo trình: chỉ điền `textbooks.chuan` (dạng `HSK1-B5`) từ ảnh trang 生词, ghi vào `data-src/sources/textbooks.json`.
 
 Không đổi `id` của từ đã có, vì tiến độ gắn với `id`. `author.js` giữ id cũ khi chạy lại.
+
+## Gộp bản sửa vào dữ liệu gốc
+
+Người học sửa nghĩa, cách dùng, câu mẫu ngay trên web. Mỗi bản sửa là một dòng trong tab `edits` của Sheet (`wordId`, `field`, `value` dạng JSON, `updatedAt`); web đè các bản sửa này lên dữ liệu gốc khi tải trang. Để đưa bản sửa vào dữ liệu gốc:
+
+1. Đọc tab `edits` (API `?action=state`, trường `edits`). Ghi lại danh sách `wordId` + `field` + `updatedAt` sẽ gộp.
+2. Với mỗi dòng, tìm từ có `id` = `wordId` trong `data-src/topics/*.json`; sửa trong file soạn `data-src/authored/<chủ đề>.txt` nếu chủ đề có file này (rồi chạy `node scripts/author.js`), nếu không thì sửa thẳng file JSON. Chỉ thay `meaning`, `usage` hoặc `examples`; giữ nguyên `id`, chữ Hán, pinyin, cấp, Hán Việt.
+3. Đặt `"reviewed": true` cho các từ đó (`author.js` giữ nguyên từ có `reviewed: true`; nếu từ nằm trong file soạn, thêm cờ vào JSON sau khi chạy `author.js`).
+4. `npm run build` và `npm test`. Câu vượt cấp chỉ là cảnh báo: báo lại để người học quyết định, không tự đổi câu.
+5. Commit `Gộp bản sửa từ người học`, push.
+6. Sau khi GitHub Actions đăng xong, xóa khỏi tab `edits` đúng các dòng đã gộp (cùng `wordId`, `field`, `updatedAt` như bước 1). Dòng có `updatedAt` mới hơn (người học sửa tiếp trong lúc gộp) thì giữ lại cho lần gộp sau.

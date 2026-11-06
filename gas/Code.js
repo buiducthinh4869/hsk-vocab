@@ -1,14 +1,18 @@
 // HSK Vocab API: progress and settings stored in a Google Sheet.
-// GET  ?action=state                       -> { ok, now, progress: [...], settings: {...} }
+// GET  ?action=state                       -> { ok, now, progress: [...], settings: {...}, edits: [...] }
 // POST {action:'saveEvents', events:[...]}  -> append log, upsert progress (newer updatedAt wins)
 // POST {action:'saveSettings', settings:{}} -> upsert settings
+// POST {action:'saveEdit', edit:{wordId, field, value, updatedAt}}   -> upsert edits (newer updatedAt wins)
+// POST {action:'revertEdit', edit:{wordId, field, updatedAt}}       -> delete the edit unless a newer one exists
 var SHEET_TITLE = 'HSK Vocab - Tiến độ ôn tập';
 var TZ = 'Asia/Ho_Chi_Minh';
 var TABS = {
   progress: ['wordId', 'box', 'dueDate', 'lapses', 'correctStreak', 'totalReviews', 'lastResult', 'confusedWith', 'updatedAt', 'streakStart', 'promotedOn'],
   log: ['timestamp', 'wordId', 'mode', 'result', 'exerciseId', 'chosen'],
-  settings: ['key', 'value']
+  settings: ['key', 'value'],
+  edits: ['wordId', 'field', 'value', 'updatedAt']
 };
+var EDIT_FIELDS = ['meaning', 'usage', 'examples'];
 var NUM_FIELDS = ['box', 'lapses', 'correctStreak', 'totalReviews'];
 var SETTING_KEYS = ['newPerDay', 'textbook', 'lesson', 'hidePinyin', 'showHanViet', 'rate', 'studyDays', '_updatedAt'];
 var ID_RE = /^[a-z0-9ü-]{1,40}$/;
@@ -59,7 +63,7 @@ function doGet(e) {
     if (action === 'ping') return json_({ ok: true, now: new Date().toISOString() });
     if (action !== 'state') return json_({ ok: false, error: 'unknown action' });
     var ss = getSs_(false);
-    return json_({ ok: true, now: new Date().toISOString(), progress: readProgress_(ss), settings: readSettings_(ss) });
+    return json_({ ok: true, now: new Date().toISOString(), progress: readProgress_(ss), settings: readSettings_(ss), edits: readEdits_(ss) });
   } catch (err) {
     return json_({ ok: false, error: String(err.message || err) });
   }
@@ -70,6 +74,8 @@ function doPost(e) {
     var body = JSON.parse((e && e.postData && e.postData.contents) || '{}');
     if (body.action === 'saveEvents') return json_(saveEvents_(body.events));
     if (body.action === 'saveSettings') return json_(saveSettings_(body.settings));
+    if (body.action === 'saveEdit') return json_(saveEdit_(body.edit));
+    if (body.action === 'revertEdit') return json_(revertEdit_(body.edit));
     return json_({ ok: false, error: 'unknown action' });
   } catch (err) {
     return json_({ ok: false, error: String(err.message || err) });
@@ -165,6 +171,102 @@ function saveSettings_(settings) {
     var rows = Object.keys(cur).map(function (k) { return [k, String(cur[k])]; });
     if (data.length) sh.getRange(2, 1, data.length, 2).clearContent();
     sh.getRange(2, 1, rows.length, 2).setNumberFormat('@').setValues(rows);
+    return { ok: true };
+  } finally {
+    lock.releaseLock();
+  }
+}
+
+/* ---------- learner edits ---------- */
+// The tab is created on first use, so an existing deployment does not need setup() again.
+function editsSheet_(ss, create) {
+  var sh = ss.getSheetByName('edits');
+  if (!sh && create) {
+    sh = ss.insertSheet('edits');
+    sh.getRange(1, 1, sh.getMaxRows(), TABS.edits.length).setNumberFormat('@');
+    sh.getRange(1, 1, 1, TABS.edits.length).setValues([TABS.edits]);
+    sh.setFrozenRows(1);
+  }
+  return sh;
+}
+
+function readEdits_(ss) {
+  var sh = editsSheet_(ss, false);
+  if (!sh) return [];
+  var out = [];
+  readTable_(sh, TABS.edits.length).forEach(function (r) {
+    if (!r[0]) return;
+    try { out.push({ wordId: String(r[0]), field: String(r[1]), value: JSON.parse(String(r[2])), updatedAt: String(r[3]) }); } catch (e) { /* skip broken row */ }
+  });
+  return out;
+}
+
+function cleanText_(v, max) {
+  if (typeof v !== 'string' || v.length > max) throw new Error('invalid text');
+  return v.trim();
+}
+
+// Same rules as cleanValue() in web/modules/edits.js
+function cleanEditValue_(field, v) {
+  if (field === 'meaning') {
+    if (!Array.isArray(v)) throw new Error('invalid meaning');
+    var m = v.map(function (x) { return cleanText_(x, 200); }).filter(function (x) { return x; });
+    if (m.length < 1 || m.length > 3) throw new Error('invalid meaning');
+    return m;
+  }
+  if (field === 'usage') return cleanText_(v, 500);
+  if (field === 'examples') {
+    if (!Array.isArray(v) || v.length > 5) throw new Error('invalid examples');
+    return v.map(function (e) {
+      var x = { zh: cleanText_(e && e.zh, 200), py: cleanText_(e && e.py, 300), vi: cleanText_(e && e.vi, 300) };
+      if (!/\*[^*]+\*/.test(x.zh)) throw new Error('invalid example');
+      return x;
+    });
+  }
+  throw new Error('invalid field');
+}
+
+function checkEdit_(e) {
+  if (!e || !ID_RE.test(e.wordId) || EDIT_FIELDS.indexOf(e.field) < 0) throw new Error('invalid edit');
+  if (!/^\d{4}-\d{2}-\d{2}T[\d:.]+Z$/.test(String(e.updatedAt))) throw new Error('invalid updatedAt');
+}
+
+function findEditRow_(data, e) {
+  for (var i = 0; i < data.length; i++) if (String(data[i][0]) === e.wordId && String(data[i][1]) === e.field) return i;
+  return -1;
+}
+
+function saveEdit_(e) {
+  checkEdit_(e);
+  var value = JSON.stringify(cleanEditValue_(e.field, e.value));
+  var lock = LockService.getScriptLock();
+  lock.waitLock(20000);
+  try {
+    var sh = editsSheet_(getSs_(false), true);
+    var data = readTable_(sh, TABS.edits.length);
+    var i = findEditRow_(data, e);
+    var row = [e.wordId, e.field, value, String(e.updatedAt)];
+    if (i < 0) sh.getRange(sh.getLastRow() + 1, 1, 1, row.length).setNumberFormat('@').setValues([row]);
+    else if (String(e.updatedAt) >= String(data[i][3])) sh.getRange(i + 2, 1, 1, row.length).setNumberFormat('@').setValues([row]);
+    else return { ok: true, skipped: true };
+    return { ok: true };
+  } finally {
+    lock.releaseLock();
+  }
+}
+
+function revertEdit_(e) {
+  checkEdit_(e);
+  var lock = LockService.getScriptLock();
+  lock.waitLock(20000);
+  try {
+    var sh = editsSheet_(getSs_(false), false);
+    if (!sh) return { ok: true };
+    var data = readTable_(sh, TABS.edits.length);
+    var i = findEditRow_(data, e);
+    if (i < 0) return { ok: true };
+    if (String(data[i][3]) > String(e.updatedAt)) return { ok: true, skipped: true };
+    sh.deleteRow(i + 2);
     return { ok: true };
   } finally {
     lock.releaseLock();

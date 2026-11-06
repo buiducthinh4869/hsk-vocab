@@ -3,6 +3,7 @@ import { createStore } from './modules/sync.js';
 import { todayVN } from './modules/srs.js';
 import { initTts, hasVoice, speak } from './modules/tts.js';
 import { renderToday, renderVocab, renderPractice, renderLeeches, openSettings } from './modules/views.js';
+import { applyEdits, buildDict } from './modules/edits.js';
 
 const view = document.getElementById('view');
 const syncEl = document.getElementById('sync');
@@ -19,6 +20,9 @@ const ctx = {
   view,
   levels: [], allLevels: [], words: [], pool: [], byId: new Map(), exercises: [],
   store: null,
+  originals: new Map(), // word fields before learner edits
+  dict: null, // hanzi -> level and pinyin, for example sentences
+  applyEdits: () => applyEdits(ctx.words, ctx.store.edits, ctx.originals),
   today: () => todayVN(ctx.store.now()),
   hasVoice,
   speak: (text, rate) => speak(text, rate ?? ctx.store.settings.rate),
@@ -35,7 +39,7 @@ const ctx = {
 ctx.store = createStore({
   apiUrl: API_URL,
   onStatus: (s) => { syncEl.dataset.s = s; syncEl.querySelector('span').textContent = SYNC_TEXT[s]; },
-  onRemote: () => ctx.refresh(),
+  onRemote: () => { ctx.applyEdits(); ctx.refresh(); },
 });
 
 async function loadData() {
@@ -56,6 +60,8 @@ async function loadData() {
     }
   }
   ctx.pool = ctx.words;
+  ctx.dict = buildDict(ctx.words);
+  ctx.applyEdits();
 }
 
 const ROUTES = { today: renderToday, vocab: renderVocab, practice: renderPractice, leeches: renderLeeches };

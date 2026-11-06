@@ -2,6 +2,7 @@
 import { applyResult, buildSession, isDue, isLeech, isNew, modeFor, streakDays } from './srs.js';
 import { renderCard, esc, hl, sayBtn, shuffle, MODE_NAMES, loadHanziWriter } from './exercises.js';
 import { foldVi, toneless } from './pinyin.js';
+import { autoPinyin, cleanValue, offLevel } from './edits.js';
 
 const POS_VI = { n: 'danh từ', v: 'động từ', adj: 'tính từ', adv: 'phó từ', pron: 'đại từ', num: 'số từ', mw: 'lượng từ', prep: 'giới từ', conj: 'liên từ', part: 'trợ từ', interj: 'thán từ', phrase: 'cụm từ' };
 const BOX_NAMES = ['Chưa học', 'Hộp 1', 'Hộp 2', 'Hộp 3', 'Hộp 4', 'Hộp 5'];
@@ -75,7 +76,7 @@ export function renderVocab(el, ctx) {
       if (st.lesson) return lessonLabel(w) === st.lesson;
       return w.level === st.level && (!st.topic || w.topicId === st.topic);
     });
-    list.innerHTML = ws.length ? ws.map((w) => `<li data-id="${w.id}"><span class="h" lang="zh-CN">${esc(w.hanzi)}</span><span class="p">${esc(w.pinyin)}</span><span class="lv">HSK ${w.hsk2}<br>${stars(w.common)}</span><span class="m">${esc(w.meaning.join('; '))}</span></li>`).join('')
+    list.innerHTML = ws.length ? ws.map((w) => `<li data-id="${w.id}"><span class="h" lang="zh-CN">${esc(w.hanzi)}</span><span class="p">${esc(w.pinyin)}</span><span class="lv">HSK ${w.hsk2}<br>${stars(w.common)}</span><span class="m">${esc(w.meaning.join('; '))}${w.edited.length ? ' <span class="tag-edit">Đã chỉnh</span>' : ''}</span></li>`).join('')
       : `<li class="muted" style="cursor:default;display:block">${ctx.words.some((w) => w.level === st.level) || q ? 'Không tìm thấy từ nào.' : 'Cấp này chưa có dữ liệu.'}</li>`;
     list.querySelectorAll('li[data-id]').forEach((li) => (li.onclick = () => openWord(ctx, li.dataset.id)));
   };
@@ -95,7 +96,7 @@ export function openWord(ctx, id) {
   const dlg = document.getElementById('dlg');
   const conf = (w.confusables || []).map((c) => ctx.byId.get(c)).filter(Boolean);
   const status = !st || !st.box ? 'Chưa học' : `${BOX_NAMES[st.box]} · ôn lại ${st.dueDate.split('-').reverse().join('/')} · quên ${st.lapses} lần${isLeech(st) ? ' · đang trong danh sách hay quên' : ''}`;
-  dlg.innerHTML = `<div class="dlg-in"><div class="dlg-head"><span class="muted small">HSK ${w.hsk2}${w.hsk3 ? ` · HSK 3.0: cấp ${w.hsk3 === 7 ? '7–9' : w.hsk3}` : ''} ${stars(w.common)}</span><button class="icon-btn" data-close aria-label="Đóng">✕</button></div>
+  dlg.innerHTML = `<div class="dlg-in"><div class="dlg-head"><span class="muted small">HSK ${w.hsk2}${w.hsk3 ? ` · HSK 3.0: cấp ${w.hsk3 === 7 ? '7–9' : w.hsk3}` : ''} ${stars(w.common)}${w.edited.length ? ' <span class="tag-edit">Đã chỉnh</span>' : ''}</span><button class="icon-btn" data-close aria-label="Đóng">✕</button></div>
     <div class="word-hero"><div class="py">${esc(w.pinyin)}</div><div class="hz" lang="zh-CN">${esc(w.hanzi)}</div><div>${sayBtn(w.hanzi)}</div></div>
     <dl class="kv">
       <dt>Nghĩa</dt><dd><b>${esc(w.meaning.join('; '))}</b></dd>
@@ -109,6 +110,7 @@ export function openWord(ctx, id) {
     </dl>
     <h2>Câu mẫu</h2>
     ${(w.examples || []).map((x) => `<div class="ex"><div class="z" lang="zh-CN">${hl(x.zh)} ${sayBtn(x.zh)}</div><div class="y">${hl(x.py)}</div><div>${esc(x.vi)}</div></div>`).join('')}
+    <div class="row" style="margin-top:8px"><button class="btn" data-edit>Sửa nghĩa, câu mẫu</button>${w.edited.length ? '<button class="btn ghost" data-revert>Khôi phục bản gốc</button>' : ''}</div>
     <h2>Thứ tự nét</h2>
     <div class="writer" id="dw"></div>
     <div class="row" style="margin-top:8px"><button class="btn" data-anim>Xem viết từng nét</button></div>
@@ -116,6 +118,15 @@ export function openWord(ctx, id) {
   </div>`;
   dlg.querySelector('[data-close]').onclick = () => dlg.close();
   dlg.querySelectorAll('[data-w]').forEach((a) => (a.onclick = (e) => { e.preventDefault(); openWord(ctx, a.dataset.w); }));
+  dlg.querySelector('[data-edit]').onclick = () => openEdit(ctx, id);
+  const rv = dlg.querySelector('[data-revert]');
+  if (rv) rv.onclick = () => {
+    if (!rv.dataset.sure) { rv.dataset.sure = '1'; rv.textContent = 'Bấm lần nữa để khôi phục'; return; }
+    for (const f of w.edited) ctx.store.saveEdit(id, f, null);
+    ctx.applyEdits();
+    ctx.refresh();
+    openWord(ctx, id);
+  };
   dlg.onclick = (e) => { if (e.target === dlg) dlg.close(); };
   let writers = [];
   loadHanziWriter().then((HW) => {
@@ -123,6 +134,93 @@ export function openWord(ctx, id) {
     writers = [...w.hanzi].map((ch, i) => { const d = document.createElement('div'); d.id = `dw${i}`; box.append(d); return HW.create(d.id, ch, { width: 150, height: 150, padding: 10, showOutline: true, strokeAnimationSpeed: 1, delayBetweenStrokes: 250 }); });
   }).catch(() => { dlg.querySelector('#dw').innerHTML = '<span class="muted small">Cần kết nối mạng để xem thứ tự nét.</span>'; });
   dlg.querySelector('[data-anim]').onclick = async () => { for (const wr of writers) await new Promise((r) => wr.animateCharacter({ onComplete: r })); };
+  if (!dlg.open) dlg.showModal();
+}
+
+// Edit meaning, usage and examples. Everything typed here is shown through esc() / hl().
+function openEdit(ctx, id) {
+  const w = ctx.byId.get(id);
+  const orig = ctx.originals.get(id);
+  const dlg = document.getElementById('dlg');
+  const exRow = (x = { zh: '', py: '', vi: '' }) => `<div class="ed-ex">
+      <label class="small muted">Câu chữ Hán, đánh dấu từ đang học bằng *...*</label><input class="field" data-k="zh" lang="zh-CN" value="${esc(x.zh)}">
+      <label class="small muted">Pinyin (tự sinh, sửa được)</label><input class="field" data-k="py" value="${esc(x.py)}">
+      <label class="small muted">Nghĩa tiếng Việt</label><input class="field" data-k="vi" value="${esc(x.vi)}">
+      <div class="small ed-warn" data-warn></div>
+      <button class="btn ghost" data-del>Xóa câu này</button></div>`;
+  dlg.innerHTML = `<div class="dlg-in ed-form"><div class="dlg-head"><b>Sửa <span lang="zh-CN">${esc(w.hanzi)}</span> ${esc(w.pinyin)}</b><button class="icon-btn" data-close aria-label="Đóng">✕</button></div>
+    <label for="ed-m"><b>Nghĩa</b> <span class="small muted">mỗi dòng một nghĩa, tối đa 3 dòng</span></label>
+    <textarea id="ed-m" class="field" rows="3">${esc(w.meaning.join('\n'))}</textarea>
+    <label for="ed-u"><b>Cách dùng</b> <span class="small muted">có thể để trống</span></label>
+    <textarea id="ed-u" class="field" rows="2">${esc(w.usage)}</textarea>
+    <h2>Câu mẫu</h2>
+    <div data-exs>${w.examples.map(exRow).join('')}</div>
+    <button class="btn" data-add>Thêm câu</button>
+    <p class="small ed-err" data-err role="alert"></p>
+    <div class="row"><button class="btn" data-cancel>Hủy</button><button class="btn primary" data-save>Lưu</button></div>
+  </div>`;
+  const q = (sel) => dlg.querySelector(sel);
+  const wire = (box) => {
+    const zh = box.querySelector('[data-k=zh]');
+    const py = box.querySelector('[data-k=py]');
+    const warn = box.querySelector('[data-warn]');
+    let timer;
+    const check = () => {
+      const v = zh.value.trim();
+      const msgs = [];
+      if (v && !/\*[^*]+\*/.test(v)) msgs.push('Chưa đánh dấu từ đang học bằng *...*.');
+      const bad = v ? offLevel(v, w.level, ctx.dict) : [];
+      if (bad.length) msgs.push(`Có từ ngoài HSK ${w.level}: ${bad.join(', ')}. Vẫn lưu được.`);
+      warn.textContent = msgs.join(' ');
+    };
+    zh.oninput = () => {
+      clearTimeout(timer);
+      timer = setTimeout(async () => {
+        check();
+        if (py.dataset.manual || !zh.value.trim()) return;
+        try { py.value = await autoPinyin(zh.value.trim(), ctx.dict); } catch { warn.textContent += ' Không tải được bộ tạo pinyin, hãy gõ pinyin.'; }
+      }, 400);
+    };
+    py.oninput = () => { py.dataset.manual = py.value ? '1' : ''; };
+    box.querySelector('[data-del]').onclick = () => box.remove();
+    check();
+  };
+  dlg.querySelectorAll('.ed-ex').forEach(wire);
+  q('[data-add]').onclick = () => {
+    q('[data-exs]').insertAdjacentHTML('beforeend', exRow());
+    const box = q('[data-exs]').lastElementChild;
+    wire(box);
+    box.querySelector('[data-k=zh]').focus();
+  };
+  const back = () => openWord(ctx, id);
+  q('[data-close]').onclick = back;
+  q('[data-cancel]').onclick = back;
+  q('[data-save]').onclick = async () => {
+    const err = q('[data-err]');
+    const meaning = q('#ed-m').value.split('\n').map((x) => x.trim()).filter(Boolean);
+    const usage = q('#ed-u').value.trim();
+    const boxes = [...dlg.querySelectorAll('.ed-ex')];
+    const examples = [];
+    for (const b of boxes) {
+      const e = { zh: b.querySelector('[data-k=zh]').value.trim(), py: b.querySelector('[data-k=py]').value.trim(), vi: b.querySelector('[data-k=vi]').value.trim() };
+      if (!e.zh && !e.py && !e.vi) continue;
+      if (e.zh && !e.py) { try { e.py = await autoPinyin(e.zh, ctx.dict); } catch { /* leave empty */ } }
+      examples.push(e);
+    }
+    if (cleanValue('meaning', meaning) === null) { err.textContent = 'Nghĩa cần 1 đến 3 dòng, mỗi dòng tối đa 200 ký tự.'; return; }
+    if (cleanValue('usage', usage) === null) { err.textContent = 'Cách dùng tối đa 500 ký tự.'; return; }
+    if (cleanValue('examples', examples) === null) { err.textContent = 'Mỗi câu mẫu cần chữ Hán có đánh dấu *...*; tối đa 5 câu.'; return; }
+    const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+    const next = { meaning, usage, examples };
+    const base = { meaning: orig.meaning, usage: orig.usage || '', examples: orig.examples || [] };
+    for (const f of ['meaning', 'usage', 'examples']) {
+      if (same(next[f], w[f])) continue;
+      ctx.store.saveEdit(id, f, same(next[f], base[f]) ? null : next[f]);
+    }
+    ctx.applyEdits();
+    ctx.refresh();
+    back();
+  };
   if (!dlg.open) dlg.showModal();
 }
 
@@ -168,7 +266,7 @@ export function renderLeeches(el, ctx) {
   el.innerHTML = `<h1>Từ hay quên</h1>
     <p class="muted small">Từ quên từ 2 lần trở lên. Từ sẽ rời danh sách khi trả lời đúng 3 lần liên tiếp trong ít nhất 2 ngày khác nhau.</p>
     ${ws.length ? `<button class="btn primary big" data-go>Ôn danh sách này · ${ws.length} từ</button>` : '<p>Chưa có từ nào. Tốt lắm!</p>'}
-    <ul class="wlist" style="margin-top:14px">${ws.map((w) => `<li data-id="${w.id}"><span class="h" lang="zh-CN">${esc(w.hanzi)}</span><span class="p">${esc(w.pinyin)}</span><span class="lv">quên ${p[w.id].lapses} lần<br>${BOX_NAMES[p[w.id].box]}</span><span class="m">${esc(w.meaning.join('; '))}</span></li>`).join('')}</ul>`;
+    <ul class="wlist" style="margin-top:14px">${ws.map((w) => `<li data-id="${w.id}"><span class="h" lang="zh-CN">${esc(w.hanzi)}</span><span class="p">${esc(w.pinyin)}</span><span class="lv">quên ${p[w.id].lapses} lần<br>${BOX_NAMES[p[w.id].box]}</span><span class="m">${esc(w.meaning.join('; '))}${w.edited.length ? ' <span class="tag-edit">Đã chỉnh</span>' : ''}</span></li>`).join('')}</ul>`;
   el.querySelectorAll('li[data-id]').forEach((li) => (li.onclick = () => openWord(ctx, li.dataset.id)));
   el.querySelector('[data-go]')?.addEventListener('click', () => runSession(ctx, ws.slice(0, 40).map((w) => ({ wordId: w.id })), { title: 'Từ hay quên' }));
 }
@@ -245,7 +343,7 @@ export function runSession(ctx, cards, { title }) {
     const ws = [...wrong].map((id) => ctx.byId.get(id));
     el.innerHTML = `<h1>${esc(title)}: xong!</h1>
       <div class="stats summary"><div class="stat"><b style="color:var(--ok)">✓ ${good}</b><span>câu đúng</span></div><div class="stat"><b style="color:var(--bad)">✗ ${bad}</b><span>câu sai</span></div></div>
-      ${ws.length ? `<h2>Từ trả lời sai</h2><ul class="wlist">${ws.map((w) => `<li data-id="${w.id}"><span class="h" lang="zh-CN">${esc(w.hanzi)}</span><span class="p">${esc(w.pinyin)}</span><span class="lv"></span><span class="m">${esc(w.meaning.join('; '))}</span></li>`).join('')}</ul>` : '<p>Không sai câu nào.</p>'}
+      ${ws.length ? `<h2>Từ trả lời sai</h2><ul class="wlist">${ws.map((w) => `<li data-id="${w.id}"><span class="h" lang="zh-CN">${esc(w.hanzi)}</span><span class="p">${esc(w.pinyin)}</span><span class="lv"></span><span class="m">${esc(w.meaning.join('; '))}${w.edited.length ? ' <span class="tag-edit">Đã chỉnh</span>' : ''}</span></li>`).join('')}</ul>` : '<p>Không sai câu nào.</p>'}
       <div class="row" style="margin-top:16px">${ws.length ? '<button class="btn primary" data-again>Ôn lại các từ sai</button>' : ''}<button class="btn" data-done>Về trang Hôm nay</button></div>`;
     el.querySelectorAll('li[data-id]').forEach((li) => (li.onclick = () => openWord(ctx, li.dataset.id)));
     el.querySelector('[data-again]')?.addEventListener('click', () => runSession(ctx, ws.map((w) => ({ wordId: w.id, mode: 1 })), { title: 'Ôn lại từ sai' }));
